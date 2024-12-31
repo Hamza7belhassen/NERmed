@@ -1,0 +1,321 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\A-behind-the-scenes-look-at-retroperitoneal-ectopi",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:28.296011Z"
+    },
+    "title": "A behind-the-scenes look at retroperitoneal ectopic pregnancies: How do they get there and where do we go from here?",
+    "authors": [
+        {
+            "first": "Sarah",
+            "middle": [],
+            "last": "Simko",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Adventist Health White Memorial",
+                "location": {
+                    "settlement": "Los Angeles",
+                    "region": "California"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Sadikah",
+            "middle": [],
+            "last": "Behbehani",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of California",
+                "location": {
+                    "settlement": "Riverside",
+                    "region": "California"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\A-behind-the-scenes-look-at-retroperitoneal-ectopi",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.06.023",
+        "keywords": [],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "Although ectopic pregnancies are commonly encountered in clinical practice, there is still much that we do not understand about how they occur.Ectopic pregnancies are pregnancies in which a fertilized egg gets implanted in a location other than the endometrial cavity.These pregnancies account for 2% of all pregnancies; however, their incidence has been increasing (1) .This is likely due to increases in risk factors for ectopic pregnancy, including the causes of tubal scarring and artificial reproductive technology, and improvements in diagnosis over time.Although the mortality rate due to ectopic pregnancies has decreased, 6% of maternal deaths in the United States are attributable to ectopic pregnancies, and these continue to be the leading cause of death in the first trimester (1) .",
+                "cite_spans": [
+                    {
+                        "start": 366,
+                        "end": 369,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 790,
+                        "end": 793,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In majority of ectopic pregnancies, the fertilized egg gets implanted within the fallopian tubes; however, those occurring in rarer sites, including cervical, intraovarian, abdominal, mediastinal, and retroperitoneal, can be dangerous and difficult to diagnose.Retroperitoneal ectopic pregnancies (REP), specifically, can evade detection by ultrasound and laparoscopy and can cause massive retroperitoneal hemorrhages.Their mechanism has been the subject of debate and is poorly understood.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Multiple theories have been proposed.In cases that occur after artificial reproductive technology, retrograde migration after embryo transfer or uterine perforation, with direct placement of the embryo into the retroperitoneal space, have been suggested as explanations.In cases after spontaneous pregnancies, the theories include implantation to the abdominal cavity, followed by trophoblastic invasion into the retroperitoneum through peritoneal defects, sinus formation, or erosion.The other possible explanations include lymphatic migration, similar to that seen in the spread of malignancy, and migration along the retroperitoneal ovarian vessels.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In a case explored by Yuan et al. ( 2), the video article demonstrated that the patient had a history of tubal surgery and underwent in vitro fertilization and embryo transfer.The ectopic pregnancy was located between the aorta and inferior vena cava at L3, and its pathology revealed that the pregnancy was located inside a lymph node, with lymphocyte infiltration visualized in the endometrial decidual tissue.This case provides evidence for the theory of lymphatic migration, but how similar is this case to other cases in the literature?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In a recent review by OuYang et al. (3) , 26 cases of REP were identified.Similar to the described case, 50% of the cases of REP occurred in women with prior tubal surgery, and 30.8% of the women had undergone in vitro fertilization and embryo transfer.The location of REP was variable, but in all the cases, the REP was found near retroperitoneal large vessels, with 34.6% located in the pelvis, below the common iliac artery and vein, and 65.4% located in the abdomen, around the common iliac vessels, aorta, and inferior vena cava.",
+                "cite_spans": [
+                    {
+                        "start": 36,
+                        "end": 39,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The mechanism in these cases remains unclear, and no 1 theory accounts for all the cases.Although some have theorized that defects in the peritoneum, whether congenital, arising from endometriosis, or fistulous tracts after tubal surgery, are the cause of REP, these defects are not always observed during surgery, and not all patients have these risk factors.Others have suggested migration along the ovarian vessels or trophoblastic erosion through the peritoneum, but there is no firm evidence to support these theories.Lastly, as in the video article by Yuan et al. (2) , the migration of the fertilized egg through the lymphatic channels has been proposed and is supported by the presence of lymphatic tissue surrounding the pregnancy detected using pathology.However, the presence of lymphatic tissue has been described in only a few number of cases.With all these theories in mind, the etiology of REP is likely multifactorial.Because this condition is very rare, the study of its mechanism is difficult, but further studies with strict reporting criteria, including the description of the presence of peritoneal defects, erosion, endometriosis, or lymphatic tissue, may help tease out a dominant theory.",
+                "cite_spans": [
+                    {
+                        "start": 570,
+                        "end": 573,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Another key consideration in the study of REP is the difficulty of diagnosis.The rates of the misdiagnosis of REP are high, with 70% of patients not receiving an accurate diagnosis on their initial visit.Furthermore, 54% of patients with misdiagnosis received unwarranted invasive treatment, with 46% of the cases receiving R2 treatments (3).Although there is no consensus on the diagnosis and treatment of REP, recommendations can be made based on previous cases.The key findings that would point one toward the direction of REP are abdominal pain, high initial Beta-human chorionic gonadotropin levels, and the absence of pregnancy visualized in the uterine cavity or adnexa.The primary imaging modalities include ultrasound, computed tomography, and magnetic resonance imaging, with the identification of a retroperitoneal mass.The treatment options include direct methotrexate injection and retroperitoneal pregnancy resection.Further evaluation of these treatment options and others, including systemic methotrexate administration and potassium chloride injection, are necessary, given that case reports have shown treatment failure with systemic treatment (4).In the case by Yuan et al. (2) , REP was identified using ultrasound and magnetic resonance imaging and removed via laparoscopic resection, with an instructional video to illustrate their technique.Video demonstrations such as this can provide important information on the surgical technique for rare conditions such as REP.Although rare, it is important to keep alternate sites of implantation for ectopic pregnancy on the differential, especially when patients present with risk factors.Looking not just in the pelvis using ultrasound but assessing alternate sites and considering additional imaging when no gestational sac is identified can help reduce unnecessary treatments and potentially save lives.",
+                "cite_spans": [
+                    {
+                        "start": 1193,
+                        "end": 1196,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Although there are still many unanswered questions with regard to REP, it is essential to continue looking behind the curtain, searching for answers that can help us better under-",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "editor. Ultrasonography in obstetrics and gynecology e-book",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Baltarowich",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Scoutt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "",
+                "volume": "33",
+                "issue": "",
+                "pages": "966--1000",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "A case report of retroperitoneal ectopic pregnancy with lymphatic migration after IVF-ET an explanation to embryo distant migration",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Yuan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Xie",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Zeng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Xiao",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Fertil Steril",
+                "volume": "118",
+                "issue": "",
+                "pages": "598--600",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Retroperitoneal ectopic pregnancy: a literature review of reported cases",
+                "authors": [
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Ouyang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Wei",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Wu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Wan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Zhong",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Eur J Obstet Gynecol Reprod Biol",
+                "volume": "259",
+                "issue": "",
+                "pages": "113--118",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Multidisciplinary treatment of retroperitoneal ectopic pregnancy: a case report and literature review",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Xu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Cheng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [],
+                        "last": "Yang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "BMC Preg Childbirth",
+                "volume": "22",
+                "issue": "",
+                "pages": "1--14",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

@@ -1,0 +1,485 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\A-&#x201c;first&#x201d;-on-the-horizon--the-expans",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:28.274660Z"
+    },
+    "title": "A \u201cfirst\u201d on the horizon: the expansion of uterus transplantation to transgender women",
+    "authors": [
+        {
+            "first": "Elliott",
+            "middle": [
+                "G"
+            ],
+            "last": "Richards",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Cleveland Clinic",
+                "location": {
+                    "settlement": "Cleveland",
+                    "region": "Ohio"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Cecile",
+            "middle": [
+                "A"
+            ],
+            "last": "Ferrando",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Cleveland Clinic",
+                "location": {
+                    "settlement": "Cleveland",
+                    "region": "Ohio"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Ruth",
+            "middle": [
+                "M"
+            ],
+            "last": "Farrell",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Cleveland Clinic",
+                "location": {
+                    "settlement": "Cleveland",
+                    "region": "Ohio"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Rebecca",
+            "middle": [
+                "L"
+            ],
+            "last": "Flyckt",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University Hospitals Cleveland Medical Center",
+                "location": {
+                    "settlement": "Cleveland",
+                    "region": "Ohio"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\A-&#x201c;first&#x201d;-on-the-horizon--the-expans",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2023.01.017",
+        "keywords": [],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "Since the first live birth from uterus transplantation (UTx) reported by Br\u20ac annstr\u20ac om et al. 2015, multiple UTx teams have emerged to add to the body of evidence supporting the clinical viability of the procedure (1, 2) .Some of the most commonly discussed topics of interest in the field focus on living vs. deceased donor models, minimally invasive organ procurement in living donors, registry development to track outcomes, and optimal immunosuppression and embryo transfer protocols that seek to improve maternal and neonatal outcomes.Although valuable insights will be gained by deepening our understanding within these areas, the field of UTx will not progress unless we consider applications of this surgical procedure across more diverse patient populations.",
+                "cite_spans": [
+                    {
+                        "start": 215,
+                        "end": 218,
+                        "text": "(1,",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 219,
+                        "end": 221,
+                        "text": "2)",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "A truly novel approach that is now being explored seriously is UTx for transgender (TG) women.Although TG UTx has long been discussed at a high level both within the transgender community and among uterus transplant programs, there are now several teams that are actively working to bring this procedure to clinical reality.The first uterus transplant in a transgender female in the twenty-first century is anticipated to take place within the next few years, if not sooner.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In this Inklings, we will review UTx for TG individuals along several key elements: technical considerations, hormonal support of the uterus and pregnancy in TG women, emerging ethical and societal implications of TG UTx, and the concept of ''fourth party'' reproduction for uterus transplantation in TG women.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Feminizing genital affirmation surgery is colloquially referred to as ''vaginoplasty.''With improved medical coverage for gender affirming care and surgery, access to this surgery has risen, and vaginoplasty has been increasingly performed over the last decade (3).Several vaginoplasty techniques exist and there is considerable nuance to the surgery as each surgeon brings their own modifications to the procedure.In general, the procedure includes orchiectomy, deconstruction of the penile anatomy, and creation of a vaginal canal and the vulvar structures (labia, clitoris and vestibule).Most surgeons perform a modification of the penile inversion technique using genital or extragenital skin grafts to line the neovaginal cavity.Alternatively, a peritoneal flap or ''pull-through'' vaginoplasty procedure can be performed, a technique that is increasingly adopted by surgeons for either primary cases or revisions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ANATOMIC AND TECHNICAL CHALLENGES IN GRAFT IMPLANTATION",
+                "sec_num": null
+            },
+            {
+                "text": "Several technical considerations are important when conceptualizing the process of UTx in TG women.Easily surmountable factors are the differences in the shape of the male and female pelvis.The male pelvis is android in shape with a narrower pubic arch than the typically wider female gynecoid pelvis.The supportive ligaments and connective tissue would also require slight modifications from originally described UTx techniques.Additionally, although the external iliac vessels are anatomically similar between male and female vascular anatomy, differences in the caliber of the internal iliac vessels in the male compared with female pelvis would need to be considered for vascular anastomosis of the graft, as size discrepancies can predispose to thrombosis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ANATOMIC AND TECHNICAL CHALLENGES IN GRAFT IMPLANTATION",
+                "sec_num": null
+            },
+            {
+                "text": "The most challenging technical factor in TG UTx is the neovaginal anastomosis.Most patients who have undergone UTx have been patients with Mayer-Rokitansky-K\u20ac uster-Hauser syndrome and in these patients a neovagina was created either through mechanical dilation or a Vecchietti procedure, which places the natal vaginal tissue on expedited mechanical traction (1, 2).There is very limited UTx experience with this kind of anastomosis in a skin-lined or intestinal neovagina, and the major concern in considering UTx in TG individuals is the risk of failure of the vaginal anastomosis as a result of the inherent avascularity of the skin-grafted neovagina.In addition, the effects of an altered microbiome in the absence of typical vaginal epithelium on the reproductive goals of UTx is an underexplored area for UTx.As penile inversion vaginoplasty remains the standard approach to neovagina creation in TG women, the approach for vaginal anastomosis for UTx should be most comparable to patients with Mayer-Rokitansky-K\u20ac uster-Hauser syndrome who have undergone McIndone vaginoplasty followed by UTx.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ANATOMIC AND TECHNICAL CHALLENGES IN GRAFT IMPLANTATION",
+                "sec_num": null
+            },
+            {
+                "text": "The primary consideration for hormone management in TG women centers on whether candidates should undergo orchiectomy (removal of the testicles) before undergoing TG UTx and pregnancy.In all cases, sperm preservation should be encouraged, allowing for embryo generation with a cisfemale partner or an egg donor.If orchiectomy is not performed before UTx, patients should be counseled to discontinue certain feminizing medications before pregnancy (e.g., spironolactone and finasteride) because of the risk of birth defects in a developing fetus.As TG women would likely have testicular production of androgens, prenatal exposure to androgens could potentially lead to virilization and external genital masculinization of a female fetus, similar to the risks for pregnant cis-females with congenital adrenal hyperplasia.For patients congenital adrenal hyperplasia, the Endocrine Society currently does not recommend specific prenatal treatment protocols to reduce this risk, as such treatment is still considered experimental.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ANDROGEN EFFECTS FOR RECIPIENTS AND PREGNANCIES",
+                "sec_num": null
+            },
+            {
+                "text": "Given these considerations, orchiectomy seems most prudent before or concurrent with UTx surgery.The lack of gonads after orchiectomy is unlikely to have a detrimental effect on pregnancy, as success is well-documented of cisfemale patients with severe primary ovarian insufficiency or prenatal oophorectomy sustaining normal pregnancies with a combination of exogenous initial hormone support followed by increases in endogenous placental hormone production despite the lack of functioning ovaries.Cases of intersex pregnancies (involving pregnant patients with both testicular tissue and female genitalia) could serve as a ''proof of concept'' for transgender females undergoing UTx; however, reports of these pregnancies are limited and, interestingly, have only involved the birth of male offspring to date.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ANDROGEN EFFECTS FOR RECIPIENTS AND PREGNANCIES",
+                "sec_num": null
+            },
+            {
+                "text": "In addition to potential fetal risks, the possible thrombotic risk related to testosterone exposure followed by high levels of circulating estrogens in TG females undergoing pregnancy is not known.The closest analogous population may be TG men on exogenous testosterone who discontinue this therapy to undergo controlled ovarian hyperstimulation-a process involving marked hormonal changes-or transgender men who become pregnant after the discontinuation of testosterone therapy.Reassuringly, uncomplicated pregnancies have been reported for the latter, although additional data will be necessary to achieve any degree of confidence in predicting the thrombotic risk associated with TG UTx.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ANDROGEN EFFECTS FOR RECIPIENTS AND PREGNANCIES",
+                "sec_num": null
+            },
+            {
+                "text": "Although the 2013 updated Montreal Criteria restrict recipients of UTx to ''genetically female'' individuals, the principles of reproductive justice necessitate a re-evaluation of this historical limitation (4).Indeed, some ethicists have suggested that the Montreal Criteria inappropriately emphasizes nonmaleficence over reproductive autonomy or patientreported perceived benefits of UTx.As we increasingly recognize a history of inequality and discrimination for TG women, we must question whether it is acceptable that TG women are denied access to UTx clinical trials based on their gender identity and transgender status.Such barriers may result from the exclusion of transgender women from current protocols and/ or the failure for investigators to establish trials specific to TG UTx.Further, as studies accumulate revealing high levels of depression and suicidality in transgender women and demonstrate the emotional impact of reduced procreative ability in this population, we must consider the potential benefits of bringing UTx to transgender women (5) .If there is no clear or compelling medical reason that TG women cannot undergo a uterus transplant, then it is ethically supportable that TG women have access to the same life-enhancing and lifepromoting surgical innovations as 46 XX women with absolute uterine factor infertility.This begins by conducting studies of UTx in this population, with methodological approaches that reflect the reported benefits, risks, and limitations of this procedure as described by the potential users of this technology.",
+                "cite_spans": [
+                    {
+                        "start": 1061,
+                        "end": 1064,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ETHICAL, SOCIAL, AND GENETIC CONSIDERATIONS",
+                "sec_num": null
+            },
+            {
+                "text": "Balancing concerns for nondiscrimination and health equity, there are several significant unknowns that must be weighed in contemplating clinical trials of TG UTx.This includes how to accurately describe the potential risks within the informed consent process, as well as identifying the outcomes and end points of the trial.Although there has been an influx of data about outcomes from UTx trials in cis-gender women, there are several uncertainties about long-term outcomes and optimal procedural techniques.When and how to compound those unknowns in a new population of TG women raises important ethical questions about acceptable levels of risk.Uterus transplantation was initially designed as a temporary graft for reproductive purposes.For TG women who wish to preserve their transplanted uterus indefinitely with immunosuppression for the purpose of menstruation and enhanced gender alignment, the risk to benefit ratio is unclear and potentially worrisome.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ETHICAL, SOCIAL, AND GENETIC CONSIDERATIONS",
+                "sec_num": null
+            },
+            {
+                "text": "A final area related to the study of UTx in TG women is the potentiality for ''fourth party'' reproduction.A neonate resulting from TG UTx may be subject to genetic and epigenetic influences of 4 distinct elements: the cis-female or trans-male donor uterus, the environment of the trans-female uterus recipient, the oocyte source, and the sperm source (potentially donor or partner sperm or cryopreserved sperm from the TG female).This also raises important questions about the ethical, legal, and social implications of UTx in TG patients, including considerations of the outcomes not just for TG individuals but also their resulting offspring.To contemplate the genetic and epigenetic complexities of this arrangement is beyond the scope of this Inklings, but indubitably a ''fourth party'' reproductive scenario would break new clinical and scientific ground in assisted reproductive technology.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ETHICAL, SOCIAL, AND GENETIC CONSIDERATIONS",
+                "sec_num": null
+            },
+            {
+                "text": "The first uterus transplant in a TG woman is very likely in the near future.Although the investigators of this Inklings believe that UTx should not be restricted only to women assigned as genetic females at birth, we would also strongly state that TG UTx (as with all UTx) is best performed by well-established teams at experienced centers, prioritizing multidisciplinary and long-term collaborations between ethicists, medical, and surgical team members.Careful preparation and an understanding of the similarities and differences of transgender UTx clinical trials compared with previously established trials and techniques is essential to the success of this important",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "Fertility and Sterility\u00ae",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Registry of the International Society of uterus transplantation: first report",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Br\u20ac Annstr\u20ac Om",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Tullius",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Brucker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Dahm-K\u20ac",
+                        "middle": [],
+                        "last": "Ahler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Flyckt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Kisu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "Transplantation",
+                "volume": "107",
+                "issue": "",
+                "pages": "10--17",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The first 5 years of uterus transplant in the US: a report from the United States uterus transplant consortium",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Johannesson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Richards",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Reddy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Walter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Olthoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Quintini",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "JAMA Surg",
+                "volume": "157",
+                "issue": "",
+                "pages": "790--797",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Temporal trends in gender-affirming surgery among transgender patients in the United States",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Canner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Harfouch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kodadek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Pelaez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Coon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Offodile",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "JAMA Surg",
+                "volume": "153",
+                "issue": "",
+                "pages": "609--616",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Uterus transplantation as a fertility option in transgender healthcare",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Mookerjee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Kwan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Int J Transgend Health",
+                "volume": "21",
+                "issue": "",
+                "pages": "122--124",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Perceptions and motivations for uterus transplant in transgender women",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Jones",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Rajamanoharan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Vali",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Williams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Saso",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Thum",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "JAMA Netw Open",
+                "volume": "4",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

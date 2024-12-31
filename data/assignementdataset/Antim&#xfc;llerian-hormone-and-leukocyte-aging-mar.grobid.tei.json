@@ -1,0 +1,3370 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Antim&#xfc;llerian-hormone-and-leukocyte-aging-mar",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:29.067567Z"
+    },
+    "title": "Antim\u00fcllerian hormone and leukocyte aging markers in the Coronary Artery Risk Development in Young Adults study",
+    "authors": [
+        {
+            "first": "Catherine",
+            "middle": [],
+            "last": "Kim",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Eli",
+            "middle": [],
+            "last": "Puterman",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Michigan",
+                "location": {
+                    "settlement": "Ann Arbor",
+                    "region": "Michigan"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Lifang",
+            "middle": [],
+            "last": "Hou",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Northwestern University",
+                "location": {
+                    "settlement": "Chicago",
+                    "region": "Illinois"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "James",
+            "middle": [
+                "C"
+            ],
+            "last": "Slaughter",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Vanderbilt University Medical Center",
+                "location": {
+                    "settlement": "Nashville",
+                    "region": "Tennessee"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "James",
+            "middle": [
+                "G"
+            ],
+            "last": "Terry",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Vanderbilt University Medical Center",
+                "location": {
+                    "settlement": "Nashville",
+                    "region": "Tennessee"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Melissa",
+            "middle": [
+                "F"
+            ],
+            "last": "Wellons",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Vanderbilt University Medical Center",
+                "location": {
+                    "settlement": "Nashville",
+                    "region": "Tennessee"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objective: To examine whether premenopausal reproductive age, as indicated by serum antim\u20ac ullerian hormone (AMH), is associated with leukocyte aging biomarkers.Design: Prospective cohort analysis.Setting: The Coronary Artery Risk Development in Young Adults study, a population-based study of Black and White adults from four US communities (Birmingham, AL; Chicago, IL; Minneapolis, MN; Oakland, CA).Patient(s): Premenopausal women with serum AMH measures at examination year 15 as well as leukocyte aging markers.Intervention(s): None.Main Outcome Measure(s): Telomere length, mitochondrial deoxyribonucleic acid (mtDNA) copy number, and intrinsic and extrinsic epigenetic age acceleration (EAA) at examination years 15, 20, and 25 as well as change between examination years.Result(s): Women were 40.2 (standard deviation, 3.7) years of age at examination year 15 when the AMH and initial measures of telomere length and mtDNA copy number (n \u00bc 386) were obtained and EAA occurred.After adjustment for chronological age, race, and smoking history, AMH quartile at examination year 15 was not associated with telomere length at examination years 15 and 25 or telomere length change between these years, mtDNA copy number at examination years 15 and 25 or change between these years, or intrinsic EAA at examination years 15 and 20 or change between these years.Women in the second AMH quartile had faster extrinsic EAA than women in the lowest AMH quartile (b-coefficient, 1.84; 95% confidence interval, 0.20-3.49).\nIn a population-based cohort, AMH did not have associations with leukocyte telomere length, mtDNA copy number, or intrinsic EAA. (",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Antim&#xfc;llerian-hormone-and-leukocyte-aging-mar",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.03.021",
+        "keywords": [
+            "antim\u20ac ullerian hormone (AMH)",
+            "epigenetic",
+            "telomere",
+            "mitochondrial DNA copy number"
+        ],
+        "abstract": [
+            {
+                "text": "Objective: To examine whether premenopausal reproductive age, as indicated by serum antim\u20ac ullerian hormone (AMH), is associated with leukocyte aging biomarkers.Design: Prospective cohort analysis.Setting: The Coronary Artery Risk Development in Young Adults study, a population-based study of Black and White adults from four US communities (Birmingham, AL; Chicago, IL; Minneapolis, MN; Oakland, CA).Patient(s): Premenopausal women with serum AMH measures at examination year 15 as well as leukocyte aging markers.Intervention(s): None.Main Outcome Measure(s): Telomere length, mitochondrial deoxyribonucleic acid (mtDNA) copy number, and intrinsic and extrinsic epigenetic age acceleration (EAA) at examination years 15, 20, and 25 as well as change between examination years.Result(s): Women were 40.2 (standard deviation, 3.7) years of age at examination year 15 when the AMH and initial measures of telomere length and mtDNA copy number (n \u00bc 386) were obtained and EAA occurred.After adjustment for chronological age, race, and smoking history, AMH quartile at examination year 15 was not associated with telomere length at examination years 15 and 25 or telomere length change between these years, mtDNA copy number at examination years 15 and 25 or change between these years, or intrinsic EAA at examination years 15 and 20 or change between these years.Women in the second AMH quartile had faster extrinsic EAA than women in the lowest AMH quartile (b-coefficient, 1.84; 95% confidence interval, 0.20-3.49).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "In a population-based cohort, AMH did not have associations with leukocyte telomere length, mtDNA copy number, or intrinsic EAA. (",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "eproductive aging in women consists of a steady loss of ovarian follicles through atresia or ovulation (1) .Reproductive aging in the late premenopause may be reflected in the lower levels of blood antim\u20ac ullerian hormone (AMH), a protein produced by viable ovarian follicles (2) .Women with accelerated reproductive aging may be at risk of more rapid aging in other organ systems: younger age at menopause increases the risk of mortality and cardiovascular events (3) , and lower AMH levels and more rapid AMH declines increase the risk of cardiovascular events (4) .The mechanism for these associations remains unknown.The declines in estradiol levels that characterize menopause led to the hypothesis that estrogen therapy may delay or reverse adverse changes in the vasculature (5) .However, trials of estrogen therapy have not demonstrated consistent benefit on cardiovascular outcomes (5, 6) or intermediate markers of disease (7) (8) (9) .Thus, others have hypothesized that reproductive aging and adverse effects in other organ systems may be linked by mechanisms other than sex hormones (10) .",
+                "cite_spans": [
+                    {
+                        "start": 103,
+                        "end": 106,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 276,
+                        "end": 279,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 465,
+                        "end": 468,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 563,
+                        "end": 566,
+                        "text": "(4)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 782,
+                        "end": 785,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 891,
+                        "end": 894,
+                        "text": "(5,",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 895,
+                        "end": 897,
+                        "text": "6)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 933,
+                        "end": 936,
+                        "text": "(7)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 937,
+                        "end": 940,
+                        "text": "(8)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 941,
+                        "end": 944,
+                        "text": "(9)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1096,
+                        "end": 1100,
+                        "text": "(10)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "R",
+                "sec_num": null
+            },
+            {
+                "text": "Such mechanisms may include mechanisms implicated in aging, for example, accelerated loss of telomere length (11) , more rapid reductions in mitochondrial deoxyribonucleic acid (mtDNA) copy number (12) , and epigenetic age acceleration (EAA) (10) .Telomeres are DNA-protein complexes that shorten with each cell division, and loss of telomeric repeats eventually leads to cellular senescence (13) .Mitochondria are cellular organelles that generate energy, and advancing age is believed to lead to cumulative damage in mtDNA, resulting in lower mtDNA copy number (14) .Other aging markers include ''epigenetic clocks'' on the basis of DNA methylation signatures that are correlated with chronological age and predict time to death.Calculations of intrinsic EAA reflect the difference between chronological age and 1 method for calculating epigenetic age that may reflect cellintrinsic aging processes and are independent of changes in blood cell composition (15) , whereas calculations of extrinsic EAA may reflect the difference between chronological age and another method for calculating epigenetic age that may reflect immune system aging (16) .",
+                "cite_spans": [
+                    {
+                        "start": 109,
+                        "end": 113,
+                        "text": "(11)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 197,
+                        "end": 201,
+                        "text": "(12)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 242,
+                        "end": 246,
+                        "text": "(10)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 392,
+                        "end": 396,
+                        "text": "(13)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 563,
+                        "end": 567,
+                        "text": "(14)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 958,
+                        "end": 962,
+                        "text": "(15)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1143,
+                        "end": 1147,
+                        "text": "(16)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "R",
+                "sec_num": null
+            },
+            {
+                "text": "Few studies have examined whether reproductive aging is associated with aging biomarkers.Women with primary ovarian insufficiency (POI) have shorter leukocyte telomere length (17) (18) (19) and decreased mtDNA copy number (20, 21) than women without POI, and younger age at menopause is correlated with older epigenetic age (10, 22) .Thus, it is unknown whether reproductive aging in the premenopause is correlated with and predicts declines in leukocyte aging biomarkers in later life and whether associations persist in cohorts other than women with POI.",
+                "cite_spans": [
+                    {
+                        "start": 175,
+                        "end": 179,
+                        "text": "(17)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 180,
+                        "end": 184,
+                        "text": "(18)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 185,
+                        "end": 189,
+                        "text": "(19)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 222,
+                        "end": 226,
+                        "text": "(20,",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 227,
+                        "end": 230,
+                        "text": "21)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 324,
+                        "end": 328,
+                        "text": "(10,",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 329,
+                        "end": 332,
+                        "text": "22)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "R",
+                "sec_num": null
+            },
+            {
+                "text": "Therefore, we conducted a longitudinal analysis of the relationship between AMH and subsequent 10-year declines in telomere length and mtDNA copy number and 5-year changes in intrinsic and extrinsic EAA.Since 1985, the Coronary Artery Risk Development in Young Adults (CARDIA) Study has performed periodic examinations of a population-based cohort of non-Hispanic whites and African Americans, including at years 15 (2000-2001) , 20 (2005-2006) , and 25 (2010-2011) (23, 24) .The CARDIA Study assessed AMH at examination year 15/16, when women were approximately 40 years of age.We hypothesized that lower AMH levels would be cross-sectionally associated with shorter telomere length and lower mtDNA copy number at year 15/16 and with greater declines in telomere length and mtDNA copy number between years 15 and 25 after adjustment for chronological age.We also hypothesized that lower AMH levels would be cross-sectionally associated with faster intrinsic and extrinsic EAA at year 15 and faster EAA between years 15 and 20.",
+                "cite_spans": [
+                    {
+                        "start": 413,
+                        "end": 427,
+                        "text": "15 (2000-2001)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 430,
+                        "end": 444,
+                        "text": "20 (2005-2006)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 451,
+                        "end": 465,
+                        "text": "25 (2010-2011)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 466,
+                        "end": 470,
+                        "text": "(23,",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 471,
+                        "end": 474,
+                        "text": "24)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "R",
+                "sec_num": null
+            },
+            {
+                "text": "The CARDIA Study and CARDIA Women's Study have been previously described in detail (23, 24) .Briefly, CARDIA participants aged 18-30 years were recruited from the populations of Birmingham, Chicago, Minneapolis, and northern California, and baseline examinations were performed in 5,115 individuals (2,788 women) in 1985-1986.The population was balanced according to age, sex, race, and educational attainment at each site.Institutional review boards at each study center approved the study, and written informed consent was obtained from participants.",
+                "cite_spans": [
+                    {
+                        "start": 83,
+                        "end": 87,
+                        "text": "(23,",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 88,
+                        "end": 91,
+                        "text": "24)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "The CARDIA Women's Study (n \u00bc 1,163) was an ancillary study to the CARDIA Study designed to examine the associations between androgens, polycystic ovaries, and associated clinical features with subclinical atherosclerosis (25) .Eligibility criteria in the CARDIA Women's Study included attendance at the year 15 CARDIA examination (2001 15 CARDIA examination ( -2002)) , presence of at least 1 ovary, and lack of current pregnancy.For the current report, potentially eligible participants were the CARDIA Women's Study participants with AMH levels determined at year 15 (n \u00bc 1,054).Women who had undergone hysterectomy by year 15 (n \u00bc 95), had experienced natural menopause by year 15 (n \u00bc 8), were pregnant at the time of the year 15 examination (n \u00bc 2), or had missing model or exclusionary covariables (n \u00bc 9) were excluded.Also excluded were women with polycystic ovary syndrome (n \u00bc 69) defined as combined hyperandrogenism (total testosterone levels of R80 ng/dL or free testosterone levels of R0.75 ng/dL or unwanted hair growth) and irregular menses between the ages of 18 and 30 years (26) .After these exclusions, a total of 871 participants had available AMH data along with the variables of age, smoking status, body mass index (BMI), and oral contraceptive pill (OCP) use (Fig. 1 ).None of the women experienced cessation of menses before the age of 40 years (i.e., experienced POI or premature menopause).In separate ancillary studies, telomere length and mtDNA copy number were assessed in 620 women, in which participants with stored DNA from whole blood available at years 15 and 25 and had coronary artery calcification data on the same examination were selected.Women underwent epigenomic profiling at years 15 and 20.For the purposes of this report, we included women who had year 15 AMH data available and underwent measurement of telomere length, mtDNA copy number, or epigenomic profiling.Women with all aging measures were similar to women with no aging measures or only a subset of aging measures regarding the AMH levels, smoking use, number of pregnancies, oral contraceptive use, and BMI.Women with all measures available were slightly older than those without any or only a few measures (40.7 vs. 39.8 vs. 39.8 years, respectively; P\u00bc .02),and women with all measures or some measures were less likely to be White than women with no measures (44% vs. 46% vs. 54%, P\u00bc .02).",
+                "cite_spans": [
+                    {
+                        "start": 222,
+                        "end": 226,
+                        "text": "(25)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 309,
+                        "end": 336,
+                        "text": "15 CARDIA examination (2001",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 337,
+                        "end": 368,
+                        "text": "15 CARDIA examination ( -2002))",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1094,
+                        "end": 1098,
+                        "text": "(26)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1291,
+                        "end": 1292,
+                        "text": "1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "The measurement of telomere length and mtDNA copy number in CARDIA has been described in detail previously (27) .Briefly, ethylenediaminetetraacetic acid-containing aliquots were stored at \u00c070 C until shipped on dry ice to the genetics laboratory of Dr. Myriam Fornage at the University of Texas Health Science Center (Houston, TX).The DNA for leukocyte telomere length was prepared with the Gentra Puregene Cell Kit (QIAGEN, Valencia, CA), and DNA samples were shipped in 96-well plates to the University of California San Francisco Blackburn laboratory.The telomere length values were measured from DNA by a quantitative polymerase chain reaction assay that determines the ratio of telomere repeat copy number to single-copy gene copy number in experimental samples compared with a reference DNA sample (28) .A higher ratio signified a longer mean telomere length.The ratio was converted into base pairs with the following formula: base pairs \u00bc 3,274 \u00fe 2,413 \u00c2 (the ratio).The interassay coefficient of variation (CV) was 3.5% (standard deviation, 2.1%).",
+                "cite_spans": [
+                    {
+                        "start": 107,
+                        "end": 111,
+                        "text": "(27)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 805,
+                        "end": 809,
+                        "text": "(28)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Main Outcome Measures",
+                "sec_num": null
+            },
+            {
+                "text": "The leukocyte mtDNA copy number was measured by quantitative polymerase chain reaction using previously described methods (27, 29) , which determined the relative number of mtDNA copies per diploid nuclear genome (i.e., per cell).The VIC-labeled probe and primer set for RNase P were obtained from Thermo Fisher Scientific (Waltham, MA).The relative copy number was calculated using the following formula: relative mtDNA copy number/diploid genome \u00bc POWER[2,(CPND1-CPRNaseP)]*2.The interassay CV on the basis of 85 CARDIA samples was 3.4%, and the intraassay CV on the basis of 4 control DNA samples, averaged from all 21 CARDIA sample plates, was 1.7%.",
+                "cite_spans": [
+                    {
+                        "start": 122,
+                        "end": 126,
+                        "text": "(27,",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 127,
+                        "end": 130,
+                        "text": "29)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Main Outcome Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Epigenomic profiling in the CARDIA Study has been previously described (30) .Briefly, the DNA methylation levels at years 15 and 20 were estimated using the Illumina Methyla-tionEPIC BeadChip (approximately 850,000 sites).Epigenetic age acceleration was calculated using 2 methods available through Horvath epigenetic age calculator (15) .Intrinsic EAA was estimated from the residuals from a linear regression model of epigenetic age regressed on chronological age and numerous blood immune cell counts, and extrinsic EAA was estimated by calculating the residuals from a linear regression model of epigenetic age regressed on chronological age, up-weighting age-related blood cell counts (15, 16) .",
+                "cite_spans": [
+                    {
+                        "start": 71,
+                        "end": 75,
+                        "text": "(30)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 333,
+                        "end": 337,
+                        "text": "(15)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 690,
+                        "end": 694,
+                        "text": "(15,",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 695,
+                        "end": 698,
+                        "text": "16)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Main Outcome Measures",
+                "sec_num": null
+            },
+            {
+                "text": "In 2014, the AMH level was measured in stored serum samples from the 2002-2003 (year 16) visit using Ansh Labs (Webster, TX) ultrasensitive AMH enzyme-linked immunosorbent assay platform at the clinical reference laboratory, ReproSource (Woburn, MA) (31) .The clinical lower limit of detection was 0.02 ng/dL; the intraassay and interassay CVs ranged between 3% and 7% and between 5% and 10%, respectively.At each visit, standardized questionnaires and examinations included assessment of smoking, OCP use, and BMI calculated from standard anthropometric protocols (32) .",
+                "cite_spans": [
+                    {
+                        "start": 250,
+                        "end": 254,
+                        "text": "(31)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 565,
+                        "end": 569,
+                        "text": "(32)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Primary Exposure Variable",
+                "sec_num": null
+            },
+            {
+                "text": "Antim\u20ac ullerian hormone was characterized by quartile because it may have a nonlinear association with chronic disease (33) , with women in the highest and lowest levels at greater risk of poor outcomes.The characteristics of women by AMH quartile at year 15 were described using (n) frequencies for categorical variables and means (standard deviations) or median (interquartile range) for quantitative variables with normal and skewed distributions, respectively (Table 1 ).Next, using linear regression models, we examined the association between AMH quartile at year 15 with telomere length; mtDNA copy number; intrinsic and extrinsic EAA at years 15, 20, and 25; and change between these years (Table 2 ).Separate models were created for each biomarker of aging and timepoint at which that biomarker was measured.Models were adjusted for age, race/ethnicity, and smoking status.These covariates were selected because of their associations with AMH in previous CARDIA analyses, whereas OCP use and BMI were not shown to be strongly associated with AMH (23, 31) .However, in sensitivity analyses, we examined whether there were changes in the patterns of effects with the addition of these variables in the models.We also performed analyses where the dependent variables, that is, telomere length, mtDNA copy number, and EAA estimates, were log-transformed; the pattern and significance of associations were similar, and therefore, the nontransformed results are presented for ease of interpretation.We evaluated models that were not adjusted for chronological age to determine whether AMH was associated with peripheral aging markers after consideration of race and smoking status.We examined whether the addition of year 15 markers to the models changed the associations between AMH and change in markers.Finally, we modeled the relationship between AMH and aging markers using the piecewise linear function in STATA mkspline, placing knots at the cutpoint for each quartile.Analyses were performed using the Statistical Analysis Software version 9.2 (SAS Institute; Cary, NC), and all tests were 2-sided with statistical significance set at a prespecified level of P< .05.",
+                "cite_spans": [
+                    {
+                        "start": 119,
+                        "end": 123,
+                        "text": "(33)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 1055,
+                        "end": 1059,
+                        "text": "(23,",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 1060,
+                        "end": 1063,
+                        "text": "31)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 471,
+                        "end": 472,
+                        "text": "1",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 705,
+                        "end": 706,
+                        "text": "2",
+                        "ref_id": "TABREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Of the 385 women included in the study, 46% (n \u00bc 177) and 54% (n \u00bc 208) reported Black and White races, respectively.Black women were younger than White women (39.3 vs. 40.9years, P< .0001)and more likely to have never smoked (64% vs. 51%).Table 1 shows the characteristics of women at year 15 by AMH quartile.In unadjusted comparisons, women in the highest AMH quartile were younger, more likely to be Black, and more likely to have never smoked (Table 1 ).Aging markers, including markers at year 15 and change in markers between year 15 and subsequent years, did not vary by AMH quartile.The exception was that women in the lowest AMH quartile had lower extrinsic EAA than women in the highest AMH quartile.In other words, women in the lowest AMH quartile had slower epigenetic aging in relation to chronological aging than women in the highest AMH quartile.Women in the highest AMH quartile had higher mtDNA copy number than women in lower quartiles, although the association was borderline in significance (P\u00bc .051).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 246,
+                        "end": 247,
+                        "text": "1",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 454,
+                        "end": 455,
+                        "text": "1",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS",
+                "sec_num": null
+            },
+            {
+                "text": "Table 2 shows the associations between AMH quartile and aging markers, adjusted for age, race, and smoking history.We did not observe significant associations or patterns in the association between AMH and aging markers.The single exception was that women in the second AMH quartile had accelerated epigenetic aging as represented by extrinsic EAA compared with women in the first AMH quartile.However, women in the third and fourth AMH quartiles did not have different extrinsic EAA estimates compared with women in the first quartile.Of note, the association between AMH and extrinsic EAA did not persist after log-transformation of EAA in sensitivity analysis (Supplemental Table 1 , available online) or vary by AMH quartile using piecewise linear regression.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 6,
+                        "end": 7,
+                        "text": "2",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 683,
+                        "end": 684,
+                        "text": "1",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS",
+                "sec_num": null
+            },
+            {
+                "text": "In sensitivity analyses, AMH was not associated with peripheral aging markers either before or after adjustment for chronological age (Supplemental Table 2 ), suggesting that the relationship between AMH and these markers in late premenopausal women is not strong (available online).In addition, models adjusting for BMI and OCP use did not alter the associations between AMH and aging markers (Supplemental Table 3 , available online).When the dependent variable was change in aging marker between baseline and follow-up year, the addition of the baseline marker did not change the associations between AMH and change in markers (Supplemental Table 4 , available online).Finally, when we modeled the association between AMH and aging markers using piecewise linear regression adjusting for age, race, and smoking history, coefficients were not significant, indicating that the association between AMH quartile and aging markers did not vary significantly by AMH quartile.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 154,
+                        "end": 155,
+                        "text": "2",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 414,
+                        "end": 415,
+                        "text": "3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 650,
+                        "end": 651,
+                        "text": "4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS",
+                "sec_num": null
+            },
+            {
+                "text": "In a population-based cohort of late reproductive-age women, we found that reproductive age as indicated by the AMH levels was correlated with chronological age but not independently associated with leukocyte measures of aging, including telomere length, mtDNA copy number, and EAA.Antim\u20ac ullerian hormone did not have cross-sectional associations with these markers, nor did it predict declines in these markers after consideration of chronological age as well as race and cigarette use.The exception was that women in the second AMH quartile had faster extrinsic EAA than women in the lowest quartile, although the significance of this association is unclear given the lack of associations in other quartiles along with the lack of association between AMH and future extrinsic EAA and change in extrinsic EAA.Our report is notable in that no studies have examined the relationship between AMH and aging markers in population-based samples or over an extended time period.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Previous studies have focused on the associations between aging biomarkers and presence or absence of POI.Several of these reports on the basis of small samples note that a lower AMH level is correlated with shorter telomere length among women with (19) and without (17, 18) polymorphisms for the FMR1 gene that confers the increased risk of POI.However, one study reported that women with POI had longer, rather than shorter, telomere length than controls (34) .Along similar lines, women of advanced reproductive age more often have abnormal mitochondria than younger women, but follicular mtDNA copy number has been higher (35, 36) or similar (37) to that of younger women.Bonomi et al. (20) reported that leukocyte mtDNA copy number and follicular mtDNA copy number were highly correlated (R 2 \u00bc 0.55; P\u00bc .008)and that women with POI had lower leukocyte mtDNA copy number than women with normal ovarian reserve.Correlations with AMH were not examined.Others have also reported correlations between follicular mtDNA copy number and presence of POI, without examination of POI (21) .However, it is unclear whether women with POI who are being assessed for infertility have similar relationships between aging markers and ovarian reserve as a general population of women.",
+                "cite_spans": [
+                    {
+                        "start": 249,
+                        "end": 253,
+                        "text": "(19)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 266,
+                        "end": 270,
+                        "text": "(17,",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 271,
+                        "end": 274,
+                        "text": "18)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 457,
+                        "end": 461,
+                        "text": "(34)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 626,
+                        "end": 630,
+                        "text": "(35,",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 631,
+                        "end": 634,
+                        "text": "36)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 646,
+                        "end": 650,
+                        "text": "(37)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 690,
+                        "end": 694,
+                        "text": "(20)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 1079,
+                        "end": 1083,
+                        "text": "(21)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Because of previously reported associations between age at menopause and epigenetic age (10, 22) , it has been hypothesized that menopause and epigenetic age are driven by similar determinants of aging (10) .The extent to which this can be detected before menopause is uncertain.We did not find consistent relationships between premenopausal indicators of reproductive age and leukocyte aging markers.Thus, it is possible that the association between menopause and epigenetic age is driven by the postmenopausal estrogen deficiency that affects cellular aging pathways (38) .It is also possible that premenopausal reproductive aging still occurs via these aging markers, but this relationship is stronger when markers are assessed in ovarian follicles rather than leukocytes.Olsen et al. (39) characterized the epigenome in granulosa cells and leukocytes in women with and without diminished ovarian reserve, noting that ovarian reserve status was not reflected in leukocyte epigenetic profile, even as the follicular cells had distinctive epigenetic patterns consistent with aging.Along similar lines, Morin et al. (40) reported that women with diminished ovarian reserve had different telomere length and epigenetic age in ovarian follicles compared with those in leukocytes.Finally, it is possible that reproductive aging relies on different aging processes other than those we examined.",
+                "cite_spans": [
+                    {
+                        "start": 88,
+                        "end": 92,
+                        "text": "(10,",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 93,
+                        "end": 96,
+                        "text": "22)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 202,
+                        "end": 206,
+                        "text": "(10)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 569,
+                        "end": 573,
+                        "text": "(38)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 788,
+                        "end": 792,
+                        "text": "(39)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 1116,
+                        "end": 1120,
+                        "text": "(40)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Other mechanisms aside from those mentioned in this report have been implicated in reproductive aging.We have previously reported that oxidative stress, as represented by serum F2-isoprostanes, is associated with lower AMH levels among CARDIA participants (41) , although the limitations of that analysis were similar to the present analysis, that is, measurement of AMH at a single point in time, with need for verification in a longitudinal analysis and ideally in a trial addressing oxidative stress reduction.",
+                "cite_spans": [
+                    {
+                        "start": 256,
+                        "end": 260,
+                        "text": "(41)",
+                        "ref_id": "BIBREF40"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "In addition, the PI3K/PTEN/AKT/FOXO3 and associated tuberous sclerosis protein complex /mammalian target of rapamycin pathways are central to the regulation of the primordial follicle pool (42) .Other aging-associated systems, such as the insulin-like growth factor 1/growth hormone pathway and transsulfuration/hydrogen sulfide pathways, may also play a role (42) .Sirtuins aid in maintaining developmental metabolic competence and chromosomal integrity of the oocyte (42) .Finally, alternate epigenetic age calculators, conditioned on biomarkers correlated with aging, predict age at menopause among other incident chronic diseases (43) ; it is possible that these calculators may be more sensitive for ovarian aging than the calculators that we examined, which were conditioned on mortality.",
+                "cite_spans": [
+                    {
+                        "start": 189,
+                        "end": 193,
+                        "text": "(42)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 360,
+                        "end": 364,
+                        "text": "(42)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 469,
+                        "end": 473,
+                        "text": "(42)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 634,
+                        "end": 638,
+                        "text": "(43)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The strengths of this report include its population-based biracial cohort, characterization of ovarian reserve with a marker that is more robust to assessment across the menstrual cycle, and longitudinal assessment of leukocyte aging markers.Participants in the CARDIA Women's Study and in this subanalysis were of late reproductive age, when the AMH level typically declines; AMH typically becomes undetectable in the few years preceding the final menstrual period.It is possible that associations between ovarian reserve and molecular aging markers are stronger at younger ages, particularly if these aging markers reflected a process that influenced ovarian reserve during sensitive periods, such as in utero exposure or early childhood.Previous reports note that in utero and early childhood deprivation are linked to early age at the final menstrual period (44) .In other words, aging markers may be related to the peak of AMH levels rather than AMH levels during a time when the AMH level declines.Although the range of the AMH level was typical of a population-based cohort, it may have been narrower than those of populations seeking fertility care or with chronic disease, and stronger associations may have been observed with wider ranges of AMH levels.Limitations include the assessment of AMH at only one point in time, and thus, we were unable to assess whether the relationship between reproductive aging and somatic aging was bidirectional.The CARDIA Study did not assess exposures that could decrease AMH levels, such as radiation or chemotherapy, although the incidence of cancer in this population-based cohort was low (45) .We focused on plasma AMH as a premenopausal marker of reproductive aging because a previous analysis demonstrated its greater predictive ability for menopause compared with folliclestimulating hormone or antral follicle count (23) .However, it is possible that other markers of reproductive aging, including follicular hormone levels and oocyte morphology, are associated with peripheral aging markers, whereas the plasma AMH levels were not.These follicle markers may be superior for their prediction of success with assisted reproduction, although their ability to predict menopause is unclear.The choice of optimal marker likely depends on what outcome is used to represent reproductive aging.The sample size of this study may have resulted in limited statistical power.Finally, as is true for epidemiologic studies, our observations may have been due to residual confounding and cannot prove causation.",
+                "cite_spans": [
+                    {
+                        "start": 862,
+                        "end": 866,
+                        "text": "(44)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1637,
+                        "end": 1641,
+                        "text": "(45)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 1869,
+                        "end": 1873,
+                        "text": "(23)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "In conclusion, premenopausal reproductive aging as indicated by AMH was a not a predictor of leukocyte aging markers beyond chronological age.Future studies could examine whether repeated reproductive aging markers, such as AMH, rather than AMH at the late reproductive stage predict peripheral aging.Future studies should examine whether other aging pathways are linked with reproductive aging aside from telomere length, mtDNA copy number, and EAA.Future studies could also examine whether other factors characterizing the menopause, aside from ovarian reserve markers, affect peripheral aging markers.Such factors include hypothalamic-pituitary hormones, such as folliclestimulating hormone; adipose tissue redistribution; sleep disturbance and vasomotor symptoms; and alterations in metabolic profile.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "DIALOG: You can discuss this article with its authors and other readers at https://www.fertstertdialog.com/posts/34591",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "Fertility and Sterility\u00ae",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Lung, and Blood Institute (NHLBI) in collaboration with the University of Alabama at Birmingham (HHSN268201800005I and HHSN268201800007I), Northwestern University (HHSN268201800003I), University of Minnesota (HHSN268201800006I), and Kaiser Foundation Research Institute (HHSN268201800004I).The CARDIA Study is also partially supported by the Intramural Research Program of the National Institute on Aging (NIA) and an intra-agency agreement between the NIA and NHLBI (AG0005).The laboratory work and analytic component were funded by the American Heart Association (17SFRN33700278 and 14SFRN20790000).The telomere ancillary study was funded by the MacArthur Foundation SES and Health Network.The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIA, NHLBI, or MacArthur Foundation.This manuscript has been reviewed by the CARDIA Study for scientific content.The CARDIA Women's Study (R01-HL-065611) was supported by the NHLBI.Anti-M\u20ac ullerian hormone measurement was supported by a National Heart, Lung, and Blood Institute Career Development Award (K23-HL-87114).Presented at the Annual Meeting of the North American Menopause Association, Aurora, Colorado, September 30-October 3, 2020.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "funding",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Executive summary: stages of reproductive aging workshop (STRAW)",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Soules",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Sherman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Parrott",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Rebar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Santoro",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Utian",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Fertil Steril",
+                "volume": "76",
+                "issue": "",
+                "pages": "874--878",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Anti-mullerian hormone levels and incidence of early natural menopause in a prospective study",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Bertone-Johnson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Manson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Purdue-Smithe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Steiner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Eliassen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Hankinson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Hum Reprod",
+                "volume": "33",
+                "issue": "",
+                "pages": "1175--1182",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Association of age at onset of menopause and time since onset of menopause with cardiovascular outcomes, intermediate vascular traits, and all-cause mortality: a systematic review and meta-analysis",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Muka",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Oliver-Williams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Kunutsor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Laven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Fauser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Chowdhury",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "JAMA Cardiol",
+                "volume": "1",
+                "issue": "",
+                "pages": "767--776",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Anti-Mullerian hormone trajectories are associated with cardiovascular disease in women: results from the Doetinchem cohort study",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "De Kat",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Verschuren",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Eijkemans",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Broekmans",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Van Der Schouw",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Circulation",
+                "volume": "135",
+                "issue": "",
+                "pages": "556--565",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results from the women's health initiative randomized controlled trial",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Rossouw",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Anderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Prentice",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Lacroix",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Kooperberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Stefanick",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "JAMA",
+                "volume": "288",
+                "issue": "",
+                "pages": "321--333",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Randomized trial of estrogen plus progestin for secondary prevention of coronary heart disease in postmenopausal women. Heart and estrogen/progestin replacement study (HERS) research group",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Hulley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Grady",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Bush",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Furberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Herrington",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Riggs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "JAMA",
+                "volume": "280",
+                "issue": "",
+                "pages": "605--613",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Vascular effects of early versus late postmenopausal treatment with estradiol",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Hodis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Mack",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Henderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Shoupe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Budoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hwang-Levine",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "N Engl J Med",
+                "volume": "374",
+                "issue": "",
+                "pages": "1221--1231",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Effect of hormone replacement therapy on cardiovascular events in recently postmenopausal women: randomised trial",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Schierbeck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Rejnmark",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Tofteng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Stilgren",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Eiken",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Mosekilde",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "BMJ",
+                "volume": "345",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "The Kronos early estrogen prevention study by Charlotte Barker",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Manson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Womens Health (Lond)",
+                "volume": "9",
+                "issue": "",
+                "pages": "9--11",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Menopause accelerates biological aging",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Levine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Lu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Hernandez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Singleton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Ferrucci",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Proc Natl Acad Sci U S A",
+                "volume": "113",
+                "issue": "",
+                "pages": "9327--9332",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Leukocyte telomere length and age at menopause",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Gray",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Schiff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Fitzpatrick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kimura",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Aviv",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Starr",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Epidemiology",
+                "volume": "25",
+                "issue": "",
+                "pages": "139--146",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Deciphering the genetic and epidemiological landscape of mitochondrial DNA abundance",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Hagg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Jylhava",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Czene",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Grassmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Hum Genet",
+                "volume": "140",
+                "issue": "",
+                "pages": "849--861",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Switching and signaling at the telomere",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Blackburn",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Cell",
+                "volume": "106",
+                "issue": "",
+                "pages": "661--673",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Mitochondrial DNA copy number in peripheral blood cells declines with age and is associated with general health among elderly",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Mengel-From",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Thinggaard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Dalgard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Kyvik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Christensen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Christiansen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Hum Genet",
+                "volume": "133",
+                "issue": "",
+                "pages": "1149--1159",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "DNA methylation age of human tissues and cell types",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Horvath",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Genome Biol",
+                "volume": "14",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Genomewide methylation profiles reveal quantitative views of human aging rates",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Hannum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Guinney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Zhao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Hughes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Sadda",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Mol Cell",
+                "volume": "49",
+                "issue": "",
+                "pages": "359--367",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Impaired telomere length and telomerase activity in peripheral blood leukocytes and granulosa cells in patients with biochemical primary ovarian insufficiency",
+                "authors": [
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Xu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Hum Reprod",
+                "volume": "32",
+                "issue": "",
+                "pages": "201--207",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Skewed X-chromosome inactivation and shorter telomeres associate with idiopathic premature ovarian insufficiency",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Miranda-Furtado",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Luchiari",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Chielli",
+                        "middle": [],
+                        "last": "Pedroso",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Kogure",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Caetano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Santana",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Fertil Steril",
+                "volume": "110",
+                "issue": "1",
+                "pages": "476--485",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Women who carry a fragile X premutation are biologically older than noncarriers as measured by telomere length",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Albizua",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Rambo-Martin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Allen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "He",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Amin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Sherman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Am J Med Genet A",
+                "volume": "173",
+                "issue": "",
+                "pages": "2985--2994",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Blood cell mitochondrial DNA content and premature ovarian aging",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Bonomi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Somigliana",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Cacciatore",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Busnelli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Rossetti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Bonetti",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "PLoS One",
+                "volume": "7",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Low oocyte mitochondrial DNA content in ovarian insufficiency",
+                "authors": [
+                    {
+                        "first": "May-Panloup P",
+                        "middle": [],
+                        "last": "Chretien",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Jacques",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Vasseur",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Malthiery",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Reynier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Hum Reprod",
+                "volume": "20",
+                "issue": "",
+                "pages": "593--597",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "An epigenetic biomarker of aging for lifespan and healthspan",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Levine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Lu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Quach",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Assimes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Bandinelli",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Aging",
+                "volume": "10",
+                "issue": "",
+                "pages": "573--591",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Antimullerian hormone, follicle stimulating hormone, antral follicle count, and risk of menopause within 5 years",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Slaughter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Appiah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Schreiner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Leader",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Maturitas",
+                "volume": "102",
+                "issue": "",
+                "pages": "18--25",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "CARDIA: study design, recruitment, and some characteristics of the examined subjects",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Friedman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Cutter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Donahue",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Hughes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Hulley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Jacobs Dr Jr",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1988,
+                "venue": "J Clin Epidemiol",
+                "volume": "41",
+                "issue": "",
+                "pages": "1105--1116",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Antral follicle count predicts natural menopause in a population-based sample: the coronary artery risk development in young adults women's study",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Wellons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Bates",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Schreiner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Siscovick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Sternfeld",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Lewis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Menopause",
+                "volume": "20",
+                "issue": "",
+                "pages": "825--830",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Prospective association of polycystic ovary syndrome with coronary artery calcification and carotid-intima-media thickness: the coronary artery risk development in young adults women's study",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Calderon-Margalit",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Siscovick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Merkin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Daviglus",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Schreiner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Arterioscler Thromb Vasc Biol",
+                "volume": "34",
+                "issue": "",
+                "pages": "2688--2694",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Associations between cellular aging markers and metabolic syndrome: findings from the CARDIA study",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Revesz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Verhoeven",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Picard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Lin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Sidney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Epel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "J Clin Endocrinol Metab",
+                "volume": "103",
+                "issue": "",
+                "pages": "148--157",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Telomere measurement by quantitative PCR",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Cawthon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Nucleic Acids Res",
+                "volume": "30",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "A multiplex real-time PCR method to detect and quantify mitochondrial DNA deletions in individual cells",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Krishnan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Bender",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Taylor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Turnbull",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Anal Biochem",
+                "volume": "370",
+                "issue": "",
+                "pages": "127--129",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Epigenetic age acceleration and metabolic syndrome in the coronary artery risk development in young adults study",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Nannini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Joyce",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Zheng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Gao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Yoon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Clin Epigenetics",
+                "volume": "11",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Anti-mullerian hormone (AMH) is associated with natural menopause in a population-based sample: the CARDIA women's study",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Nair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Slaughter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Terry",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Appiah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Ebong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Maturitas",
+                "volume": "81",
+                "issue": "",
+                "pages": "493--498",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Associations of body mass and body fat distribution with parity among African-American and Caucasian women: the CARDIA Study",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Lewis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Caveny",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Perkins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Burke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Bild",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Obes Res",
+                "volume": "2",
+                "issue": "",
+                "pages": "517--525",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Back to the basics of ovarian aging: a populationbased study on longitudinal anti-mullerian hormone decline",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "De Kat",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Van Der Schouw",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Eijkemans",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Herber-Gast",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Visser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Verschuren",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "BMC Med",
+                "volume": "14",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Telomere length and reproductive aging",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Hanna",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Bretherick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Gair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Fluker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Stephenson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Robinson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Hum Reprod",
+                "volume": "24",
+                "issue": "",
+                "pages": "1206--1211",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Alterations in oocyte mitochondrial number and function are related to spindle defects and occur with maternal aging in mice and humans",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Pasquariello",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Ermisch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Silva",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Mccormick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Logsdon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Barfield",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Biol Reprod",
+                "volume": "100",
+                "issue": "",
+                "pages": "971--981",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Age-related changes in the mitochondria of human mural granulosa cells",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Han",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Ma",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Hum Reprod",
+                "volume": "32",
+                "issue": "",
+                "pages": "2465--2473",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "The association of reproductive senescence with mitochondrial quantity, function, and DNA integrity in human oocytes at different stages of maturation",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Duran",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Simsek-Duran",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Oehninger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Jones",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Jr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Castora",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Fertil Steril",
+                "volume": "96",
+                "issue": "",
+                "pages": "384--388",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "HRT for women with premature ovarian insufficiency: a comprehensive review",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Webber",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Anderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Davies",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Janse",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Vermeulen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Hum Reprod Open",
+                "volume": "2017",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Identification of a unique epigenetic profile in women with diminished ovarian reserve",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Olsen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Castillo-Fernandez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Chan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "La",
+                        "middle": [],
+                        "last": "Cour Freiesleben",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Zedeler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Bungum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "115",
+                "issue": "",
+                "pages": "732--741",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "DNA methylationbased age prediction and telomere length in white blood cells and cumulus cells of infertile women with normal or poor response to ovarian stimulation",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Morin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Tao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Marin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Zhan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Landis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Bedard",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Aging",
+                "volume": "10",
+                "issue": "",
+                "pages": "3761--3773",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Antimullerian hormone and F2-isoprostanes in the coronary artery risk development in young adults (CARDIA) study",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Slaughter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Terry",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Jacobs Dr Jr",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Parikh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Appiah",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Fertil Steril",
+                "volume": "114",
+                "issue": "",
+                "pages": "646--652",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Reproductive longevity and aging: geroscience approaches to maintain long-term ovarian fitness",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Llarena",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Hine",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "J Gerontol A Biol Sci Med Sci",
+                "volume": "76",
+                "issue": "",
+                "pages": "1551--1560",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "DNA methylation GrimAge strongly predicts lifespan and healthspan",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Lu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Quach",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Wilson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Reiner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Aviv",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Raj",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Aging",
+                "volume": "11",
+                "issue": "",
+                "pages": "303--327",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Environmental and developmental origins of ovarian reserve",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Richardson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Guo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Fauser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Macklon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Hum Reprod Update",
+                "volume": "20",
+                "issue": "",
+                "pages": "353--369",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Causes and demographic, medical, lifestyle and psychosocial predictors of premature mortality: the CARDIA study",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Iribarren",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Jacobs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Kiefe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Lewis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Matthews",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Roseman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Soc Sci Med",
+                "volume": "60",
+                "issue": "",
+                "pages": "471--482",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Hormona antim\u20ac ulleriana y marcadores de envejecimiento leucocitario en el estudio del desarrollo de riesgo de las arterias coronarias en adultos j ovenes",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Examinar si la edad reproductiva premenop ausica, seg un lo indicado por la hormona antim\u20ac ulleriana s erica (AMH), est a asociada con biomarcadores de envejecimiento en leucocitos",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Objetivo",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Ambito: El estudio de desarrollo de riesgo de las arterias coronarias en adultos j ovenes es un estudio poblacional de adultos blancos y negros de cuatro comunidades estadounidenses",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Mujeres premenop ausicas con medidas s ericas de AMH en el a\u00f1o 15 de examen, as\u00ed como marcadores de envejecimiento de leucocitos",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Paciente",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Intervenci on",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Principal(es) medida(s) de resultado(s): longitud de los tel omeros, n umero de copias del acido desoxirribonucleico mitocondrial (ADNmt), y resistencia intr\u00ednseca y extr\u00ednseca de aceleraci on de la edad epigen etica (EAA) en los a\u00f1os de examen 15, 20 y 25, as\u00ed como el cambio entre los a\u00f1os",
+                "authors": [],
+                "year": null,
+                "venue": "de examen. Resultado(s): Las mujeres ten\u00edan 40",
+                "volume": "",
+                "issue": "0",
+                "pages": "20--23",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "En una cohorte basada en la poblaci on, la AMH no tuvo asociaciones con la longitud de los tel omeros de los leucocitos, el n umero de copias de mtDNA o EAA intr\u00ednseco",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 1",
+                "fig_num": "1",
+                "type_str": "figure"
+            },
+            "TABREF1": {
+                "html": null,
+                "num": null,
+                "text": "Characteristics of participants by AMH quartile at Coronary Artery Risk Development in Young Adults examination year 15/16, including telomere length, mtDNA copy number, and intrinsic and extrinsic EAA Data are presented as mean AE standard deviation, median (25th percentile, 75th percentile) or n (%) unless otherwise indicated.These were adjusted for age, race, and cigarette use.AMH \u00bc antim\u20ac ullerian hormone; BMI \u00bc body mass index; bps \u00bc base pairs; EAA \u00bc epigenetic age acceleration; mtDNA \u00bc mitochondrial deoxyribonucleic acid.a Negative EAA values indicate that the participant's epigenetic age is slower than their chronological age or that the individual is epigenetically younger than expected.",
+                "content": "<table><tr><td/><td>Q1 AMH</td><td>Q2 AMH</td><td>Q3 AMH</td><td>Q4 AMH</td><td/></tr><tr><td>Characteristics</td><td>N [ 97</td><td>N [ 97</td><td>N [ 96</td><td>N [ 96</td><td>P value</td></tr><tr><td>AMH (ng/dL)</td><td>0.048</td><td>0.35</td><td>1.04</td><td>3.14</td><td/></tr><tr><td/><td>(0.008, 0.10)</td><td>(0.25, 0.45)</td><td>(0.79, 1.37)</td><td>(2.44, 4.11)</td><td/></tr><tr><td>Age (y)</td><td>43.0 AE 2.3</td><td>40.7 AE 3.1</td><td>39.6 AE 3.5</td><td>37.2 AE 3.0</td><td>&lt; .01</td></tr><tr><td>White race</td><td>63 (65.0%)</td><td>52 (53.6%)</td><td>56 (59.0%)</td><td>37 (38.5%)</td><td>&lt; .01</td></tr><tr><td>Smoking status at examination year 15</td><td/><td/><td/><td/><td/></tr><tr><td>Never</td><td>45 (46.4%)</td><td>55 (56.7%)</td><td>55 (57.9%)</td><td>65 (67.7%)</td><td>.05</td></tr><tr><td>Former</td><td>27 (27.8%)</td><td>25 (25.8%)</td><td>21 (22.1%)</td><td>11 (11.5%)</td><td/></tr><tr><td>Current</td><td>25 (25.8%)</td><td>17 (17.5%)</td><td>19 (20.0%)</td><td>20 (20.8%)</td><td/></tr><tr><td>Pregnancies</td><td>3 (2, 4)</td><td>3 (2, 4)</td><td>3 (2, 4)</td><td>3 (2, 4)</td><td>.88</td></tr><tr><td>Oral contraceptive use BMI (kg/m 2 )</td><td>12 (12.5%) 29.6 (8.1)</td><td>21 (5.5%) 28.7 (6.4)</td><td>16 (4.2%) 28.1 (7.0)</td><td>16 (4.2%) 29.0 (6.6)</td><td>.43 .83</td></tr><tr><td>Telomere length at year 15 (bps)</td><td>0.90</td><td>0.97</td><td>0.94</td><td>0.97</td><td>.18</td></tr><tr><td/><td>(0.78, 1.05)</td><td>(0.84, 1.10)</td><td>(0.83, 1.07)</td><td>(0.88, 1.11)</td><td/></tr><tr><td>Telomere length at year 25 (bps)</td><td>0.69</td><td>0.72</td><td>0.71</td><td>0.68</td><td>.22</td></tr><tr><td/><td>(0.63, 0.75)</td><td>(0.62, 0.80)</td><td>(0.63, 0.79)</td><td>(0.62, 0.76)</td><td/></tr><tr><td>Change in telomere length</td><td>\u00c00.23</td><td>\u00c00.25</td><td>\u00c00.23</td><td>\u00c00.31</td><td>.09</td></tr><tr><td>between years 15 and 25 (bps)</td><td>(\u00c00.35, \u00c00.14)</td><td>(\u00c00.36, \u00c00.13)</td><td>(\u00c00.33, \u00c00.12)</td><td>(\u00c00.41, \u00c00.19)</td><td/></tr><tr><td>mtDNA copy number at year 15 (number)</td><td>509.3</td><td>481.5</td><td>501.6</td><td>533.4</td><td>.05</td></tr><tr><td/><td>(414.4, 591.7)</td><td>(427.4, 565.0)</td><td>(422.8, 606.0)</td><td>(452.7, 663.5)</td><td/></tr><tr><td>mtDNA copy number at year 25 (number)</td><td>458.9</td><td>473.1</td><td>440.4</td><td>477.9</td><td>.34</td></tr><tr><td/><td>(378.3, 540.4)</td><td>(384.8, 537.0)</td><td>(395.8, 526.1)</td><td>(394.9, 570.4)</td><td/></tr><tr><td>Change in mtDNA copy number between</td><td>\u00c041.9</td><td>\u00c026.6</td><td>\u00c056.1</td><td>\u00c033.1</td><td>.49</td></tr><tr><td>years 15 and 25 (number)</td><td>(\u00c0122.7, 38.2)</td><td>(\u00c099.6, 66.4)</td><td>(\u00c0149.2, 25.3)</td><td>(\u00c0129.2, 58.0)</td><td/></tr><tr><td/><td>N [ 67</td><td>N [ 62</td><td>N [ 64</td><td>N [ 64</td><td/></tr><tr><td>AMH (ng/dL)</td><td>0.07</td><td>0.38</td><td>1.08</td><td>2.86</td><td/></tr><tr><td/><td>(0.01, 0.12)</td><td>(0.28, 0.53)</td><td>(0.84, 1.36)</td><td>(2.14, 3.93)</td><td/></tr><tr><td>Intrinsic EAA at year 15 a</td><td>0.54</td><td>\u00c00.22</td><td>0.66</td><td>\u00c00.32</td><td>.56</td></tr><tr><td/><td>(\u00c02.35, 3.11)</td><td>(\u00c02.54, 1.92)</td><td>(\u00c01.80, 2.71)</td><td>(\u00c03.27, 2.66)</td><td/></tr><tr><td>Intrinsic EAA at year 20 a</td><td>1.22</td><td>0.34</td><td>0.65</td><td>\u00c01.02</td><td>.16</td></tr><tr><td>Change in intrinsic EAA between years 15 and 20 a</td><td>(\u00c02.05, 3.25) 0.10</td><td>(\u00c02.48, 2.62) 1.10</td><td>(\u00c02.16, 3.54) 0.64</td><td>(\u00c03.92, 2.07) \u00c00.18</td><td>.78</td></tr><tr><td/><td>(\u00c02.77, 2.55)</td><td>(\u00c02.22, 3.11)</td><td>(\u00c01.50, 3.36)</td><td>(\u00c01.90, 2.44)</td><td/></tr><tr><td>Extrinsic EAA at year 15 a</td><td>\u00c02.28</td><td>\u00c00.23</td><td>\u00c01.90</td><td>\u00c01.54</td><td>.01</td></tr><tr><td/><td>(\u00c05.22, 1.46)</td><td>(\u00c02.42, 2.58)</td><td>(\u00c04.78, 1.10)</td><td>(\u00c04.18, 2.23)</td><td/></tr><tr><td>Extrinsic EAA at year 20 a</td><td>0.064</td><td>0.44</td><td>0.052</td><td>0.064</td><td>.88</td></tr><tr><td>Change in extrinsic EAA between years 15 and 20 a</td><td>(\u00c03.32, 2.68) 0.98</td><td>(\u00c01.94, 3.16) 0.99</td><td>(\u00c03.86, 2.46) 0.76</td><td>(\u00c02.54, 2.62) 2.42</td><td>.78</td></tr><tr><td/><td>(\u00c01.79, 2.87)</td><td>(\u00c02.13, 2.58)</td><td>(\u00c00.92, 3.68)</td><td>(\u00c00.52, 4.20)</td><td/></tr><tr><td>Kim. AMH and leukocyte aging markers. Fertil Steril 2022.</td><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF2": {
+                "html": null,
+                "num": null,
+                "text": "Associations between AMH quartile at examination year 15 with telomere length, mtDNA copy number, and intrinsic and extrinsic EAA (b-coefficients and 95% confidence intervals) The reference group is the lowest AMH quartile, and the range of AMH values for each quartile is shown (ng/dL).There were adjusted for chronological age (y), race (Black vs. White), and cigarette use.AMH \u00bc antim\u20ac ullerian hormone; bps \u00bc base pairs; EAA \u00bc epigenetic age acceleration; mtDNA \u00bc mitochondrial deoxyribonucleic acid.a P< .05.",
+                "content": "<table><tr><td>Telomere length (bps)</td><td/><td/><td/></tr><tr><td>AMH quartile (ng/dl)</td><td>Year 15</td><td>Year 25</td><td>Change between years 15 and 25</td></tr><tr><td/><td>N [ 384</td><td>N [ 384</td><td>N[ 382</td></tr><tr><td>AMH Q1</td><td>Reference</td><td>Reference</td><td>Reference</td></tr><tr><td>(0, 0.16)</td><td/><td/><td/></tr><tr><td>AMH Q2</td><td>0.01 (\u00c00.04, 0.07)</td><td>0.01 (\u00c00.02, 0.04)</td><td>\u00c00.002 (\u00c00.050, 0.046)</td></tr><tr><td>(0.17, 0.64)</td><td/><td/><td/></tr><tr><td>AMH Q3</td><td>0.03 (\u00c00.03, 0.09)</td><td>0.02 (\u00c00.02, 0.05)</td><td>\u00c00.010 (\u00c00.059, 0.041)</td></tr><tr><td>(0.65, 1.93)</td><td/><td/><td/></tr><tr><td>AMH Q4</td><td>0.02 (\u00c00.04, 0.09)</td><td>\u00c00.02 (\u00c00.06, 0.02)</td><td>\u00c00.036 (\u00c00.091, 0.019)</td></tr><tr><td>(1.94, 12.7)</td><td/><td/><td/></tr><tr><td>mtDNA copy number (n)</td><td/><td/><td/></tr><tr><td/><td>Year 15</td><td>Year 25</td><td>Change between years 15 and 25</td></tr><tr><td/><td>N [ 386</td><td>N [ 386</td><td>N [ 386</td></tr><tr><td>AMH Q1</td><td>Reference</td><td>Reference</td><td>Reference</td></tr><tr><td>(0, 0.16)</td><td/><td/><td/></tr><tr><td>AMH Q2</td><td>\u00c026.0 (\u00c066.6, 14.6)</td><td>13.7 (\u00c026.4, 53.8)</td><td>39.7 (\u00c03.5, 82.9)</td></tr><tr><td>(0.17, 0.64)</td><td/><td/><td/></tr><tr><td>AMH Q3</td><td>11.3 (\u00c031.1, 53.7)</td><td>18.6 (\u00c023.3, 60.5)</td><td>7.3 (\u00c037.8, 52.3)</td></tr><tr><td>(0.65, 1.93)</td><td/><td/><td/></tr><tr><td>AMH Q4</td><td>28.5 (\u00c018.0, 74.9)</td><td>45.4 (\u00c00.5, 91.3)</td><td>16.9 (\u00c032.3, 66.2)</td></tr><tr><td>(1.94, 12.7)</td><td/><td/><td/></tr><tr><td colspan=\"3\">Intrinsic EAA (positive values indicate faster epigenetic aging than chronological aging)</td><td/></tr><tr><td/><td>Year 15</td><td>Year 20</td><td>Change between years 15 and 20</td></tr><tr><td/><td>N [ 256</td><td>N [ 228</td><td>N [ 220</td></tr><tr><td>AMH Q1</td><td>Reference</td><td>Reference</td><td>Reference</td></tr><tr><td>(0, 0.19)</td><td/><td/><td/></tr><tr><td>AMH Q2</td><td>\u00c00.60 (\u00c01.95, 0.76)</td><td>\u00c00.02 (\u00c01.72, 1.67)</td><td>1.05 (\u00c00.63, 2.74)</td></tr><tr><td>(0.2, 0.65)</td><td/><td/><td/></tr><tr><td>AMH Q3</td><td>\u00c00.40 (\u00c01.80, 1.01)</td><td>\u00c00.13 (\u00c01.85, 1.59)</td><td>0.70 (\u00c01.02, 2.41)</td></tr><tr><td>(0.67, 1.82)</td><td/><td/><td/></tr><tr><td>AMH Q4</td><td>\u00c01.03 (\u00c02.60, 0.55)</td><td>\u00c00.59 (\u00c02.53, 1.35)</td><td>1.09 (\u00c00.84, 3.02)</td></tr><tr><td>(1.88, 12.7)</td><td/><td/><td/></tr><tr><td colspan=\"3\">Extrinsic EAA (positive values indicate faster epigenetic aging than chronological aging)</td><td/></tr><tr><td/><td>Year 15</td><td>Year 20</td><td>Change between years 15 and 20</td></tr><tr><td/><td>N [ 256</td><td>N [ 228</td><td>N [ 220</td></tr><tr><td>AMH Q1</td><td>Reference</td><td>Reference</td><td>Reference</td></tr><tr><td>(0, 0.19)</td><td/><td/><td/></tr><tr><td>AMH Q2</td><td>1.84 (0.20, 3.49) a</td><td>0.50 (\u00c01.49, 2.49)</td><td>\u00c00.77 (\u00c02.57, 1.03)</td></tr><tr><td>(0.2, 0.65)</td><td/><td/><td/></tr><tr><td>AMH Q3</td><td>\u00c00.04 (\u00c01.74, 1.66)</td><td>0.18 (\u00c01.84, 2.20)</td><td>0.45 (\u00c01.38, 2.27)</td></tr><tr><td>(0.67, 1.82)</td><td/><td/><td/></tr><tr><td>AMH Q4</td><td>0.41 (\u00c01.15, 2.32)</td><td>\u00c00.07 (\u00c02.34, 2.21)</td><td>0.14 (\u00c01.92, 2.20)</td></tr><tr><td>(1.88, 12.7)</td><td/><td/><td/></tr><tr><td colspan=\"2\">Kim. AMH and leukocyte aging markers. Fertil Steril 2022.</td><td/><td/></tr></table>",
+                "type_str": "table"
+            }
+        }
+    }
+}

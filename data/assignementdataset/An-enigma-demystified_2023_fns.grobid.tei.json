@@ -1,0 +1,205 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\An-enigma-demystified_2023_fns",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:28.905082Z"
+    },
+    "title": "An enigma demystified",
+    "authors": [
+        {
+            "first": "Deborah",
+            "middle": [
+                "A"
+            ],
+            "last": "Lee",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "G",
+            "middle": [
+                "Wright"
+            ],
+            "last": "Bates",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\An-enigma-demystified_2023_fns",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2023.04.019",
+        "keywords": [],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "Endometriosis is a reproductive enigma as few conditions in medicine are as mysterious and hard to understand.There are several potential etiologies for endometriosis, and the pathophysiology is equally diverse with a wide range of clinical presentations.Endometriosis often presents with cyclic pelvic pain and infertility, but its inflammation and dysregulation extend to multiple organ systems.Disease recognition is also poor with up to a decade or more in the delay of diagnosis, with many patients initially misdiagnosed (1) .Although surgical pathology has been traditionally the gold standard, visualization at the time of surgery of superficial or deep infiltrating lesions and endometriotic cysts or endometriomas is considered diagnostic.Likewise, infections of the pelvis, including pelvic inflammatory disease (PID) or tubal ovarian abscesses (TOA), are often misdiagnosed, overdiagnosed, and underdiagnosed with a profound impact on reproductive potential.Tubal infertility and in worst-case scenarios, hysterectomy or salpingectomy can occur when conservative therapy fails.The challenge of diagnosis and treatment is compounded when endometriosis and infection coexist because the symptoms overlap and imaging may not differentiate a TOA from an endometrioma.The presence of endometriotic fluid may also serve as a nidus for infection or an avascular incubator for bacteria protected from antibiotic therapy.Previous studies have supported the notion that an endometrioma is a risk factor for PID or TOA because it serves as a growth medium or an in vivo chocolate agar petri dish.",
+                "cite_spans": [
+                    {
+                        "start": 527,
+                        "end": 530,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "An enigma demystified",
+                "sec_num": null
+            },
+            {
+                "text": "Shats et al. (2) addressed the challenges inherent in treating women with endometriosis who develop a pelvic infection as they shed light on treatment outcomes.They retrospectively evaluated a cohort of 116 patients with known endometriosis from a university-based tertiary care center.The control group included 59 patients with endometriosis (superficial or deep infiltrating lesions) without an endometrioma.In their cohort, patients with an endometrioma and a superimposed PID were less responsive to standard antibiotic treatment and more likely to require surgical intervention.Duration of hospitalization, need for readmission, and evidence of sepsis or positive blood cultures did not increase in patients with endometriomas.",
+                "cite_spans": [
+                    {
+                        "start": 13,
+                        "end": 16,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "An enigma demystified",
+                "sec_num": null
+            },
+            {
+                "text": "A history of infertility was more common in the endometrioma group.For those of us who commonly treat infertility and worry about the potential negative impact of our treatments, it was somewhat reassuring that recent oocyte retrieval, embryo transfer, intrauterine insemination, or hysteroscopy were not associated with an increased risk of severe PID.However, the small number of patients in the subgroup with recent oocyte retrieval and the lack of information regarding whether entry into an endometrioma occurred limit any meaningful change in the dogma to avoid entering an endometrioma, when possible, during egg retrievals.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "An enigma demystified",
+                "sec_num": null
+            },
+            {
+                "text": "Several potential confounders exist in the cohort.The patients represent a unique subset of women with endometriosis who likely failed initial treatment and were referred to a tertiary ''Endometriosis Center.''Although insertion of an intrauterine device carries only a very small risk of pelvic infection, the study group was less likely to have an intrauterine device in place compared with the control group.The potential for misdiagnosing an endometrioma as a TOA or pelvic abscess is also a potential confounder.The diagnosis of endometriosis was not confirmed surgically in almost half of the patients but instead relied on imaging with ultrasound or magnetic resonance imaging.The study included only hospitalized individuals; therefore, generalizability to outpatient treatment of PID is limited.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "An enigma demystified",
+                "sec_num": null
+            },
+            {
+                "text": "Timely, accurate diagnosis and effective treatment are critical in the treatment of pelvic infections.Although endometriosis muddies the water when caring for patients with PID or a TOA, Shats et al.'s (1) work raises awareness of the potential need for surgical intervention.Heightened clinical suspicion is essential to limit both short-term complications of persistent infection and the long-term burden of chronic pelvic pain and infertility.This submission has improved the care of our patients by further demystifying the enigma of endometriosis when pelvic infection is present.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "An enigma demystified",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Endometriosis is a chronic systemic disease: clinical challenges and novel innovations",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Taylor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kotlyar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Flores",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Lancet",
+                "volume": "397",
+                "issue": "",
+                "pages": "839--852",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Endometrioma increases the risk of antibiotic treatment failure and surgical intervention in patients with pelvic inflammatory disease",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Shats",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Bart",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Burke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Cohen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Zolti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Zajicek",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "Fertil Steril",
+                "volume": "119",
+                "issue": "",
+                "pages": "1008--1015",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "uris": null,
+                "num": null,
+                "text": "Deborah A. Lee, M.D. G. Wright Bates Jr., M.D. Department of Obstetrics and Gynecology, Baylor Scott & White Health, Baylor College of Medicine, Temple, Texas https://doi.org/10.1016/j.fertnstert.2023.04.019",
+                "fig_num": null,
+                "type_str": "figure"
+            }
+        }
+    }
+}

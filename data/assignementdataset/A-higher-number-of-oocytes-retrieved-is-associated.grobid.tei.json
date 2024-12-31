@@ -1,0 +1,2438 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\A-higher-number-of-oocytes-retrieved-is-associated",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:28.562425Z"
+    },
+    "title": "A higher number of oocytes retrieved is associated with an increase in fertilized oocytes, blastocysts, and cumulative live birth rates",
+    "authors": [
+        {
+            "first": "Michael",
+            "middle": [],
+            "last": "Fanton",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Alife Health, Inc",
+                "location": {
+                    "settlement": "Cambridge",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Justina",
+            "middle": [
+                "Hyunjii"
+            ],
+            "last": "Cho",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Alife Health, Inc",
+                "location": {
+                    "settlement": "Cambridge",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Valerie",
+            "middle": [
+                "L"
+            ],
+            "last": "Baker",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Johns Hopkins University School of Medicine",
+                "location": {
+                    "settlement": "Baltimore",
+                    "region": "Maryland"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Kevin",
+            "middle": [],
+            "last": "Loewke",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Alife Health, Inc",
+                "location": {
+                    "settlement": "Cambridge",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": "kloewke@alifehealth.com"
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objective: To investigate the association between the number of oocytes retrieved and the numbers of fertilized oocytes and blastocysts and cumulative and primary transfer live birth rates (LBRs).",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\A-higher-number-of-oocytes-retrieved-is-associated",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2023.01.001",
+        "keywords": [
+            "Retrospective study. Setting: Retrieval cycles and linked embryo transfers from the Society for Assisted Reproductive Technology Cumulative live birth rate",
+            "IVF",
+            "oocytes",
+            "ovarian stimulation"
+        ],
+        "abstract": [
+            {
+                "text": "Objective: To investigate the association between the number of oocytes retrieved and the numbers of fertilized oocytes and blastocysts and cumulative and primary transfer live birth rates (LBRs).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "uring in vitro fertilization (IVF), the ovaries are stimulated with gonadotropins to promote the development of multiple follicles, with the objective of retrieving multiple high-quality oocytes.Retrieving several oocytes theoretically improves the chances of achieving a live birth by increasing the number of embryos available for transfer.However, stimulating a patient to develop a large number of follicles increases their risk of ovarian hyperstimulation syndrome (OHSS).Although the adverse effects of OHSS to the patient are well established, it is less clear what impact retrieving a large number of eggs may have on oocyte quality (1) (2) (3) .",
+                "cite_spans": [
+                    {
+                        "start": 641,
+                        "end": 644,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 645,
+                        "end": 648,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 649,
+                        "end": 652,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D",
+                "sec_num": null
+            },
+            {
+                "text": "One of the long-standing questions of IVF over the years has been the following: ''are more eggs better?''Numerous studies have investigated the relationship between the number of oocytes retrieved during ovarian stimulation and live birth outcomes.These studies have generally focused on either the fresh embryo transfer live birth rate (LBR) or cumulative LBR, which accounts for live birth outcomes from fresh transfers and all subsequent frozen embryo transfers (FETs).When considering the fresh embryo transfer LBR, it has been suggested that optimal outcomes are achieved when retrieving between 6 and 15 oocytes, with <6 oocytes retrieved resulting in a lower fresh LBR and >15 oocytes retrieved resulting in either a plateau (1, (4) (5) (6) or moderate decline (7, 8) in the fresh LBR.When considering the cumulative LBR, studies have generally reported a positive trend where more oocytes result in a higher cumulative LBR, with no apparent detriment to retrieving a high number of oocytes (9) (10) (11) (12) (13) .",
+                "cite_spans": [
+                    {
+                        "start": 733,
+                        "end": 736,
+                        "text": "(1,",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 737,
+                        "end": 740,
+                        "text": "(4)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 741,
+                        "end": 744,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 745,
+                        "end": 748,
+                        "text": "(6)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 769,
+                        "end": 772,
+                        "text": "(7,",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 773,
+                        "end": 775,
+                        "text": "8)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 999,
+                        "end": 1002,
+                        "text": "(9)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1003,
+                        "end": 1007,
+                        "text": "(10)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1008,
+                        "end": 1012,
+                        "text": "(11)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1013,
+                        "end": 1017,
+                        "text": "(12)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 1018,
+                        "end": 1022,
+                        "text": "(13)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D",
+                "sec_num": null
+            },
+            {
+                "text": "Although some studies suggest that ''more eggs are better'' when considering live birth potential from all retrieved oocytes, this has not been definitively established using a large data set representing a diverse population.Moreover, the IVF techniques have significantly changed over the past decade with embryo culture to the blastocyst stage, more reliable cryopreservation, freeze-all cycles, and preimplantation genetic testing (PGT) (14) .There is a need to continue to establish the relationship between oocytes retrieved and live birth outcomes, ideally on a large data set that reflects the current practices of IVF.Therefore, we set out to investigate this topic using the latest data (from 2014 to 2019) from the Society for Assisted Reproductive Technology Clinic Outcome Reporting System (SART CORS) database.To reflect the shift toward more freeze-all cycles, the SART CORS now defines ''primary'' embryo transfers as the first transfer that occurs after retrieval (whether fresh or frozen-thawed) and ''secondary'' embryo transfers as any subsequent frozen-thawed embryo transfers.Accordingly, the most relevant LBR metrics to patients currently are the primary transfer LBR, to capture the chances of success on the first transfer, and cumulative LBR, to capture the chances of success should they continue treatment after the primary transfer.",
+                "cite_spans": [
+                    {
+                        "start": 441,
+                        "end": 445,
+                        "text": "(14)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D",
+                "sec_num": null
+            },
+            {
+                "text": "The primary goal of this study was to determine whether a high number of oocytes retrieved during ovarian stimulation increase the chances of live birth.To this end, we investigated the association between the number of oocytes and fertilized oocytes (2PNs), blastocysts, primary transfer LBR, and cumulative LBR using a large national data set of retrieval cycles and linked FETs from the SART CORS.Furthermore, we stratified the primary transfer LBR by fresh transfers, PGT frozen transfers, and non-PGT frozen transfers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D",
+                "sec_num": null
+            },
+            {
+                "text": "This study was conducted after the research protocol approved by WCG IRB (study no.1308073) and the SART Research Committee.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Ethics Approval",
+                "sec_num": null
+            },
+            {
+                "text": "This was a retrospective study using autologous IVF retrieval cycles (IVF, oocyte banking, and embryo banking cycles) and linked FETs from IVF clinics in the United States between 2014 and 2019.The data used for this study were obtained from the SART CORS.Data were collected through voluntary submission, verified by the SART, and reported to the Centers for Disease Control and Prevention (CDC) in compliance with the Fertility Clinic Success Rate and Certification Act of 1992 (Public Law 102-493).The SART maintains Health Insurance Portability and Accountability Act-compliant business associate agreements with reporting clinics.In 2004, after a contract change with the CDC, the SART gained access to the SART CORS data system for the purposes of conducting research.In 2017, 82% of all assisted reproductive technology clinics in the United States were SART members (15) .",
+                "cite_spans": [
+                    {
+                        "start": 874,
+                        "end": 878,
+                        "text": "(15)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study Population",
+                "sec_num": null
+            },
+            {
+                "text": "The data in the SART CORS are validated annually with 7%-10% of clinics receiving on-site visits for chart review on the basis of an algorithm for clinic selection.During each visit, data reported by the clinic were compared with information recorded in patients' charts.In 2019, records for 2,014 cycles at 34 clinics were randomly selected for full validation, along with 213 fertility preservation cycles selected for partial validation.The full validation included review of 1,300 cycles for which a pregnancy was reported.Nine of 11 data fields selected for validation were found to have discrepancy rates of %5% (15) .The exceptions were the diagnosis field, which, depending on the diagnosis, had a discrepancy rate between 2.5% and 17.8%, and the start date, which had a discrepancy rate of 8.4%.Obstetric outcomes from Massachusetts assisted reproductive technology records during 2004-2008 have been validated to have >95% agreement with vital records (16) .",
+                "cite_spans": [
+                    {
+                        "start": 618,
+                        "end": 622,
+                        "text": "(15)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 962,
+                        "end": 966,
+                        "text": "(16)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study Population",
+                "sec_num": null
+            },
+            {
+                "text": "A total of 1,283,131 retrieval cycles and FETs were retrieved from the SART CORS database.Retrieval cycles were excluded from analysis if they were missing baseline anti-m\u20ac ullerian hormone (AMH) or body mass index (BMI).Cancelled cycles where egg retrieval was not attempted were also excluded.Furthermore, cycles where the number of 2PNs exceeded the number of oocytes retrieved were excluded.In total, 402,411 retrieval cycles were included in the study, from 296,409 patients.For retrieval cycles with blastocyst-stage embryo transfers (n \u00bc 173,066), the number of total blastocysts was calculated as the sum of the number of transferred and frozen embryos.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data Preparation",
+                "sec_num": null
+            },
+            {
+                "text": "The cumulative LBR was calculated on a per-retrieval basis and was defined as at least 1 live birth from all linked embryo transfers (i.e., accounting only for the first live birth associated with a retrieval).All linked embryo transfers were included in the cumulative LBR calculation regardless of how long the transfer occurred after retrieval, and both cleavage-stage and blastocyst-stage embryo transfers were included.This estimate of the cumulative LBR is conservative because it does not account for any unused frozen embryos.Oocyte and embryo banking retrievals without a fresh transfer or any linked FETs were excluded from this analysis (6.7% of all retrievals).The primary transfer LBR was calculated on a per-retrieval basis and was defined as a live birth from the first embryo transfer associated with the retrieval.Most primary transfers were transfers of a single embryo; however, transfers of >1 embryo were also included.We also reported the primary transfer LBR on a per-transfer basis, stratified into fresh primary transfers (n \u00bc 156,581), frozen primary transfers with PGT (n \u00bc 79,329), and frozen primary transfers without PGT (n \u00bc 42,959).The stratified primary transfer LBR values were reported on a per-transfer basis because it was often unclear whether the intended primary transfer would have been fresh or frozen for patients without any available embryos.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "LBR Calculations",
+                "sec_num": null
+            },
+            {
+                "text": "The relationships between the number of oocytes retrieved and the number of 2PNs and blastocysts were assessed using the Pearson correlation and by computing the least-squares best fit.The cumulative and primary transfer LBRs were calculated per the number of oocytes in the associated retrieval.Cumulative LBR calculations were further stratified by the standardized SART patient age groups (<35, 35-37, 38-40, 41-42, and >42 years), AMH quartiles (%1.0, 1.0-2.0,2.0-3.9, and >3.9), BMI groups (%18.5, 18.5-25, 25-30, and >30 kg/m 2 ), and infertility diagnoses (Supplemental Table 1 , available online).On each graph, data points calculated with fewer than 100 cycles were removed to reduce noise and improve visualization.To assess the relationship between the number of oocytes retrieved and LBR metrics, the multivariate mixed-effects logistic regression models were trained using the categorical values of oocytes retrieved, patient age, BMI, AMH, and infertility diagnoses (Supplemental Table 1 ) as the predictor variables and the cumulative and primary transfer LBRs as the response variables.Mixed-effects modeling was used to account for patients with repeated cycles.To match the SART CORS live birth prediction model (17) , age was categorized as 18-29, 30-34, 35-37, 38-39, 40-44, and 45-59 years, and BMI was categorized as %18.4,18.5-24.9,25.0-29.9,30.0-34.9, 35.0-39.9,40.0-44.9,45.0-49.9, and R50.0 kg/m 2 .The odds ratios with 95% Wald confidence intervals were computed from the fitted coefficients to estimate the effect of oocytes retrieved on the cumulative and primary transfer LBRs while controlling for patient age, BMI, AMH, and infertility diagnoses.",
+                "cite_spans": [
+                    {
+                        "start": 1230,
+                        "end": 1234,
+                        "text": "(17)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 583,
+                        "end": 584,
+                        "text": "1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1000,
+                        "end": 1001,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Statistical Analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Supplemental Table 1 summarizes the patient demographics and cycle information for cycles included in the study.Supplemental Table 2 summarizes the IVF cycle types, stratified by year of treatment start.Among all primary transfers (i.e., first transfer after retrieval), the percentage of frozen embryo primary transfers increased from 21% in 2014 to 58% in 2019.Among all retrievals, the percentage of retrievals in which PGT was performed on at least 1 embryo increased from 16% in 2014 to 50% in 2019.There were 1,975 retrieval cycles with reported moderate OHSS and 416 retrieval cycles with reported severe OHSS.The percent of cycles with OHSS decreased from 1.2% in 2014 to 0.34% in 2019.Across all retrievals, 6.7% were embryo banking cycles with no attempted embryo transfer (n \u00bc 16,849).Supplemental Table 3 summarizes the number of cycles in each oocyte group used for the statistical analyses as well as the total number of live births for each oocyte group.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 19,
+                        "end": 20,
+                        "text": "1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 131,
+                        "end": 132,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 815,
+                        "end": 816,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS",
+                "sec_num": null
+            },
+            {
+                "text": "Across all retrieval cycles, including embryo banking cycles, there was a strong positive linear correlation between oocytes and 2PNs (r \u00bc 0.86, P< .01)and between oocytes and blastocysts (r \u00bc 0.85, P< .01)(Fig. 1 ).On average across all patients, 63.1% of oocytes developed into 2PNs, and 32.4% of oocytes developed into blastocysts.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 212,
+                        "end": 213,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Laboratory Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "The primary transfer LBR per retrieval increased with the number of oocytes retrieved until approximately 16-20 oocytes, at which point it began to plateau (Fig. 2 and Supplemental Table 4 ).The primary transfer LBR per transfer was stratified by fresh transfers, frozen transfers without PGT, and frozen transfers with PGT (Fig. 2 ).For fresh transfers, the primary transfer LBR increased until approximately 15 oocytes, at which point it plateaued.The primary transfer LBR was lower for fresh transfers than for frozen transfers without PGT.Frozen primary transfers with PGT had the highest primary transfer LBR, especially at lower oocyte yields, and only increased moderately with the number of oocytes retrieved.For fresh transfers, using 11-15 oocytes retrieved as a reference group, the odds ratio of live birth showed a statistically significant decrease (P< .01)at the 2 lowest groups (0-5 and 6-10 oocytes retrieved), remained close to 1 between 16 and 30 oocytes, and had a statistically significant decrease (.01<P< .05) between 31 and 40 oocytes (Table 1 ).For frozen transfers, the odds ratio increased with each successive oocyte group until 26-30 oocytes retrieved for non-PGT transfers and until 16-20 oocytes retrieved for PGT transfers (Table 1 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 162,
+                        "end": 163,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 187,
+                        "end": 188,
+                        "text": "4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 330,
+                        "end": 331,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1066,
+                        "end": 1067,
+                        "text": "1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1262,
+                        "end": 1263,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Primary Transfer LBR",
+                "sec_num": null
+            },
+            {
+                "text": "The cumulative LBR per-retrieval cycle increased with the number of oocytes retrieved (Fig. 2 and Supplemental Table 4 ).The cumulative LBR increased rapidly to approximately 16-20 oocytes, at which point it continued to increase but with diminishing returns.The increasing trend of the Linear correlations between oocytes retrieved (x-axis) and fertilized oocytes (2PNs, normally fertilized oocytes) and blastocysts (y-axis).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 92,
+                        "end": 93,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 117,
+                        "end": 118,
+                        "text": "4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Cumulative LBR",
+                "sec_num": null
+            },
+            {
+                "text": "There was a strong positive linear correlation between oocytes and 2PNs (r \u00bc 0.86, P<.01) and between oocytes and blastocysts (r \u00bc 0.85, P<.01).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cumulative LBR",
+                "sec_num": null
+            },
+            {
+                "text": "Fanton.More eggs lead to higher birth rates.Fertil Steril 2023.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cumulative LBR",
+                "sec_num": null
+            },
+            {
+                "text": "cumulative LBR was still observed for all groups when stratifying patients by age, AMH, BMI, and infertility diagnoses (Fig. 3 ).Multivariate logistic regression also showed an increase in the cumulative LBR with oocytes retrieved.Using 11-15 oocytes retrieved as a reference group, the odds ratio of live birth on the basis of the oocyte group increased with each successive oocyte group up to 36-40 oocytes (Table 1 ).Model coefficients were statistically significant (P< .05)for all oocyte groups.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 125,
+                        "end": 126,
+                        "text": "3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 416,
+                        "end": 417,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Cumulative LBR",
+                "sec_num": null
+            },
+            {
+                "text": "In this study, we determined whether a high number of oocytes retrieved during ovarian stimulation increase the chances of live birth.Using recent data between 2014 and 2019 from the SART CORS, we found that the primary transfer LBR plateaued but did not substantially decrease with higher oocyte yields, whereas the cumulative LBR increased with the number of oocytes retrieved.Furthermore, the strong linear correlations between oocytes and 2PNs/blastocysts indicate that the mean conversion rates from oocytes to 2PNs and oocytes to blastocysts do not decline at high oocyte yields.Together, these results suggest that a high number of oocytes retrieved is associated with an improved cumulative LBR and is not associated with an inherent reduction in oocyte quality.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Studies have shown that the cumulative LBR increases with an increasing number of oocytes retrieved (9-13).Retrieving more oocytes allows for additional opportunities to continue treatment, which leads to higher cumulative success rates (18) .This study confirms this finding across a large national data set that reflects the current trends of IVF in the United States with the increased prevalence of blastocyst-stage culture, freeze-all cycles, and PGT.It has been hypothesized that there is a limit to the number of follicles that can be stimulated to produce high-quality oocytes and retrieving too many eggs may be detrimental to oocyte quality (7) .However, our data do not support this theory, given the strong linear correlation between oocytes and 2PNs and between oocytes and blastocysts, even at high oocyte yields.After stratifying patients by age, AMH, BMI, and infertility diagnoses, we found that the cumulative LBR increases with the number of oocytes retrieved for all groups (Fig. 3 ).However, age was also a key factor for determining the cumulative LBR.For example, patients aged >40 years had a cumulative LBR well under 40%, even when retrieving a large number of oocytes.",
+                "cite_spans": [
+                    {
+                        "start": 237,
+                        "end": 241,
+                        "text": "(18)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 651,
+                        "end": 654,
+                        "text": "(7)",
+                        "ref_id": "BIBREF6"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1000,
+                        "end": 1001,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "To maximize the fresh transfer LBR, studies have argued that there is an optimal range between 6 and 15 oocytes (1, (4) (5) (6) (7) (8) .However, we found that the fresh primary transfer LBR was highest between 11 and 30 oocytes.Our results also suggest that retrieving between 6 and 10 oocytes and 31 and 40 oocytes would result in a primary transfer LBR slightly lower than the optimal range (odds ratios between 0.83 and 0.88).However, given that <1% of cycles in the data set had more than 30 oocytes retrieved and a fresh transfer (Supplemental Table 3 ), the slight decrease in the primary transfer LBR for the 31-40 oocyte groups may not be relevant for most patients.The observed increase in the fresh primary transfer LBR up to 30 oocytes is consistent with studies using the SART CORS data from 2005 to 2010 (19) and from 2014 to 2015 (20) .The success rates for fresh primary transfers were lower than those for frozen primary transfers without PGT, which could be an effect of elevated estradiol levels or could reflect the fact that fresh transfers may be more common for lower-prognosis patients.Frozen primary transfers with PGT had the highest success rates, which were similar to the previously reported birth rates for euploid embryo transfers (21) .The increase in the number of cycles with PGT between 2014 and 2019 could be due to the shift toward freeze-all cycles and the relatively high success rates of euploid embryo transfers (Supplemental Table 2 ).",
+                "cite_spans": [
+                    {
+                        "start": 112,
+                        "end": 115,
+                        "text": "(1,",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 116,
+                        "end": 119,
+                        "text": "(4)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 120,
+                        "end": 123,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 124,
+                        "end": 127,
+                        "text": "(6)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 128,
+                        "end": 131,
+                        "text": "(7)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 132,
+                        "end": 135,
+                        "text": "(8)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 818,
+                        "end": 822,
+                        "text": "(19)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 845,
+                        "end": 849,
+                        "text": "(20)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 1262,
+                        "end": 1266,
+                        "text": "(21)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 556,
+                        "end": 557,
+                        "text": "3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1473,
+                        "end": 1474,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The primary transfer and cumulative LBRs were calculated on a per-retrieval basis.The primary transfer LBR was Fanton.More eggs lead to higher birth rates.Fertil Steril 2023.also reported on a per-transfer basis when stratified into fresh, frozen with PGT, and frozen without PGT because it was often unclear whether the intended primary transfer would have been fresh or frozen for patients without any available embryos.The analysis of the per-transfer primary transfer LBR helps to answer the question of whether oocyte quality is impaired when higher numbers of oocytes are retrieved.The analysis of the per-retrieval cumulative LBR, which included nonbanking cycles without attempted embryo transfers (e.g., because of insufficient embryos or no normal PGT results), provides an assessment of the overall benefit to live birth outcomes as higher numbers of oocytes are retrieved.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The findings of this study have important implications for other studies that focus on laboratory outcomes, such as eggs retrieved, mature oocytes, 2PNs, or blastocysts, especially when data on the cumulative LBR are not available.For example, several studies have used laboratory outcomes to evaluate the efficacy of techniques and protocols for ovarian stimulation.The efficacy of fertility preservation in patients with cancer has been assessed using oocytes retrieved (22, 23) , and the effect of stimulation protocols has been assessed using oocytes, 2PNs, and blastocysts (24, 25) .More recently, artificial intelligence tools have been assessed for their ability to optimize the timing of trigger and maximize the number of mature oocytes (26, 27) or 2PNs (28) .This study helps establish that increasing the number of oocytes does, indeed, increase the cumulative LBR, and focusing on these laboratory outcomes may be a suitable surrogate when data on the cumulative LBR are not available.",
+                "cite_spans": [
+                    {
+                        "start": 472,
+                        "end": 476,
+                        "text": "(22,",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 477,
+                        "end": 480,
+                        "text": "23)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 578,
+                        "end": 582,
+                        "text": "(24,",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 583,
+                        "end": 586,
+                        "text": "25)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 746,
+                        "end": 750,
+                        "text": "(26,",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 751,
+                        "end": 754,
+                        "text": "27)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 763,
+                        "end": 767,
+                        "text": "(28)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "It has been reported that the rate of OHSS increases significantly when retrieving more than 15-18 oocytes (1, 5).In the SART CORS data set, we found that the reported rate of moderate and severe OHSS increased with the number of oocytes (Supplemental Table 4 ), from <0.1% for retrievals with <5 oocytes to 3.1% (moderate OHSS) and 1.3% (severe OHSS) for retrievals with >40 oocytes.Current practices have reduced the risk of severe OHSS substantially by shifting to freeze-all cycles (29) and by using a gonadotropin-releasing hormone trigger instead of human chorionic gonadotropin (30, 31) .Indeed, the prevalence of OHSS has declined significantly in recent years, despite the slight increase in the mean number of oocytes retrieved, and severe OHSS has been reduced to fewer than 0.05% of all cycles reported to the SART CORS in 2019 (Supplemental Table 2 ).These new strategies to reduce the risk of OHSS may make it safer to push for higher oocyte yields to improve the cumulative LBR.However, we acknowledge that OHSS may be underreported to the SART CORS.It is important to weigh the risks of OHSS against the benefits of a higher cumulative LBR during ovarian stimulation, although describing this balance of risk and benefit was not the primary goal of this study.Future studies should seek to understand how best to balance the benefits and risks of retrieving high numbers of oocytes, ideally in a patient-specific manner.Other possible considerations of high oocyte yields include fresh transfer cancellations because of elevated estradiol levels, medication costs, TABLE 1 Odds ratios for each group of oocytes retrieved, using the 11-15 oocytes retrieved as a reference.",
+                "cite_spans": [
+                    {
+                        "start": 585,
+                        "end": 589,
+                        "text": "(30,",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 590,
+                        "end": 593,
+                        "text": "31)",
+                        "ref_id": "BIBREF30"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 258,
+                        "end": 259,
+                        "text": "4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 860,
+                        "end": 861,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1587,
+                        "end": 1588,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Cycle outcomes workload for embryology laboratories, and a potential increased risk of low birth weight for fresh transfers of >1 embryo (19) .This study has several strengths and makes several key novel contributions to the literature.First, our data set was one of the largest and most heterogeneous populations to have been used to establish that the cumulative LBR increases with the number of oocytes retrieved, as the SART CORS includes over 90% of all IVF cycles in the US each year.Second, this study only included recent years of data to reflect current IVF practices, increasing the present-day relevance of these findings.Additionally, this is the first study to use the SART CORS database since the designations of ''primary'' and ''secondary'' embryo transfers were introduced in 2014 and, thus, the first to show how the primary transfer LBR is associated with the number of oocytes retrieved for both fresh and frozen embryos, with and without PGT.Lastly, our results were confirmed after correcting for biases due to age, AMH, BMI, and infertility diagnoses.",
+                "cite_spans": [
+                    {
+                        "start": 137,
+                        "end": 141,
+                        "text": "(19)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "This study has several limitations.First, although clinics are mandated to report to the CDC, membership in the SART and reporting to the SART are voluntary.However, most clinics and cycles in the United States are reported to the SART.Because the database is retrospective and is a registry, it is possible that we were unable to control for confounders not collected in the SART CORS, which could lead to a higher expected chance of pregnancy for women with a high number of oocytes retrieved.We did not stratify the results by stimulation protocol, although we acknowledge that different protocols could affect outcomes.In addition, calculating the cumulative LBR necessitates some assumptions.It is possible that we have underestimated the cumulative LBR because future transfers may occur with embryos that are still frozen.Furthermore, multiple live births resulting from a single retrieval cycle are only counted once because the birth rate cannot go above 100% for our statistical analyses.Lastly, we note that patients were included more than once if they had multiple retrieval cycles and each retrieval cycle was handled independently in the calculation of cumulative live birth.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "In conclusion, this study found that a higher number of oocytes during ovarian stimulation increase the cumulative LBR without substantially impairing the primary transfer LBR or impairing the mean conversion rates from oocytes to 2PNs and oocytes to blastocysts.The fresh primary transfer LBR was highest at 11-30 oocytes retrieved and slightly decreased for 6-10 and 31-40 oocytes.These results were confirmed after controlling for age, AMH, BMI, and infertility diagnoses.Our findings suggest that ovarian stimulation strategies should be optimized for maximum oocytes retrieved while minimizing risks such as OHSS.These presented results on the primary transfer LBR, split by fresh, frozen without PGT, and frozen with PGT, may help clinicians with the choice of which type of primary transfer may be most effective for their patient.Future studies should investigate the optimal way in which to balance the risks of OHSS against the benefits of an increased cumulative LBR.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Fertility and Sterility\u00ae",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Acknowledgments: The authors thank the data science team at Alife Health for their helpful discussions and assistance with data processing.The authors also thank the SART for the data set and all SART members for providing clinical information to the SART CORS database for use by researchers.Without the efforts of the SART members, this research would not have been possible.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "acknowledgement",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Oocyte number as a predictor for ovarian hyperstimulation syndrome and live birth: an analysis of 256,381 in vitro fertilization cycles",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Steward",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Lan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Shah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Yeh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Price",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Goldfarb",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Fertil Steril",
+                "volume": "101",
+                "issue": "",
+                "pages": "967--973",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Oocyte quality in patients with severe ovarian hyperstimulation syndrome: a selfcontrolled clinical study",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Pe\u00f1arrubia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Vidal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Casals",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Vanrell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Balasch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Fertil Steril",
+                "volume": "82",
+                "issue": "",
+                "pages": "827--833",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Oocyte quality in patients with severe ovarian hyperstimulation syndrome",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Aboulghar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Mansour",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Serour",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ramzy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Amin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Fertil Steril",
+                "volume": "68",
+                "issue": "",
+                "pages": "1017--1021",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "A high number of oocytes obtained after ovarian hyperstimulation for in vitro fertilization or intracytoplasmic sperm injection is not associated with decreased pregnancy outcome",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Kok",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Looman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Weima",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Velde",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Fertil Steril",
+                "volume": "85",
+                "issue": "",
+                "pages": "918--924",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "The number of oocytes retrieved during IVF: a balance between efficacy and safety",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Magnusson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "K\u20ac Allen K, Thurin-Kjellberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Bergh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Hum Reprod",
+                "volume": "33",
+                "issue": "",
+                "pages": "58--64",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "High ovarian response does not jeopardize ongoing pregnancy rates and increases cumulative pregnancy rates in a GnRH-antagonist protocol",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Fatemi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Doody",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Griesinger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Witjes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Mannaerts",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Hum Reprod",
+                "volume": "28",
+                "issue": "",
+                "pages": "442--452",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Optimum number of oocytes for a successful first IVF treatment cycle",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Van Der Gaast",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Eijkemans",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Van Der Net",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "De Boer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Burger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Van Leeuwen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Reprod Biomed Online",
+                "volume": "13",
+                "issue": "",
+                "pages": "476--480",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Association between the number of eggs and live birth in IVF treatment: an analysis of 400 135 treatment cycles",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Sunkara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Rittenberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Raine-Fenning",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Bhattacharya",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Zamora",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Coomarasamy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Hum Reprod",
+                "volume": "26",
+                "issue": "",
+                "pages": "1768--1774",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Conventional ovarian stimulation and single embryo transfer for IVF/ICSI. How many oocytes do we need to maximize cumulative live birth rates after utilization of all fresh and frozen embryos?",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Drakopoulos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Blockeel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Stoop",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Camus",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "De Vos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Tournaye",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Hum Reprod",
+                "volume": "31",
+                "issue": "",
+                "pages": "370--376",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "How many oocytes are optimal to achieve multiple live births with one stimulation cycle? The one-and-done approach",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Vaughan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Leung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Resetkova",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Ruthazer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Penzias",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Sakkas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Fertil Steril",
+                "volume": "107",
+                "issue": "3",
+                "pages": "397--404",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Is there an association between oocyte number and embryo quality? A systematic review and meta-analysis",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Vermey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Chua",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Zafarmand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Longobardi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Cottell",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Reprod Biomed Online",
+                "volume": "39",
+                "issue": "",
+                "pages": "751--763",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Cumulative live birth rates according to the number of oocytes retrieved after the first ovarian stimulation for in vitro fertilization/intracyto-plasmic sperm injection: a multicenter multinational analysis including 15,000 women",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Polyzos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Drakopoulos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Parra",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Pellicer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Santos-Ribeiro",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Tournaye",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Fertil Steril",
+                "volume": "110",
+                "issue": "1",
+                "pages": "661--670",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Can you ever collect too many oocytes?",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Briggs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Kovacs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Maclachlan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Motteram",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Baker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Hum Reprod",
+                "volume": "30",
+                "issue": "",
+                "pages": "81--87",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Forty years of IVF",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Niederberger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Pellicer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Cohen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Gardner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Palermo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O'",
+                        "middle": [],
+                        "last": "Neill",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Fertil Steril",
+                "volume": "110",
+                "issue": "5",
+                "pages": "185--324",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "2017 assisted reproductive technology fertility clinic success rates report",
+                "authors": [],
+                "year": 2019,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Validation of birth outcomes from the Society for Assisted Reproductive Technology Clinic Outcome Reporting System (SART CORS): population-based analysis from the Massachusetts Outcome Study of Assisted Reproductive Technology (MOSART)",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Stern",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Gopal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Liberman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Anderka",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kotelchuck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Luke",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Fertil Steril",
+                "volume": "106",
+                "issue": "2",
+                "pages": "717--722",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "A prediction model for live birth and multiple births within the first three cycles of assisted reproductive technology",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Luke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Brown",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Wantman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Stern",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Baker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Widra",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Fertil Steril",
+                "volume": "102",
+                "issue": "",
+                "pages": "744--752",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Cumulative birth rates with linked assisted reproductive technology cycles",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Luke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Brown",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Wantman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Lederman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Gibbons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Schattman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "N Engl J Med",
+                "volume": "366",
+                "issue": "",
+                "pages": "2483--2491",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Association of number of retrieved oocytes with live birth rate and birth weight: an analysis of 231,815 cycles of in vitro fertilization",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Baker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Brown",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Luke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Conrad",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Fertil Steril",
+                "volume": "103",
+                "issue": "2",
+                "pages": "931--938",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Freezing of all embryos in in vitro fertilization is beneficial in high responders, but not intermediate and low responders: an analysis of 82,935 cycles from the Society for Assisted Reproductive Technology registry",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Acharya",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Acharya",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Bishop",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Harris",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Raburn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Muasher",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Fertil Steril",
+                "volume": "110",
+                "issue": "",
+                "pages": "880--887",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Rate of true recurrent implantation failure is low: results of three successive frozen euploid single embryo transfers",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Pirtea",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "De Ziegler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Tao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Sun",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Zhan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ayoubi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "115",
+                "issue": "",
+                "pages": "45--53",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Effective method for emergency fertility preservation: random-start controlled ovarian stimulation",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Cakmak",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Katz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Cedars",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Rosen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Fertil Steril",
+                "volume": "100",
+                "issue": "",
+                "pages": "1673--1680",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Ovarian stimulation for fertility preservation in patients with cancer",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Quintero",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Helmer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "Q"
+                        ],
+                        "last": "Huang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Westphal",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Fertil Steril",
+                "volume": "93",
+                "issue": "",
+                "pages": "865--868",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Changing stimulation protocol on repeat conventional ovarian stimulation cycles does not lead to improved laboratory outcomes",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Wald",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Hariton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Morris",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Chi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Jaswa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Cedars",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "116",
+                "issue": "",
+                "pages": "757--765",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Dual ovarian stimulation is a new viable option for enhancing the oocyte yield when the time for assisted reproductive technnology is limited",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Moffat",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Pirtea",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Gayet",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Wolf",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Chapron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "De Ziegler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Reprod Biomed Online",
+                "volume": "29",
+                "issue": "",
+                "pages": "659--661",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "An interpretable machine learning model for predicting the optimal day of trigger during ovarian stimulation",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Fanton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Nutting",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Solano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Maeder-York",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Hariton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Barash",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Fertil Steril",
+                "volume": "118",
+                "issue": "",
+                "pages": "101--108",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "An interpretable machine learning model for individualized gonadotrophin starting dose selection during ovarian stimulation",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Fanton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Nutting",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Rothman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Maeder-York",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Hariton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Barash",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Reprod Biomed Online",
+                "volume": "45",
+                "issue": "",
+                "pages": "1152--1159",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "A machine learning algorithm can optimize the day of trigger to improve in vitro fertilization outcomes",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Hariton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Chi",
+                        "middle": [
+                            "Ea"
+                        ],
+                        "last": "Chi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Morris",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Braatz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Rajpurkar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "116",
+                "issue": "",
+                "pages": "1227--1235",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Fresh versus frozen embryos for infertility in the polycystic ovary syndrome",
+                "authors": [
+                    {
+                        "first": "Z",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Shi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Sun",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Liang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Cao",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "N Engl J Med",
+                "volume": "375",
+                "issue": "",
+                "pages": "523--533",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "GnRH agonist versus recombinant HCG in an oocyte donation programme: a randomized, prospective, controlled, assessor-blind study",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Melo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Busso",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Bellver",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Alama",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Garrido",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Meseguer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Reprod Biomed Online",
+                "volume": "19",
+                "issue": "",
+                "pages": "486--492",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "The use of gonadotropin-releasing hormone (GnRH) agonist to induce oocyte maturation after cotreatment with GnRH antagonist in high-risk patients undergoing in vitro fertilization prevents the risk of ovarian hyperstimulation syndrome: a prospective randomized controlled study",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Engmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Diluigi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Schmidt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Nulsen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Maier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Benadiva",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Fertil Steril",
+                "volume": "89",
+                "issue": "",
+                "pages": "84--91",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Un mayor n umero de ovocitos recuperados est a asociado con un aumento en el n umero de 2 pron ucleos y blastocistos y tasas acumulativas de nacidos vivos",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Investigar la asociaci on entre el n umero de ovocitos recuperados y el n umero de ovocitos y blastocistos fertilizados y las tasas acumulativas de nacidos vivos (LBRs) de transferencias primarias",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Objetivo",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Ciclos de recuperaci on y transferencias embrionarias vinculadas del Sistema de Reporte de Resultados de la Cl\u00ednica de la Sociedad de Tecnolog\u00eda de Reproducci on Asistida",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Lugar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Paciente (s): Pacientes en los Estados Unidos sometidos a ciclos aut ologos de fertilizaci on",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "): Un mayor n umero de ovocitos recuperados mejora la tasa acumulativa de nacidos vivos sin alterar la tasa de nacidos vivos de transferencia primaria. Esto sugiere que las estrategias de estimulaci on ov arica deber\u00edan apuntar a maximizar el n umero de ovocitos recuperados en forma segura",
+                "authors": [],
+                "year": null,
+                "venue": "La tasa acumulativa de nacidos vivos aument o r apidamente con el n umero de ovocitos recuperados a 16-20 ovocitos aproximadamente, a tal punto que continu o aumentando pero con rendimientos decrecientes",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 1",
+                "fig_num": null,
+                "type_str": "figure"
+            },
+            "FIGREF1": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 2",
+                "fig_num": null,
+                "type_str": "figure"
+            },
+            "FIGREF2": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 3",
+                "fig_num": null,
+                "type_str": "figure"
+            },
+            "FIGREF3": {
+                "uris": null,
+                "num": null,
+                "text": "More eggs lead to higher birth rates.Fertil Steril 2023.",
+                "fig_num": null,
+                "type_str": "figure"
+            }
+        }
+    }
+}

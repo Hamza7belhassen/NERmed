@@ -1,0 +1,4398 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Assisted-reproductive-technology--considerations-f",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:29.407885Z"
+    },
+    "title": "Assisted reproductive technology: considerations for the nonheterosexual population and single parents",
+    "authors": [
+        {
+            "first": "Nicholas",
+            "middle": [
+                "Saleem"
+            ],
+            "last": "Raja",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Colin",
+            "middle": [
+                "B"
+            ],
+            "last": "Russell",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Michigan",
+                "location": {
+                    "settlement": "Ann Arbor",
+                    "region": "Michigan"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Molly",
+            "middle": [
+                "B"
+            ],
+            "last": "Moravek",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Michigan",
+                "location": {
+                    "settlement": "Ann Arbor",
+                    "region": "Michigan"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "This study aimed to discuss fertility concerns unique to the lesbian, gay, bisexual, transgender, queer, plus and single-parent-to-be populations and review special considerations regarding the evaluation and treatment of these patients relevant to the practicing reproductive medicine provider.The use of assisted reproductive technology has rapidly increased over the past 50 years.Given these trends, providers can expect a greater diversity of patients making use of these technologies.Both the lesbian, gay, bisexual, transgender, queer, plus community and single parents-to-be represent understudied and important populations who often require the use of assisted reproductive technology to build their families.The American Society for Reproductive Medicine advocates for equitable treatment of patients regardless of sexual orientation and partner status, and health care providers working in the fertility field should be comfortable and confident in assessing the needs of and providing care to these populations.(",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Assisted-reproductive-technology--considerations-f",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.04.012",
+        "keywords": [
+            "Assisted reproductive technology",
+            "LGBTQ\u00fe",
+            "single parent",
+            "diversity"
+        ],
+        "abstract": [
+            {
+                "text": "This study aimed to discuss fertility concerns unique to the lesbian, gay, bisexual, transgender, queer, plus and single-parent-to-be populations and review special considerations regarding the evaluation and treatment of these patients relevant to the practicing reproductive medicine provider.The use of assisted reproductive technology has rapidly increased over the past 50 years.Given these trends, providers can expect a greater diversity of patients making use of these technologies.Both the lesbian, gay, bisexual, transgender, queer, plus community and single parents-to-be represent understudied and important populations who often require the use of assisted reproductive technology to build their families.The American Society for Reproductive Medicine advocates for equitable treatment of patients regardless of sexual orientation and partner status, and health care providers working in the fertility field should be comfortable and confident in assessing the needs of and providing care to these populations.(",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "ince the birth of the first infant via in vitro fertilization (IVF) in 1978, the utilization of assisted reproductive technology (ART) has dramatically increased in the United States over the last several decades (1) (2) (3) (4) .In recent years, ART has been used in approximately 2% of live births in the United States (3, 5) .Along with increasing ART utilization, there is increasing diversity among the ART population.Although issues of cost and access to care within reproductive medicine remain prominent, providers can expect to see individuals from a range of racial, ethnic, socioeconomic, and educational backgrounds as well as more single and nonheterosexual patients.As these trends continue, it is important to understand both ART patterns and individual needs of these populations to provide appropriate and quality care.Herein, we discuss the evaluation and management of 2 ART subpopulations: single parents-to-be and lesbian, gay, bisexual, transgender, queer, plus (LGBTQ\u00fe) patients.",
+                "cite_spans": [
+                    {
+                        "start": 213,
+                        "end": 216,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 217,
+                        "end": 220,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 221,
+                        "end": 224,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 225,
+                        "end": 228,
+                        "text": "(4)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 321,
+                        "end": 324,
+                        "text": "(3,",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 325,
+                        "end": 327,
+                        "text": "5)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "S",
+                "sec_num": null
+            },
+            {
+                "text": "While most children continue to live with 2 parents, the rate of singleparent households continues to increase in the United States (6, 7) .The American Society for Reproductive Medicine (ASRM) noted in 2016 that 17.2 million (23%) children lived with a single mother and 3 million (4%) lived with a single father (7) .While single parents bear an increased share of responsibility in child-rearing, available research indicates that single parents can and do provide safe and secure lives for their children.Several studies have found no differences in mental well-being and childhood adjustment between single-parent and dualparent families (8) (9) (10) (11) .When psychosocial issues do develop in children of single parents, they tend to arise from the same stressors that impact dual-parent families (8) .In 2021, the ASRM reaffirmed its stance that individuals should have access to fertility care irrespective of partner or marital status (7, 12) .",
+                "cite_spans": [
+                    {
+                        "start": 132,
+                        "end": 135,
+                        "text": "(6,",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 136,
+                        "end": 138,
+                        "text": "7)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 314,
+                        "end": 317,
+                        "text": "(7)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 643,
+                        "end": 646,
+                        "text": "(8)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 647,
+                        "end": 650,
+                        "text": "(9)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 651,
+                        "end": 655,
+                        "text": "(10)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 656,
+                        "end": 660,
+                        "text": "(11)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 805,
+                        "end": 808,
+                        "text": "(8)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 946,
+                        "end": 949,
+                        "text": "(7,",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 950,
+                        "end": 953,
+                        "text": "12)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "SINGLE PARENTS-TO-BE",
+                "sec_num": null
+            },
+            {
+                "text": "Discussion of an individual's goals is one of the most important steps in approaching any new patient.Single parents may establish care with the intent to preserve future fertility, whether because they wish to wait for the right partner or they do not currently desire children.In contrast, some patients intend to conceive immediately.An understanding of the patient's or couple's goals will determine subsequent counseling and management.Generally, all patients, single or partnered, should undergo a standard fertility evaluation.Per the ASRM, diagnostic testing should be performed for those with known infertility conditions, such as structural anomalies or disease, and may be warranted for those in need of donor sperm (13) .Providers should collect a detailed medical history and perform a standard physical examination.If a patient has never attempted conception in the past and is presenting for donor inseminations, then the pros and cons of performing fertility testing immediately vs.only if insemination attempts fail should be discussed, with risk factors for issues such as diminished ovarian reserve or tubal disease taken into account.Other considerations, including costs of testing, cost of donor insemination, and time to pregnancy, should also be discussed with the patient.Patients with a uterus and ovaries may undergo ovarian reserve testing, including measurement of early-follicular-phase antral follicle count, folliclestimulating hormone, and antim\u20ac ullerian hormone, and consider a cavity and tubal evaluation via ultrasound and hysterosalpingography with hysteroscopy and saline infusion sonohysterography as needed.Patients with testicles should undergo a semen analysis with additional workup by a urologist reserved for standard indications if they plan to contribute sperm.Of note, all history, examination, clinical laboratory testing, and imaging should be tailored to the individual and/or couple's goals and unique features (13) .",
+                "cite_spans": [
+                    {
+                        "start": 727,
+                        "end": 731,
+                        "text": "(13)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 1964,
+                        "end": 1968,
+                        "text": "(13)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility Workup",
+                "sec_num": null
+            },
+            {
+                "text": "For patients hoping to preserve future fertility, available options include oocyte cryopreservation, IVF with cryopreservation of embryos using donor gametes, or ovarian tissue cryopreservation (OTC).Oocyte freezing and embryo freezing remain the gold standard for fertility preservation because these methods are associated with the highest likelihood of future pregnancy (14, 15) .While OTC is no longer considered experimental, it remains an uncommon practice and may not be available at all centers (15) .",
+                "cite_spans": [
+                    {
+                        "start": 373,
+                        "end": 377,
+                        "text": "(14,",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 378,
+                        "end": 381,
+                        "text": "15)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 503,
+                        "end": 507,
+                        "text": "(15)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Family-Building Options",
+                "sec_num": null
+            },
+            {
+                "text": "Single patients hoping to conceive immediately will require the use of donor gametes.Patients have the option of using donor gametes from anonymous, also known as ''nonidentified,'' or known/directed donors.Nonidentified donors have already met eligibility requirements and undergone mandated Food and Drug Administration (FDA) testing (16, 17) .Patients should be counseled that even known donors are required to undergo screening before providing a sample, including a questionnaire, physical examination, and sexually transmitted disease testing within 7 days of sample donation (17) .Multiple subpopulations are considered ineligible for sperm donation, including men with a history of sex with another man in the last 5 years (16) (17) (18) .Nevertheless, these FDA-ineligible people may donate as a known/directed donor with patient informed consent.Legal agreements are necessary for known/directed donors; however, legal consultation is advisable for all donor gamete arrangements to safely ensure parental rights.Providers should ensure that patients are aware of the benefits and risks associated with each donation method, including cost, ability or inability to make future contact with the donor, and potential custody issues.Individuals who are unable or do not want to carry a pregnancy themselves will also require the use of a gestational carrier to have a biologically related child.There are very limited data regarding the use of gestational carriers by single individuals.Special considerations for gestational carrier relationships will be discussed later in the section on LGBTQ\u00fe patients.",
+                "cite_spans": [
+                    {
+                        "start": 336,
+                        "end": 340,
+                        "text": "(16,",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 341,
+                        "end": 344,
+                        "text": "17)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 582,
+                        "end": 586,
+                        "text": "(17)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 731,
+                        "end": 735,
+                        "text": "(16)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 736,
+                        "end": 740,
+                        "text": "(17)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 741,
+                        "end": 745,
+                        "text": "(18)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Family-Building Options",
+                "sec_num": null
+            },
+            {
+                "text": "Fertility treatment cost remains a critical barrier to several patients and is a critical component of patient counseling.Currently, only 19 states mandate insurance coverage for the evaluation and management of fertility concerns (19) .Among these states, both the criteria to qualify for coverage and maximum coverage amounts are highly heterogeneous.According to the ASRM and several insurance companies, infertility is the failure to achieve a successful pregnancy after 6-12 months of heterosexual intercourse, depending on age (13) .This definition is particularly problematic for single and LGBTQ\u00fe patients because they are excluded from coverage a priori (19) .Careful counseling is required so that patients have an accurate understanding of the financial implications of their options.",
+                "cite_spans": [
+                    {
+                        "start": 231,
+                        "end": 235,
+                        "text": "(19)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 533,
+                        "end": 537,
+                        "text": "(13)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 663,
+                        "end": 667,
+                        "text": "(19)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cost: A Significant Barrier",
+                "sec_num": null
+            },
+            {
+                "text": "The LGBTQ\u00fe community represents an important and understudied part of the ART population because much of ART and associated research focuses on the fertility of heterosexual couples (12, (20) (21) (22) .While same-sex couples are more likely to adopt and foster children, there are an increasing number of LGBTQ\u00fe individuals seeking ART for genetically related children (23) .In 2016, there were 114,000 same-sex couples in the United States raising children, including 24% of female same-sex couples and 8% of male same-sex couples, with 68% of same-sex couples raising biologic children (24, 25) .Available data indicate that the development, adjustment, and mental health of children are not impacted by the gender identity or sexual orientation of parents (7, 9, 12) .",
+                "cite_spans": [
+                    {
+                        "start": 182,
+                        "end": 186,
+                        "text": "(12,",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 187,
+                        "end": 191,
+                        "text": "(20)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 192,
+                        "end": 196,
+                        "text": "(21)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 197,
+                        "end": 201,
+                        "text": "(22)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 370,
+                        "end": 374,
+                        "text": "(23)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 589,
+                        "end": 593,
+                        "text": "(24,",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 594,
+                        "end": 597,
+                        "text": "25)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 760,
+                        "end": 763,
+                        "text": "(7,",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 764,
+                        "end": 766,
+                        "text": "9,",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 767,
+                        "end": 770,
+                        "text": "12)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "LGBTQD PATIENTS",
+                "sec_num": null
+            },
+            {
+                "text": "Consideration of gender identity is equally important.We recognize that a spectrum of gender identities exists and hereon will use transgender-nonbinary (TGNB) as an umbrella term for these diverse communities.Although data regarding the reproductive health of LGBTQ\u00fe individuals are growing, studies focusing on the TGNB community remain particularly scarce.Until only recently, there was widespread belief that TGNB individuals do not want children (26) .In reality, nearly 50% of TGNB individuals are currently parents, and 1 study found that over half of transgender men surveyed expressed a desire to have children (24, 27) .Furthermore, no evidence exists that children of TGNB parents suffer unique harm as a result of their parents' gender identity (7, 12, 28) .It has been well documented that sexual minority populations face higher levels of stress from societal discrimination and institutional exclusion resulting in negative health outcomes (29) (30) (31) (32) (33) . Differences in biologic sex and gender warrant additional nuance to fertility counseling because a same-sex cisgender male couple will have unique needs compared with a transgender/cisgender male couple.These data highlight the need for increased understanding of the reproductive health of the LGBTQ\u00fe community.All reproductive health care providers should be comfortable in engaging with and counseling patients outside of the heterosexual-cisgender framework on options for achieving their family planning goals.",
+                "cite_spans": [
+                    {
+                        "start": 451,
+                        "end": 455,
+                        "text": "(26)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 620,
+                        "end": 624,
+                        "text": "(24,",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 625,
+                        "end": 628,
+                        "text": "27)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 757,
+                        "end": 760,
+                        "text": "(7,",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 761,
+                        "end": 764,
+                        "text": "12,",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 765,
+                        "end": 768,
+                        "text": "28)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 955,
+                        "end": 959,
+                        "text": "(29)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 960,
+                        "end": 964,
+                        "text": "(30)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 965,
+                        "end": 969,
+                        "text": "(31)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 970,
+                        "end": 974,
+                        "text": "(32)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 975,
+                        "end": 979,
+                        "text": "(33)",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "LGBTQD PATIENTS",
+                "sec_num": null
+            },
+            {
+                "text": "A much larger proportion of LGBTQ\u00fe couples present for care without any infertility diagnosis.However, simply because of the gametes they possess, most same-sex couples will require fertility treatments to conceive a child that is biologically related to one of the intended parents (23) .Providers should begin by assessing the patient or couple's goals of treatment as well as the planned biologic contribution of each individual.For TGNB patients, a detailed history of any genderaffirming hormone therapy or surgery should be included.Certain portions of the standard evaluation may be included or omitted depending on parental gametes as well as the role each parent intends to play.Individuals considering using their oocytes should be offered ovarian reserve testing and cavity evaluation if they intend to carry a pregnancy.Individuals providing sperm should undergo a semen analysis with additional workup as needed.Once a complete evaluation has been performed, patients and partners should be counseled about available options for fertility preservation or attempting pregnancy.",
+                "cite_spans": [
+                    {
+                        "start": 283,
+                        "end": 287,
+                        "text": "(23)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility Workup",
+                "sec_num": null
+            },
+            {
+                "text": "Cisgender same-sex female (SSF) couples require donor sperm to conceive.Once a sperm donor is identified, couples have several options available to them, including therapeutic donor insemination (TDI) with or without ovarian stimulation, autologous IVF, and reciprocal or co-IVF.Home or intravaginal insemination is a cost-effective and less invasive method compared with intrauterine insemination, with successful conception in approximately 40% of intravaginal insemination (34, 35) .It is important to note, however, that home insemination using donor sperm is not legal in all states, and there may be implications of establishment of legal parenthood when insemination is not performed by a physician.The decision whether to pursue TDI vs. autologous IVF is complex and beyond the scope of this study.Multiple studies have investigated the efficacy of TDI and IVF in SSF couples.Given that SSF couples present for care because of the need for donor sperm rather than failure to conceive, it has been hypothesized that SSF couples may have higher clinical pregnancy (CP) rates or live birth rates (LBRs) using ART than heterosexual couples (36) .Studies have produced conflicting results, with some studies suggesting statistically higher odds of CP and LBR among SSF couples, others demonstrating lower CP rates among SSF couples, and some with no differences at all between SSF and heterosexual couples (36) (37) (38) (39) .In a large analysis of the National Survey of Family Growth, pregnancies reported by bisexual and lesbian women were more likely to end in a miscarriage and stillbirth, even after adjusting for demographic factors (40) .Given these conflicting data, medical decision-making should be driven by usual indications as well as patient preference.",
+                "cite_spans": [
+                    {
+                        "start": 476,
+                        "end": 480,
+                        "text": "(34,",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 481,
+                        "end": 484,
+                        "text": "35)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 1144,
+                        "end": 1148,
+                        "text": "(36)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1409,
+                        "end": 1413,
+                        "text": "(36)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 1414,
+                        "end": 1418,
+                        "text": "(37)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 1419,
+                        "end": 1423,
+                        "text": "(38)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 1424,
+                        "end": 1428,
+                        "text": "(39)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 1644,
+                        "end": 1648,
+                        "text": "(40)",
+                        "ref_id": "BIBREF39"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Family-Building Options for Cisgender Same-Sex Female Couples",
+                "sec_num": null
+            },
+            {
+                "text": "Reciprocal or co-IVF is a unique option available to cis-SSF couples, wherein one partner undergoes controlled ovarian hyperstimulation and oocyte retrieval followed by transfer of a fertilized embryo into the other's uterus.Multiple studies have found co-IVF to be both safe and efficacious (41) (42) (43) .One study has compared reproductive outcomes between co-IVF cycles and autologous IVF cycles in SSF couples.In this study, co-IVF had a higher CP rate and LBR than autologous IVF, even after adjusting for age, body mass index, and number of mature oocytes (44) .Additionally, a separate study suggested that shared motherhood (i.e., genetic and gestational motherhood) can lessen emotional insecurities in cis-SSF households after co-IVF (45) .Although limited, these data are encouraging and support the practice of co-IVF for interested cis-SSF couples.Importantly, co-IVF is not considered oocyte donation because the oocytes are considered shared, just as sperm is considered shared between heterosexual couples (16) .",
+                "cite_spans": [
+                    {
+                        "start": 292,
+                        "end": 296,
+                        "text": "(41)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 297,
+                        "end": 301,
+                        "text": "(42)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 302,
+                        "end": 306,
+                        "text": "(43)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 564,
+                        "end": 568,
+                        "text": "(44)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 746,
+                        "end": 750,
+                        "text": "(45)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 1024,
+                        "end": 1028,
+                        "text": "(16)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Family-Building Options for Cisgender Same-Sex Female Couples",
+                "sec_num": null
+            },
+            {
+                "text": "Same-sex female couples may also opt to use donor embryos to build their family.Most commonly, this refers to the donation of ''extra'' genetically normal frozen embryos from another patient.The ASRM supports the practice of embryo donation and notes that this option may be less medically complex and more cost-effective than the process of using donor gametes (46) .Compared with gamete donation, embryo donation has generated increased controversy given the special status given to embryos.The ASRM strongly discourages the use of the term ''embryo adoption,'' noting that this ''reinforces a conceptualization of the embryo as a fully entitled legal being'' (46) .Embryo donation requires careful counseling although it remains an option for couples.Despite the various ART options for SSF couples, there are still several barriers that SSF couples face in the reproductive clinic setting because these ART options still primarily target heterosexual couples (47, 48) .",
+                "cite_spans": [
+                    {
+                        "start": 362,
+                        "end": 366,
+                        "text": "(46)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 662,
+                        "end": 666,
+                        "text": "(46)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 963,
+                        "end": 967,
+                        "text": "(47,",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 968,
+                        "end": 971,
+                        "text": "48)",
+                        "ref_id": "BIBREF47"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Family-Building Options for Cisgender Same-Sex Female Couples",
+                "sec_num": null
+            },
+            {
+                "text": "Given obvious anatomic constraints, options for cisgender same-sex male couples are considerably more limited and, by necessity, involve both an oocyte donor and gestational carrier.Like sperm donors, oocyte donors are required to meet FDA eligibility criteria and undergo a similar screening process.Providers should discuss the benefits and risks of using an anonymous vs. directed oocyte donor with all couples.The term ''gestational carrier'' refers to an individual who births a genetically unrelated child for another individual or couple (49) .Traditional surrogacy, in which an individual uses their own oocyte to conceive and carry a pregnancy for separate intended parents, is not condoned by the ASRM.",
+                "cite_spans": [
+                    {
+                        "start": 545,
+                        "end": 549,
+                        "text": "(49)",
+                        "ref_id": "BIBREF48"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Family-Building Options for Cisgender Same-Sex Male Couples",
+                "sec_num": null
+            },
+            {
+                "text": "Gestational carriers remain relatively uncommon but represent a growing proportion of annual ART cycles.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Family-Building Options for Cisgender Same-Sex Male Couples",
+                "sec_num": null
+            },
+            {
+                "text": "Gestational carrier cycles accounted for 1.9% of cycles between 1999 and 2013; however, this increased to 3.1% in 2019 according to the most recent data from the Society for Assisted Reproductive Technology (49, 50) .Having a child with the aid of a gestational carrier is complex and can lead to stress for all parties involved.For this reason, the ASRM recommends psychosocial evaluation of both the gestational carrier and intended parents (51) .Significant controversy exists regarding the use of gestational carriers, and a detailed discussion of third-party reproduction ethics is beyond the scope of this study.Laws governing the legality and structure gestational carrier relationships as well as designation of parental rights vary significantly state by state.Health care providers should have a basic understanding of such laws in their state and recommend legal consultation to all couples in accordance with the ASRM recommendations (51) .",
+                "cite_spans": [
+                    {
+                        "start": 207,
+                        "end": 211,
+                        "text": "(49,",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 212,
+                        "end": 215,
+                        "text": "50)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 443,
+                        "end": 447,
+                        "text": "(51)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 946,
+                        "end": 950,
+                        "text": "(51)",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Family-Building Options for Cisgender Same-Sex Male Couples",
+                "sec_num": null
+            },
+            {
+                "text": "It is estimated that approximately 1.4 million people in the United States identify as TGNB, approximately 0.6% of the US population (26, 52) .For TGNB patients, the gender affirmation process is a highly individualized experience that often carries significant physical and emotional changes.There are a wide range of gender-affirming therapies and procedures, including combinations of hormone blockers and supplementation, facial masculinizing and feminizing procedures, breast or ''top'' surgery, genital or ''bottom'' surgery, and body contouring procedures.For TGNB patients, a detailed history of any gender-affirming hormone therapy and surgery should be included in the standard fertility workup as well as if patients would even consider the use of their natal organs.",
+                "cite_spans": [
+                    {
+                        "start": 133,
+                        "end": 137,
+                        "text": "(26,",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 138,
+                        "end": 141,
+                        "text": "52)",
+                        "ref_id": "BIBREF51"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Special Considerations for Transgender Individuals",
+                "sec_num": null
+            },
+            {
+                "text": "Gender-affirming therapies may also have the potential to impact fertility (53) (54) (55) (56) (57) (58) (59) (60) .Prolonged exposure to testosterone in those assigned female at birth is thought to suppress ovulation and lead to amenorrhea as well as histologic changes within the ovary (26, 55, 56) .Likewise, prolonged exposure to estrogen in those assigned male at birth (AMAB) is associated with decreased testicular volume and spermatogenesis (26, 54, (57) (58) (59) (60) .One retrospective study of 69 sperm samples from transgender women on estrogen found significantly reduced semen parameters while on hormonal therapy, with improvement in parameters with discontinuation of hormones before cryopreservation (58) .Another study noted higher rates of oligospermia, teratospermia, and asthenospermia in transgender women who had not yet started genderaffirming hormonal therapy, with nearly 75% of the cohort possessing an abnormal sperm motility count (59) .The degree of gonadal change and the potential reversal of these changes are impossible to predict for a given individual (26) .",
+                "cite_spans": [
+                    {
+                        "start": 75,
+                        "end": 79,
+                        "text": "(53)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 80,
+                        "end": 84,
+                        "text": "(54)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 85,
+                        "end": 89,
+                        "text": "(55)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 90,
+                        "end": 94,
+                        "text": "(56)",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 95,
+                        "end": 99,
+                        "text": "(57)",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 100,
+                        "end": 104,
+                        "text": "(58)",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 105,
+                        "end": 109,
+                        "text": "(59)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 110,
+                        "end": 114,
+                        "text": "(60)",
+                        "ref_id": "BIBREF59"
+                    },
+                    {
+                        "start": 288,
+                        "end": 292,
+                        "text": "(26,",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 293,
+                        "end": 296,
+                        "text": "55,",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 297,
+                        "end": 300,
+                        "text": "56)",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 449,
+                        "end": 453,
+                        "text": "(26,",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 454,
+                        "end": 457,
+                        "text": "54,",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 458,
+                        "end": 462,
+                        "text": "(57)",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 463,
+                        "end": 467,
+                        "text": "(58)",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 468,
+                        "end": 472,
+                        "text": "(59)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 473,
+                        "end": 477,
+                        "text": "(60)",
+                        "ref_id": "BIBREF59"
+                    },
+                    {
+                        "start": 718,
+                        "end": 722,
+                        "text": "(58)",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 961,
+                        "end": 965,
+                        "text": "(59)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 1089,
+                        "end": 1093,
+                        "text": "(26)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Special Considerations for Transgender Individuals",
+                "sec_num": null
+            },
+            {
+                "text": "The World Professional Association for Transgender Health, American College of Obstetricians and Gynecologists, and Endocrine Society recommend discussion of fertility and fertility preservation before transition (25, 53, 54, 61) .Research indicates that several TGNB individuals consider this an important topic.In a study of transgender men, 23% had or would have considered oocyte cryopreservation before transitioning, and 37% would have considered cryopreservation if the technology had been available (25, 27) .All AMAB individuals should be counseled on options for sperm cryopreservation, transepididymal sperm extraction, and testicular tissue preservation with referral to an andrologist as needed.Similarly, patients assigned female at birth should receive counseling on oocyte and embryo cryopreservation with either partner or donor sperm, as well as OTC.Gamete or tissue cryopreservation offers TGNB patients the ability to transition on their own time while preserving future fertility options without a partner (62) .From the limited data in the literature, there is mixed evidence as to whether transgender youth and adolescents who seek genderaffirming care are appropriately counseled on fertility preservation options, and subsequently, very few follow through with cryopreservation methods, likely due to significant financial barriers of most TGNB youth (63) (64) (65) (66) .",
+                "cite_spans": [
+                    {
+                        "start": 213,
+                        "end": 217,
+                        "text": "(25,",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 218,
+                        "end": 221,
+                        "text": "53,",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 222,
+                        "end": 225,
+                        "text": "54,",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 226,
+                        "end": 229,
+                        "text": "61)",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 507,
+                        "end": 511,
+                        "text": "(25,",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 512,
+                        "end": 515,
+                        "text": "27)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1027,
+                        "end": 1031,
+                        "text": "(62)",
+                        "ref_id": "BIBREF61"
+                    },
+                    {
+                        "start": 1376,
+                        "end": 1380,
+                        "text": "(63)",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 1381,
+                        "end": 1385,
+                        "text": "(64)",
+                        "ref_id": "BIBREF63"
+                    },
+                    {
+                        "start": 1386,
+                        "end": 1390,
+                        "text": "(65)",
+                        "ref_id": "BIBREF64"
+                    },
+                    {
+                        "start": 1391,
+                        "end": 1395,
+                        "text": "(66)",
+                        "ref_id": "BIBREF65"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Special Considerations for Transgender Individuals",
+                "sec_num": null
+            },
+            {
+                "text": "There is a paucity of data on pregnancy and pregnancy outcomes among transgender men; however, current literature suggests promising results (67, 68) .In a series of 56 transgender men who experienced pregnancy after transitioning, 80% resumed menses within 6 months of stopping testosterone, and only 7% received fertility treatment to conceive (25, 69) .Additionally, there were no differences in obstetric outcomes between those who had and had not used testosterone before conception (69) .In a case series of 3 TGNB individuals who underwent oocyte cryopreservation before gender-affirming hormone therapy, 2 went on to have healthy live children using these preserved oocytes with pregnancies carried by their partners (70) .Typically, reproductive specialists recommend testosterone discontinuation for several months before oocyte retrieval, although a recent case report demonstrated successful ovarian stimulation and retrieval after 24 days of testosterone cessation (71, 72) .Testosterone does have known teratogenic effects and, thus, currently is not recommended while attempting conception or during pregnancy (73, 74) .To date, there have been no large studies on the health of offspring conceived from testosterone-exposed oocytes (67) .There is debate on the statistical risk of pregnancy for transgender men on testosterone therapy, given the purposed ovulation suppression from increased androgen levels (74, 75) .However, several case series have demonstrated pregnancies, whether intended or unintended, while taking testosterone (69, (76) (77) (78) (79) .Given these cases, it can be determined that testosterone is not an adequate contraceptive method if patients are having intercourse with pregnancy potential (73, 76) .",
+                "cite_spans": [
+                    {
+                        "start": 141,
+                        "end": 145,
+                        "text": "(67,",
+                        "ref_id": "BIBREF66"
+                    },
+                    {
+                        "start": 146,
+                        "end": 149,
+                        "text": "68)",
+                        "ref_id": "BIBREF67"
+                    },
+                    {
+                        "start": 346,
+                        "end": 350,
+                        "text": "(25,",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 351,
+                        "end": 354,
+                        "text": "69)",
+                        "ref_id": "BIBREF68"
+                    },
+                    {
+                        "start": 488,
+                        "end": 492,
+                        "text": "(69)",
+                        "ref_id": "BIBREF68"
+                    },
+                    {
+                        "start": 725,
+                        "end": 729,
+                        "text": "(70)",
+                        "ref_id": "BIBREF69"
+                    },
+                    {
+                        "start": 978,
+                        "end": 982,
+                        "text": "(71,",
+                        "ref_id": "BIBREF70"
+                    },
+                    {
+                        "start": 983,
+                        "end": 986,
+                        "text": "72)",
+                        "ref_id": "BIBREF71"
+                    },
+                    {
+                        "start": 1125,
+                        "end": 1129,
+                        "text": "(73,",
+                        "ref_id": "BIBREF72"
+                    },
+                    {
+                        "start": 1130,
+                        "end": 1133,
+                        "text": "74)",
+                        "ref_id": "BIBREF73"
+                    },
+                    {
+                        "start": 1248,
+                        "end": 1252,
+                        "text": "(67)",
+                        "ref_id": "BIBREF66"
+                    },
+                    {
+                        "start": 1424,
+                        "end": 1428,
+                        "text": "(74,",
+                        "ref_id": "BIBREF73"
+                    },
+                    {
+                        "start": 1429,
+                        "end": 1432,
+                        "text": "75)",
+                        "ref_id": "BIBREF74"
+                    },
+                    {
+                        "start": 1552,
+                        "end": 1556,
+                        "text": "(69,",
+                        "ref_id": "BIBREF68"
+                    },
+                    {
+                        "start": 1557,
+                        "end": 1561,
+                        "text": "(76)",
+                        "ref_id": "BIBREF75"
+                    },
+                    {
+                        "start": 1562,
+                        "end": 1566,
+                        "text": "(77)",
+                        "ref_id": "BIBREF76"
+                    },
+                    {
+                        "start": 1567,
+                        "end": 1571,
+                        "text": "(78)",
+                        "ref_id": "BIBREF77"
+                    },
+                    {
+                        "start": 1572,
+                        "end": 1576,
+                        "text": "(79)",
+                        "ref_id": "BIBREF78"
+                    },
+                    {
+                        "start": 1736,
+                        "end": 1740,
+                        "text": "(73,",
+                        "ref_id": "BIBREF72"
+                    },
+                    {
+                        "start": 1741,
+                        "end": 1744,
+                        "text": "76)",
+                        "ref_id": "BIBREF75"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Special Considerations for Transgender Individuals",
+                "sec_num": null
+            },
+            {
+                "text": "It is important for health care providers to acknowledge and counsel patients on physical changes they may experience from discontinuing hormone therapy, undergoing fertility treatment, or experiencing pregnancy.Reversal of hormone-induced physical changes may cause significant dysphoric distress, and pelvic examinations involved in gynecologic care have been shown to induce feelings of gender dysphoria (63, 80, 81) .Several studies suggest that several providers lack the knowledge regarding fertility needs of the TGNB community, emphasizing the need for increased education on counseling and resources for these populations (63) .In a study of transgender men, half of participants delayed health care visits solely due to previous speculum pain (82) .Transgender women and other AMAB patients on estrogen may be unable to produce a sperm sample via masturbation (26, 83) .Providers should be prepared to set expectations with patients and offer emotional support, including referral to mental health professionals.Future studies are needed to understand fertility and pregnancy outcomes in individuals having received gender-affirming hormone therapy, and transgender men experiencing pregnancy may benefit from care at centers with experience caring for this population.",
+                "cite_spans": [
+                    {
+                        "start": 407,
+                        "end": 411,
+                        "text": "(63,",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 412,
+                        "end": 415,
+                        "text": "80,",
+                        "ref_id": "BIBREF79"
+                    },
+                    {
+                        "start": 416,
+                        "end": 419,
+                        "text": "81)",
+                        "ref_id": "BIBREF80"
+                    },
+                    {
+                        "start": 631,
+                        "end": 635,
+                        "text": "(63)",
+                        "ref_id": "BIBREF62"
+                    },
+                    {
+                        "start": 753,
+                        "end": 757,
+                        "text": "(82)",
+                        "ref_id": "BIBREF81"
+                    },
+                    {
+                        "start": 870,
+                        "end": 874,
+                        "text": "(26,",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 875,
+                        "end": 878,
+                        "text": "83)",
+                        "ref_id": "BIBREF82"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Special Considerations for Transgender Individuals",
+                "sec_num": null
+            },
+            {
+                "text": "With the increasing utilization of ART, fertility centers can expect to care for an increasingly diverse patient population.Both single patients and LGBTQ\u00fe individuals represent growing subpopulations of ART users, each with their own biologic, social, cultural, and financial considerations that have an impact on family planning.Understanding the unique needs of different groups of patients will allow reproductive medicine providers to best care for these individuals as well as highlight areas for future investigation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "DIALOG: You can discuss this article with its authors and other readers at https://www.fertstertdialog.com/posts/34852",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Progress we can be proud of: U.S. trends in assisted reproduction over the first 20 years",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Toner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Fertil Steril",
+                "volume": "78",
+                "issue": "",
+                "pages": "943--950",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Assisted reproductive technology surveillance -United States, 2017",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Sunderam",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kissin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Jewett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Boulet",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Warner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "MMWR Surveill Summ",
+                "volume": "69",
+                "issue": "",
+                "pages": "1--20",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "ART success rates",
+                "authors": [],
+                "year": 2022,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Society for Assisted Reproductive Technology and assisted reproductive technology in the United States: a 2016 update",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Toner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Coddington",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Doody",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Van",
+                        "middle": [],
+                        "last": "Voorhis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Seifer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Ball",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Fertil Steril",
+                "volume": "106",
+                "issue": "",
+                "pages": "541--546",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "The health of children conceived by ART: 'the chicken or the egg?",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Berntsen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Soderstrom-Anttila",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Wennerholm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Laivuori",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Loft",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Oldereid",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Hum Reprod Update",
+                "volume": "2",
+                "issue": "",
+                "pages": "137--158",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Percentage and number of children living with two parents has dropped since 1968",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Hemez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Washington",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Ethics Committee of the American Society for Reproductive Medicine. Access to fertility treatment irrespective of marital status, sexual orientation, or gender identity: an ethics committee opinion",
+                "authors": [],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "116",
+                "issue": "",
+                "pages": "326--330",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Child well-being in singlemother families",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Lipman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Boyle",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Dooley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Offord",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "J Am Acad Child Adolesc Psychiatry",
+                "volume": "41",
+                "issue": "",
+                "pages": "75--82",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Children raised in mother-headed families from infancy: a follow-up of children of lesbian and single heterosexual mothers, at early adulthood",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Golombok",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Badger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Hum Reprod",
+                "volume": "25",
+                "issue": "",
+                "pages": "150--157",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Single mothers by choice: mother-child relationships and children's psychological adjustment",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Golombok",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Zadeh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Imrie",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Freeman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "J Fam Psychol",
+                "volume": "30",
+                "issue": "",
+                "pages": "409--418",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Single mothers by choice: parenting and child adjustment in middle childhood",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Golombok",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Zadeh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Freeman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Lysons",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Foley",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "J Fam Psychol",
+                "volume": "35",
+                "issue": "",
+                "pages": "192--202",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Ethics Committee of the American Society for Reproductive Medicine. Access to fertility services by transgender and nonbinary persons: an ethics committee opinion",
+                "authors": [],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "115",
+                "issue": "",
+                "pages": "874--878",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Practice Committee of the American Society for Reproductive Medicine. Fertility evaluation of infertile women: a committee opinion",
+                "authors": [],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "116",
+                "issue": "",
+                "pages": "1255--1265",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "A review of fertility preservation in patients with breast cancer",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Ulrich",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Raja",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Moravek",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Best Pract Res Clin Obstet Gynaecol",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Practice Committee of the American Society for Reproductive Medicine. Fertility preservation in patients undergoing gonadotoxic therapy or gonadectomy: a committee opinion",
+                "authors": [],
+                "year": 2019,
+                "venue": "Fertil Steril",
+                "volume": "112",
+                "issue": "",
+                "pages": "1022--1033",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Practice Committee of the American Society for Reproductive Medicine, the Practice Committee for the Society for Assisted Reproductive Technology. Guidance regarding gamete and embryo donation",
+                "authors": [],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "115",
+                "issue": "",
+                "pages": "1395--1410",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Food and Drug Administration. Donor eligibility final rule and guidance questions and answers",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "The unjust exclusion of gay sperm donors: litigation strategies to end discrimination in the gene pool",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Boso",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Fertility-a human right worthy of mandated insurance coverage: the evolution, limitations, and future of access to care",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Kawwass",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Penzias",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Adashi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "115",
+                "issue": "",
+                "pages": "29--42",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Queering reproductive access: reproductive justice in assisted reproductive technologies",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Tam",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Reprod Health",
+                "volume": "18",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "ESHRE Task Force on Ethics and Law 23: medically assisted reproduction in singles, lesbian and gay couples, and transsexual people",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "De Wert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Dondorp",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Shenfield",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Barri",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Devroey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Diedrich",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Hum Reprod",
+                "volume": "29",
+                "issue": "",
+                "pages": "1859--1865",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "ACOG Committee Opinion No. 749: marriage and family building equality for lesbian, gay, bisexual, transgender, queer, intersex, asexual, and gender nonconforming individuals",
+                "authors": [
+                    {
+                        "first": "American",
+                        "middle": [],
+                        "last": "College",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Of",
+                        "middle": [],
+                        "last": "Obstetricians",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Gynecologists",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Obstet Gynecol",
+                "volume": "132",
+                "issue": "",
+                "pages": "82--86",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Sexual and gender minority peoples' recommendations for assisted human reproduction services",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Ross",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Tarasoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Anderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Epstein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Marvel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Steele",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "J Obstet Gynaecol Can",
+                "volume": "36",
+                "issue": "",
+                "pages": "146--153",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "How many same-sex couples in the US are raising children?",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Goldberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Conron",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "ASRM-SART Webinars: LGBTQ\u00fe family building through ART: optimal medical, legal, and psychological support",
+                "authors": [],
+                "year": 2022,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Fertility concerns of the transgender patient",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Cheng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Pastuszak",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Myers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Goodwin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Hotaling",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Transl Androl Urol",
+                "volume": "8",
+                "issue": "",
+                "pages": "209--218",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Reproductive wish in transsexual men",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Wierckx",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Van Caenegem",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Pennings",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Elaut",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Dedecker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Van De Peer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Hum Reprod",
+                "volume": "27",
+                "issue": "",
+                "pages": "483--487",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "A new type of family: transmen as fathers thanks to donor sperm insemination. A 12-year follow-up exploratory study of their children",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Chiland",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Clouet",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Golse",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Guinot",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Wolf",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Neuropsychiatr Enfance Adolesc",
+                "volume": "61",
+                "issue": "",
+                "pages": "365--370",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "How does sexual minority stigma ''get under the skin''? A psychological mediation framework",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Hatzenbuehler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Psychol Bull",
+                "volume": "135",
+                "issue": "",
+                "pages": "707--730",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Minority stress and mental health in gay men",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Meyer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "J Health Soc Behav",
+                "volume": "36",
+                "issue": "",
+                "pages": "38--56",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Examining sexual orientation disparities in unmet medical needs among men and women",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Everett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Mollborn",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Popul Res Policy Rev",
+                "volume": "33",
+                "issue": "",
+                "pages": "553--577",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Addressing health care disparities among sexual minorities",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Baptiste-Roberts",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Oranuba",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Werts",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Edwards",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Obstet Gynecol Clin North Am",
+                "volume": "44",
+                "issue": "",
+                "pages": "71--80",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Reproductive justice: an introduction",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Ross",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Solinger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Indication of intravaginal insemination for infertility treatment in couples with sexual dysfunction",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Kaseki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Kaseki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Shimizu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hayashi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Suganuma",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Reprod Med Biol",
+                "volume": "20",
+                "issue": "",
+                "pages": "241--245",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Pregnancy outcomes by intravaginal and intrauterine insemination in 82 couples with male factor infertility due to spinal cord injuries",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Kathiresan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Ibrahim",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Aballa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Attia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Lynne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Brackett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Fertil Steril",
+                "volume": "96",
+                "issue": "",
+                "pages": "328--331",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Pregnancy success rates for lesbian women undergoing intrauterine insemination",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Johal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Gardner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Vaughn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Jaswa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Hedlin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Aghajanova",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "F S Rep",
+                "volume": "2",
+                "issue": "",
+                "pages": "275--281",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Cumulative live birth rates following insemination with donor spermatozoa in single women, same-sex couples and heterosexual patients",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Linara-Demakakou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Bodri",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Arian-Schad",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Macklon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Ahuja",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Reprod Biomed Online",
+                "volume": "41",
+                "issue": "",
+                "pages": "1007--1014",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "More to the story than sperm: pregnancy rates with in vitro fertilization in same-sex female couples",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Napleton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Steinberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Grimm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Jeelani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Beltsos",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Fertil Steril",
+                "volume": "110",
+                "issue": "",
+                "pages": "22--23",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Sexual orientation of women does not affect outcome of fertility treatment with donated sperm",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Nordqvist",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Sydsj\u20ac O G, Lampic",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Akerud",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Elenis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Svanberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Hum Reprod",
+                "volume": "29",
+                "issue": "",
+                "pages": "704--711",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Sexual orientation disparities in pregnancy and infant outcomes",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Everett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Kominiarek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Mollborn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Adkins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Hughes",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Matern Child Health J",
+                "volume": "23",
+                "issue": "",
+                "pages": "72--81",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Shared motherhood IVF: high delivery rates in a large study of treatments for lesbian couples using partner-donated eggs",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Bodri",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Nair",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Gill",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Lamanna",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Rahmati",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Arian-Schad",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Reprod Biomed Online",
+                "volume": "36",
+                "issue": "",
+                "pages": "130--136",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Sharing motherhood: biological lesbian co-mothers, a new IVF indication",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Marina",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Marina",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Marina",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Fosas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Galiana",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Jov E I",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Hum Reprod",
+                "volume": "25",
+                "issue": "",
+                "pages": "938--941",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Female couples undergoing IVF with partner eggs (co-IVF): pathways to parenthood",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Yeshua",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Witkin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Copperman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "LGBT Health",
+                "volume": "2",
+                "issue": "",
+                "pages": "135--139",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Reproductive outcomes in lesbian couples undergoing reception of oocytes from partner versus autologous in vitro fertilization/intracytoplasmic sperm injection",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Garc\u00eda",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Gim",
+                        "middle": [],
+                        "last": "Enez-Bonaf E",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Vassena",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Rodr\u00edguez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "LGBT Health",
+                "volume": "8",
+                "issue": "",
+                "pages": "367--371",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Sharing motherhood: maternal jealousy among lesbian co-mothers",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Pelka",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "J Homosex",
+                "volume": "56",
+                "issue": "",
+                "pages": "195--217",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Ethics Committee of the American Society for Reproductive Medicine. Defining embryo donation: an ethics committee opinion",
+                "authors": [],
+                "year": 2016,
+                "venue": "Fertil Steril",
+                "volume": "106",
+                "issue": "",
+                "pages": "56--58",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Lesbian and bisexual women's recommendations for improving the provision of assisted reproductive technology services",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Ross",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Steele",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Epstein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Fertil Steril",
+                "volume": "86",
+                "issue": "",
+                "pages": "735--738",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Challenges and mental health experiences of lesbian and bisexual women who are trying to conceive",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Yager",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Brennan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Steele",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Epstein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Ross",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Health Soc Work",
+                "volume": "35",
+                "issue": "",
+                "pages": "191--200",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Trends and outcomes of gestational surrogacy in the United States",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Perkins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Boulet",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Jamieson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kissin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Fertil Steril",
+                "volume": "106",
+                "issue": "2",
+                "pages": "435--442",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Final National Summary Report for 2019",
+                "authors": [],
+                "year": 2022,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Practice Committee of the American Society for Reproductive Medicine, Practice Committee of the Society for Assisted Reproductive Technology. Recommendations for practices utilizing gestational carriers: a committee opinion",
+                "authors": [],
+                "year": 2017,
+                "venue": "Fertil Steril",
+                "volume": "107",
+                "issue": "",
+                "pages": "3--10",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Transgender demographics: a household probability sample of US adults, 2014",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Crissman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Berger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Graham",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Dalton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Am J Public Health",
+                "volume": "107",
+                "issue": "",
+                "pages": "213--215",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Standards of care for the health of transsexual, transgender, and gender nonconforming people. 7th version",
+                "authors": [],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Endocrine treatment of gender-dysphoric/genderincongruent persons: an endocrine society clinical practice guideline",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Hembree",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Cohen-Kettenis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Gooren",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Hannema",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Meyer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Murad",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "J Clin Endocrinol Metab",
+                "volume": "102",
+                "issue": "",
+                "pages": "3869--3903",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Histology of genital tract and breast tissue after long-term testosterone administration in a female-to-male transsexual population",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Grynberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Fanchin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Dubost",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Colau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Br Emont-Weil",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Frydman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Reprod Biomed Online",
+                "volume": "20",
+                "issue": "",
+                "pages": "553--558",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "The effect of testosterone on ovulatory function in transmasculine individuals",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Taub",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Ellis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Neal-Perry",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Magaret",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Prager",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Micks",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Am J Obstet Gynecol",
+                "volume": "223",
+                "issue": "",
+                "pages": "1--8",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Andrology of male-to-female transsexuals: influence of cross-sex hormone therapy on testicular function",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Schneider",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Kliesch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Schlatt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Neuhaus",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Andrology",
+                "volume": "5",
+                "issue": "",
+                "pages": "873--880",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "Semen parameters among transgender women with a history of hormonal treatment",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Adeleye",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Reid",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Kao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Mok-Lin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Smith",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Urology",
+                "volume": "124",
+                "issue": "",
+                "pages": "136--141",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Sperm cryopreservation of transgender individuals: trends and findings in the past decade",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Rodriguez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Gabrielsen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Centola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Tanrikut",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Andrology",
+                "volume": "6",
+                "issue": "",
+                "pages": "860--864",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "Spermatogenesis abnormalities following hormonal therapy in transwomen",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Jindarak",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Nilprapha",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Atikankul",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Angspatt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Pungrasmi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Iamphongsai",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Biomed Res Int",
+                "volume": "2018",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "American College of Obstetricians and Gynecologists' Committee on Gynecologic Practice. American College of Obstetricians and Gynecologists' Committee on Health Care for Underserved Women. Health care for transgender and gender diverse individuals: ACOG Committee opinion, number 823",
+                "authors": [],
+                "year": 2021,
+                "venue": "Obstet Gynecol",
+                "volume": "137",
+                "issue": "",
+                "pages": "75--88",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF61": {
+                "ref_id": "b61",
+                "title": "Fertility preservation options in transgender people: a review",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Mattawanon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Spencer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Schirmer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Iii",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Tangpricha",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Rev Endocr Metab Disord",
+                "volume": "19",
+                "issue": "",
+                "pages": "231--242",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF62": {
+                "ref_id": "b62",
+                "title": "Fertility preservation for transgender adolescents and young adults: a systematic review",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Baram",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Myers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Yee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Librach",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Hum Reprod Update",
+                "volume": "25",
+                "issue": "",
+                "pages": "694--716",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF63": {
+                "ref_id": "b63",
+                "title": "Low fertility preservation utilization among transgender youth",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Nahata",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Tishelman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Caltabellotta",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Quinn",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "J Adolesc Health",
+                "volume": "61",
+                "issue": "",
+                "pages": "40--44",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF64": {
+                "ref_id": "b64",
+                "title": "Freezing for the future: transgender youth respond to medical fertility preservation",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Kyweluk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Sajwani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Int J Transgend",
+                "volume": "19",
+                "issue": "",
+                "pages": "401--416",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF65": {
+                "ref_id": "b65",
+                "title": "Trans people's experiences with assisted reproduction services: a qualitative study",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "James-Abra",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Tarasoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Green",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Epstein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Anderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Marvel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Hum Reprod",
+                "volume": "30",
+                "issue": "",
+                "pages": "1365--1374",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF66": {
+                "ref_id": "b66",
+                "title": "Fertility preservation options for transgender and gendernonconforming individuals",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Moravek",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Curr Opin Obstet Gynecol",
+                "volume": "31",
+                "issue": "",
+                "pages": "170--176",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF67": {
+                "ref_id": "b67",
+                "title": "Transgender men and pregnancy",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Obedin-Maliver",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Makadon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Obstet Med",
+                "volume": "9",
+                "issue": "",
+                "pages": "4--8",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF68": {
+                "ref_id": "b68",
+                "title": "Transgender men who experienced pregnancy after female-to-male gender transitioning",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Light",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Obedin-Maliver",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Sevelius",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Kerns",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Obstet Gynecol",
+                "volume": "124",
+                "issue": "",
+                "pages": "1120--1127",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF69": {
+                "ref_id": "b69",
+                "title": "Pregnancy outcomes after fertility preservation in transgender men",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Maxwell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Noyes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Keefe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Berkeley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Goldman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Obstet Gynecol",
+                "volume": "129",
+                "issue": "",
+                "pages": "1031--1034",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF70": {
+                "ref_id": "b70",
+                "title": "Experiences with achieving pregnancy and giving birth among transgender men: a narrative literature review",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Besse",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Lampe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Mann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Yale J Biol Med",
+                "volume": "93",
+                "issue": "",
+                "pages": "517--528",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF71": {
+                "ref_id": "b71",
+                "title": "Fertility preservation in a transgender man without prolonged discontinuation of testosterone: a case report and literature review",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Cho",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Harjee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Roberts",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Dunne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "F S Rep",
+                "volume": "1",
+                "issue": "",
+                "pages": "43--47",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF72": {
+                "ref_id": "b72",
+                "title": "Pregnancy in transgender men",
+                "authors": [
+                    {
+                        "first": "Kgs",
+                        "middle": [],
+                        "last": "Thornton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Mattatall",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "CMAJ",
+                "volume": "193",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF73": {
+                "ref_id": "b73",
+                "title": "Contraception across the transmasculine spectrum",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Krempasky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Harris",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Abern",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Grimstad",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Am J Obstet Gynecol",
+                "volume": "222",
+                "issue": "",
+                "pages": "134--143",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF74": {
+                "ref_id": "b74",
+                "title": "Data unclear on pregnancy risk in transmasculine individuals on testosterone",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Schubert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Carey",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Am J Obstet Gynecol",
+                "volume": "222",
+                "issue": "",
+                "pages": "393--394",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF75": {
+                "ref_id": "b75",
+                "title": "Family planning and contraception use in transgender men",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Light",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Zeymo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Gomez-Lobo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Contraception",
+                "volume": "98",
+                "issue": "",
+                "pages": "266--269",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF76": {
+                "ref_id": "b76",
+                "title": "Pregnancy intentions and outcomes among transgender, nonbinary, and genderexpansive people assigned female or intersex at birth in the United States: results from a national, quantitative survey",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Moseson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Fix",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hastings",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Stoeffler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Lunn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Flentje",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Int J Transgend Health",
+                "volume": "22",
+                "issue": "",
+                "pages": "30--41",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF77": {
+                "ref_id": "b77",
+                "title": "Transgender man receiving testosterone treatment became pregnant and delivered a girl: a case report",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Yoshida",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Kaji",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Imaizumi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Shirakawa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Suga",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Nakagawa",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "J Obstet Gynaecol Res",
+                "volume": "48",
+                "issue": "",
+                "pages": "866--868",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF78": {
+                "ref_id": "b78",
+                "title": "Unintended and teen pregnancy experiences of trans masculine people living in the United States",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Charlton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Reynolds",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Tabaac",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Godwin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Porsch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Ag",
+                        "middle": [],
+                        "last": "Enor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Int J Transgend Health",
+                "volume": "22",
+                "issue": "",
+                "pages": "65--76",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF79": {
+                "ref_id": "b79",
+                "title": "Transgender men's experiences of fertility preservation: a qualitative study",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Armuand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Dhejne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Olofsson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Rodriguez-Wallberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Hum Reprod",
+                "volume": "32",
+                "issue": "",
+                "pages": "383--390",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF80": {
+                "ref_id": "b80",
+                "title": "The transgender parent: experiences and constructions of pregnancy and parenthood for transgender men in Australia",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Charter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ussher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Perz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Robinson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Int J Transgend",
+                "volume": "19",
+                "issue": "",
+                "pages": "64--77",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF81": {
+                "ref_id": "b81",
+                "title": "Penetrative genital pain in transgender men using testosterone: a survey study",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Goetsch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Pja",
+                        "middle": [],
+                        "last": "Ribbink",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Am J Obstet Gynecol",
+                "volume": "226",
+                "issue": "",
+                "pages": "264--270",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF82": {
+                "ref_id": "b82",
+                "title": "Use of fertility preservation among a cohort of transgirls in the Netherlands",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Brik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Ljjj",
+                        "middle": [],
+                        "last": "Vrouenraets",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "See",
+                        "middle": [],
+                        "last": "Schagen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Meissner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "De Vries",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Hannema",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "J Adolesc Health",
+                "volume": "64",
+                "issue": "",
+                "pages": "589--593",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

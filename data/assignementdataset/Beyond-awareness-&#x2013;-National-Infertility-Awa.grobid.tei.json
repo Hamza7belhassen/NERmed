@@ -1,0 +1,358 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Beyond-awareness-&#x2013;-National-Infertility-Awa",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:30.084870Z"
+    },
+    "title": "Beyond awareness \u2013 National Infertility Awareness Week 2023",
+    "authors": [
+        {
+            "first": "Marissa",
+            "middle": [
+                "S"
+            ],
+            "last": "Weiss",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Anuja",
+            "middle": [],
+            "last": "Dokras",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Pennsylvania",
+                "location": {
+                    "settlement": "Philadelphia",
+                    "region": "Pennsylvania"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Erica",
+            "middle": [
+                "E"
+            ],
+            "last": "Marsh",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Pennsylvania",
+                "location": {
+                    "settlement": "Philadelphia",
+                    "region": "Pennsylvania"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Beyond-awareness-&#x2013;-National-Infertility-Awa",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2023.02.026",
+        "keywords": [],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "Each year during National Infertility Awareness Week, we strive to educate the public on the impact of infertility.This year, we must also commit to educate ourselves.Advocacy efforts have contributed to important policy changes aimed at expanding access; however, many individuals in the United States with impaired fertility remain not only untreated but undiagnosed.Although the prevalence of infertility does not differ by race according to the most recent analysis of the National Health and Nutrition Examination Survey data, women of color are less likely to complete the infertility workup and have lower rates of utilization of fertility treatment.Black women, in particular, report the highest levels of unmet reproductive goals and the lowest levels of reproductive success.The existence of racial disparities in access to fertility care in the United States has been well described in the literature for >2 decades, yet the roots of these inequities remain understudied and unaddressed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "As with most health disparities work in its infancy, the focus on disparities in infertility has been on access and outcomes thus far.Multiple analyses of data collected from the Society for Assisted Reproductive Technology Clinic Outcomes Reporting System suggest that Black women experience lower success rates after fertility treatments, compared with non-Hispanic White women.Population-based analyses like these, as well as those from clinical practices, only include the subset of Black women who were able to attain access to assisted reproductive technology-excluding the large population of women who were never diagnosed, evaluated, or treated.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The most often-cited explanation for the profound gap in access to fertility care is the high costs and financial stress associated with fertility treatment.Most patients who undergo in vitro fertilization (IVF) in the United States lack insurance coverage for fertility treatment.When coverage is available, certain types of fertility services (e.g., testing) are more likely to be covered than others (e.g., IVF).As a result, many individuals pay out of their pockets for their medical treatment, which can be substantial, given that the median price of an IVF cycle in the United States is reported to be $19,200 (1) .",
+                "cite_spans": [
+                    {
+                        "start": 616,
+                        "end": 619,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "To date, this economic barrier has been the primary target of efforts to address disparities in access.Many believe that providing financial support in the form of state-mandated insurance coverage for infertility treatment would be the ''solution''-resulting in the demographics of women receiving care being more representative of the general population.Unfortunately, multiple studies have found that racial disparities persist in enhanced or equal access to care models (e.g., in Massachusetts, a state with mandated and comprehensive insurance coverage of fertility treatment) suggesting that access alone is not the problem.Despite state law-mandated insurance coverage for fertility care in 19 states, fertility services continue to be primarily accessed by highly educated, wealthy, White women.The initiatives to reduce economic barriers are necessary but insufficient to address the inequity in access to fertility care.Even in the United Kingdom, where fertility services are publicly funded, women from minority populations face significant challenges when seeking fertility care.Clearly, a better understanding of the ''noneconomic'' barriers impacting a woman's decision to seek treatment will need to be the focus of future attempts to ameliorate the prevailing disparities.Although there is some literature examining cultural and societal factors that impede access to fertility care in the United States, these studies have overwhelmingly considered the experiences of White women.If we want to make progress toward equity, we must center our efforts on the living reality of those who experience the greatest inequities.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Black women have the lowest rates of utilization of fertility treatment and wait approximately 20 months longer than White women to access care.Qualitative studies have offered some insight into the individual factors contributing to this delay (e.g., psychobiological and sociocultural barriers) (2), but the institutional and structural factors that affect access to fertility services are largely unexplored.Black women are not deciding whether to seek fertility care in a vacuum; in addition to current social conditions, the historical context of systemic racism continues to shape their decision-making and reproductive health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The pervasive stereotype that Black women are hyperfertile, which was used to justify many atrocities, continues to cause harm today.Consciously or unconsciously, these falsehoods affect how Black women view themselves and how others view them.Internalized stigma may delay a woman's decision to seek fertility care, while implicit and explicit physician bias can also lead to medical gatekeeping (3).Prejudice regarding who can suffer from infertility and who deserves to be a parent influences how Black women are counseled about their fertility, perpetuating disparities in patient knowledge, awareness, and access to care.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "To meaningfully narrow the existing gaps, concerted efforts are needed to systematically examine the multifaceted causes of these inequities.Rather than starting with the disparity (utilization of fertility care) and ''working backward'' to investigate the differential disease characteristics and interactions with the health system that immediately precede the differential outcome, we also need to take a ''topdown'' approach.Along with an individual's identity, the greater social, political, and structural context determines the exposures they experience throughout their life.These exposures, in turn, influence the differential disease characteristics and interactions with the health system (4).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Health equity frameworks highlight the need for interventions that move beyond the individual level.The reproductive justice framework, for example, uses intersectionality theory to consider the societal, institutional, and systemic contexts within which individuals make reproductive decisions (5) .Created by Black women as a more inclusive model for all women nearly 3 decades ago, reproductive justice rests on 4 core tenets: every person is endowed with the human right to bodily autonomy; have children; not have children; and parent their children in safe, sustainable communities.The framework was born out of debates on the right to access contraception and abortion care, specifically the shortcomings of the ''choice'' movement.Recently, with the increasing awareness of racial disparities in maternal morbidity and mortality, there has been more focus on the tenets of bodily autonomy and the right to parent; however, the right to have a child (specifically, access to fertility care) has not garnered much attention.",
+                "cite_spans": [
+                    {
+                        "start": 295,
+                        "end": 298,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Although now is an especially critical time to advocate for access to safe abortion and obstetric care, it is also incumbent on us to prioritize our efforts to achieve equity in fertility care.To do so, multipronged efforts to understand and improve the social, political, and structural context in which our patients live and make decisions will be necessary.In other words, we need to start at the roots of the inequity, and we need to start now.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "During National Infertility Awareness Week, we aim to empower the public through increased understanding and awareness; this ''education'' should be bidirectional.We must assign greater value to the patient's experience and the patient's voice, with particular attention to feedback from the communities that are underserved by our field.This also means funding and prioritizing research that, rather than simply identifying disparities, works to understand their causes.Additionally, we need to develop interventions to address these causes and allow us to move toward equity.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "By doing this, we move beyond being part of the problem and move toward being partners in creating a solution.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Fertility and Sterility\u00ae",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Ethics Committee of the American Society for Reproductive Medicine. Disparities in access to effective treatment for infertility in the United States: an Ethics Committee opinion",
+                "authors": [],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "116",
+                "issue": "",
+                "pages": "54--63",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Psychobiological, clinical, and sociocultural factors that influence Black women seeking treatment for infertility: a mixedmethods study",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Cebert-Gaitors",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Shannon",
+                        "middle": [
+                            "-"
+                        ],
+                        "last": "Baker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Silva",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Hart",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Jahandideh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gonzalez-Guarda",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "F S Rep",
+                "volume": "3",
+                "issue": "",
+                "pages": "29--39",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Inequity and injustice: recognising infertility as a reproductive justice issue",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Perritt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Eugene",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "F S Rep",
+                "volume": "3",
+                "issue": "",
+                "pages": "2--4",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Racial disparities in uterine fibroids and endometriosis: a systematic review and application of social, structural, and political context",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Katon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Plowden",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "Fertil Steril",
+                "volume": "119",
+                "issue": "",
+                "pages": "355--363",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Reproductive justice: an introduction",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Ross",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Solinger",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

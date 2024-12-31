@@ -1,0 +1,438 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Are-sperm-human-papilloma-virus-infections-a-missi",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:29.242544Z"
+    },
+    "title": "Are sperm human papilloma virus infections a missing link for idiopathic recurrent pregnancy loss?",
+    "authors": [
+        {
+            "first": "Richard",
+            "middle": [
+                "J"
+            ],
+            "last": "Fantus",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Kansas Medical Center",
+                "location": {
+                    "settlement": "Kansas City",
+                    "region": "Kansas"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Ajay",
+            "middle": [
+                "K"
+            ],
+            "last": "Nangia",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Kansas Medical Center",
+                "location": {
+                    "settlement": "Kansas City",
+                    "region": "Kansas"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Joshua",
+            "middle": [
+                "A"
+            ],
+            "last": "Halpern",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Northwestern University Feinberg School of Medicine",
+                "location": {
+                    "settlement": "Chicago",
+                    "region": "Illinois"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Are-sperm-human-papilloma-virus-infections-a-missi",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2023.01.002",
+        "keywords": [],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "Recurrent pregnancy loss (RPL) is a physically, emotionally, and financially devastating condition affecting 1% to 3% of all couples (1, 2) .Even with extensive screening and testing, >60% of cases have no identifiable etiology (2) .Among this cohort, several important predictors have been reproducibly characterized including the number of previous pregnancy losses and maternal age (1, 2) .There is also a growing body of evidence suggesting important paternal factors in RPL such as karyotype abnormalities and elevated sperm DNA fragmentation (SDF). Busnelli et al. (3) attempted to expand upon these paternal risk factors by exploring a plausible cause of RPL: male human papilloma virus (HPV) sperm infection.",
+                "cite_spans": [
+                    {
+                        "start": 133,
+                        "end": 136,
+                        "text": "(1,",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 137,
+                        "end": 139,
+                        "text": "2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 228,
+                        "end": 231,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 385,
+                        "end": 388,
+                        "text": "(1,",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 389,
+                        "end": 391,
+                        "text": "2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 555,
+                        "end": 574,
+                        "text": "Busnelli et al. (3)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "This multicentered, case-control study recruited 117 couples with idiopathic RPL (as defined by the European Society of Human Reproduction and Embryology [ESHRE] guidelines) and 84 fertile controls (couples with full-term live births in the year before enrollment with no previous pregnancy losses) (1) .Using an HPV screening-genotyping assay, they found that sperm HPV infections were detected in 20% of couples experiencing RPL compared with only 4% of the fertile controls (P< .001).This comparison demonstrated that sperm HPV infection was significantly correlated with RPL using several multivariate models.Perhaps even more clinically and practically significant was the secondary endpoint, wherein the subcategory of high-risk HPV infections were also associated with RPL (odds ratio, 4.91; 95% confidence interval: 1.4, 17.26; P\u00bc .01) (3) .",
+                "cite_spans": [
+                    {
+                        "start": 299,
+                        "end": 302,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 844,
+                        "end": 847,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The investigators acknowledge the inherent limitations of a case-control study and point out the difficulty in obtaining high levels of evidence, as prospective trials would face significant barriers.An additional consideration is the role of SDF in mediating the effects of HPV infection.Although there were no significant differences in SDF (assessed using terminal deoxynucleotidyl transferase dUTP nick end labeling) between the HPV positive and negative groups, the study was not adequately powered to explore this association (3).Moreover, SDF was not used as a covariate in the multivariable model, as SDF testing was not performed in the fertile control group.Without a clear causal link between HPV and RPL, it is too early to advocate for routine HPV testing of male partners of couples with idiopathic RPL.Further investigations of the relationship between SDF, HPV infection, and RPL are needed to determine whether HPV is a truly independent risk factor for RPL.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Despite these limitations, the study results have a potentially important practical application with regard to HPV vaccination.The current US Food and Drug Administration-approved HPV 9-valent vaccine protects against 7 of the 9 high-risk strains implicated in RPL and is approved for boys and men aged 9 through 45 years (3, 4) .The vaccine is quite safe-the Vaccine Safety Datalink and Vaccine Adverse Events Reporting System found no statistically significant predetermined adverse events occurring with over 838,991 doses administered (4).Although vaccination is not routinely recommended for men aged between 27 and 45 owing to a presumed high prevalence of previous exposure, promising evidence demonstrates that vaccinating already infected males is associated with clearance of sperm HPV infection, increased spontaneous pregnancy rates, and decreased miscarriage rates (4, 5) .Likewise, vaccinating HPV na\u00efve men would prevent the high-risk strains of HPV from infecting their sperm, although the vaccine's independent effect on fertility outcomes is unknown (3) .Moreover, further studies should assess the impact of HPV vaccination on subsequent fertility outcomes in men with and without previous HPV infection; the findings from Busnelli et al. ( 3) provide, at the very least, another reason to support the broader campaign to eliminate or treat high-risk HPV strains through vaccination.Furthermore, reproductive urologists are uniquely positioned to recommend HPV vaccination in young men presenting for fertility care, and we should be familiar with guideline recommendations and emerging research in this area.",
+                "cite_spans": [
+                    {
+                        "start": 322,
+                        "end": 325,
+                        "text": "(3,",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 326,
+                        "end": 328,
+                        "text": "4)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 878,
+                        "end": 881,
+                        "text": "(4,",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 882,
+                        "end": 884,
+                        "text": "5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1068,
+                        "end": 1071,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "ESHRE guideline: recurrent pregnancy loss",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Eshre Guideline Group On Rplbender Atik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Christiansen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Elson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kolte",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lewis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Hum Reprod Open",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Toward more accurate prediction of future pregnancy outcome in couples with unexplained recurrent pregnancy loss: taking both partners into account",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Du Foss E",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M-Lp",
+                        "middle": [],
+                        "last": "Van Der Hoorn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "De Koning",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Agmgj",
+                        "middle": [],
+                        "last": "Mulders",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Jmm",
+                        "middle": [],
+                        "last": "Van Lith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Le Cessie",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Fertil Steril",
+                "volume": "117",
+                "issue": "",
+                "pages": "144--152",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Sperm HPV infection and risk of idiopathic recurrent pregnancy loss: insights from a multicenter case-control study",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Busnelli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Garolla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Tersigni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Parodi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Inversetti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Emanuele",
+                        "middle": [],
+                        "last": "Levi-Setti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "Fertil Steril",
+                "volume": "119",
+                "issue": "",
+                "pages": "410--418",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Vaccines and preventable diseases. Human Papillomavirus (HPV) Vaccination Information for Clinicians",
+                "authors": [],
+                "year": 2021,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Human papillomavirus prophylactic vaccination improves reproductive outcome in infertile patients with HPV semen infection: a retrospective study",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Garolla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "De",
+                        "middle": [],
+                        "last": "Toni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Bottacin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Valente",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "De",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Rocco",
+                        "middle": [],
+                        "last": "Ponce",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Di",
+                        "middle": [],
+                        "last": "Nisio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Sci Rep",
+                "volume": "8",
+                "issue": "3",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

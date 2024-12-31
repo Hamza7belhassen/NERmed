@@ -1,0 +1,2975 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Antim&#xfc;llerian-hormone-is-not-associated-with-",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:29.179442Z"
+    },
+    "title": "Antim\u00fcllerian hormone is not associated with embryo ploidy in patients with and without infertility undergoing in vitro fertilization with preimplantation genetic testing",
+    "authors": [
+        {
+            "first": "Yael",
+            "middle": [
+                "R"
+            ],
+            "last": "Stovezky",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Cornell University",
+                "location": {
+                    "settlement": "New York",
+                    "region": "New York"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Phillip",
+            "middle": [
+                "A"
+            ],
+            "last": "Romanski",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Pietro",
+            "middle": [],
+            "last": "Bortoletto",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Steven",
+            "middle": [
+                "D"
+            ],
+            "last": "Spandorfer",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objective: To assess the association between antim\u20ac ullerian hormone (AMH) and embryo ploidy rates in 2 cohorts of patients undergoing in vitro fertilization (IVF) with trophectoderm biopsy for preimplantation genetic testing for aneuploidy (PGT-A): the general population of women pursuing IVF with PGT-A (Infertile cohort) and women pursuing IVF with preimplantation genetic testing for monogenic disorders (PGT-M) owing to the risk of hereditary monogenic diseases (Non-infertile cohort).Design: Retrospective cohort study.Setting: Academic center.Patient(s): Patients undergoing their first cycle of IVF with trophectoderm biopsy and PGT-A or PGT-A and PGT-M in our center between March 2012 and June 2020.Patients of advanced maternal age according to the Bologna criteria (age R40 years) and patients who underwent fresh embryo transfers were excluded.Intervention(s): None.Main Outcome Measure(s): Proportion of euploid, mosaic, and aneuploid embryos per cycle.\nResult(s): ''Infertile'' (n \u00bc 926) and ''Non-infertile'' (n \u00bc 214) patients were stratified on the basis of AMH levels, with low-AMH defined as <1.1 ng/mL in accordance with the Bologna criteria.Age-adjusted regression models showed no relationship between AMH classification and proportion of euploid, mosaic, and aneuploid embryos in the Infertile or Non-infertile cohorts.In the Infertile cohort, no association between AMH classification and embryo ploidy rates was identified in a subgroup analysis of patients aged <35 years, 35-37 years, and 38-39 years.These findings persisted in a sensitivity analysis of infertile patients stratified into AMH (ng/mL) quartile categories.\nNo association was found between AMH and the proportion of euploid, mosaic, or aneuploid embryos in 2 large cohorts of patients undergoing IVF with PGT-A (Infertile patients) or PGT-A and PGT-M (Non-infertile patients), suggesting that a quantitative depletion of ovarian reserve does not predict the ploidy status of the embryo cohort.",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Antim&#xfc;llerian-hormone-is-not-associated-with-",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.11.018",
+        "keywords": [
+            "Aneuploid",
+            "mosaic",
+            "antim\u20ac ullerian hormone",
+            "diminished ovarian reserve",
+            "preimplantation genetic testing"
+        ],
+        "abstract": [
+            {
+                "text": "Objective: To assess the association between antim\u20ac ullerian hormone (AMH) and embryo ploidy rates in 2 cohorts of patients undergoing in vitro fertilization (IVF) with trophectoderm biopsy for preimplantation genetic testing for aneuploidy (PGT-A): the general population of women pursuing IVF with PGT-A (Infertile cohort) and women pursuing IVF with preimplantation genetic testing for monogenic disorders (PGT-M) owing to the risk of hereditary monogenic diseases (Non-infertile cohort).Design: Retrospective cohort study.Setting: Academic center.Patient(s): Patients undergoing their first cycle of IVF with trophectoderm biopsy and PGT-A or PGT-A and PGT-M in our center between March 2012 and June 2020.Patients of advanced maternal age according to the Bologna criteria (age R40 years) and patients who underwent fresh embryo transfers were excluded.Intervention(s): None.Main Outcome Measure(s): Proportion of euploid, mosaic, and aneuploid embryos per cycle.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "Result(s): ''Infertile'' (n \u00bc 926) and ''Non-infertile'' (n \u00bc 214) patients were stratified on the basis of AMH levels, with low-AMH defined as <1.1 ng/mL in accordance with the Bologna criteria.Age-adjusted regression models showed no relationship between AMH classification and proportion of euploid, mosaic, and aneuploid embryos in the Infertile or Non-infertile cohorts.In the Infertile cohort, no association between AMH classification and embryo ploidy rates was identified in a subgroup analysis of patients aged <35 years, 35-37 years, and 38-39 years.These findings persisted in a sensitivity analysis of infertile patients stratified into AMH (ng/mL) quartile categories.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "No association was found between AMH and the proportion of euploid, mosaic, or aneuploid embryos in 2 large cohorts of patients undergoing IVF with PGT-A (Infertile patients) or PGT-A and PGT-M (Non-infertile patients), suggesting that a quantitative depletion of ovarian reserve does not predict the ploidy status of the embryo cohort.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "R eduction in both quantitative (i.e., absolute number of follicles) and qualitative (i.e., chromosomal integrity of oocytes) measures of ovarian reserve are 2 main features of female infertility.Although the negative effect of age on the quantity and quality of oocytes is well established, it is currently unknown whether these processes share a direct relationship or occur independently (1, 2) .It has previously been theorized that the decline in oocyte quality with age may be affected by an altered hormonal environment produced by a quantitatively diminished ovarian reserve (DOR) (3) .Whether indeed reduced ovarian reserve may lead to reduced oocyte quality is an active question with important clinical implications, not only for women who choose to delay childbearing but also for women who experience an early decline of their follicular pool.",
+                "cite_spans": [
+                    {
+                        "start": 391,
+                        "end": 394,
+                        "text": "(1,",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 395,
+                        "end": 397,
+                        "text": "2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 589,
+                        "end": 592,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Quantitatively, estimates of ovarian reserve are relatively simple to measure and include serum antim\u20ac ullerian hormone (AMH), a transforming growth factor-b glycoprotein hormone produced by granulosa cells and antral follicle count measured by ultrasound (4) (5) (6) .Qualitatively, the evaluation of oocyte integrity is far more challenging.In natural conception protocols, measures such as fecundity, time to pregnancy, and rate of miscarriage as well as aneuploid pregnancies have been used as proxies for oocyte quality based on the principle that high quality oocytes translate into more favorable outcomes.To date, attempts to correlate these qualitative measures with ovarian reserve have produced inconclusive findings.While some studies suggest a decline in fecundity and cumulative live birth rate, and an increase in fetal chromosomal aneuploidy and miscarriage risk among women with a quantitatively reduced ovarian pool others show no association, thus pointing toward 2 separate physiologic processes (7) (8) (9) (10) (11) (12) (13) (14) (15) (16) (17) .",
+                "cite_spans": [
+                    {
+                        "start": 256,
+                        "end": 259,
+                        "text": "(4)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 260,
+                        "end": 263,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 264,
+                        "end": 267,
+                        "text": "(6)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 1016,
+                        "end": 1019,
+                        "text": "(7)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1020,
+                        "end": 1023,
+                        "text": "(8)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 1024,
+                        "end": 1027,
+                        "text": "(9)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1028,
+                        "end": 1032,
+                        "text": "(10)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1033,
+                        "end": 1037,
+                        "text": "(11)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1038,
+                        "end": 1042,
+                        "text": "(12)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 1043,
+                        "end": 1047,
+                        "text": "(13)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 1048,
+                        "end": 1052,
+                        "text": "(14)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 1053,
+                        "end": 1057,
+                        "text": "(15)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1058,
+                        "end": 1062,
+                        "text": "(16)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 1063,
+                        "end": 1067,
+                        "text": "(17)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Preimplantation genetic testing for aneuploidy (PGT-A) offers a unique opportunity to investigate the quantityquality relationship using blastocyst ploidy as a qualitative marker in women treated with in vitro fertilization (IVF).To date, studies in this space were limited by small sample sizes and variable quantitative measures, producing inconclusive results (18) (19) (20) (21) (22) (23) .Recently, 2 large studies of women undergoing IVF with PGT-A reported conflicting findings (24, 25) .One of the studies found that women with DOR had a 24% reduced odds of a biopsied blastocyst being euploid compared with women without DOR (25) .However, groups in this study were not age-matched despite an age difference of 2.5 years, and DOR was defined clinically using the Bologna criteria such that various confounding parameters were selected for in the sample, obscuring the specific interaction between oocyte quantity and euploidy rates (26) .Importantly, both studies focused on the infertile population, thereby limiting the relevance of these findings to women without an infertility diagnosis.",
+                "cite_spans": [
+                    {
+                        "start": 363,
+                        "end": 367,
+                        "text": "(18)",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 368,
+                        "end": 372,
+                        "text": "(19)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 373,
+                        "end": 377,
+                        "text": "(20)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 378,
+                        "end": 382,
+                        "text": "(21)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 383,
+                        "end": 387,
+                        "text": "(22)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 388,
+                        "end": 392,
+                        "text": "(23)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 485,
+                        "end": 489,
+                        "text": "(24,",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 490,
+                        "end": 493,
+                        "text": "25)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 634,
+                        "end": 638,
+                        "text": "(25)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 941,
+                        "end": 945,
+                        "text": "(26)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The primary aim of this study was to determine whether AMH is associated with embryo euploidy rates obtained by PGT-A independently of age.To this end, we compared ploidy rates in women stratified by AMH levels in 2 subpopulations of patients: the general population of women pursuing IVF with PGT-A (''Infertile'' group) and women pursuing IVF with preimplantation genetic testing for monogenic disorders (PGT-M) because of the risk for hereditary monogenic diseases (''Non-infertile'' group).By conducting 2 separate analyses, we aimed to refine our characterization of the quantity-quality relationship beyond what had been achieved in the past.To our knowledge, this is the first time that a PGT-M population, presumed to share the reproductive potential of the general population, has been studied in this context.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Approval for this study was obtained from the institutional review board at our institution.The study population included women who underwent oocyte retrieval with trophectoderm biopsy and PGT-A in an academic hospital setting between March 2012 and June 2020.All patients had an AMH level measured within 12 months of the oocyte retrieval.Patients who underwent fresh embryo transfers, and thus did not have PGT-A, were excluded.Patients of advanced maternal age according to the Bologna criteria (age R40 years) were excluded to account for advancing age as a confounder of the relationship between AMH level and euploidy rate (26, 27) .Embryos with inconclusive PGT-A results (insufficient DNA for testing/findings requiring re-biopsy) were excluded from the analysis, and the total number of tested blastocysts for the patient was appropriately adjusted.Only the patient's first cycle with PGT-A was included to avoid selection bias toward patients with recurrent IVF failure or recurrent pregnancy loss.Data were collected from our prospectively maintained IVF electronic medical record system.Missing data were verified in the electronic medical record.",
+                "cite_spans": [
+                    {
+                        "start": 629,
+                        "end": 633,
+                        "text": "(26,",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 634,
+                        "end": 637,
+                        "text": "27)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study Population and Design",
+                "sec_num": null
+            },
+            {
+                "text": "Patients were stratified into ''Infertile'' and ''Non-infertile'' groups based on their indication for PGT-A.The infertile group included patients with a history of infertility, defined as failure to achieve a pregnancy after 12 months or more of regular unprotected intercourse or after 6 months for women aged 35 and older, who primarily utilized PGT-A for embryo selection before embryo transfer.The decision to use PGT-A for the purpose of embryo selection was made by the patient after thorough counseling with their treating physician regarding the risks and benefits of this technique.The Noninfertile group included patients who primarily underwent ovarian stimulation with intracytoplasmic sperm injection (ICSI) for the purpose of PGT-M owing to the risk for hereditary monogenic disease, but additionally elected to use PGT-A for embryo selection.In this group, PGT-A was chosen by the patient after counseling by the treating physician as described above.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study Population and Design",
+                "sec_num": null
+            },
+            {
+                "text": "Cycle parameters analyzed included patient age at the time of oocyte retrieval; number of oocytes and metaphase-II (MII) oocytes retrieved; number of 2 pronuclear zygotes; number of blastocysts biopsied; and the number of euploid, aneuploid, and mosaic embryos in each patient's cohort.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study Population and Design",
+                "sec_num": null
+            },
+            {
+                "text": "The ovarian stimulation treatment was performed following the standard protocols at our institution.Most patients were treated with a gonadotropin releasing hormone (GnRH) antagonist protocol (28) .For patients with a predicted poor response to stimulation, clomiphene citrate or letrozole was added or a GnRH agonist flare protocol was used at the discretion of the treating physician (29) (30) (31) .In patients with DOR, estrogen priming was initiated in the midluteal phase of the cycle before the ovarian stimulation cycle with 0.1 mg estradiol patches (Climara 0.1 mg, Bayer HealthCare) (32) .The ovulatory trigger was administered once there were 2 leading follicles that had reached 17 mm in size (20 mm for clomiphene and 22-24 mm for letrozole-based protocols).Either an human chorionic gonadotropin (hCG)-only trigger (Novarel [Ferring Pharmaceuticals Inc., Parsippany, NJ, USA] or Pregnyl [Merck, Whitehouse Station, NJ, USA]) or a dual trigger with hCG and GnRH agonist (leuprolide acetate) was administered, with hCG dosing based on a previously published sliding-scale protocol (33) .Oocyte retrieval was performed transvaginally under ultrasound guidance approximately 35-37 hours after the ovulatory trigger was administered.",
+                "cite_spans": [
+                    {
+                        "start": 192,
+                        "end": 196,
+                        "text": "(28)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 386,
+                        "end": 390,
+                        "text": "(29)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 391,
+                        "end": 395,
+                        "text": "(30)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 396,
+                        "end": 400,
+                        "text": "(31)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 593,
+                        "end": 597,
+                        "text": "(32)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 1093,
+                        "end": 1097,
+                        "text": "(33)",
+                        "ref_id": "BIBREF32"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Ovarian Stimulation",
+                "sec_num": null
+            },
+            {
+                "text": "Oocyte insemination was performed by ICSI unless declined by the patient.ICSI was performed first by mechanically denuding the oocytes to assess nuclear maturity, followed by the injection of mature oocytes with a single sperm.Embryos were cultured in sequential media using the EmbryoScope (Vitrolife, G\u20ac oteburg, Sweden) time-lapse system.Embryos were evaluated for fertilization on day 1 and graded morphologically on days 3 and 5 (34) .",
+                "cite_spans": [
+                    {
+                        "start": 434,
+                        "end": 438,
+                        "text": "(34)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Ovarian Stimulation",
+                "sec_num": null
+            },
+            {
+                "text": "Embryos that reached the blastocyst stage were biopsied for PGT-A analysis.The trophectoderm biopsy was performed by first stabilizing the embryo with a holding pipette and then perforating the zona pellucida with laser pulsation (ZI-LOS-tk Laser).A biopsy pipette (20 mm internal diameter) was then used to aspirate 3-7 cells.Biopsied embryos were then cryopreserved for future use (35) .Patients in the Infertile group had PGT-A performed in our laboratory as previously described (36) .Patients who underwent PGT-A simultaneously with PGT-M (Non-infertile group) had their specimens analyzed at 1 of 3 commercial laboratories using either single nucleotide polymorphism microarray, array comparative genomic hybridization (aCGH), or next-generation sequencing (NGS) technology.Normal, aneuploid, and mosaic results were then reported.",
+                "cite_spans": [
+                    {
+                        "start": 383,
+                        "end": 387,
+                        "text": "(35)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 483,
+                        "end": 487,
+                        "text": "(36)",
+                        "ref_id": "BIBREF35"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Preimplantation Genetic Testing for Aneuploidy",
+                "sec_num": null
+            },
+            {
+                "text": "The primary outcomes of this study were proportion of euploid embryos per ovarian stimulation cycle.Secondary outcomes included number of biopsied blastocysts, number of euploid embryos, and proportions of mosaic and aneuploid embryos per ovarian stimulation cycle.The Infertile and the Non-infertile groups were analyzed separately.Within each cohort, patients with AMH <1.1 ng/mL were compared with the patients with AMH R1.1 ng/mL in accordance with the Bologna criteria.A Poisson regression model was used to evaluate the association between AMH group and the number of biopsied blastocysts and euploid embryos.Results are presented as relative risks (RRs) with 95% confidence intervals (CIs).For all ploidy rates outcomes, a Poisson regression model with number of biopsied blastocysts as offset term was used to evaluate the association between AMH group and proportion of euploid, mosaic, and aneuploid embryos.Results are presented as relative rates with 95% CI.All analyses were adjusted a priori for patient age and for the ovarian stimulation protocol type.To assess the relationship between AMH and aneuploidy more closely within prespecified age groups previously found to be related to aneuploidy rates, subgroup analyses of patients aged <35 years, 35-37 years, and 38-39 years were performed for the Infertile group using the Poisson regression models described above (37) .In addition, patients in the Infertile group were stratified into quartile categories by AMH (ng/mL), and analyses were repeated.Sensitivity analyses by age and AMH quartile were not performed for the Non-infertile group owing to the smaller size of the cohort.Statistical analyses were performed using Python (version 3.8.1)and associated numerical packages (pandas, statsmodels, matplotlib).",
+                "cite_spans": [
+                    {
+                        "start": 1384,
+                        "end": 1388,
+                        "text": "(37)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "This study consisted of 1,140 patients who underwent their first cycle of IVF with trophectoderm biopsy and PGT-A.Patients were placed into ''Infertile'' (n \u00bc 926) or ''Non-infertile'' (n \u00bc 214) groups and stratified based on the AMH levels, with low-AMH defined as <1.analyzed.There was a statistically significant increase in the number of biopsied blastocysts as well as the number of euploid embryos with each increasing AMH quartile for the entire cohort and all 3 age subgroups.Euploidy rates for each AMH quartile by age group are also shown in Figure 1 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 559,
+                        "end": 560,
+                        "text": "1",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS",
+                "sec_num": null
+            },
+            {
+                "text": "The euploidy rate for each AMH quartile was comparable to the lowest AMH quartile when all patients were analyzed together and in the 3 age subgroups.Similarly, no significant relationship was observed between percentage of mosaic and aneuploid embryos and AMH classification across age groups.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "RESULTS",
+                "sec_num": null
+            },
+            {
+                "text": "The Non-infertile sample included patients tested for a total of 24 disorders in the low-AMH group (n \u00bc 34), and 81 disorders in the group with normal-AMH levels (n \u00bc 180), with few patients tested for more than one disease.Overall, among Poisson regression models adjusted a priori for age and stimulation type to estimate the relative risk (95% confidence interval).a Poisson regression models with biopsied blastocysts as offset term adjusted a priori for age and stimulation type to estimate the relative rate (95% confidence interval). 3 presents the age-adjusted analysis performed for Non-infertile patients.Similar to the Infertile group, the number of biopsied blastocysts and euploid embryos was statistically increased in normal-AMH compared with low-AMH patients (Biopsied blastocysts: 7.0 vs. 3.4,RR, 1.98 [95% CI, 1.63-2.41];Euploid embryos: 3.9 vs. 1.6;RR, 2.46 [95% CI, 1.84-3.28]).Euploidy rate was higher in the normal-AMH group (54.6%) compared with low-AMH group (47.8%); however, this relationship was not significant after adjusting for age and stimulation type.Again, no significant relationship was observed between percentage of mosaic and aneuploid embryos and AMH group.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 541,
+                        "end": 542,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS",
+                "sec_num": null
+            },
+            {
+                "text": "The aim of this study was to evaluate whether an association exists between quantitatively reduced ovarian reserve, measured using AMH levels, and oocyte quality, measured using embryo euploidy rates identified on PGT-A.In our study cohort, we observed no relationship between AMH classification and euploidy rates among women classified as either ''Infertile'' or ''Non-infertile''.Likewise, there were no statistically significant associations between AMH level category and proportion of mosaic or aneuploid embryos in either population.Expectedly, a significantly higher number of biopsied blastocysts and absolute number of euploid embryos were seen in the normal compared with low-AMH categories in both the ''Infertile'' and ''Non-infertile'' groups, consistent with the response to stimulation based on the ovarian reserve.These findings persisted in age-appropriate subgroup analyses and in a sensitivity analysis of the infertile group by AMH quartiles.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Our findings address a present uncertainty in the field concerning the mechanisms that drive ovarian aging.It is currently unknown whether a quantitative reduction in the follicular pool contributes to factors that compromise oocyte quality.Our results suggest that the quantitative and qualitative decline in ovarian reserve seen in reproductive aging reflect 2 separate physiologic processes, both in women who experience fertility barriers and in women who are presumed to share the reproductive potential of the general population.These results are consistent with a previous large study that evaluated patients who underwent IVF with PGT-A and found no association between AMH and euploidy rates (24) .Conversely, our findings conflict with those of another recent investigation which reported a significant reduction in euploidy rates among women with a clinical diagnosis of DOR vs. women without DOR (25) .Although the investigators attempted to control for age using a generalized linear model, the DOR group was on average 2.5 years older, the sample was inclusive of women up to 42 years old, and DOR was defined clinically without the use of a single quantitative metric.The strengths of our study include comparisons by AMH quartiles and age-appropriate subgroup analyses which were performed to best account for advancing age as a confounder of the relationship between AMH level and euploidy rate.These sensitivity analyses add important nuance to our findings; namely, the nonsignificant trend toward high euploidy rates among patients with higher AMH levels (AMH R1.1 ng/mL or higher AMH quartile [2nd, 3rd, or 4th]) was consistently driven by women in the older age categories in our sample (35-37 and 38-39 years) and was not observed in women younger than 35.This observation further corroborates our conclusion that factors linked to age rather than reduced ovarian reserve drive reduction in oocyte quality.",
+                "cite_spans": [
+                    {
+                        "start": 701,
+                        "end": 705,
+                        "text": "(24)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 908,
+                        "end": 912,
+                        "text": "(25)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "An important distinguishing feature of our study is the focus on women pursuing IVF with PGT-M due to the risk of hereditary monogenic diseases (Non-infertile group).To date, investigations which target the quantity-quality relationship in reproductive aging have overwhelmingly focused on the infertile population, rendering the general population of women without an infertility diagnosis relatively understudied.Our finding that AMH is also not associated with euploidy rates in this population is in contrast with a previous study that evaluated 53 women undergoing IVF for the purpose of gender selection without evidence of a concomitant infertility diagnosis using fluorescence in situ hybridization for 7 chromosomes (X, Y, 13, 16, 18, 21, 22) (38) .Here, we report a substantial cohort size of 214 women using platforms more consistent with the current standard of care used for PGT-A analysis.",
+                "cite_spans": [
+                    {
+                        "start": 732,
+                        "end": 735,
+                        "text": "13,",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 736,
+                        "end": 739,
+                        "text": "16,",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 740,
+                        "end": 743,
+                        "text": "18,",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 744,
+                        "end": 747,
+                        "text": "21,",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 748,
+                        "end": 751,
+                        "text": "22)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 752,
+                        "end": 756,
+                        "text": "(38)",
+                        "ref_id": "BIBREF37"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Although based on our findings, the quantitative decline in the follicular pool and qualitative reduction in ovarian reserve are not associated, these 2 processes may still interact in important ways.Recently, converging evidence from mammalian models have pointed toward inflammation as a key player in the mechanisms that drive decreased oocyte quality (39) (40) (41) .Based on this theory, low-grade, chronic inflammation, a feature of both natural aging and several pathologies associated with DOR such as obesity and autoimmunity, may give rise to chromosomally abnormal oocytes by way of chronic exposure to free radicals and oxidative damage to the ovary (42, 43) .This perspective which ties quanti-tative and qualitative ovarian decline to a pathophysiology shared by aging but not limited to it, is an intriguing alternative to theories which point to the diminished follicular pool as the causal agent which compromises oocyte quality.",
+                "cite_spans": [
+                    {
+                        "start": 355,
+                        "end": 359,
+                        "text": "(39)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 360,
+                        "end": 364,
+                        "text": "(40)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 365,
+                        "end": 369,
+                        "text": "(41)",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 662,
+                        "end": 666,
+                        "text": "(42,",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 667,
+                        "end": 670,
+                        "text": "43)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "We acknowledge several limitations of this study.First, we evaluated oocyte quality based on the chromosome status of embryos using PGT-A technology which has undergone rapid evolution over the time period of the study.As the different technological platforms represented in our sample are reflective of progressive refinements of aneuploidy testing over the past decade, this limitation is unavoidable.However, agreement across technologies has been found to be overwhelmingly high (44) .Second, as this was a retrospective study, factors such as previous reproductive history or a desire to mitigate miscarriage risk likely played a role in the decision to perform PGT-A by the treating physician and the patient.Third, patients were classified as Infertile or Non-infertile based on their primary indication for PGT; however, it is possible that some patients in the Non-infertile group additionally had a secondary history of infertility that we were unable to capture.Lastly, although our study is among the largest to be published in this space, encompassing the entire population who underwent PGT-A at our center since the introduction of trophectoderm biopsy and until the present time, sample size remains a limitation.Especially with respect to the Non-infertile cohort, although we report the first substantial cohort of patients without an infertility diagnosis, the sample size is still relatively small which limits the level of nuance we are powered to detect.Future studies with large cohorts of patients without an infertility diagnosis would be necessary to test this important clinical question at a superior resolution.",
+                "cite_spans": [
+                    {
+                        "start": 483,
+                        "end": 487,
+                        "text": "(44)",
+                        "ref_id": "BIBREF43"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "In summary, our results did not demonstrate a relationship between AMH and proportion of euploid, mosaic, or TABLE 3 Association between antim\u20ac ullerian hormone and embryo ploidy in ''Non-infertile'' preimplantation genetic testing for monogenic disorders (PGT-M) with preimplantation genetic testing for aneuploidy (PGT-A) patients.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 115,
+                        "end": 116,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "''Non-infertile'' (PGT-M with PGT-A) AMH (ng/mL) <1.1",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "(",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "Poisson regression models adjusted a priori for age and stimulation type to estimate the relative risk (95% confidence interval).Data are mean AE standard error.AMH \u00bc antim\u20ac ullerian hormone; PGT-M \u00bc preimplantation genetic testing for monogenic/single-gene defects; PGT-A \u00bc preimplantation genetic testing for aneuploidy.a Poisson regression models with biopsied blastocysts as offset term adjusted a priori for age and stimulation type to estimate the relative rate (95% confidence interval).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Note:",
+                "sec_num": null
+            },
+            {
+                "text": "Stovezky.AMH is not associated with embryo ploidy.Fertil Steril 2023.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Note:",
+                "sec_num": null
+            },
+            {
+                "text": "aneuploid embryos in a cohort of 926 infertile patients or in a cohort of 214 non-infertile patients.These findings provide evidence in favor of 2 separate quantitative and qualitative physiologic processes which occur independently in ovarian aging without sharing a direct relationship.We conclude that age rather than the diminished follicular pool drives the reduction in oocyte quality observed in women with reduced ovarian reserve.On the basis of this finding, AMH should not be used to estimate oocyte quality or euploidy rates in women undergoing IVF.Future studies aimed at understanding the interaction between the quantitative and qualitative reduction in ovarian reserve should focus on factors which alter the ovarian cellular and molecular environment as an area that may shed light on the mechanisms that impair meiotic competence.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Note:",
+                "sec_num": null
+            },
+            {
+                "text": "VOL. 119 NO. 3 / MARCH 2023",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Fertility and Sterility\u00ae",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "A quantitative and cytological study of germ cells in human ovaries",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Baker",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1963,
+                "venue": "Proc R Soc Lond B Biol Sci",
+                "volume": "158",
+                "issue": "",
+                "pages": "417--433",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Quantitative morphological investigations of the follicular system in women; variations at different ages",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Block",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1952,
+                "venue": "Acta Anat",
+                "volume": "14",
+                "issue": "",
+                "pages": "108--123",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "The effect of maternal age on the frequency of trisomy: change in meiosis or in utero selection?",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Warburton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1989,
+                "venue": "Prog Clin Biol Res",
+                "volume": "311",
+                "issue": "",
+                "pages": "165--181",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Ovarian aging: mechanisms and clinical consequences",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Broekmans",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Soules",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Fauser",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Endocr Rev",
+                "volume": "30",
+                "issue": "",
+                "pages": "465--493",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Back to the basics of ovarian aging: a populationbased study on longitudinal antim\u20ac ullerian hormone decline",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "De Kat",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Van Der Schouw",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Mjc",
+                        "middle": [],
+                        "last": "Eijkemans",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Herber-Gast",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Visser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Wmm",
+                        "middle": [],
+                        "last": "Verschuren",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "BMC Med",
+                "volume": "14",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "A characterization of the relationship of ovarian reserve markers with age",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Rosen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Johnstone",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Mcculloch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Schuh-Huerta",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Sternfeld",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Reijo-Pera",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Fertil Steril",
+                "volume": "97",
+                "issue": "",
+                "pages": "238--243",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "A lower antral follicle count is associated with infertility",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Rosen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Johnstone",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Addauan-Andersen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Cedars",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1954,
+                "venue": "Fertil Steril",
+                "volume": "95",
+                "issue": "",
+                "pages": "1950--1954",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "AMH highly correlates with assisted reproduction cumulative live birth rate in women with dimished ovarian reserve independent of age: an analysis of 34,540 cycles from the SART database for 2014-2016",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Tal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Seifer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Tal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Granger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Tal",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Fertil Steril",
+                "volume": "114",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "A reduced size of the ovarian follicle pool is associated with an increased risk of a trisomic pregnancy in IVF-treated women",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Haadsma",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mooij",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Groen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Burger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Lambalk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Fjm",
+                        "middle": [],
+                        "last": "Broekmans",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Hum Reprod",
+                "volume": "25",
+                "issue": "",
+                "pages": "552--558",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Early menopause in mothers of children with Down syndrome?",
+                "authors": [
+                    {
+                        "first": "Emc",
+                        "middle": [],
+                        "last": "Van Der Stroom",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Van Dulmen-Den Broeder",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Elzinga",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Van Montfrans",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Haadsma",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Fertil Steril",
+                "volume": "96",
+                "issue": "",
+                "pages": "985--990",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Maternal anti-m\u20ac ullerian hormone as a predictor of fetal aneuploidy occurring in an early pregnancy loss",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Shim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Ha",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Jung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Shim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Cho",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Obstet Gynecol Sci",
+                "volume": "58",
+                "issue": "",
+                "pages": "494--500",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Antim\u20ac ullerian hormone as a risk factor for miscarriage in naturally conceived pregnancies",
+                "authors": [
+                    {
+                        "first": "Lyttle",
+                        "middle": [],
+                        "last": "Schumacher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Jukic",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Amz",
+                        "middle": [],
+                        "last": "Steiner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Fertil Steril",
+                "volume": "109",
+                "issue": "1",
+                "pages": "1065--10671",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Infertile women below the age of 40 have similar antim\u20ac ullerian hormone levels and antral follicle count compared with women of the same age with no history of infertility",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Hvidman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Bentzen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Thuesen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Lauritsen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Forman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Loft",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Hum Reprod",
+                "volume": "31",
+                "issue": "",
+                "pages": "1034--1045",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Association between biomarkers of ovarian reserve and infertility among older women of reproductive age",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Steiner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Pritchard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Stanczyk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Kesner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Meadows",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Herring",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "JAMA",
+                "volume": "318",
+                "issue": "",
+                "pages": "1367--1376",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Low concentration of circulating antim\u20ac ullerian hormone is not predictive of reduced fecundability in young healthy women: a prospective cohort study",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Hagen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Vestergaard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Juul",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Skakkebaek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Andersson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Main",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Fertil Steril",
+                "volume": "98",
+                "issue": "2",
+                "pages": "1602--1608",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Antim\u20ac ullerian hormone and pregnancy loss from the Effects of Aspirin in Gestation and Reproduction trial",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Zarek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mitchell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Sjaarda",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Mumford",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Silver",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Stanford",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Fertil Steril",
+                "volume": "105",
+                "issue": "2",
+                "pages": "946--952",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Trisomic pregnancy and elevated FSH: implications for the oocyte pool hypothesis",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Kline",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Kinney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Levin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Kelly",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Ferin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Warburton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Hum Reprod",
+                "volume": "26",
+                "issue": "",
+                "pages": "1537--1550",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Higher rates of aneuploidy in blastocysts and higher risk of no embryo transfer in recurrent pregnancy loss patients with diminished ovarian reserve undergoing in vitro fertilization",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Shahine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Marshall",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Lamb",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Hickok",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Fertil Steril",
+                "volume": "106",
+                "issue": "",
+                "pages": "1124--1128",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Diminished ovarian reserve and poor response to stimulation in patients <38 years old: a quantitative but not qualitative reduction in performance",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Morin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Patounakis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Juneau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Neal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Scott",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Seli",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Hum Reprod",
+                "volume": "33",
+                "issue": "",
+                "pages": "1489--1498",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Female age, serum antim\u20ac ullerian hormone level, and number of oocytes affect the rate and number of euploid blastocysts in in vitro fertilization/intracytoplasmic sperm injection cycles",
+                "authors": [
+                    {
+                        "first": "La",
+                        "middle": [],
+                        "last": "Marca",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Minasi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Sighinolfi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Greco",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Argento",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Grisendi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Fertil Steril",
+                "volume": "108",
+                "issue": "2",
+                "pages": "777--783",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Significant correlation between antim\u20ac ullerian hormone and embryo euploidy in a subpopulation of infertile patients",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Gat",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Alkudmani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Wong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Zohni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Weizman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Librach",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Reprod Biomed Online",
+                "volume": "35",
+                "issue": "",
+                "pages": "602--608",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Low antim\u20ac ullerian hormone concentration is associated with increased risk of embryonic aneuploidy in women of advanced age",
+                "authors": [
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Jiang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Yan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Sheng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Sun",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Cui",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Chen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Reprod Biomed Online",
+                "volume": "37",
+                "issue": "",
+                "pages": "178--183",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Embryo attrition in planned PGT-A: predicting the number of available blastocysts for transfer",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Gordon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Keefe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Ginsburg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Racowsky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Lanes",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "J Assist Reprod Genet",
+                "volume": "39",
+                "issue": "",
+                "pages": "173--181",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Serum antim\u20ac ullerian hormone levels are not associated with aneuploidy rates in human blastocysts",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Pipari",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Guillen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Cruz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Pacheco",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Garcia",
+                        "middle": [
+                            "-"
+                        ],
+                        "last": "Velasco",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Reprod Biomed Online",
+                "volume": "42",
+                "issue": "",
+                "pages": "1211--1218",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Diminished ovarian reserve is associated with reduced euploid rates via preimplantation genetic testing for aneuploidy independently from age: evidence for concomitant reduction in oocyte quality with quantity",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Jaswa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Mcculloch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Simbulan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Cedars",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Rosen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "115",
+                "issue": "",
+                "pages": "966--973",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "ESHRE consensus on the definition of ''poor response'' to ovarian stimulation for in vitro fertilization: the Bologna criteria",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Ferraretti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "La",
+                        "middle": [],
+                        "last": "Marca",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Fauser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Bcjm",
+                        "middle": [],
+                        "last": "Tarlatzis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nargund",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Gianaroli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Hum Reprod",
+                "volume": "26",
+                "issue": "",
+                "pages": "1616--1624",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Age-specific serum antim\u20ac ullerian hormone values for 17,120 women presenting to fertility centers within the United States",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Seifer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Baker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Leader",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Fertil Steril",
+                "volume": "95",
+                "issue": "",
+                "pages": "747--750",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "GnRH antagonist versus long GnRH agonist protocol in poor responders undergoing IVF: a randomized controlled trial",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Cheung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Lam",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Lok",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Tty",
+                        "middle": [],
+                        "last": "Chiu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Yeung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Tjer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Hum Reprod",
+                "volume": "20",
+                "issue": "",
+                "pages": "616--621",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Randomized, prospective comparison of luteal leuprolide acetate and gonadotropins versus clomiphene citrate and gonadotropins in 408 first cycles of in vitro fertilization",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Tummon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Daniel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Kaplan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Nisker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Yuzpe",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Fertil Steril",
+                "volume": "58",
+                "issue": "",
+                "pages": "563--568",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Antagonist/letrozole protocol in poor ovarian responders for intracytoplasmic sperm injection: a comparative study with the microdose flare-up protocol",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Yarali",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Esinler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Polat",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Bozdag",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Tiras",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Fertil Steril",
+                "volume": "92",
+                "issue": "",
+                "pages": "231--235",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Clinical and endocrine effects of a microdose GnRH agonist flare regimen administered to poor responders who are undergoing in vitro fertilization",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Surrey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Bower",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Hill",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Ramsey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Surrey",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Fertil Steril",
+                "volume": "69",
+                "issue": "",
+                "pages": "419--424",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Use of a luteal estradiol patch and a gonadotropin-releasing hormone antagonist suppression protocol before gonadotropin stimulation for in vitro fertilization in poor responders",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Dragisic",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Davis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Fasouliotis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Rosenwaks",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Fertil Steril",
+                "volume": "84",
+                "issue": "",
+                "pages": "1023--1026",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Sliding scale HCG trigger yields equivalent pregnancy outcomes and reduces ovarian hyperstimulation syndrome: analysis of 10,427 IVF-ICSI cycles",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Gunnala",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Melnick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Irani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Reichman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Schattman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Davis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "PLoS One",
+                "volume": "12",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "An atlas of human blastocyts",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Veeck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Zaninovic",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Highly efficient vitrification for cryopreservation of human oocytes and embryos: the Cryotop method",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kuwayama",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Theriogenology",
+                "volume": "67",
+                "issue": "",
+                "pages": "73--80",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Body mass index is not associated with embryo ploidy in patients undergoing in vitro fertilization with preimplantation genetic testing",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Stovezky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Romanski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Bortoletto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Spandorfer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "116",
+                "issue": "",
+                "pages": "388--395",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "The nature of aneuploidy with increasing age of the female partner: a review of 15,169 consecutive trophectoderm biopsies evaluated with comprehensive chromosomal screening",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Franasiak",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Forman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Hong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Werner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Upham",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Treff",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Fertil Steril",
+                "volume": "101",
+                "issue": "1",
+                "pages": "656--663",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Lessons from elective in vitro fertilization (IVF) in, principally, non-infertile women",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Gleicher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Weghofer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Barad",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Reprod Biol Endocrinol",
+                "volume": "10",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Inflammaging is associated with shifted macrophage ontogeny and polarization in the aging mouse ovary",
+                "authors": [
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Schlamp",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Huang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Clark",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Brayboy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Reproduction",
+                "volume": "159",
+                "issue": "",
+                "pages": "325--337",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Evaluation of inflammation and follicle depletion during ovarian ageing in mice",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Lliberos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Liew",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Zareie",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "La",
+                        "middle": [],
+                        "last": "Gruta",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Mansell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hutt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Sci Rep",
+                "volume": "11",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "The role of T cells in ovarian physiology and infertility",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Knapik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Paresh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Nabi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Brayboy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Front Cell Dev Biol",
+                "volume": "10",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Obesity induces ovarian inflammation and reduces oocyte quality",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Snider",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Wood",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Reproduction",
+                "volume": "158",
+                "issue": "",
+                "pages": "R79--90",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Insights into the autoimmune aspect of premature ovarian insufficiency",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Sharif",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Watad",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Bridgewood",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Kanduc",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Amital",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Shoenfeld",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Best Pract Res Clin Endocrinol Metab",
+                "volume": "33",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Validation of a next-generation sequencing-based protocol for 24-chromosome aneuploidy screening of blastocysts",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Huang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Yan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Lu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Zhao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Xie",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Qiao",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Fertil Steril",
+                "volume": "105",
+                "issue": "",
+                "pages": "1532--1536",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "La hormona anti-M\u20ac ulleriana no est a asociada con la ploid\u00eda embrionaria en pacientes con y sin infertilidad quienes est an en fertilizaci on in vitro con pruebas de diagn ostico gen etico preimplantatorio",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Evaluar la asociaci on entre la hormona anti-M\u20ac ulleriana (AMH) y las tasas de ploid\u00eda embrionaria en dos cohortes de pacientes en tratamiento de fertilizaci on in vitro (FIV) con biopsia de trofoectodermo para diagn ostico gen etico pre-implantatorio para aneuploid\u00eda (DGP-A): poblaci on general de mujeres en ciclos de FIV para DGP-A (cohorte inf ertil) y mujeres con diagn ostico gen etico pre-implantatorio para des ordenes monog enicos(DGP-M) debido a su riesgo de enfermedades monog enicas hereditarias",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Objetivo",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Resultado(s): Las pacientes ''Infertiles'' (n\u00bc926) y ''no infertiles'' (n\u00bc214) fueron estratificadas con base en los niveles de AMH, definiendo como AMH-baja <1.1 ng/mL de acuerdo con los criterios de Bologna. Los modelos de regresi on ajustados para la edad no mostraron ninguna relaci on entre la clasificaci on de la AMH y la proporci on de embriones euploides, mosaicos y aneuploides en las cohortes de pacientes inf ertiles y no inf ertiles. En la cohorte de pacientes inf ertiles no se encontr o asociaci on entre la clasificaci on de la AMH y las tasas de ploid\u00eda embrionarian en el an alisis de subgrupos por edades",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Paciente",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Las pacientes con edad materna avanzada de acuerdo con los criterios de Bologna (edad \u00bc/> 40 a\u00f1os) y aquellas con transferencia embrionaria en fresco fueron excluidas",
+                "volume": "",
+                "issue": "",
+                "pages": "38--39",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "No se encontr o asociaci on entre la AMH y la proporci on de embriones euploides, mosaicos o aneuploides en dos grandes cohortes de pacientes en ciclos de FIV con DGP-A (pacientes con infertilidad) o DGP-A y DGP-M (pacientes no inf ertiles), sugiriendo que la depleci on cuantitativa de la reserva ov arica no predice el estado de ploid\u00eda en la cohorte de embriones",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "uris": null,
+                "num": null,
+                "text": "Stovezky.AMH is not associated with embryo ploidy.Fertil Steril 2023. the most commonly tested diseases were cystic fibrosis (normal-AMH: n \u00bc 20; low-AMH: n \u00bc 2), BRCA 1/2 (normal-AMH: n \u00bc 27; low-AMH: n \u00bc 3), fragile X (normal-AMH: n \u00bc 7; low-AMH: n \u00bc 7), Lynch syndrome (normal-AMH: n \u00bc 7; low-AMH: n \u00bc 1), and Gaucher disease (normal-AMH: n \u00bc 7; low-AMH: n \u00bc 1).Table",
+                "fig_num": null,
+                "type_str": "figure"
+            },
+            "FIGREF1": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 1",
+                "fig_num": "1",
+                "type_str": "figure"
+            },
+            "FIGREF2": {
+                "uris": null,
+                "num": null,
+                "text": "Stovezky.AMH is not associated with embryo ploidy.Fertil Steril 2023.",
+                "fig_num": null,
+                "type_str": "figure"
+            },
+            "TABREF0": {
+                "html": null,
+                "num": null,
+                "text": "1 ng/mL in accordance with the Bologna criteria (Infertile group: AMH<1.1 ng/mL, n \u00bc 164; AMH R1.1 ng/mL, n \u00bc 762; Non-infertile group AMH<1.1 ng/mL, n \u00bc 34; AMHR1.1 ng/mL, n \u00bc 180) (Table 1).The mean age of patients with low-AMH was older than that of patients with normal-AMH levels (Infertile: AMH<1.1 ng/mL, 36.7 AE 0.2; AMH R1.1 ng/mL, 35.6 AE 0.1; Non-infertile group AMH<1.1 ng/mL, 34.2 AE 0.6; AMH R1.1 ng/mL, 33.5 AE 0.3).Notably, there were more oocytes retrieved, MII oocytes, and number of 2 pronuclear embryos for patients with an AMH R1.1 ng/mL compared with patients with AMH <1.1 ng/mL.Additional demographic characteristics are displayed in Table 1.Table 2 displays cycle characteristics of biopsied blastocyst counts and absolute number of euploid embryos, as well as embryo ploidy proportions of patients in the Infertile group by AMH classification and age group.Across age groups, a significant positive relationship was observed between AMH and both the number of biopsied blastocysts and number of euploid embryos in patients with normal-AMH levels compared with the reference group with low-AMH (biopsied blastocysts: all patients: 6.9 vs. 3.6, RR 1.81 [95% CI, 1.66-1.97];<35: 8.0 vs. 4.4; RR, 1.77 [95% CI, 1.49-2.10];35-37: 6.5 vs. 3.5; RR, 1.81 [95% CI, 1.57-2.07];38-39: 6.1 vs. 3.2; RR, 1.81 [95% CI, 1.56-2.09];euploid embryos: all patients: 3.6 vs. 1.7;RR, 1.91 [95% CI, 1.68-2.16];<35: 4.6 vs. 2.7; RR, 1.66 [95% CI 1.34-2.05];35-37: 3.4 vs. 1.6;RR, 2.92 [95% CI, 1.65-2.47];38-39: 2.6 vs. 1.3;RR, 1.88 [95% CI, 1.48-2.37]).Euploidy rates were higher in the group with normal-AMH levels (normal-AMH group) compared with the group with low-AMH levels (low-AMH) in the total patient sample (51.1% vs. 45.1%), in patients 35-37 years (49.7% vs. 46.2%),and in patients 38-39 years (43.7% vs. 36.9%),but not in patients <35 years (58.4% vs. 59.5%);however, the relationships were not significant after adjusting for age and stimulation type using a Poisson model.Similarly, no statistically significant relationship was observed between the percentage of mosaic and aneuploid embryos and AMH classification across age groups.Patients in the Infertile group were further classified into quartiles on the basis of AMH values (1st quartile [AMH %1.46 ng/mL]; 2nd quartile [AMH 1.47-2.54ng/mL], 3rd quartile [AMH 2.55-4.52ng/mL], 4th quartile [AMH 4.53-28.3ng/mL]) (Supplemental Table 1, available online).Biopsied blastocyst counts, number of euploid embryos, and embryo ploidy proportions for each AMH quartile were",
+                "content": "<table/>",
+                "type_str": "table"
+            },
+            "TABREF1": {
+                "html": null,
+                "num": null,
+                "text": "Demographic characteristics for ''Infertile'' preimplantation genetic testing for aneuploidy (PGT-A) only and ''Non-infertile'' preimplantation genetic testing for monogenic disorders (PGT-M) with PGT-A patients.",
+                "content": "<table><tr><td/><td colspan=\"2\">''Infertile'' (PGT-A only)</td><td/><td colspan=\"3\">''Noninfertile'' (preimplantation genetic testing for monogenic/single-gene defects with PGT-A)</td></tr><tr><td/><td colspan=\"2\">antim\u20ac ullerian hormone (ng/mL)</td><td/><td/><td>antim\u20ac ullerian hormone (ng/mL)</td><td/></tr><tr><td/><td>&lt;1.1 (n [ 164)</td><td>\u20211.1 (n [ 762)</td><td>P value</td><td>&lt;1.1 (n [ 34)</td><td>\u20211.1 (n [ 180)</td><td>P value</td></tr><tr><td>Age at oocyte retrieval Body mass index (kg/m 2 ) Race a</td><td>36.7 AE 0.2 23.9 AE 0.4</td><td>35.6 AE 0.1 22.9 AE 0.1</td><td>&lt; .001 .02 .75</td><td>34.2 AE 0.6 23.1 AE 0.6</td><td>33.5 AE 0.3 23.5 AE 0.3</td><td>.28 .61 .04</td></tr><tr><td>-White</td><td>98 (59.8%)</td><td>428 (56.2%)</td><td/><td>22 (64.7%)</td><td>130 (72.2%)</td><td/></tr><tr><td>-Asian</td><td>34 (20.7%)</td><td>182 (23.9%)</td><td/><td>1 (2.9%)</td><td>20 (11.1%)</td><td/></tr><tr><td>-Black</td><td>4 (2.4%)</td><td>14 (1.8%)</td><td/><td>0 (0)</td><td>4 (2.2%)</td><td/></tr><tr><td>-Other/Unknown Stimulation protocol a</td><td>28 (17.1%)</td><td>138 (18.1%)</td><td>&lt; .001</td><td>11 (32.4%)</td><td>26 (14.4%)</td><td>&lt; .001</td></tr><tr><td>-Antagonist based</td><td>147 (89.6%)</td><td>747 (98.0%)</td><td/><td>30 (88.2%)</td><td>179 (99.4%)</td><td/></tr><tr><td>-Agonist based</td><td>17 (10.4%)</td><td>15 (2.0%)</td><td/><td>4 (11.8%)</td><td>1 (0.6%)</td><td/></tr><tr><td>Total Gonadotropin dose (IU)</td><td>4395 AE 103</td><td>2767 AE 42</td><td>&lt; .001</td><td>4971 AE 287</td><td>2648 AE 90</td><td>&lt; .001</td></tr><tr><td>Length of stimulation (days)</td><td>11.0 AE 0.2</td><td>9.7 AE 0.1</td><td>&lt; .001</td><td>11.4 AE 0.4</td><td>9.7 AE 0.1</td><td>&lt; .001</td></tr><tr><td>million a Total motile sperm count &gt;20</td><td>127 (77.4%)</td><td>532 (69.8%)</td><td>.06</td><td>25 (73.5%)</td><td>139 (77.2%)</td><td>.81</td></tr><tr><td>Oocytes retrieved</td><td>8.4 AE 0.3</td><td>17.3 AE 0.3</td><td>&lt; .001</td><td>7.8 AE 0.8</td><td>18.9 AE 0.7</td><td>&lt; .001</td></tr><tr><td>Mature oocytes</td><td>6.5 AE 0.3</td><td>13.6 AE 0.2</td><td>&lt; .001</td><td>6.4 AE 0.7</td><td>14.2 AE 0.6</td><td>&lt; .001</td></tr><tr><td>Fertilized oocytes (2pn)</td><td>5.4 AE 0.2</td><td>10.9 AE 0.2</td><td>&lt; .001</td><td>5.2 AE 0.6</td><td>11.7 AE 0.5</td><td>&lt; .001</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF2": {
+                "html": null,
+                "num": null,
+                "text": "Association between antim\u20ac ullerian hormone (AMH) and embryo ploidy in ''Infertile'' (preimplantation genetic testing for aneuploidy [PGT-A] only) patients by age.Data are mean AE standard error.AMH \u00bc antim\u20ac ullerian hormone; PGT-A \u00bc preimplantation genetic testing for aneuploidy.",
+                "content": "<table><tr><td/><td>''Infertile'' (PGT-A only)</td><td/></tr><tr><td/><td>AMH (ng/mL) &lt;1.1</td><td>AMH (ng/mL)  \u20211.1</td></tr><tr><td>All Patients</td><td>(n [ 164)</td><td>(n [ 762)</td></tr><tr><td>Biopsied blastocysts</td><td>3.6 AE 0.2</td><td>6.9 AE 0.1</td></tr><tr><td/><td>Ref (1.0)</td><td>1.81 (1.66-1.97)</td></tr><tr><td>Euploid embryos</td><td>1.7 AE 0.1</td><td>3.6 AE 0.1</td></tr><tr><td/><td>Ref (1.0)</td><td>1.91 (1.68-2.16)</td></tr><tr><td>Euploid proportion (%) a</td><td>45.1 AE 2.6</td><td>51.1 AE 1.0</td></tr><tr><td/><td>Ref (1.0)</td><td>1.06 (0.94-1.21)</td></tr><tr><td>Mosaic proportion (%) a</td><td>7.9 AE 1.5</td><td>9.1 AE 0.5</td></tr><tr><td>Aneuploid proportion (%) a</td><td>Ref (1.0) 47.0 AE 2.6</td><td>1.06 (0.79-1.42) 39.8 AE 1.0</td></tr><tr><td/><td>Ref (1.0)</td><td>0.93 (0.81-1.06)</td></tr><tr><td>&lt;35 (y)</td><td>AMH (ng/mL) &lt;1.1</td><td>AMH (ng/mL)  \u20211.1</td></tr><tr><td/><td>(n [ 33)</td><td>(n [ 258)</td></tr><tr><td>Biopsied blastocysts</td><td>4.4 AE 0.5</td><td>8.0 AE 0.3</td></tr><tr><td/><td>Ref (1.0)</td><td>1.77 (1.49-2.10)</td></tr><tr><td>Euploid embryos</td><td>2.7 AE 0.4</td><td>4.6 AE 0.2</td></tr><tr><td/><td>Ref (1.0)</td><td>1.66 (1.34-2.05)</td></tr><tr><td>Euploid proportion (%) a</td><td>59.5 AE 6.1</td><td>58.4 AE 1.4</td></tr><tr><td/><td>Ref (1.0)</td><td>0.95 (0.76-1.18)</td></tr><tr><td>Mosaic proportion (%) a</td><td>6.4 AE 2.1</td><td>9.2 AE 0.8</td></tr><tr><td>Aneuploid proportion (%) a</td><td>Ref (1.0) 34.2 AE 5.6</td><td>1.31 (0.71-2.41) 32.4 AE 1.5</td></tr><tr><td/><td>Ref (1.0)</td><td>1.03 (0.76-1.40)</td></tr><tr><td>35-37 (y)</td><td>AMH (ng/mL) &lt;1.1</td><td>AMH (ng/mL)  \u20211.1</td></tr><tr><td/><td>(n [ 65)</td><td>(n [ 304)</td></tr><tr><td>Biopsied blastocysts</td><td>3.5 AE 0.3</td><td>6.5 AE 0.2</td></tr><tr><td/><td>Ref (1.0)</td><td>1.81 (1.57-2.07)</td></tr><tr><td>Euploid embryos</td><td>1.6 AE 0.2</td><td>3.4 AE 0.1</td></tr><tr><td/><td>Ref (1.0)</td><td>2.92 (1.65-2.47)</td></tr><tr><td>Euploid proportion (%) a</td><td>46.2 AE 4.0</td><td>49.7 AE 1.5</td></tr><tr><td/><td>Ref (1.0)</td><td>1.12 (0.91-1.38)</td></tr><tr><td>Mosaic proportion (%) a</td><td>11.0 AE 2.9</td><td>10.3 AE 0.9</td></tr><tr><td>Aneuploid proportion (%) a</td><td>Ref (1.0) 42.8 AE 3.8</td><td>0.94 (0.61-1.45) 40.0 AE 1.5</td></tr><tr><td/><td>Ref (1.0)</td><td>0.89 (0.72-1.10)</td></tr><tr><td>38-39 (y)</td><td>AMH (ng/mL) &lt;1.1</td><td>AMH (ng/mL)  \u20211.1</td></tr><tr><td/><td>(n [ 66)</td><td>(n [ 200)</td></tr><tr><td>Biopsied blastocysts</td><td>3.2 AE 0.3</td><td>6.1 AE 0.3</td></tr><tr><td/><td>Ref (1.0)</td><td>1.81 (1.56-2.09)</td></tr><tr><td>Euploid embryos</td><td>1.3 AE 0.1</td><td>2.6 AE 0.1</td></tr><tr><td/><td>Ref (1.0)</td><td>1.88 (1.48-2.37)</td></tr><tr><td>Euploid proportion (%) a</td><td>36.9 AE 3.9</td><td>43.7 AE 1.9</td></tr><tr><td>Mosaic proportion (%) a</td><td>Ref (1.0) 5.7 AE 2.0</td><td>1.04 (0.82-1.32) 7.2 AE 1.0</td></tr><tr><td>Aneuploid proportion (%) a</td><td>Ref (1.0) 57.5 AE 4.1</td><td>1.04 (0.60-1.82) 49.0 AE 2.0</td></tr><tr><td/><td>Ref (1.0)</td><td>0.96 (0.78-1.18)</td></tr></table>",
+                "type_str": "table"
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\A-nail-in-the-coffin--the-antim&#xfc;llerian-hormo",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:28.589046Z"
+    },
+    "title": "A nail in the coffin: the antim\u00fcllerian hormone \u201cquality or quantity\u201d debate",
+    "authors": [
+        {
+            "first": "Bradley",
+            "middle": [
+                "S"
+            ],
+            "last": "Hurst",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Atrium Health Carolinas Medical Center",
+                "location": {
+                    "settlement": "Charlotte",
+                    "region": "North Carolina"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\A-nail-in-the-coffin--the-antim&#xfc;llerian-hormo",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2023.01.009",
+        "keywords": [],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "Imagine a blood test so powerful that it can predict an individual oocyte's ability to successfully complete meiosis and, if fertilized, result in a euploid embryo.It seems incredible to think that a test could predict the orderly or disorderly movement of chromosomes during completion of oocyte meiosis.However, for those who believe that antim\u20ac ullerian hormone (AMH) indicates the quantity and quality of oocytes retrieved during ovarian stimulation for in vitro fertilization, the notion may not seem farfetched.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The retrospective cohort study by Stovenzky et al. ( 1) adds another nail in the coffin for the notion that AMH can predict embryonic ploidy.In their retrospective study, there was no relationship identified between AMH and the proportion of euploid, mosaic, or aneuploid embryos in the population with infertility (N \u00bc 926) or the group without infertility (N \u00bc 214) among women undergoing the first cycle of in vitro fertilization using trophectoderm biopsy for preimplantation genetic testing for aneuploidy or preimplantation genetic testing for monogenic disease.Furthermore, there was no association between AMH and a subgroup analysis of women aged <35, 35-37, or 38-39 years.The investigators concluded that AMH indicates quantitative depletion of the ovarian reserve but does not predict the ploidy status of a cohort of embryos.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Of course, the AMH level has become an important test to predict the response to ovarian stimulation for oocyte retrieval.Antim\u20ac ullerian hormone, combined with women's age, is used to predict the prognosis for assisted reproduction.Additionally, it may be used to help select an optimal treatment protocol.It can be a helpful test to incorporate into the evaluation of ovulatory dysfunction.The value of the AMH level in determining the response, the ''quantity,'' is clearly demonstrated in this article.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "All studies have flaws and limitations, as does this one.Most who read and reflect on this study will be left with unanswered questions and a desire to know more.By examining the relationship of AMH with the ''quality'' and ''quantity'' of oocytes using a novel approach, Stovenzky et al. (1) showed that AMH does not predict embryonic ploidy.Young women with low AMH levels do not have ''bad eggs!''",
+                "cite_spans": [
+                    {
+                        "start": 289,
+                        "end": 292,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Anti-m\u20ac ullerian hormone is not associated with embryo ploidy in patients with and without infertility undergoing in vitro fertilization with preimplantation genetic testing",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Stovenzky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Romanski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Bortoletto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Spandorfer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "Fertil Steril",
+                "volume": "119",
+                "issue": "",
+                "pages": "444--453",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

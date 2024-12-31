@@ -1,0 +1,4043 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Beverage-intake-and-ovarian-reserve-among-women-fr",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:30.052554Z"
+    },
+    "title": "Beverage intake and ovarian reserve among women from a fertility center",
+    "authors": [
+        {
+            "first": "Ana",
+            "middle": [
+                "B"
+            ],
+            "last": "Maldonado-C\u00e1rceles",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Makiko",
+            "middle": [],
+            "last": "Mitsunami",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Harvard T.H. Chan School of Public Health",
+                "location": {
+                    "settlement": "Boston",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Andrea",
+            "middle": [],
+            "last": "Florio",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Harvard T.H. Chan School of Public Health",
+                "location": {
+                    "settlement": "Boston",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Paige",
+            "middle": [
+                "L"
+            ],
+            "last": "Williams",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Harvard T.H. Chan School of Public Health",
+                "location": {
+                    "settlement": "Boston",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Jennifer",
+            "middle": [
+                "B"
+            ],
+            "last": "Ford",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Irene",
+            "middle": [],
+            "last": "Souter",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Harvard T.H. Chan School of Public Health",
+                "location": {
+                    "settlement": "Boston",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Jorge",
+            "middle": [
+                "E"
+            ],
+            "last": "Chavarro",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Harvard T.H. Chan School of Public Health",
+                "location": {
+                    "settlement": "Boston",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Lidia",
+            "middle": [],
+            "last": "M\u00ednguez-Alarc\u00f3n",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objective: To evaluate the associations of caffeinated, alcoholic, and sweetened beverage intakes with antral follicle count (AFC), a well-accepted biomarker of ovarian reserve.Design: Observational prospective cohort study.Setting: Fertility center at an academic hospital.Patients: This study includes 567 women seeking fertility care at the Massachusetts General Hospital who participated in the Environment and Reproductive Health Study.Intervention: None.Women self-reported consumption of caffeinated (coffee, tea, soda), alcoholic (wine, beer, liquor), sugarsweetened, and artificially sweetened beverages using a validated food-frequency questionnaire.Main Outcome Measure: Antral follicle count was assessed using a transvaginal ultrasound performed on the 3rd day of an unstimulated menstrual cycle or on the 3rd day of a progesterone withdrawal bleed.Results: Median (interquartile range) age and AFC were 35.0 (32.0-38.0)years and 13.0 (9.0-18.0),respectively.Median (range) intake of caffeinated, alcoholic, sugar-sweetened, and artificially sweetened beverages in servings/day were 1.08 (0-7.08),0.35 (0-3.84),0.04 (0-4.80), and 0.04 (0-7.50),respectively.All examined beverages were unrelated to AFC.The multivariable adjusted mean AFC (95% confidence interval) for women in the top and bottom quartiles of intake were 13.8 (13.0-14.7)and 13.8 (12.9-14.7)for caffeinated beverages; 13.8 (13.0-14.7)and 13.8 (13.0-14.6)for alcoholic beverages; 13.5 (12.6-14.4) and 13.3 (12.4-14.2) for sugar-sweetened beverages; and 13.2 (12.4-14.1)and 13.4 (12.6-14.3)for artificially sweetened beverages.Conclusion: Low-to-moderate intakes of caffeinated, alcoholic, sugar-sweetened, and artificially sweetened beverages were unrelated to ovarian reserve, as measured by AFC, in a cohort of women seeking fertility care.",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Beverage-intake-and-ovarian-reserve-among-women-fr",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.03.016",
+        "keywords": [
+            "Antral follicle count",
+            "beverages",
+            "female fertility",
+            "ovarian reserve"
+        ],
+        "abstract": [
+            {
+                "text": "Objective: To evaluate the associations of caffeinated, alcoholic, and sweetened beverage intakes with antral follicle count (AFC), a well-accepted biomarker of ovarian reserve.Design: Observational prospective cohort study.Setting: Fertility center at an academic hospital.Patients: This study includes 567 women seeking fertility care at the Massachusetts General Hospital who participated in the Environment and Reproductive Health Study.Intervention: None.Women self-reported consumption of caffeinated (coffee, tea, soda), alcoholic (wine, beer, liquor), sugarsweetened, and artificially sweetened beverages using a validated food-frequency questionnaire.Main Outcome Measure: Antral follicle count was assessed using a transvaginal ultrasound performed on the 3rd day of an unstimulated menstrual cycle or on the 3rd day of a progesterone withdrawal bleed.Results: Median (interquartile range) age and AFC were 35.0 (32.0-38.0)years and 13.0 (9.0-18.0),respectively.Median (range) intake of caffeinated, alcoholic, sugar-sweetened, and artificially sweetened beverages in servings/day were 1.08 (0-7.08),0.35 (0-3.84),0.04 (0-4.80), and 0.04 (0-7.50),respectively.All examined beverages were unrelated to AFC.The multivariable adjusted mean AFC (95% confidence interval) for women in the top and bottom quartiles of intake were 13.8 (13.0-14.7)and 13.8 (12.9-14.7)for caffeinated beverages; 13.8 (13.0-14.7)and 13.8 (13.0-14.6)for alcoholic beverages; 13.5 (12.6-14.4) and 13.3 (12.4-14.2) for sugar-sweetened beverages; and 13.2 (12.4-14.1)and 13.4 (12.6-14.3)for artificially sweetened beverages.Conclusion: Low-to-moderate intakes of caffeinated, alcoholic, sugar-sweetened, and artificially sweetened beverages were unrelated to ovarian reserve, as measured by AFC, in a cohort of women seeking fertility care.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "T he consumption of beverages is an important component of diet (1) , contributing to nearly 20% of the total energy intake among younger adults in the United States (2) .According to data from the National Health and Nutrition Examination Survey, between 20% and 50% of American adults consume any type of nonwater beverage, such as coffee, tea, sweetened beverages, or alcohol, on a given day (3) .The 2020-2025 Dietary Guidelines for Americans acknowledge the relevance of beverage choices to support a healthy diet pattern (1) .The caloric and nutrient content and the potential health effects that different beverage groups may have on health has been assessed extensively (4, 5) .Previous studies have linked the consumption of some beverages, such as coffee (6) , caffeine intake (7) , sweetened beverages (8) (9) (10) , and alcohol use (11) (12) (13) to mortality (6, 9, 12, 13) and cardiovascular disease (7, 8, 10, 11) and also potential effects of intakes of alcohol (14) (15) (16) (17) and caffeine (15, 16) , as well as sugared beverages (18, 19) on fertility.",
+                "cite_spans": [
+                    {
+                        "start": 64,
+                        "end": 67,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 166,
+                        "end": 169,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 395,
+                        "end": 398,
+                        "text": "(3)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 527,
+                        "end": 530,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 678,
+                        "end": 681,
+                        "text": "(4,",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 682,
+                        "end": 684,
+                        "text": "5)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 765,
+                        "end": 768,
+                        "text": "(6)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 787,
+                        "end": 790,
+                        "text": "(7)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 813,
+                        "end": 816,
+                        "text": "(8)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 817,
+                        "end": 820,
+                        "text": "(9)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 821,
+                        "end": 825,
+                        "text": "(10)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 844,
+                        "end": 848,
+                        "text": "(11)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 849,
+                        "end": 853,
+                        "text": "(12)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 854,
+                        "end": 858,
+                        "text": "(13)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 872,
+                        "end": 875,
+                        "text": "(6,",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 876,
+                        "end": 878,
+                        "text": "9,",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 879,
+                        "end": 882,
+                        "text": "12,",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 883,
+                        "end": 886,
+                        "text": "13)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 914,
+                        "end": 917,
+                        "text": "(7,",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 918,
+                        "end": 920,
+                        "text": "8,",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 921,
+                        "end": 924,
+                        "text": "10,",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 925,
+                        "end": 928,
+                        "text": "11)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 978,
+                        "end": 982,
+                        "text": "(14)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 983,
+                        "end": 987,
+                        "text": "(15)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 988,
+                        "end": 992,
+                        "text": "(16)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 993,
+                        "end": 997,
+                        "text": "(17)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1011,
+                        "end": 1015,
+                        "text": "(15,",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1016,
+                        "end": 1019,
+                        "text": "16)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 1051,
+                        "end": 1055,
+                        "text": "(18,",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 1056,
+                        "end": 1059,
+                        "text": "19)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Among women of childbearing age, these beverages are consumed commonly in a given day, with women reporting a prevalence rate of approximately 66% for coffee/tea, 21% for alcoholic beverages, and 23% and 14% for soft drinks and diet beverages respectively (20) , and concerns have been rising about their negative effects on fertility (18, (21) (22) (23) .Caffeine and alcohol are 2 of the most studied dietary factors in relation to fertility (15, 16) , while intake of sugarsweetened or diet beverages has received less attention in relation to reproductive health (18, 19) .The effect that caffeinated, alcoholic, and sweetened beverages may have on fertility, however, remains controversial.Although the underlying mechanisms linking beverage intake to fertility are understudied, which makes it difficult to draw firm conclusions, (14-17, 19, 24) there is some evidence to suggest that coffee consumption and alcohol intake may influence the size of the underlying human oocyte pool (25) (26) (27) (28) (29) (30) , determining the ovarian reserve.",
+                "cite_spans": [
+                    {
+                        "start": 256,
+                        "end": 260,
+                        "text": "(20)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 335,
+                        "end": 339,
+                        "text": "(18,",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 340,
+                        "end": 344,
+                        "text": "(21)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 345,
+                        "end": 349,
+                        "text": "(22)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 350,
+                        "end": 354,
+                        "text": "(23)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 444,
+                        "end": 448,
+                        "text": "(15,",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 449,
+                        "end": 452,
+                        "text": "16)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 567,
+                        "end": 571,
+                        "text": "(18,",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 572,
+                        "end": 575,
+                        "text": "19)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 836,
+                        "end": 851,
+                        "text": "(14-17, 19, 24)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 988,
+                        "end": 992,
+                        "text": "(25)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 993,
+                        "end": 997,
+                        "text": "(26)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 998,
+                        "end": 1002,
+                        "text": "(27)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1003,
+                        "end": 1007,
+                        "text": "(28)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1008,
+                        "end": 1012,
+                        "text": "(29)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 1013,
+                        "end": 1017,
+                        "text": "(30)",
+                        "ref_id": "BIBREF29"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Possible biologic pathways have been suggested based on data from animal models.Ethanol consumption has been linked to follicular atresia, markedly in antral follicles (17, 31) , and increased susceptibility to oxidative stress in the rat ovary, which in turn may induce tissue damage, suggesting a deleterious effect of ethanol on ovarian structure (17, 32) .Caffeine and caffeinated beverage administration showed a toxic effect in decreasing the number of preantral and small antral follicles in rats, suggesting follicular atresia through deoxyribonucleic acid.Caffeine administration also resulted in an insufficient growth of preantral follicles, which may cause cell damage in the long term (33) .Consumption of sugar-sweetened beverages can promote insulin resistance by contributing to a high dietary glycemic load in humans (10) .Alternative beverages, such as artificially sweetened drinks, provide few to no calories, but recently it has been suggested that their consumption may lead to insulin resistance through stimulating a cephalic insulin response and alterations in gut microflora (10) .Insulin resistance could increase reactive oxygen species formation and decrease concentrations of glutathione, contributing to oxidative stress in the oocyte's cytoplasm, which might lead to apoptosis in oocytes and increase the rates of antral follicle atresia in mice (34) .",
+                "cite_spans": [
+                    {
+                        "start": 168,
+                        "end": 172,
+                        "text": "(17,",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 173,
+                        "end": 176,
+                        "text": "31)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 350,
+                        "end": 354,
+                        "text": "(17,",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 355,
+                        "end": 358,
+                        "text": "32)",
+                        "ref_id": "BIBREF31"
+                    },
+                    {
+                        "start": 698,
+                        "end": 702,
+                        "text": "(33)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 834,
+                        "end": 838,
+                        "text": "(10)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1101,
+                        "end": 1105,
+                        "text": "(10)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 1378,
+                        "end": 1382,
+                        "text": "(34)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Therefore, as research on the relation between beverage intake and the human ovarian reserve is sparse and inconsistent (30, 35) , we investigated the associations between beverage intakes (caffeinated, alcoholic, sugar-sweetened, and artificially sweetened beverages) and antral follicle count (AFC), a well-accepted biomarker of ovarian reserve (36) , among women attending a fertility clinic.Specifically, we hypothesized that higher consumption of these beverages would be associated inversely with AFC.",
+                "cite_spans": [
+                    {
+                        "start": 120,
+                        "end": 124,
+                        "text": "(30,",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 125,
+                        "end": 128,
+                        "text": "35)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 347,
+                        "end": 351,
+                        "text": "(36)",
+                        "ref_id": "BIBREF35"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The Environment and Reproductive Health Study is a prospective cohort initiated in 2004 that enrolled couples seeking fertility care at the Massachusetts General Hospital (MGH) Fertility Center in Boston, Massachusetts (37) .Women aged 18-45 years were eligible to join the study.All participants completed demographic, lifestyle, general, and reproductive health questionnaires at study entry.A semiquantitative food-frequency questionnaire (FFQ) was introduced to the study in 2007 to assess habitual diet.In the current study, we included women recruited between 2007 and 2019 who completed an FFQ and had an AFC assessment as part of the diagnostic procedures.Of the 781 scans from women who completed the FFQ, we excluded scans of women using leuprolide acetate, women with a diagnosis of polycystic ovary syndrome, incomplete scans, repeated scans from the same women, women who completed the FFQ >1 year after their transvaginal ultrasound, as well as women who reported implausible total energy intake, leaving a final sample size of 567 women (Supplemental Fig. 1 , available online).The institutional review boards at MGH and Harvard T. H. Chan School of Public Health approved the study and written informed consent was obtained from all study participants.",
+                "cite_spans": [
+                    {
+                        "start": 219,
+                        "end": 223,
+                        "text": "(37)",
+                        "ref_id": "BIBREF36"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1071,
+                        "end": 1072,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Study Design and Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Diet was measured using a validated (38, 39) semiquantitative FFQ.In this questionnaire, women were asked how often on average they had consumed the foods specified during the past year.The questionnaire included 131 food and beverage items whose intake was reported using a 9-level scaleincremental frequencies of consumption for each item, ranging from <1 per month to R6 per day.Nutrient values for each food item were compiled from the US Department of Agriculture National Nutrient Database (40) and food manufacturers.Total caffeinated beverages intake was determined by the sum of coffee with caffeine, tea with caffeine, and caffeinated sodas (not sugar-free and sugar-free carbonated beverages with caffeine).Total alcoholic beverages were estimated by the sum of beer (regular and light beers), wine (red and white wine), and liquor.Sugar-sweetened beverages intake was calculated by summing intakes of sugarsweetened cola beverages (e.g., Coke, Pepsi, and other colas with sugar), other carbonated sugar-sweetened beverages (e.g., 7UP, root beer, ginger ale), and noncarbonated sugarsweetened beverages (punch, lemonade, sports drinks, or sugared ice tea).Artificially sweetened beverages were defined by the sum of low-calorie beverages with caffeine (e.g., Diet Coke, Diet Mountain Dew) and other low-calorie beverage without caffeine (e.g., Diet 7UP).To characterize overall food choices in the study population, we identified dietary patterns using principal components analysis, as previously described (41) , but excluding all beverages from the food groupings included in the analysis.We retained the first 2 factors from this analysis to allow for adjustment for overall dietary choices that may be associated with intake of specific types of beverages.The 2 factors identified represented a Mediterranean dietary pattern and a Prudent dietary pattern.Every subject was given a score for the 2 identified patterns according to their food consumption, and each participant appears in results for both dietary patterns.A high score corresponded to a high adherence to the dietary pattern and the opposite for a low score.",
+                "cite_spans": [
+                    {
+                        "start": 36,
+                        "end": 40,
+                        "text": "(38,",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 41,
+                        "end": 44,
+                        "text": "39)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 496,
+                        "end": 500,
+                        "text": "(40)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 1519,
+                        "end": 1523,
+                        "text": "(41)",
+                        "ref_id": "BIBREF40"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dietary Assessment",
+                "sec_num": null
+            },
+            {
+                "text": "All participants underwent a standard infertility workout as part of the routine clinical care, which included the ultrasonography determination of the AFC.Antral follicle count measurement was performed as part of routine diagnostic procedures by a reproductive endocrinology and infertility physician or fellow under the supervision of the treating physician, blinded to the diet assessment results, and following a standard protocol that was based strictly on the American Society for Reproductive Medicine Practice Committee recommendations (42) .Antral follicle count was ascertained by 2-dimensional transvaginal ultrasound in early follicular phase of an unstimulated cycle.Ovarian AFC was defined as the sum of antral follicles in both ovaries.All follicles >2 mm were counted.No fertility medications were used in the cycle before the ultrasonographic assessment.Of the 567 women included in the analysis, 22 (4%) had an AFC >30.To reduce the influence of these high values, we truncated AFC at 30.The median (95% range) of days between the FFQ and AFC examination was 34 (\u00c0383-247); with 382 (67%) women returning the FFQ after the AFC measurement.",
+                "cite_spans": [
+                    {
+                        "start": 545,
+                        "end": 549,
+                        "text": "(42)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "AFC Determination",
+                "sec_num": null
+            },
+            {
+                "text": "Differences in participant characteristics across quartiles of beverage intakes were assessed using Kruskal-Wallis tests for continuous variables and c 2 tests for categorical variables.We used multivariate generalized linear models with Poisson distribution and log-link function to estimate mean AFC and 95% confidence intervals (CIs) by categories of beverage intake.All exposure variables were categorized first into quartiles using the lowest category as the reference group.Specific beverages were categorized by tertiles or the median when the distribution was too narrow or a large percentage of women were unexposed.After analysis, results were backexponentiated to show them on the original count scale.For tests for linear trend across categories, the median value for each category was assigned and these values were used as a continuous variable.Nonlinearity was assessed with restricted cubic splines, which used the likelihood ratio test comparing the model with the linear term to the model with the linear and the cubic spline terms.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Confounding was evaluated using substantive knowledge and descriptive statistics from our study population.Using this criteria, the final model included for age (continuous), body mass index (BMI; continuous), smoking status (never smoked, ever smoked), physical activity (continuous), education (high school or less, college degree or higher), total energy intake (continuous), the remaining beverages (continuous), dietary patterns (continuous), and race (White, other).Race was considered as a potential confounder based on previous research linking race and ethnicity to ovarian reserve as well as previous work linking alcohol intake to ovarian reserve among minority women (28, 43) .We did not make any assumptions as to whether these previously reported associations were a reflection of biologic or social factors.Interactions by age (<35, R35 years), BMI (<25 kg/m 2 , R25 kg/m 2 ), and smoking status were tested by including cross-product terms in the multivariate models because these parameters are all well-documented predictors of ovarian reserve (44) (45) (46) .Analyses were performed using the statistical software SAS v. 9.4 (SAS Institute, Inc, Cary, NC).",
+                "cite_spans": [
+                    {
+                        "start": 679,
+                        "end": 683,
+                        "text": "(28,",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 684,
+                        "end": 687,
+                        "text": "43)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 1062,
+                        "end": 1066,
+                        "text": "(44)",
+                        "ref_id": "BIBREF43"
+                    },
+                    {
+                        "start": 1067,
+                        "end": 1071,
+                        "text": "(45)",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 1072,
+                        "end": 1076,
+                        "text": "(46)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "The 567 women in our study were mostly white (83%; Asian 10%, Black/African American 4%), had never smoked (75%), and had college degree or higher (93%; Supplemental Table 1 , available online).At study entry, they also had a median (interquartile range [IQR]) age of 35.0 (32.0-38.0)years, and BMI of 23.2 (21.2-26.0)kg/m 2 .Median (IQR) AFC was 13.0 (9.0-18.0).Median (range) of beverage consumption (servings/day) was 1.08 (0-7.08) for caffeinated items, 0.35 (0-3.84) for alcoholic drinks, 0.04 (0-4.80), and 0.04 (0-7.50) for sugar and artificially sweetened drinks, respectively.Median (range) of caffeine and alcohol intake was 103.6 (0.31-955.5) mg/day and 4.7 (0-57.5)g/day, respectively.Participants in the highest quartile of caffeinated beverage consumption were slightly older, less physically active, and had greater alcohol intake and lower carbohydrate intake on average (Table 1 ).Women with higher consumption of alcoholic beverages also had greater caffeine and lower carbohydrate intake, were more often Caucasian, more physically active, and had ever smoked.Women consuming the lowest amounts of sugar-sweetened drinks on average were slightly older and had lower carbohydrate and total sugar intake, and higher fat intake.Women with the highest consumption of artificially sweetened beverages more often had lower education degrees, had a greater BMI, and caffeine and total sugar intake.Participants with higher intake of all 4 beverage groups also tended to have higher energy intake.A greater adherence by women to the Prudent dietary pattern was related to lower intake of sugar-sweetened beverages, whereas higher adherence to the Western diet pattern was related to greater alcoholic, sugar-sweetened, and artificially sweetened beverage consumption.No other subject characteristics were significantly different across quartiles of these beverage intakes.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 172,
+                        "end": 173,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 894,
+                        "end": 895,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS",
+                "sec_num": null
+            },
+            {
+                "text": "Intakes of caffeinated (Table 2 ), alcoholic (Table 3 ), sugarsweetened and artificially sweetened (Table 4 ) beverages were not associated with AFC in age and energy adjusted or multivariable adjusted models.The multivariable adjusted mean AFC (95% CI) for women in the top and bottom quartiles of intake for specific beverages were 13.8 (13.0-14.7)and 13.8 (12.9-14.7)for caffeinated beverages (Table 2 ); 13.8 (13.0-14.7)and 13.8 (13.0-14.6)for alcoholic beverages (Table 3 ); 13.5 (12.6-14.4) and 13.3 (12.4-14.2) for sugar-sweetened beverages (Table 4 ); and 13.2 (12.4-14.1)and 13.4 (12.6-14.3)for artificially sweetened beverages (Table 4 ).When intake of specific beverages was assessed, we also found no relationships between caffeinated, decaffeinated items, alcoholic, and sweetened beverages in adjusted models.Similar associations were found after stratification by age (<35 vs. R35 years), BMI (<25 vs. R25 kg/m 2 ), and smoking status (never vs. ever smoker; Supplemental Tables 2-5, available online).We also tested for departures from linearity by fitting a spline model for each beverage intake (Supplemental Figs. 2 3 4 5 6 7 8 9 10 11 12 13 14 ).There was no evidence of departure from linearity for the relationships between each beverage intake and AFC except for coffee consumption (P nonlinearity \u00bc .02).However, after restriction at the 97.5th percentile of the coffee intake distribution, this statistically significant association was no longer observed (P nonlinearity \u00bc .58).Last, because 32 (5.6%) of 567 women had an FFQ >1 year before the ultrasound measurement, we conducted a sensitivity analysis among the sample of 535 women (Supplemental Tables 6 7 8 , available online).Similar to our main results, we found no statistically significant associations between beverage intake and AFC in the adjusted models (PR.05).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 30,
+                        "end": 31,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 52,
+                        "end": 53,
+                        "text": "3",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 106,
+                        "end": 107,
+                        "text": "4",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 403,
+                        "end": 404,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 475,
+                        "end": 476,
+                        "text": "3",
+                        "ref_id": "TABREF1"
+                    },
+                    {
+                        "start": 555,
+                        "end": 556,
+                        "text": "4",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 644,
+                        "end": 645,
+                        "text": "4",
+                        "ref_id": "TABREF2"
+                    },
+                    {
+                        "start": 1133,
+                        "end": 1134,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1135,
+                        "end": 1136,
+                        "text": "3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1137,
+                        "end": 1138,
+                        "text": "4",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1139,
+                        "end": 1140,
+                        "text": "5",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1141,
+                        "end": 1142,
+                        "text": "6",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1143,
+                        "end": 1144,
+                        "text": "7",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1145,
+                        "end": 1146,
+                        "text": "8",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1147,
+                        "end": 1148,
+                        "text": "9",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1149,
+                        "end": 1151,
+                        "text": "10",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1152,
+                        "end": 1154,
+                        "text": "11",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1155,
+                        "end": 1157,
+                        "text": "12",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1158,
+                        "end": 1160,
+                        "text": "13",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1161,
+                        "end": 1163,
+                        "text": "14",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1682,
+                        "end": 1683,
+                        "text": "6",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1684,
+                        "end": 1685,
+                        "text": "7",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1686,
+                        "end": 1687,
+                        "text": "8",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS",
+                "sec_num": null
+            },
+            {
+                "text": "Among women seeking fertility care in Boston, we found that low-to-moderate intakes of caffeinated, alcoholic, sugarsweetened, and artificially sweetened beverages were not related to ovarian reserve measured as AFC.These results suggest that a usual consumption of these beverages within the observed ranges of intake among a cohort of women seeking fertility care may not adversely impact the ovarian reserve.Similar to our results, 4 previous studies (30, (47) (48) (49) have found no associations of caffeine and caffeinated beverage intake with ovarian reserve biomarkers such as AFC or circulating antim\u20ac ullerian hormone (AMH) concentrations.Women included in these 4 studies had an average age similar to women in our study (34-37 years (30, 47-49) from a fertility clinic (30) or had a pregnancy, the majority ending in loss (47, 48) .In contrast, a cross-sectional study exploring the effects of environmental factors on ovarian toxicity in South Africa reported lower AMH concentrations among 420 women who drank coffee regularly for at least once per week for R6 months (27) .This study included eumenorrheic younger women (20-30 years, median 24 years) with no previous problems becoming pregnant.Since epidemiologic studies investigating the associations of caffeinated beverage consumption on ovarian reserve are scarce, more studies on the topic are warranted to reevaluate the associations, especially among women with different amounts of intakes as well as women from the general population.",
+                "cite_spans": [
+                    {
+                        "start": 454,
+                        "end": 458,
+                        "text": "(30,",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 459,
+                        "end": 463,
+                        "text": "(47)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 464,
+                        "end": 468,
+                        "text": "(48)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 469,
+                        "end": 473,
+                        "text": "(49)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 732,
+                        "end": 756,
+                        "text": "(34-37 years (30, 47-49)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 781,
+                        "end": 785,
+                        "text": "(30)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 834,
+                        "end": 838,
+                        "text": "(47,",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 839,
+                        "end": 842,
+                        "text": "48)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 1082,
+                        "end": 1086,
+                        "text": "(27)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The relationship between alcohol, alcoholic beverages, and markers of ovarian reserve has been examined in several studies, however, yielding conflicting results.Most of these studies reported either no (28, 29, 47, 48, (50) (51) (52) (53) or inverse (26, 30) associations with AFC, or circulating concentrations of AMH (27, 28, 30) .The Study of Environment, Lifestyle and Fibroids also examined the impact of specific patterns of alcohol intake (28) .Among current alcohol drinkers, binge drinking (R2 days/week) vs. drinkers who never binged showed 26% lower AMH levels, a marker of ovarian reserve.However, past binge drinking a Adjusted for age, body mass index, smoking status, race, physical activity, education, total energy intake, the remaining beverages and the dietary patterns without the specific beverages.Sugarsweetened beverages include sugar-sweetened cola beverages (e.g., Coke, Pepsi, and other colas with sugar), other carbonated sugar-sweetened beverages (e.g., 7-Up, root beer, ginger ale), and noncarbonated sugar-sweetened beverages (punch, lemonade, sports drinks, or sugared ice tea).Artificially sweetened beverages include low-calorie beverages with caffeine (e.g., Diet Coke, Diet Mt.Dew) and other low-calorie beverage without caffeine (e.g., Diet 7-Up).b P< .05 for comparison of specific category vs. category 1 (reference).",
+                "cite_spans": [
+                    {
+                        "start": 203,
+                        "end": 207,
+                        "text": "(28,",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 208,
+                        "end": 211,
+                        "text": "29,",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 212,
+                        "end": 215,
+                        "text": "47,",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 216,
+                        "end": 219,
+                        "text": "48,",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 220,
+                        "end": 224,
+                        "text": "(50)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 225,
+                        "end": 229,
+                        "text": "(51)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 230,
+                        "end": 234,
+                        "text": "(52)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 235,
+                        "end": 239,
+                        "text": "(53)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 251,
+                        "end": 255,
+                        "text": "(26,",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 256,
+                        "end": 259,
+                        "text": "30)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 320,
+                        "end": 324,
+                        "text": "(27,",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 325,
+                        "end": 328,
+                        "text": "28,",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 329,
+                        "end": 332,
+                        "text": "30)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 447,
+                        "end": 451,
+                        "text": "(28)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Maldonado-C arceles.Beverage intake and ovarian reserve.Fertil Steril 2022.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "or nonbinge drinking was unrelated to this marker.Among premenopausal women undergoing hysterectomy with incidental oophorectomy, contradictory results were observed after histologic examination of surgical specimens (25, 29) .Follicle density in ovarian sections was inversely associated with alcohol consumption (25) , while light-tomoderate alcohol consumption compared to nondrinkers was related to ovarian nongrowing follicle count and total follicles using morphometric techniques (29) .Some limitations of these studies included their cross-sectional design, the small sample sizes (n \u00bc 102 and 110 women), the late reproductive age (between 40-49 years), and participants undergoing hysterectomy, which may not be representative of the general or infertility population.",
+                "cite_spans": [
+                    {
+                        "start": 217,
+                        "end": 221,
+                        "text": "(25,",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 222,
+                        "end": 225,
+                        "text": "29)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 314,
+                        "end": 318,
+                        "text": "(25)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 487,
+                        "end": 491,
+                        "text": "(29)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "To our knowledge, only 1 previous work examined the association between sweetened beverages, specifically soft drinks, and ovarian reserve markers (49) .This recent study of healthy premenopausal women aimed to investigate different food and beverage intake groups and ovarian reserve.In line with our results, the investigators did not find any association between soft drink consumptions and decline in AMH concentrations.However, this work did not distinguish between sugar-sweetened and artificially sweetened beverage intake.Thus, our study represents a more comprehensive assessment of soft drinks according to its energy content in relation to ovarian reserve, and specifically examining the link between sweetened beverages and a marker of ovarian reserve in a cohort of women presenting to a fertility center.Possible explanations for the discrepant results across studies include the study population characteristics, differential study sizes, timing of beverage assessment, different patterns and levels of consumption, heterogeneity in covariate adjustment, and failure to distinguish specific beverage groups, which may contain other components than caffeine or alcohol that could contribute to health effects.",
+                "cite_spans": [
+                    {
+                        "start": 147,
+                        "end": 151,
+                        "text": "(49)",
+                        "ref_id": "BIBREF48"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Our findings should be interpreted in light of the strengths and limitations of the study.Diet was assessed using a self-reported FFQ, thus measurement error is possible.However, this instrument has been validated previously (38, 39) and subjects who reported implausible amounts of energy intake (n \u00bc 13) were excluded from the analysis (54) .Moreover, because the distribution of beverage intake was skewed toward high values, which are more likely to be affected by errors in data collection or processing, we modeled beverage intake using rank-based groups to obtain conservative estimates that are less susceptible to be influenced by individuals with high intakes.Although caffeine content from medications was not measured in our study, caffeinated beverages represent the major source of caffeine intake from diet (98% among US population) (55) and consumption of caffeine containing medications would not be considered representative of a long-term dietary caffeine intake as they typically are indicated for short-term use (relief of symptoms and stimulant indications) (56) .Most women reported low-tomoderate beverage intake levels, thereby we cannot rule out possible associations among women with high consumption.Another important consideration when investigating the relation of diet with health outcomes is the extent to which dietary behaviors, including intake of specific beverages, are influenced or constrained by contextual factors, such as food security or neighborhood-level food access.Although it has been well documented that socioeconomic status is related to contextual factors that constrain food choices (57) , the socioeconomic characteristics of participants in our study suggest that this one is not a study population with a high proportion of individuals vulnerable to major constraints in their food choices.An additional concern is that, as AFC assessment is part of the routine diagnostic evaluation of all fertility patients at MGH, multiple physicians were involved in AFC assessment over the course of the study.Nevertheless, all physicians were trained to perform the ultrasound evaluation according to the American Society for Reproductive Medicine recommendations (42) and previous works suggest AFC is a highly reproducible measure with minimal interobserver variability (42, 58) .Moreover, all physicians who performed the scans were blinded to the diet assessments, minimizing the risk of biased AFC assessments related to the level of exposure.Due to the observational design, residual confounding from unobserved or unmeasured confounders cannot be excluded.However, we adjusted for several potential confounders including dietary patterns and important reproductive and demographic characteristics.Diet was assessed among a cohort of women with a median (IQR) age of 35 (32.0-38.0)years, which may represent a sensitive time frame for the ovarian reserve because an important decline in quality as well as quantity occurs after 30 years of age and plummets after 35 years (59) .However, due to our study design, we were not able to examine a longer diet exposure window.Time frame of exposure and of end points assessment might represent a crucial point, given the differential susceptibility of the ovary and the diverse developmental stages.This is of special relevance for prenatal exposures occurring within an exceptionally sensitive time frame, coinciding with ovarian development and primordial follicle pool formation, which might represent a strong limitation of studies (17) .In relation to alcohol, a longitudinal work examining the effect of in utero exposure to parental alcohol intake failed to find associations with AMH levels of daughters at adolescence (17, 60) .These results could suggest a negligible or lack of effect on the ovarian development and primordial follicle pool formation (17) .Our diet assessment would capture the relevant time period of folliculogenesis of these women, which requires approximately 1 year for a primordial follicle to grow and develop before ovulation (61) .Thus, it may identify effects on the size of the growing pool, and consequently, the ovarian reserve.The number of growing oocytes is correlated with the primordial pool; therefore, the effects detected in the growing cohort, if any, also may reflect changes in the latter group.We did not include circulating AMH concentrations (another well-accepted ovarian reserve biomarker) as an outcome because of the small sample size, mainly because the measurements were performed routinely starting 2013, and the assay was changed at a certain point, making it difficult to combine measures over time.Nevertheless, AMH and AFC are considered the most sensitive and specific measures of ovarian reserve and have been shown to be equivalent in multiple studies (42) .",
+                "cite_spans": [
+                    {
+                        "start": 225,
+                        "end": 229,
+                        "text": "(38,",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 230,
+                        "end": 233,
+                        "text": "39)",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 338,
+                        "end": 342,
+                        "text": "(54)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 848,
+                        "end": 852,
+                        "text": "(55)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 1080,
+                        "end": 1084,
+                        "text": "(56)",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 1636,
+                        "end": 1640,
+                        "text": "(57)",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 2210,
+                        "end": 2214,
+                        "text": "(42)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 2318,
+                        "end": 2322,
+                        "text": "(42,",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 2323,
+                        "end": 2326,
+                        "text": "58)",
+                        "ref_id": "BIBREF57"
+                    },
+                    {
+                        "start": 3024,
+                        "end": 3028,
+                        "text": "(59)",
+                        "ref_id": "BIBREF58"
+                    },
+                    {
+                        "start": 3532,
+                        "end": 3536,
+                        "text": "(17)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 3723,
+                        "end": 3727,
+                        "text": "(17,",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 3728,
+                        "end": 3731,
+                        "text": "60)",
+                        "ref_id": "BIBREF59"
+                    },
+                    {
+                        "start": 3858,
+                        "end": 3862,
+                        "text": "(17)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 4058,
+                        "end": 4062,
+                        "text": "(61)",
+                        "ref_id": "BIBREF60"
+                    },
+                    {
+                        "start": 4817,
+                        "end": 4821,
+                        "text": "(42)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Currently, a universally accepted clinical cutoff to distinguish between normal and abnormal results for AFC has not been established (43) , limiting our capacity to assess beverage intake in relation to risk of low ovarian reserve with the use of a threshold value comparable across studies.Finally, this work included participants from a fertility clinic, mostly white (83.0% vs. 60.1% in the US Census [62] ), lean and with high educational degrees, which strengthens the internal validity of the study but may limit the generalizability of our findings to women from racial/ethnic minority backgrounds where ethnic or cultural differences in food choice may not be represented, and to women in the general population.",
+                "cite_spans": [
+                    {
+                        "start": 134,
+                        "end": 138,
+                        "text": "(43)",
+                        "ref_id": "BIBREF42"
+                    },
+                    {
+                        "start": 405,
+                        "end": 409,
+                        "text": "[62]",
+                        "ref_id": "BIBREF61"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "In conclusion, our results show no association between lowto-moderate intake of alcoholic, caffeinated, sugarsweetened, and artificially sweetened beverages with AFC, a well-accepted marker of ovarian reserve.Similarly, specific beverages as coffee, tea, soda, beer, wine, or liquor were unrelated to AFC.Our findings also suggest that previously reported associations between intake of these beverages with fertility is unlikely to be due to impaired ovarian reserve.Considering the wide consumption of beverages in diet, future research on this topic should revisit this among women in the general population as well as among women who consumed different amounts of these beverages to better characterize the association of beverage intake on the ovarian reserve.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "DIALOG: You can discuss this article with its authors and other readers at https://www.fertstertdialog.com/posts/33943",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "VOL. 118 NO. 1 / JULY 2022",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Fertility and Sterility\u00ae",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Supported by grants (ES009718, ES022955, and ES000002) from the National Institute of Environmental Health Sciences, and a grant (P30DK46200) from the National Institute of Diabetes and Digestive and Kidney Diseases, as well as by a fellowship from the Alfonso Mart\u00edn Escudero Foundation (to A. B. M.-C.).The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.A.B.M-C.has nothing to disclose.M.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "funding",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Dietary Guidelines for Americans",
+                "authors": [],
+                "year": 2020,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Comparison of beverage consumption in adult populations from three different countries: do the international reference values allow establishing the adequacy of water and beverage intakes?",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Nissensohn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Fuentes",
+                        "middle": [],
+                        "last": "Lugo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Serra-Majem",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Nutr Hosp",
+                "volume": "33",
+                "issue": "Suppl 3",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Beverage consumption in relation to discretionary food intake and diet quality among US adults, 2003 to 2012",
+                "authors": [
+                    {
+                        "first": "An",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "J Acad Nutr Diet",
+                "volume": "116",
+                "issue": "",
+                "pages": "28--37",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "A new proposed guidance system for beverage consumption in the United States",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Popkin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Armstrong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bray",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Caballero",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Frei",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Willett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Am J Clin Nutr",
+                "volume": "83",
+                "issue": "",
+                "pages": "529--542",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Non-alcoholic beverages, old and novel, and their potential effects on human health, with a focus on hydration and cardiometabolic health",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Sikalidis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Kelleher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Maykish",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Kristo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Medicina",
+                "volume": "56",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Association of coffee consumption with total and cause-specific mortality in 3 large prospective cohorts",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Ding",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Satija",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Bhupathiraju",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Hu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [],
+                        "last": "Sun",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Han",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Circulation",
+                "volume": "132",
+                "issue": "",
+                "pages": "2305--2315",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Caffeine and cardiovascular health",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Turnbull",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Rodricks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Mariano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Chowdhury",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Regul Toxicol Pharmacol",
+                "volume": "89",
+                "issue": "",
+                "pages": "165--185",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Low-calorie sweetened beverages and cardiometabolic health: a science advisory from the American Heart Association",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Johnson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Lichtenstein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Cam",
+                        "middle": [],
+                        "last": "Anderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Carson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Despr Es",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Hu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Circulation",
+                "volume": "138",
+                "issue": "",
+                "pages": "126--140",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Longterm consumption of sugar-sweetened and artificially sweetened beverages and risk of mortality in US adults",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Malik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Pan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "De",
+                        "middle": [],
+                        "last": "Koning",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Schernhammer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Willett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Circulation",
+                "volume": "139",
+                "issue": "",
+                "pages": "2113--2125",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Sugar-sweetened beverages and cardiometabolic health: an update of the evidence",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Malik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Hu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Nutrients",
+                "volume": "11",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Alcohol and cardiovascular diseases: where do we stand today?",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Klatsky",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "J Intern Med",
+                "volume": "278",
+                "issue": "",
+                "pages": "238--250",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Do ''moderate'' drinkers have reduced mortality risk? A systematic review and metaanalysis of alcohol consumption and all-cause mortality",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Stockwell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Zhao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Panwar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Roemer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Naimi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Chikritzhs",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "J Stud Alcohol Drugs",
+                "volume": "77",
+                "issue": "",
+                "pages": "185--198",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Alcohol use and burden for 195 countries and territories, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Gbd",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Lancet",
+                "volume": "392",
+                "issue": "",
+                "pages": "1015--1035",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Female alcohol consumption and fecundability: a systematic review and dose-response meta-analysis",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Fan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [],
+                        "last": "Xia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Wu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Tian",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Sci Rep",
+                "volume": "7",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Diet and fertility: a review",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Gaskins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Chavarro",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Am J Obstet Gynecol",
+                "volume": "218",
+                "issue": "",
+                "pages": "379--389",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Caffeine, alcohol, smoking, and reproductive outcomes among couples undergoing assisted reproductive technology treatments",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "M\u00ednguez-Alarc On",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Chavarro",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Gaskins",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Fertil Steril",
+                "volume": "110",
+                "issue": "",
+                "pages": "587--592",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Smoke, alcohol and drug addiction and female fertility",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "De Angelis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Nardone",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Garifalos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Pivonello",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Sansone",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Conforti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Reprod Biol Endocrinol",
+                "volume": "18",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Association between preconception maternal beverage intake and in vitro fertilization outcomes",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Machtinger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Gaskins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Mansur",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Adir",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Racowsky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Baccarelli",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Fertil Steril",
+                "volume": "108",
+                "issue": "",
+                "pages": "1026--1033",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Intake of sugar-sweetened beverages and fecundability in a North American preconception cohort",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Hatch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Wesselink",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hahn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Michiel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Mikkelsen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Sorensen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Epidemiology",
+                "volume": "29",
+                "issue": "",
+                "pages": "369--378",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "2020 Dietary Guidelines Advisory Committee and Data Analysis Team. Data Supplement: Beverages All Life Stages",
+                "authors": [],
+                "year": 2020,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Food sources and intakes of caffeine in the diets of persons in the United States",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Frary",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Johnson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "Q"
+                        ],
+                        "last": "Wang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "J Am Diet Assoc",
+                "volume": "105",
+                "issue": "",
+                "pages": "110--113",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Alcohol use and binge drinking among women of childbearing age-United States, 2011-2013",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Tan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Denny",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Cheal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Sniezek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Kanny",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "MMWR Morb Mortal Wkly Rep",
+                "volume": "64",
+                "issue": "",
+                "pages": "1042--1046",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Sugar-sweetened beverage intake among pregnant and non-pregnant women of reproductive age",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Lundeen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Park",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Woo",
+                        "middle": [],
+                        "last": "Baidal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Sharma",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Blanck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Matern Child Health J",
+                "volume": "24",
+                "issue": "",
+                "pages": "709--717",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "The effect of cigarette smoking, alcohol consumption and fruit and vegetable consumption on IVF outcomes: a review and presentation of original data",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Firns",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Cruzat",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Keane",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Joesbury",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Newsholme",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Reprod Biol Endocrinol",
+                "volume": "13",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Predictors of ovarian follicle number",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Westhoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Murphy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Heller",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Fertil Steril",
+                "volume": "74",
+                "issue": "",
+                "pages": "624--628",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Alcohol intake induces diminished ovarian reserve in childbearing age women",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Fu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Zhu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Deng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Shi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "J Obstet Gynaecol Res",
+                "volume": "39",
+                "issue": "",
+                "pages": "516--521",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Anti-m\u20ac ullerian hormone and lifestyle, reproductive, and environmental factors among women in rural South Africa",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Whitworth",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Baird",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Steiner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bornman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Travlos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Wilson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Epidemiology",
+                "volume": "26",
+                "issue": "",
+                "pages": "429--435",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Alcohol, cigarette smoking, and ovarian reserve in reproductiveage African-American women",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Hawkins Bressler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Bernardi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "De",
+                        "middle": [],
+                        "last": "Chavez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Pjd",
+                        "middle": [],
+                        "last": "Baird",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Carnethon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Am J Obstet Gynecol",
+                "volume": "215",
+                "issue": "",
+                "pages": "1--9",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Lifestyle factors associated with histologically derived human ovarian non-growing follicle count in reproductive age women",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Peck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Quaas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Craig",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Soules",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Klein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Hansen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Hum Reprod",
+                "volume": "31",
+                "issue": "",
+                "pages": "150--157",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Effects of environmental, social and surgical factors on ovarian reserve: implications for age-relative female fertility",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Yuan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Meng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Gao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Int J Gynaecol Obstet",
+                "volume": "154",
+                "issue": "",
+                "pages": "451--458",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Ovarian structure and hormonal status of the UChA and UChB adult rats in response to ethanol",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Chuffa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Padovani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Martinez",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Maturitas",
+                "volume": "62",
+                "issue": "",
+                "pages": "21--29",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Metabolism of ethanol to acetaldehyde and increased susceptibility to oxidative stress could play a role in the ovarian tissue cell injury promoted by alcohol drinking",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Faut",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Rodr\u00edguez",
+                        "middle": [],
+                        "last": "De Castro",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Bietto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Castro",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Castro",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Toxicol Ind Health",
+                "volume": "25",
+                "issue": "",
+                "pages": "525--538",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Energy drinks may affect the ovarian reserve and serum anti-mullerian hormone levels in a rat model",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Elc \u00b8i",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G\u20ac",
+                        "middle": [],
+                        "last": "Une\u015f Elc \u00b8i",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Aras",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "_",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Sayan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Y\u0131ld\u0131zhan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Turk J Obstet Gynecol",
+                "volume": "18",
+                "issue": "",
+                "pages": "23--29",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Maternal insulin resistance causes oxidative stress and mitochondrial dysfunction in mouse oocytes",
+                "authors": [
+                    {
+                        "first": "X",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Ou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Quan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Xing",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Hum Reprod",
+                "volume": "27",
+                "issue": "",
+                "pages": "2130--2145",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Current evidence on associations of nutritional factors with ovarian reserve and timing of menopause: a systematic review",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Moslehi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Mirmiran",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Tehrani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Azizi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Adv Nutr",
+                "volume": "8",
+                "issue": "",
+                "pages": "597--612",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "The antral follicle count: practical recommendations for better standardization",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Broekmans",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "De Ziegler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Howles",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Gougeon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Trew",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Olivennes",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Fertil Steril",
+                "volume": "94",
+                "issue": "",
+                "pages": "1044--1051",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Dietary folate intake and modification of the association of urinary bisphenol A concentrations with in vitro fertilization outcomes among women from a fertility clinic",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "M\u00ednguez-Alarc On",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Gaskins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y-H",
+                        "middle": [],
+                        "last": "Chiu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Souter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Williams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Calafat",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Reprod Toxicol",
+                "volume": "65",
+                "issue": "",
+                "pages": "104--112",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Validity of a dietary questionnaire assessed by comparison with multiple weighed dietary records or 24-hour recalls",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Yuan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Spiegelman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Rimm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Rosner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Stampfer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Barnett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Am J Epidemiol",
+                "volume": "185",
+                "issue": "",
+                "pages": "570--584",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Relative validity of nutrient intakes assessed by questionnaire, 24-hour recalls, and diet records as compared with urinary recovery and plasma concentration biomarkers: findings for women",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Yuan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Spiegelman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Rimm",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Rosner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Stampfer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Barnett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Am J Epidemiol",
+                "volume": "187",
+                "issue": "",
+                "pages": "1051--1063",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "USDA National Nutrient Database for Standard Reference, Release 25. Nutrient Data Laboratory Home Page",
+                "authors": [],
+                "year": 2012,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Dietary patterns and semen quality in young men",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Gaskins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Colaci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Mendiola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Swan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Chavarro",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Hum Reprod",
+                "volume": "27",
+                "issue": "",
+                "pages": "2899--2907",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Practice Committee of the American Society for Reproductive Medicine. Testing and interpreting measures of ovarian reserve: a committee opinion",
+                "authors": [],
+                "year": 2020,
+                "venue": "Fertil Steril",
+                "volume": "114",
+                "issue": "",
+                "pages": "1151--1157",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Ovarian reserve testing: a review of the options, their applications, and their limitations",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Ulrich",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Marsh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Clin Obstet Gynecol",
+                "volume": "62",
+                "issue": "",
+                "pages": "228--237",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Human ovarian reserve from conception to the menopause",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Wallace",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Kelsey",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "PLoS One",
+                "volume": "5",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Environmental and developmental origins of ovarian reserve",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Richardson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Guo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Fauser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Macklon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Hum Reprod Update",
+                "volume": "20",
+                "issue": "",
+                "pages": "353--369",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Is ovarian reserve associated with body mass index and obesity in reproductive aged women? A meta-analysis",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Moslehi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Shab-Bidar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Ramezani",
+                        "middle": [],
+                        "last": "Tehrani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Mirmiran",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Azizi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Menopause",
+                "volume": "25",
+                "issue": "",
+                "pages": "1046--1055",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Smoking, alcohol and caffeine in relation to ovarian age during the reproductive years",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kinney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kline",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kelly",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Reuss",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Levin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Hum Reprod",
+                "volume": "22",
+                "issue": "",
+                "pages": "1175--1185",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Smoking, alcohol and caffeine in relation to two hormonal indicators of ovarian age during the reproductive years",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kline",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Tang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Levin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Maturitas",
+                "volume": "92",
+                "issue": "",
+                "pages": "115--122",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Do dietary intakes influence the rate of decline in anti-mullerian hormone among eumenorrheic women? A population-based prospective investigation",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Moslehi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Mirmiran",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Azizi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Tehrani",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Nutr J",
+                "volume": "18",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Dietary factors and serum antim\u20ac ullerian hormone concentrations in late premenopausal women",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Anderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Mark",
+                        "middle": [],
+                        "last": "Park",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Stanczyk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Sandler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Nichols",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Fertil Steril",
+                "volume": "110",
+                "issue": "",
+                "pages": "1145--1153",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Reproductive and lifestyle determinants of anti-m\u20ac ullerian hormone in a large population-based study",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Verschuren",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Wmm",
+                        "middle": [],
+                        "last": "Eijkemans",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Mjc",
+                        "middle": [],
+                        "last": "Doll E Me",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Jansen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Broekmans",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "J Clin Endocrinol Metab",
+                "volume": "98",
+                "issue": "",
+                "pages": "2106--2115",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Anti-m\u20ac ullerian hormone levels and antral follicle count in women enrolled in in vitro fertilization cycles: relationship to lifestyle factors, chronological age and reproductive history",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Nardo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Christodoulou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Gould",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Roberts",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Fitzgerald",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Laing",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Gynecol Endocrinol",
+                "volume": "23",
+                "issue": "",
+                "pages": "486--493",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Should fertile women quit drinking alcohol to produce better quality oocytes?",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Ozbakir",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Tulay",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Zygote",
+                "volume": "29",
+                "issue": "",
+                "pages": "176--178",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Nutritional epidemiology",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Willett",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Trends in intake and sources of caffeine in the diets of US adults: 2001-2010",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Fulgoni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Iii",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Keast",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Lieberman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Am J Clin Nutr",
+                "volume": "101",
+                "issue": "",
+                "pages": "1081--1087",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Temporal patterns of caffeine intake in the United States",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Martyn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Lau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Richardson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Roberts",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Food Chem Toxicol",
+                "volume": "111",
+                "issue": "",
+                "pages": "71--83",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Neighborhood socioeconomic status in relation to all-cause, cancer, and cardiovascular mortality in the black women's health study",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Bethea",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Palmer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Rosenberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Cozier",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Ethn Dis",
+                "volume": "26",
+                "issue": "",
+                "pages": "157--164",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "Inter-cycle and inter-observer variability of the antral follicle count in routine clinical practice",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Subir A",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Alberola-Rubio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Pellicer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Monta\u00f1ana",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Gynecol Endocrinol",
+                "volume": "33",
+                "issue": "",
+                "pages": "515--518",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Fertility with early reduction of ovarian reserve: the last straw that breaks the Camel's back",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Rasool",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Shah",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Fertil Res Pract",
+                "volume": "3",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "Prenatal exposures and anti-mullerian hormone in female adolescents: the Avon Longitudinal Study of parents and children",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Fraser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Mcnally",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Sattar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Anderson",
+                        "middle": [
+                            "El"
+                        ],
+                        "last": "Lashen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Fleming",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Am J Epidemiol",
+                "volume": "178",
+                "issue": "",
+                "pages": "1414--1423",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF60": {
+                "ref_id": "b60",
+                "title": "Embryology, ovarian follicle development",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Cox",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Takov",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF61": {
+                "ref_id": "b61",
+                "title": "Quick-Facts",
+                "authors": [],
+                "year": 2015,
+                "venue": "civilian labor force, female, percent of population age 16 years\u00fe",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF62": {
+                "ref_id": "b62",
+                "title": "Ingesta de bebidas y reserva ov arica entre mujeres en un centro de fertilidad",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF63": {
+                "ref_id": "b63",
+                "title": "Evaluar la asociaci on de ingesta de bebidas con cafe\u00edna, alcoh olicas y azucaradas con el recuento de fol\u00edculos antrales (RFA), un biomarcador bien aceptado de la reserva ov arica Dise\u00f1o: Estudio de cohorte prospectivo observacional Escenario: Centro de fertilidad de un hospital acad emico Pacientes: Este estudio incluye 567 mujeres que buscan atenci on de la fertilidad en el Hopital General de Massachusetts y que participaron en el Estudio de Medio Ambiente y Salud Reproductiva Intervenci on: Ninguna. Las mujeres reportaron consumo de bebidas con cafe\u00edna (caf e, t e, refrescos), alcoh olicas (vino, cerveza, licor), bebidas azucaradas y endulzadas artificialmente mediante un cuestionario validado de frecuencia de alimentos Medici on del resultado: El recuento de fol\u00edculos antrales se evalu o mediante el uso de ecograf\u00eda transvaginal en el d\u00eda 3 de un ciclo menstrual no estimulado o en el tercer d\u00eda de sangrado por deprivaci on con progesterona Resultado(s): La mediana (rango intercuart\u00edlico) de la edad y del RFA fueron 35 a\u00f1os (32-38) y 13 (9-18) respectivamente. La mediana (rango) de la ingesta de bebidas con cafe\u00edna",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Objetivo",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "alcoh olicas, azucaradas y artificialmente endulzadas en porciones/d\u00eda fueron 1",
+                "volume": "",
+                "issue": "08",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF64": {
+                "ref_id": "b64",
+                "title": "Todas las bebidas examinadas no estuvieron relacionaas con el RFA. El RFA medio ajustado multivariable (95% intervalo de confianza) para las mujeres en los cuartiles superior e inferior de ingesta fueron 13",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Respectivamente",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "6--14",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF65": {
+                "ref_id": "b65",
+                "title": "para bebidas endulzadas artificialmente Conclusi on: La ingesta baja y moderada de bebidas con cafe\u00edna, alcoh olicas, azucaradas y artificialmente endulzadas no estuvieron relacionadas con la reserva ov arica, medida por RFA, en una cohorte de mujeres que atenci on de",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "TABREF0": {
+                "html": null,
+                "num": null,
+                "text": "Baseline characteristics of women according to quartiles of beverages intake.The EARTH Study (n [ 567).",
+                "content": "<table><tr><td/><td colspan=\"2\">Caffeinated beverages</td><td colspan=\"2\">Alcoholic beverages</td><td colspan=\"2\">Sugar-sweetened beverages</td><td colspan=\"2\">Artificially sweetened beverages</td></tr><tr><td/><td>Q1 (lowest</td><td>Q4 (highest</td><td>Q1 (lowest</td><td>Q4 (highest</td><td>Q1 (lowest</td><td>Q4 (highest</td><td>Q1 (lowest</td><td>Q4 (highest</td></tr><tr><td>Characteristics</td><td>intake)</td><td>intake)</td><td>intake)</td><td>intake)</td><td>intake)</td><td>intake)</td><td>intake)</td><td>intake)</td></tr><tr><td>Servings/day,</td><td>0.08 (0-0.45)</td><td>2.78 (2.5-7.08)</td><td>0.06 (0-0.12)</td><td>1.14 (0.87-3.84)</td><td>0 (0-0)</td><td>0.22 (0.12-4.80)</td><td>0 (0-0)</td><td>0.59 (0.18-7.50)</td></tr><tr><td>median (range)</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>n</td><td>141</td><td>146</td><td>145</td><td>142</td><td>117</td><td>134</td><td>166</td><td>131</td></tr><tr><td>Age (at study</td><td>35.0 (31.0-38.0)</td><td>36.0 (33.0-39.0)</td><td>35.0 (31.0-38.0)</td><td>35.0 (33.0-38.0)</td><td>35.0 (32.0-38.0)</td><td>34.5 (32.0-37.0)</td><td>36.0 (32.0-38.0)</td><td>35.0 (32.0-38.0)</td></tr><tr><td>entry), years</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Ever smoker</td><td>29 (20.6)</td><td>44 (30.1)</td><td>24 (16.6)</td><td>58 (40.8)</td><td>36 (30.8)</td><td>33 (24.6)</td><td>41 (24.7)</td><td>38 (29.0)</td></tr><tr><td>Ethnicities</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>White</td><td>115 (81.6)</td><td>127 (87)</td><td>102 (70.3)</td><td>124 (87.3)</td><td>98 (83.8)</td><td>118 (88.1)</td><td>135 (81.3)</td><td>115 (87.8)</td></tr><tr><td>Asian</td><td>8 (5.7)</td><td>13 (8.9)</td><td>30 (20.7)</td><td>6 (4.2)</td><td>12 (10.3)</td><td>7 (5.2)</td><td>19 (11.5)</td><td>7 (5.3)</td></tr><tr><td>Black/African</td><td>12 (8.5)</td><td>1 (0.7)</td><td>7 (4.8)</td><td>3 (2.1)</td><td>1 (0.9)</td><td>8 (6.0)</td><td>6 (3.1)</td><td>4 (3.1)</td></tr><tr><td>American</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Other</td><td>6 (4.3)</td><td>5 (3.4)</td><td>6 (4.1)</td><td>9 (6.3)</td><td>6 (5.1)</td><td>1 (0.8)</td><td>6 (3.6)</td><td>5 (3.8)</td></tr><tr><td>College degree</td><td>131 (92.9)</td><td>133 (91.1)</td><td>128 (88.3)</td><td>133 (93.7)</td><td>111 (94.9)</td><td>119 (88.8)</td><td>158 (95.2)</td><td>115 (87.8)</td></tr><tr><td>or higher</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>BMI, kg/m 2</td><td>23.1 (21.3-25.2)</td><td>23.5 (21.1-26.2)</td><td>23.0 (21.2-25.3)</td><td>23.3 (21.5-26.0)</td><td>22.8 (20.9-25.2)</td><td>23.5 (21.2-26.3)</td><td>22.7 (20.9-24.7)</td><td>24.5 (21.6-26.8)</td></tr><tr><td>Physical activity,</td><td>5.4 (2.5-9.5)</td><td>4.1 (1.4-9.5)</td><td>4.5 (1.5-8.6)</td><td>5.5 (2.7-11.9)</td><td>5.5 (2.5-11.5)</td><td>4.2 (1.7-10.5)</td><td>5.5 (2.0-9.5)</td><td>5.2 (2.0-10.5)</td></tr><tr><td>hours/week</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Total energy intake,</td><td>1626.6</td><td>1724.1</td><td>1532.9</td><td>1791.9</td><td>1594.1</td><td>1762.2</td><td>1578.5</td><td>1745.6</td></tr><tr><td>Kcal/day</td><td>(1,286.0-2,001.5)</td><td>(1,449.7-2,166.6)</td><td>(1,195.7-1,869.0)</td><td>(1,479.0-2,166.6)</td><td>(1,368.8-1,950.6)</td><td>(1,531.1-2,252.6)</td><td>(1,252.1-1,920.0)</td><td>(1,460.5-2,276.2)</td></tr><tr><td>Alcohol, g/day</td><td>3.1 (0.9-7)</td><td>7.5 (2.5-14.8)</td><td>0.5 (0-0.9)</td><td>16.4 (14.4-20.5)</td><td>3.8 (0.8-12.4)</td><td>4.6 (1.4-11.2)</td><td>3.9 (0.9-10.5)</td><td>5.6 (2-12.9)</td></tr><tr><td>Caffeine, g/day</td><td>13.2 (6.5-24.6)</td><td colspan=\"7\">259.7 (237.9-294.5) 55.1 (18.8-121.8) 123.6 (95.2-250.8) 105.0 (45.4-182.5) 85.2 (28.7-145.8) 82.8 (22.5-158.7) 109.8 (62.2-214.9)</td></tr><tr><td>Total sugar intake, g/d</td><td colspan=\"2\">84.6 (65.6-112.6) 82.1 (64.1-105.3)</td><td colspan=\"2\">79.4 (61.9-112.6) 78.7 (60-100.9)</td><td colspan=\"4\">75.9 (55.5-96.2) 101.4 (80.0-132.1) 75.3 (57.6-101.9) 85.7 (64.4-126.4)</td></tr><tr><td>Total carbohydrate, %</td><td>50.2 (44.1-55.0)</td><td>46.6 (42.2-52.3)</td><td>52.4 (46.4-57.7)</td><td>44.3 (39.9-48.5)</td><td>45.9 (39.0-53.8)</td><td>49.9 (46.4-54.8)</td><td>48.0 (42.0-54.1)</td><td>48.6 (43.1-54.2)</td></tr><tr><td>energy</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Total protein, % energy 16.4 (14.7-18.5)</td><td>16.5 (14.6-18.7)</td><td>16.3 (14.4-18.8)</td><td>16.6 (14.8-18.5)</td><td>16.8 (15.3-19.0)</td><td>16.5 (14.7-18.1)</td><td>16.4 (14.5-18.5)</td><td>16.8 (15.0-18.5)</td></tr><tr><td>Total fat, % energy</td><td>32.9 (29.0-37.1)</td><td>33.9 (30.4-38.3)</td><td>33.0 (29.0-37.2)</td><td>32.6 (29.8-36.1)</td><td>34.4 (29.5-40.5)</td><td>32.2 (29.0-35.3)</td><td>34.1 (30.0-38.4)</td><td>32.7 (28.8-37.6)</td></tr><tr><td>Prudent pattern score a Western pattern score a</td><td>\u00c00.2 (\u00c00.7-0.3) \u00c00.1 (\u00c00.7-0.5)</td><td>\u00c00.2 (\u00c00.7-0.7) \u00c00.1 (\u00c00.7-0.7)</td><td>\u00c00.3 (\u00c00.8-0.4) \u00c00.2 (\u00c00.9-0.2)</td><td>0 (\u00c00.5-0.6) 0.1 (\u00c00.4-0.7)</td><td>0.1 (\u00c00.4-0.8) \u00c00.5 (\u00c01.1-0.1)</td><td>\u00c00.4 (\u00c00.9-0.2) 0.3 (\u00c00.2-1.1)</td><td>\u00c00.1 (\u00c00.7-0.6) \u00c00.5 (\u00c01.1-0.1)</td><td>\u00c00.3 (\u00c00.7-0.2) 0.4 (\u00c00.2-1.1)</td></tr><tr><td>Multivitamin</td><td>122 (86.5)</td><td>116 (79.5)</td><td>123 (84.8)</td><td>117 (82.4)</td><td>101 (86.3)</td><td>114 (85.1)</td><td>139 (83.7)</td><td>108 (82.4)</td></tr><tr><td>users, n (%)</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Prior pregnancy</td><td>59 (41.8)</td><td>61 (41.8)</td><td>62 (42.8)</td><td>65 (45.8)</td><td>51 (43.6)</td><td>57 (42.5)</td><td>84 (50.6)</td><td>59 (45)</td></tr><tr><td>Prior infertility exam</td><td>115 (81.6)</td><td>121 (82.9)</td><td>125 (86.2)</td><td>120 (84.5)</td><td>97 (82.9)</td><td>109 (81.3)</td><td>140 (84.3)</td><td>106 (80.9)</td></tr><tr><td>Prior fertility treatment</td><td>96 (68.1)</td><td>78 (53.4)</td><td>95 (65.5)</td><td>74 (52.1)</td><td>71 (60.7)</td><td>81 (60.4)</td><td>102 (61.4)</td><td>82 (62.6)</td></tr><tr><td>Day 3 FSH, IU/ml</td><td>7.0 (5.9-8.5)</td><td>7.1 (6.1-8.4)</td><td>6.8 (6-8.5)</td><td>6.9 (5.7-8.1)</td><td>7.0 (6.0-8.5)</td><td>7.2 (6.1-8.6)</td><td>7.2 (5.9-8.1)</td><td>6.8 (6.1-8.5)</td></tr><tr><td>Infertility diagnosis</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Male factor</td><td>37 (26.2)</td><td>32 (21.9)</td><td>44 (30.3)</td><td>37 (26.1)</td><td>24 (20.5)</td><td>33 (24.6)</td><td>32 (19.3)</td><td>36 (27.5)</td></tr><tr><td>Female factor</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>DOR</td><td>12 (8.5)</td><td>13 (8.9)</td><td>15 (10.3)</td><td>5 (3.5)</td><td>11 (9.4)</td><td>13 (9.7)</td><td>19 (11.4)</td><td>11 (8.4)</td></tr><tr><td>Endometriosis</td><td>7 (5.0)</td><td>6 (4.1)</td><td>7 (4.8)</td><td>5 (3.5)</td><td>4 (3.4)</td><td>5 (3.7)</td><td>5 (3.0)</td><td>5 (3.8)</td></tr><tr><td>Ovulatory</td><td>15 (10.6)</td><td>7 (4.8)</td><td>14 (9.7)</td><td>18 (12.7)</td><td>14 (12)</td><td>17 (12.7)</td><td>12 (7.2)</td><td>10 (7.6)</td></tr><tr><td>Tubal</td><td>7 (5.0)</td><td>8 (5.5)</td><td>9 (6.2)</td><td>6 (4.2)</td><td>6 (5.1)</td><td>6 (4.5)</td><td>10 (6.0)</td><td>7 (5.3)</td></tr><tr><td>Uterine</td><td>0 (0)</td><td>5 (3.4)</td><td>0 (0)</td><td>4 (2.8)</td><td>3 (2.6)</td><td>2 (1.5)</td><td>3 (1.8)</td><td>3 (2.3)</td></tr><tr><td>Unexplained</td><td>63 (44.7)</td><td>75 (51.4)</td><td>56 (38.6)</td><td>67 (47.2)</td><td>55 (47.0)</td><td>58 (43.3)</td><td>85 (51.2)</td><td>59 (45.0)</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF1": {
+                "html": null,
+                "num": null,
+                "text": "Associations between alcoholic beverages with antral follicle count among 567 women in the EARTH Study.",
+                "content": "<table><tr><td/><td/><td/><td colspan=\"2\">Adjusted mean (95% CI)</td></tr><tr><td>Servings per day, range</td><td>No.</td><td>Unadjusted</td><td>Age and total energy</td><td>Multivariable a</td></tr><tr><td>Alcoholic beverages (total)</td><td/><td/><td/><td/></tr><tr><td>Q1 (0, 0.12)</td><td>145</td><td>14.3 (13.7-15.0)</td><td>14.2 (13.6-14.9)</td><td>13.8 (13.0-14.6)</td></tr><tr><td>Q2 (0.12, 0.35)</td><td>138</td><td>13.5 (12.9-14.1)</td><td>13.2 (12.6-13.8)</td><td>14.1 (13.2-15.0)</td></tr><tr><td>Q3 (0.35, 0.86)</td><td>142</td><td>13.9 (13.3-14.5)</td><td>13.8 (13.2-14.4)</td><td>13.4 (12.5-14.3)</td></tr><tr><td>Q4 (0.87, 3.84)</td><td>142</td><td>14.3 (13.7-14.9)</td><td>13.7 (13.1-14.3)</td><td>13.8 (13.0-14.7)</td></tr><tr><td>P trend</td><td>-</td><td>.25</td><td>.58</td><td>.78</td></tr><tr><td>Beer</td><td/><td/><td/><td/></tr><tr><td>T1 (0, 0.02)</td><td>172</td><td>13.6 (13.1-14.2)</td><td>13.4 (12.9-14.0)</td><td>13.5 (12.7-14.3)</td></tr><tr><td>T2 (0.03, 0.11)</td><td>201</td><td>14.0 (13.5-14.5)</td><td>14.1 (13.6-14.6)</td><td>14.0 (13.2-14.8)</td></tr><tr><td>T3 (0.14, 2.53)</td><td>194</td><td>14.3 (13.8-14.9)</td><td>13.7 (13.1-14.2)</td><td>13.8 (12.9-14.6)</td></tr><tr><td>P trend</td><td>-</td><td>.09</td><td>.98</td><td>.82</td></tr><tr><td>Wine</td><td/><td/><td/><td/></tr><tr><td>Q1 (0, 0.06)</td><td>166</td><td>14.1 (13.6-14.7)</td><td>13.6 (13.0-14.1)</td><td>13.7 (12.9-14.5)</td></tr><tr><td>Q2 (0.08, 0.16)</td><td>135</td><td>14.4 (13.8-15.1)</td><td>14.0 (13.4-14.6)</td><td>13.9 (13.1-14.9)</td></tr><tr><td>Q3 (0.17, 0.46) Q4 (0.51, 2.64)</td><td>126 140</td><td>14.5 (13.8-15.2) 13.0 (12.4-13.6) b</td><td>14.2 (13.6-14.9) 13.2 (12.6-13.9)</td><td>14.3 (13.3-15.3) 13.4 (12.5-14.3)</td></tr><tr><td>P trend</td><td>-</td><td>&lt; .001</td><td>.19</td><td>.29</td></tr><tr><td>Liquor</td><td/><td/><td/><td/></tr><tr><td>M1 (0, 0.02)</td><td>212</td><td>13.7 (13.2-14.2)</td><td>13.6 (13.1-14.1)</td><td>13.6 (12.9-14.4)</td></tr><tr><td>M2 (0.03, 2.50)</td><td>355</td><td>14.2 (13.8-14.6)</td><td>13.8 (13.4-14.2)</td><td>13.9 (13.1-14.6)</td></tr><tr><td>P value</td><td>-</td><td>.12</td><td>.40</td><td>.42</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF2": {
+                "html": null,
+                "num": null,
+                "text": "Associations between sweetened beverages with antral follicle count among 567 women in the EARTH Study.",
+                "content": "<table><tr><td/><td/><td/><td colspan=\"2\">Adjusted mean (95% CI)</td></tr><tr><td>Servings per day, range</td><td>n</td><td>Unadjusted</td><td>Age and total energy</td><td>Multivariable a</td></tr><tr><td>Sugar-sweetened beverages</td><td/><td/><td/><td/></tr><tr><td>Q1 (0, 0) Q2 (0.02, 0.04) Q3 (0.06, 0.10)</td><td>117 206 110</td><td>13.2 (12.6-13.9) 14.1 (13.6-14.6) b 14.4 (13.7-15.1) b</td><td>13.1 (12.5-13.8) 14.2 (13.7-14.7) b 13.7 (13.0-14.4)</td><td>13.3 (12.4-14.2) 14.2 (13.4-15.1) b 13.7 (12.9-14.6)</td></tr><tr><td>Q4 (0.12, 4.80)</td><td>134</td><td>14.3 (13.7-15.0) b</td><td>13.6 (13.0-14.2)</td><td>13.5 (12.6-14.4)</td></tr><tr><td>P trend</td><td>-</td><td>.08</td><td>.72</td><td>.36</td></tr><tr><td>Artificially sweetened beverages</td><td/><td/><td/><td/></tr><tr><td>Q1 (0, 0)</td><td>166</td><td>13.3 (12.7-13.8)</td><td>13.3 (12.8-13.9)</td><td>13.4 (12.6-14.3)</td></tr><tr><td>Q2 (0.02, 0.04) Q3 (0.06, 0.16)</td><td>122 148</td><td>13.7 (13.0-14.3) 15.3 (14.7-15.9) b</td><td>13.6 (13.0-14.3) 14.6 (14.0-15.2) b</td><td>13.7 (12.8-14.6) 14.5 (13.7-15.4) b</td></tr><tr><td>Q4 (0.18, 7.50)</td><td>131</td><td>13.8 (13.2-14.5)</td><td>13.4 (12.8-14.0)</td><td>13.2 (12.4-14.1)</td></tr><tr><td>P trend</td><td>-</td><td>.85</td><td>.43</td><td>.13</td></tr></table>",
+                "type_str": "table"
+            }
+        }
+    }
+}

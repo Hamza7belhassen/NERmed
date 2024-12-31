@@ -1,0 +1,2346 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\A-diagnosis-of-diminished-ovarian-reserve-does-not",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:28.471353Z"
+    },
+    "title": "A diagnosis of diminished ovarian reserve does not impact embryo aneuploidy or live birth rates compared to patients with normal ovarian reserve",
+    "authors": [
+        {
+            "first": "Yuval",
+            "middle": [],
+            "last": "Fouks",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Boston IVF",
+                "location": {
+                    "settlement": "Waltham",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": "yfouks@bostonivf.com"
+        },
+        {
+            "first": "Alan",
+            "middle": [],
+            "last": "Penzias",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Boston IVF",
+                "location": {
+                    "settlement": "Waltham",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Werner",
+            "middle": [],
+            "last": "Neuhausser",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Beth Israel Deaconess Medical Center",
+                "location": {
+                    "settlement": "Boston",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Denis",
+            "middle": [],
+            "last": "Vaughan",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Boston IVF",
+                "location": {
+                    "settlement": "Waltham",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Denny",
+            "middle": [],
+            "last": "Sakkas",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Boston IVF",
+                "location": {
+                    "settlement": "Waltham",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objective: To estimate the aneuploidy rates in young women with diminished ovarian reserve (DOR) before treatment and poor ovarian response (POR) postretrieval.Design: Retrospective cohort study.Setting: A single academically-affiliated fertility clinic.Patient(s): Autologous frozen embryo transfer cycles from December 2014 to June 2020 were reviewed.Demographic and clinical factors that impact outcomes were used for propensity score matching (PSM) in a ratio of 2:1 and 4:1 for preimplantation genetic testing for aneuploidy pre-cycle DOR and POR after stimulation, respectively.Intervention(s): None.Main Outcome Measure(s): Aneuploid rates, defined as the number of aneuploid blastocysts divided by the number of biopsied blastocysts per cycle.No euploid embryos to transfer, defined as all cohorts of embryos being aneuploid.Result(s): A total of 383 women diagnosed with DOR were compared with matched controls.Aneuploid rates did not differ significantly between the two groups (42.2% vs. 41.7%;RR \u00bc 1.06; 95% CI, 0.95-1.06).No differences were identified in live birth rates per transfer between women with and without DOR after euploid single-embryo transfers (56.0% and 60.5%, respectively).An additional PSM analysis to assess aneuploidy rates for patients with POR (<5 oocytes) vs. those without it, resulted in similar rates of aneuploidy between the two comparison groups (41.1% vs. 44%, R \u00bc 1.02; 95% CI, 0.91-1.14).The prevalence of cycles with ''no euploid embryos'' in the POR cohort was higher (26% vs. 13%); however, rates of cases with a single embryo available for biopsy were lower in the DOR group, relative to controls (11% vs. 31%).\nYoung women diagnosed with DOR or POR exhibited equivalent aneuploidy rates and live birth rates per euploid embryo transfer in a large matched population, based on age, body mass index, and IVF cycle initiation.The lower percentage of cycles with no euploid embryo available for transfer in DOR and POR patients is because of the decreased total number of oocytes/developing embryos and not because of increased aneuploidy rates in these groups.(",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\A-diagnosis-of-diminished-ovarian-reserve-does-not",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.06.008",
+        "keywords": [
+            "Diminished ovarian reserve",
+            "poor ovarian response",
+            "propensity score matching",
+            "aneuploidy rates"
+        ],
+        "abstract": [
+            {
+                "text": "Objective: To estimate the aneuploidy rates in young women with diminished ovarian reserve (DOR) before treatment and poor ovarian response (POR) postretrieval.Design: Retrospective cohort study.Setting: A single academically-affiliated fertility clinic.Patient(s): Autologous frozen embryo transfer cycles from December 2014 to June 2020 were reviewed.Demographic and clinical factors that impact outcomes were used for propensity score matching (PSM) in a ratio of 2:1 and 4:1 for preimplantation genetic testing for aneuploidy pre-cycle DOR and POR after stimulation, respectively.Intervention(s): None.Main Outcome Measure(s): Aneuploid rates, defined as the number of aneuploid blastocysts divided by the number of biopsied blastocysts per cycle.No euploid embryos to transfer, defined as all cohorts of embryos being aneuploid.Result(s): A total of 383 women diagnosed with DOR were compared with matched controls.Aneuploid rates did not differ significantly between the two groups (42.2% vs. 41.7%;RR \u00bc 1.06; 95% CI, 0.95-1.06).No differences were identified in live birth rates per transfer between women with and without DOR after euploid single-embryo transfers (56.0% and 60.5%, respectively).An additional PSM analysis to assess aneuploidy rates for patients with POR (<5 oocytes) vs. those without it, resulted in similar rates of aneuploidy between the two comparison groups (41.1% vs. 44%, R \u00bc 1.02; 95% CI, 0.91-1.14).The prevalence of cycles with ''no euploid embryos'' in the POR cohort was higher (26% vs. 13%); however, rates of cases with a single embryo available for biopsy were lower in the DOR group, relative to controls (11% vs. 31%).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "Young women diagnosed with DOR or POR exhibited equivalent aneuploidy rates and live birth rates per euploid embryo transfer in a large matched population, based on age, body mass index, and IVF cycle initiation.The lower percentage of cycles with no euploid embryo available for transfer in DOR and POR patients is because of the decreased total number of oocytes/developing embryos and not because of increased aneuploidy rates in these groups.(",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "espite extensive research, it is still unclear whether patients with DOR show poor reproductive outcomes because of their lower ovarian response or additional qualitative oocyte morbidity which could translate to more genetically unbalanced embryos or other egg factors affecting the developmental potential.Embryonic aneuploidy results from several types of chromosomal segregation errors (1, 2) , and affects an exceptionally high number of human conceptions, causing infertility, miscarriages, and congenital disorders.These segregation errors have distinct age dependencies that directly impact the human reproductive lifespan (3) .Because age, chromosomal oocyte errors, and ovarian response are intertwined, the assessment of the rate of chromosomally unbalanced embryos in patients with diminished ovarian reserve (DOR) is inherently confounded.Subsequently, conflicting results have been published from previous studies trying to control for these confounding factors (3) (4) (5) .",
+                "cite_spans": [
+                    {
+                        "start": 390,
+                        "end": 393,
+                        "text": "(1,",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 394,
+                        "end": 396,
+                        "text": "2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 631,
+                        "end": 634,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 976,
+                        "end": 979,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 980,
+                        "end": 983,
+                        "text": "(4)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 984,
+                        "end": 987,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D",
+                "sec_num": null
+            },
+            {
+                "text": "Few recent studies have stated that the diagnosis of DOR was associated with reduced oocyte quality (6) .Diminished ovarian reserve has been also reported to be associated with inferior embryo morphology scores and an increase in pregnancy loss in other studies (7) (8) (9) (10) .Contrary to this, other authors have reported no association between aneuploidy rates and DOR (11) (12) (13) .Therefore, it remains unclear whether a premature reduction of the ovarian reserve in younger patients is also associated with a premature reduction in oocyte quality and increased embryo aneuploidy rates.Moreover, patient counseling in cases of DOR and poor ovarian response (POR) is lacking evidence relative to the validity of pre-cycle ovarian markers (anti-m\u20ac ullerian hormone [AMH], antral follicle count [AFC] ) in affecting aneuploidy rates (14) .The lack of clarity could be aided by improved matching methods to define a clearer comparative group and to avoid confounding by significant age differences.Propensity score methods (PSM) preserve the study base by allowing more cases to be used and therefore avoid the selection bias, often caused by either nonsimilar or incomplete sampling-frame coverage (15) .",
+                "cite_spans": [
+                    {
+                        "start": 100,
+                        "end": 103,
+                        "text": "(6)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 262,
+                        "end": 265,
+                        "text": "(7)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 266,
+                        "end": 269,
+                        "text": "(8)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 270,
+                        "end": 273,
+                        "text": "(9)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 274,
+                        "end": 278,
+                        "text": "(10)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 374,
+                        "end": 378,
+                        "text": "(11)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 379,
+                        "end": 383,
+                        "text": "(12)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 384,
+                        "end": 388,
+                        "text": "(13)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 801,
+                        "end": 806,
+                        "text": "[AFC]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 839,
+                        "end": 843,
+                        "text": "(14)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 1204,
+                        "end": 1208,
+                        "text": "(15)",
+                        "ref_id": "BIBREF14"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D",
+                "sec_num": null
+            },
+            {
+                "text": "In this study, we have performed a comparison of aneuploidy rates, based on PSM using a large retrospective data set of patients <40 years of age diagnosed with DOR and POR to stimulation.The preimplantation genetic testing for aneuploidy (PGT-A) platform was based on next-generation sequencing in all cases.Additionally, we compared live birth rates per transferred embryo and the rate of ''all aneuploid embryos'' in these patients relative to controls, as this rate was previously reported to be higher in patients with DOR and recurrent pregnancy loss (RPL) (16) .",
+                "cite_spans": [
+                    {
+                        "start": 563,
+                        "end": 567,
+                        "text": "(16)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D",
+                "sec_num": null
+            },
+            {
+                "text": "Clinical data were extracted at an academically-affiliated fertility clinic, Boston IVF, Waltham, Massachusetts.We included all women undergoing autologous in vitro fertilization (IVF) treatment who had their first oocyte retrieval from December 2014 to December 2020 and were scheduled to have blastocyst biopsy for PGT-A.Couples with no infertility diagnosis in the Society for Assisted Reproductive Technology (SART) reported categories were excluded.The study protocol was reviewed and deemed exempt by the Institutional Review Board at Beth Israel Deaconess Medical Center (protocol number 2019-P-001107).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study Design",
+                "sec_num": null
+            },
+            {
+                "text": "The patients included in the analyses were %40 years of age, corresponding with the most common DOR definitions (17) and providing a prognostic tool to younger women facing DOR and POR.Two comparisons were made to assess aneuploidy in these patients: in the first analysis, DOR was assigned by fertility specialists during the first medical encounter using a pre-cycle assessment of AFC, folliclestimulating hormone (FSH), and AMH.Each case of a physician-reported DOR was additionally validated by data extraction from the medical charts and a maximum AMH cut-off of 1.1 ng/mL for DOR was set.A family risk factor for primary ovarian insufficiency was not a standalone criterion for including patients in the DOR group (study group).The PSM control group for this comparison consisted of non-DOR patients with other SART-reported diagnoses for infertility.The second analysis was a comparison between patients with POR during ovarian stimulation at the fresh IVF cycle, defined as the cohort of patients with <5 retrieved oocytes (study group) and a non-POR control group (R5 oocytes).",
+                "cite_spans": [
+                    {
+                        "start": 112,
+                        "end": 116,
+                        "text": "(17)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study Subjects",
+                "sec_num": null
+            },
+            {
+                "text": "All patients underwent ovarian stimulation, oocyte retrieval, and embryo transfers following all standard protocols at the physician's discretion; the most frequently used protocol was the standard antagonist protocol.Final oocyte maturation was triggered using either human chorionic gonadotropin, leuprolide acetate, or a combination of the two.Oocyte retrieval was typically performed 36 hours after the trigger.Most oocytes underwent conventional insemination, with 33.6% of cycles using intracytoplasmic sperm injection.Before embryo transfers, patients followed a standard protocol and received luteal support by either vaginal or intramuscular progesterone supplementation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data of Interest",
+                "sec_num": null
+            },
+            {
+                "text": "Thaw cycles were performed after blastocyst vitrification on the fifth or sixth day.Frozen embryos were transferred on the fifth day using the luteal support regimens previously published by Vaughan et al. (18, 19) .",
+                "cite_spans": [
+                    {
+                        "start": 206,
+                        "end": 210,
+                        "text": "(18,",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 211,
+                        "end": 214,
+                        "text": "19)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data of Interest",
+                "sec_num": null
+            },
+            {
+                "text": "Preimplantation genetic testing for aneuploidy protocols were previously published (20, 21) .Testing was performed by a trophectoderm biopsy on all embryos between stages 3 and 6 with grade A or B inner cell mass and trophectoderm.Since 2014, we have used next-generation sequencing platforms uniformly, and over 85% of biopsies have been analyzed and interpreted by 3 commercial genetic laboratories, while the remaining biopsies have been examined by a few smaller laboratories.Embryos were deemed euploid or aneuploid, according to the laboratory cut-off values.",
+                "cite_spans": [
+                    {
+                        "start": 83,
+                        "end": 87,
+                        "text": "(20,",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 88,
+                        "end": 91,
+                        "text": "21)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PGT-A Technique",
+                "sec_num": null
+            },
+            {
+                "text": "Notably, during the study period, it was a clinical practice not to report embryo mosaicism.Embryos deemed euploid by PGT-A were transferred during subsequent thaw cycles.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility and Sterility\u00ae",
+                "sec_num": null
+            },
+            {
+                "text": "The primary outcome was the aneuploid rate, defined as the number of genetically unbalanced blastocysts divided by the total number of blastocysts biopsied in one treatment cycle (aneuploid/biopsied embryos).Aneuploid rates were compared after PSM between DOR and non-DOR patients and between POR and non-POR patients, respectively.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Outcome Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Outcomes of interest included embryo transfer, the number of embryos transferred, clinical pregnancies, ectopic pregnancies, biochemical pregnancies, miscarriages, and live births.An additional outcome of interest was the rate of ''No euploid for transfer'' when all embryos from a single oocyte retrieval were aneuploid.We have chosen this outcome because this rate was previously reported to be higher in patients with DOR and RPL (16) .",
+                "cite_spans": [
+                    {
+                        "start": 433,
+                        "end": 437,
+                        "text": "(16)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Outcome Measures",
+                "sec_num": null
+            },
+            {
+                "text": "Propensity score matching was performed to adjust for confounders related to aneuploidy.To achieve this, the propensity score model included both demographic and clinical factors available to the IVF provider before PGT-A or fresh embryo transfer procedures.As patient age is the most influential factor determining the aneuploidy rate, we used age to match patients with DOR and POR with their respective control groups.We additionally used patient body mass index and the year of cycle initiation to match all cases to controls.Following the matching of the groups, we used Poisson regression analysis of aggregated data to model aneuploid rates with the total number of embryos biopsied as the offset.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Statistical analysis was performed using the R statistical software (v4.1.2;R Core Team 2021 Vienna, Austria).We tested the null hypothesis for Missing Completely at Random for Sixty-three cycles with missing ''weight at cycle start,'' using Little's test (P\u00bc .62)against the study outcome.We used the mean value across the study population to impute missing patient weight data.Continuous data were analyzed with Student's t test or Mann-Whitney test for normally or nonnormally distributed data, respectively.Categorical variables were analyzed with c 2 or Fisher's exact test.All tests were two-sided and P< .05 was considered significant.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Propensity score analysis was performed using the ''MatchIt'' package to match patients diagnosed with DOR and POR using nearest neighbor matching.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "The study population from the initially identified cohort to the final analysis groups is shown in the study flowchart (Fig. 1 ).Our original cohort contained 2,219 patients <40 years of age in their first IVF cycle, of these 383 patients were diagnosed with DOR and 143 with POR according to the aforementioned criteria.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 125,
+                        "end": 126,
+                        "text": "1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS",
+                "sec_num": null
+            },
+            {
+                "text": "The first comparison consisted of patients with and without DOR.The study and control groups were matched in a 1:2 ratio, with 764 women with non-DOR etiologies as controls for 383 patients with DOR.The propensity score frequencies and their group distributions among women in the study and control groups are shown in Supplemental Figure 1 (available online).The mean time couples attempted to conceive did not differ between the two groups (14.1 AE 16.0 vs. 13.3AE 16.1 months).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 339,
+                        "end": 340,
+                        "text": "1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Matched Groups for Aneuploidy Assessment",
+                "sec_num": null
+            },
+            {
+                "text": "The patient characteristics in the DOR and non-DOR groups before and after PSM are represented in Tables 1 and 2 .Before applying PSM, the aneuploidy rate in a given stimulation cycle between the DOR and non-DOR groups was 42.2% vs. 39.1%,respectively.The aneuploidy rate in a given stimulation cycle between DOR and non-DOR groups did not differ significantly after applying PSM (42.2% vs. 41.7%;P\u00bc .87,RR \u00bc 1.06; 95% CI, 0.95-1.06).A significantly greater mean gonadotropin dose was used for the DOR group.The average ovarian reserve markers, after PSM matching, in the study and control groups before the cycle started were 0.91 ng/mL AE 0.76 and 3.6 ng/mL AE 3.0 for AMH (P< .001;95% CI, 2.39-3.00)and 6.4 AE 6.4 and 10.1 AE 6.6 (P< .001;95% CI, 2.88-4.43)for AFC, respectively.More oocytes were retrieved in the non-DOR group (P< .001).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 105,
+                        "end": 106,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 111,
+                        "end": 112,
+                        "text": "2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DOR and POR Comparisons",
+                "sec_num": null
+            },
+            {
+                "text": "For the second comparison of POR vs. non-POR groups, a 1:4 ratio was used, resulting in 143 and 572 patients with POR and without POR, respectively.The characteristics of the groups before and after PSM are represented in Supplemental Tables 1 and 2 .A higher mean number of blastocysts were available for biopsy in POR than in the non-POR group (2.2 AE 1.0 vs. 6.8AE 4.4; P< .001).Similarly, fertilization rates were lower in the POR group (3.0 AE 1.0 vs. 10.2AE 5.7; P>.001; 95% CI, 8. 16-6.25) .",
+                "cite_spans": [
+                    {
+                        "start": 488,
+                        "end": 496,
+                        "text": "16-6.25)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 242,
+                        "end": 243,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 248,
+                        "end": 249,
+                        "text": "2",
+                        "ref_id": "TABREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DOR and POR Comparisons",
+                "sec_num": null
+            },
+            {
+                "text": "The aneuploidy rate in a given stimulation cycle between the groups did not differ (41.1% vs. 44.0%;P\u00bc .75,RR of 1.02; 95% CI, 0.91-1.14).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DOR and POR Comparisons",
+                "sec_num": null
+            },
+            {
+                "text": "Figure 2 shows the aneuploidy rates of the matched cohort by AMH levels.In this case the AMH level was divided into 3 groups by percentiles: 25th percentile (R0.9 ng/mL); 25 to 75th percentile (>0.9 ng/mL and <3.5 ng/mL); and 75th percentile (R3.5 ng/mL).The ploidy rates did not differ significantly between the 3 AMH groups.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 7,
+                        "end": 8,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Estimation of Aneuploidy Rates Before and During Assisted Reproductive Technology Treatment",
+                "sec_num": null
+            },
+            {
+                "text": "The characteristics and fertility outcomes of singleembryo transfers of a euploid blastocyst in the subsequent frozen-thawed cycle in the DOR, POR, and control groups are shown in Supplemental Tables 3 and 4 .The number of women with no euploid embryos to transfer differed significantly between the DOR and POR groups vs. controls (19.3% vs. 10.3%;P< .001) and (26.5% and 13.2%; P< .001),respectively.However, rates of only 1 embryo available for biopsy were significantly lower in both DOR and POR",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 200,
+                        "end": 201,
+                        "text": "3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 206,
+                        "end": 207,
+                        "text": "4",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Estimation of Aneuploidy Rates Before and During Assisted Reproductive Technology Treatment",
+                "sec_num": null
+            },
+            {
+                "text": "Boxplot display of the euploidy rate per cohort of biopsied blastocysts by antim\u20ac ullerian hormone (AMH) levels: 25th percentile (R0.97 ng/mL); 75 to 25th percentile (>0.97 ng/mL and % 3.56 ng/mL); 75th percentile (>3.56 ng/mL).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "FIGURE 2",
+                "sec_num": null
+            },
+            {
+                "text": "Fouks.Embryo ploidy in DOR.Fertil Steril 2022.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "FIGURE 2",
+                "sec_num": null
+            },
+            {
+                "text": "groups relative to controls (31%, n \u00bc 120, vs. 11%, n \u00bc 89, respectively).Live birth rates and other fertility outcomes were not statistically different between the DOR and non-DOR groups (60.6% vs. 56.1%)and the POR and non-POR groups (64.1% vs. 54.1%),respectively.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "FIGURE 2",
+                "sec_num": null
+            },
+            {
+                "text": "We found that the aneuploidy rates of blastocysts for women with DOR, based on pre-cycle medical evaluations, or POR, based on ovarian response during the cycle, did not have an increased risk of aneuploidy compared with women with normal ovarian reserve and response, respectively.Based on this, we conclude that the depletion of the follicular reserve <40 years of age is not significantly associated with a concurrent increase in the fraction of embryos deemed aneuploid by PGT.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Our results indicate that, for patients diagnosed with DOR, who have achieved blastocyst stage, the chance of having euploid embryos is similar to the general infertile population.Additionally, we show that the developmental potential of a euploid blastocyst is similar in DOR patients and controls, indicating that other factors (besides aneuploidy) that may affect egg quality do not differ between these groups.Thus, the true rate-limiting factor for achieving a live birth for these patients would be the extent of their ovarian response to stimulation during a cycle.Patients should be duly informed and reassured that cycles without any euploid embryo for transfer are associated with their lower ovarian response and not with qualitative reduction.Our study did not assess the efficacy of PGT-A in becoming an adjunct to routine treatment.We acknowledge that PGT-A is commonly used in a wide array of patients, but we neither endorse nor refute its utility in our article.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Recent evidence indicates that women with DOR have limited success rates in achieving live births through IVF treatments (22) as these patients have a POR, cycle invalidations, and lower pregnancy rates.Currently, there is no uniformly accepted definition of DOR (5) , and there is a vibrant debate regarding the extent of unbalanced embryos in these populations.Studies examining DOR patients who underwent IVF as a uniform group have yielded contrasting results (3, 4) but the association between oocyte quantity and quality is not well established.",
+                "cite_spans": [
+                    {
+                        "start": 121,
+                        "end": 125,
+                        "text": "(22)",
+                        "ref_id": "BIBREF21"
+                    },
+                    {
+                        "start": 263,
+                        "end": 266,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 464,
+                        "end": 467,
+                        "text": "(3,",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 468,
+                        "end": 470,
+                        "text": "4)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "According to some studies, a premature low ovarian reserve is associated with aneuploidy to varying degrees (23) (24) (25) , which might suggest a biological link between chromosome segregation and follicular depletion.Correlations of different attributes, such as oocyte and embryo morphology, rates of aneuploidy in PGT or products of conception (20, 8, 9) , and miscarriage rate (10, 11) have been tested in several studies supporting this finding.The study by Katz-Jaffe et al. (5) was one of the first to use chromosome screening to address this issue.In this study, aneuploidy rates in DOR patients were increased.However, patients in the DOR group were older than the patients in the control group.Additionally, the PGT screening was done under strict environments and was not broadly implemented throughout all infertility diagnoses, making the control group different from the actual population seeking IVF treatment.Researchers have attempted to challenge the paradigm of reduced egg quality of patients with DOR in other studies and have based their conclusions on examining AMH and FSH levels before IVF treatment, ovarian response to stimulation, and other potential surrogates of the ongoing cycle (9, 26) .",
+                "cite_spans": [
+                    {
+                        "start": 108,
+                        "end": 112,
+                        "text": "(23)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 113,
+                        "end": 117,
+                        "text": "(24)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 118,
+                        "end": 122,
+                        "text": "(25)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 348,
+                        "end": 352,
+                        "text": "(20,",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 353,
+                        "end": 355,
+                        "text": "8,",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 356,
+                        "end": 358,
+                        "text": "9)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 382,
+                        "end": 386,
+                        "text": "(10,",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 387,
+                        "end": 390,
+                        "text": "11)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 482,
+                        "end": 485,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1212,
+                        "end": 1215,
+                        "text": "(9,",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 1216,
+                        "end": 1219,
+                        "text": "26)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The differences in these results may be viewed in light of several key factors, such as different outcome measures, various aneuploidy screen platforms, and advancements in the PGT technique.It is also possible that the different outcomes from different centers stem from differences in the underlying demographic factors and pathologies that reside under the broad and heterogeneous definition of DOR.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Previous studies were limited by several confounders, such as the impact of age on ovarian response to stimulation, ploidy rates, and fertility outcomes.First, many prior studies lack specific details regarding the ovarian reserve markers AMH and AFC (27) .Second, in several studies, the ovarian response parameters in the DOR group, such as the number of oocytes retrieved and total metaphase II oocytes, were higher than expected.The subsequent studies might partially reflect some better prognosis populations that were included in the DOR category.Third, the heterogeneity of using a mixed variety of different PGT-A analysis methods, such as a single nucleotide polymorphism array, comparative genomic hybridization, and next-generation sequencing, could affect the results.In a previous study (6) , which had employed different methodologies, the euploid call rates varied by platform and were subsequently adjusted.In contrast, our study is the first study to be uniformly based on nextgeneration sequencing-only platforms.Lastly, embryo ploidy in DOR or POR patients to stimulation has been assessed using a group-matching analysis in some previous studies.The group-matching procedure has certain limitations, as some subjects cannot be matched on every level, and more subjects are required in each subgroup in this matching technique than with specific matches.On the contrary, PSM is a more tailored subject-matching process by which the risk of individual differences affecting results between the conditions is reduced.Therefore, we sought to separate age-related reduction in oocyte quality by capturing a diverse pool of patients into a PSM cohort while reducing significant bias.",
+                "cite_spans": [
+                    {
+                        "start": 251,
+                        "end": 255,
+                        "text": "(27)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 800,
+                        "end": 803,
+                        "text": "(6)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Overall, our primary results disagree with the conclusions of a recent study by Jaswa et al. (6) , in which blastocysts from women with DOR were reported to be less likely euploid, which might have resulted because of different study populations and the statistical methodological differences between our studies.First, we excluded women >40 years of age from the analysis, as our interest group consisted of younger patients.This is also in line with recommended criteria for assessing DOR patients (28, 29) .With the use of the SART age group classification to match the ages of patients with DOR and controls, Jaswa et al. (6) reported that the composite average euploid rate in women with DOR and non-DOR differed significantly.However, the overall age group differences in their cohort also differed (39.5 and 37.0; P< .01).In contrast, these changes were not reported as significant in a subgroup comparison, and similar aneuploidy rates were reported in their peers in the SART age groups, specifically in groups A and B, in patients<37 years of age.Our findings regarding aneuploidy rates in patients<40 years of age in both DOR and POR patients, are consistent with these results, in accordance with those found by Morin et al. (4) .Other methodological differences were using the Bologna criteria for the diagnosis of DOR by Jaswa et al. (15) and the inclusion of patients naive to previous IVF cycles.Hence, we could not use the previous POR criteria (17) .Shahine et al. (16) recently found a significantly higher rate of aneuploid embryos together with a higher rate of cycles with ''no euploid embryos'' to transfer in DOR patients with unexplained RPL compared with control patients with normal ovarian reserve.However, the cohort of patients with RPL in that study is clinically different from our study population and likely represents a subgroup of DOR patients with higher aneuploidy rates compared with a general cohort of DOR patients.Similar to Shahine et al. ( 16), we have also observed an increased rate of ''no euploid embryos'' to transfer in both the DOR and POR groups, which might be because of the overall reduction in developing embryos in these groups.",
+                "cite_spans": [
+                    {
+                        "start": 93,
+                        "end": 96,
+                        "text": "(6)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 500,
+                        "end": 504,
+                        "text": "(28,",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 505,
+                        "end": 508,
+                        "text": "29)",
+                        "ref_id": "BIBREF28"
+                    },
+                    {
+                        "start": 626,
+                        "end": 629,
+                        "text": "(6)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 1224,
+                        "end": 1240,
+                        "text": "Morin et al. (4)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1348,
+                        "end": 1352,
+                        "text": "(15)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1462,
+                        "end": 1466,
+                        "text": "(17)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1483,
+                        "end": 1487,
+                        "text": "(16)",
+                        "ref_id": "BIBREF15"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Our study displays a number of strengths and limitations.First, as a retrospective study, based on data extraction of more than 6 years, the possibility of unaccounted attributes like yearly comparison as part of the PSM approach, variability between study and control group, and major shifts in one group might have limited the fertility outcomes.Second, our study included only those cycles having at least 1 blastocyst worthy of biopsy, which could misrepresent the fertility outcomes of the general DOR population, making the reported fertility outcomes relevant solely to those DOR patients who reach this stage.However, the comparable blastulation rates in DOR patients and controls indicate that the number of arrested embryos in our cohort that were not included in our analysis was similar in both the groups.An additional limitation is that data on embryo mosaicism were not reported to our clinic, indicating that some embryos might have been misclassified.However, such misclassification is expected to be small and should be equal in both groups.Finally, we chose to restrict our analyses to the first embryo transfer because the decision to use PGT-A in subsequent retrieval cycles is likely influenced by several factors, such as the outcome of previous cycles, the experience of the patient during other cycles, and the procedural costs.Because many of these factors were not available in our data set, we were unable to adequately control these confounding factors in subsequent egg retrieval cycles.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "In conclusion, we have demonstrated that DOR patients undergoing their first IVF cycle and those recognized as poor responders to ovarian stimulation show a similar rate of aneuploidy in blastocysts compared with women with a standard ovarian reserve and response, respectively.Once a euploid embryo is transferred, its developmental potential to achieve a live birth is not impacted by the DOR or POR diagnosis.Low pre-cycle AMH and AFC levels and ovarian response parameters were not associated with increased aneuploidy rates.Furthermore, our data could assist in individualized patient counseling regarding the prognosis of IVF in DOR patients.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "VOL. 118 NO. 3 / SEPTEMBER 2022",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Fertility and Sterility\u00ae",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Acknowledgments: This paper and the research behind it would not have been possible without the exceptional support of Nadia Angelidou, Justin Quinlan, and Brianna Amaral.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "acknowledgement",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Human aneuploidy: mechanisms and new insights into an age-old problem",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Nagaoka",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hassold",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hunt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Nat Rev Genet",
+                "volume": "13",
+                "issue": "",
+                "pages": "493--504",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Chromosome errors in human eggs shape natural fertility over reproductive life span",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Gruhn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Zielinska",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Shukla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Blanshard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Capalbo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Cimadomo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Science",
+                "volume": "365",
+                "issue": "",
+                "pages": "1466--1469",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Leave the past behind: women's reproductive history shows no association with blastocysts' euploidy and limited association with live birth rates after euploid embryo transfers",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Cimadomo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Capalbo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Dovere",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Tacconi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Soscia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Giancani",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Hum Reprod",
+                "volume": "36",
+                "issue": "",
+                "pages": "929--940",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Diminished ovarian reserve and poor response to stimulation in patients <38 years old: a quantitative but not qualitative reduction in performance",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Morin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Patounakis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Juneau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Neal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Scott",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Seli",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Hum Reprod",
+                "volume": "33",
+                "issue": "",
+                "pages": "1489--1498",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Association of abnormal ovarian reserve parameters with a higher incidence of aneuploid blastocysts",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Katz-Jaffe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Surrey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Minjarez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Gustofson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Stevens",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Schoolcraft",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Obstet Gynecol",
+                "volume": "121",
+                "issue": "",
+                "pages": "71--77",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Diminished ovarian reserve is associated with reduced euploid rates via preimplantation genetic testing for aneuploidy independently from age: evidence for concomitant reduction in oocyte quality with quantity",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Jaswa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Mcculloch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Simbulan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Cedars",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Rosen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "115",
+                "issue": "",
+                "pages": "966--973",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Live birth rates in the different combinations of the Bologna criteria poor ovarian responders: a validation study",
+                "authors": [
+                    {
+                        "first": "La",
+                        "middle": [],
+                        "last": "Marca",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Grisendi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Giulini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Sighinolfi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Tirelli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Argento",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "J Assist Reprod Genet",
+                "volume": "32",
+                "issue": "",
+                "pages": "931--937",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Clinical predictors of human blastocyst formation and pregnancy after extended embryo culture and transfer",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Thomas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Sparks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Ryan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Van",
+                        "middle": [],
+                        "last": "Voorhis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Fertil Steril",
+                "volume": "94",
+                "issue": "",
+                "pages": "543--548",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Early menopause in mothers of children with Down syndrome?",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Van Der Stroom",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Konig",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Van Dulmen-Den Broeder",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Elzinga",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Van Montfrans",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Haadsma",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Fertil Steril",
+                "volume": "96",
+                "issue": "",
+                "pages": "985--990",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Serum antim\u20ac ullerian hormone levels are independently related to miscarriage rates after in vitro fertilization-embryo transfer",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Tarasconi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Tadros",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ayoubi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Belloc",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "De Ziegler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Fanchin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Fertil Steril",
+                "volume": "108",
+                "issue": "",
+                "pages": "518--524",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Prospective cohort study in high responder oocyte donors using two hormonal stimulation protocols: impact on embryo aneuploidy and development",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Rubio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Mercader",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Alama",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Lizan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Rodrigo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Labarta",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Hum Reprod",
+                "volume": "25",
+                "issue": "",
+                "pages": "2290--2297",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Elevated basal FSH and embryo quality: lessons from extended culture embryos: raised FSH and blastocyst quality",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Thum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Kalu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Abdalla",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "J Assist Reprod Genet",
+                "volume": "26",
+                "issue": "",
+                "pages": "313--318",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Relationship between women's age and basal follicle-stimulating hormone levels with aneuploidy risk in in vitro fertilization treatment",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Thum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Abdalla",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Taylor",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Fertil Steril",
+                "volume": "90",
+                "issue": "",
+                "pages": "315--321",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Is diminished ovarian reserve a risk factor for miscarriage? Results of a systematic review and meta-analysis",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Busnelli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Somigliana",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Cirillo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Levi-Setti",
+                        "middle": [],
+                        "last": "Pe",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Hum Reprod Update",
+                "volume": "27",
+                "issue": "",
+                "pages": "973--988",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Using propensity scores to reduce case-control selection bias",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Walsh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Trentham-Dietz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Newcomb",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Gangnon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Palta",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Epidemiology",
+                "volume": "23",
+                "issue": "",
+                "pages": "772--773",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Higher rates of aneuploidy in blastocysts and higher risk of no embryo transfer in recurrent pregnancy loss patients with diminished ovarian reserve undergoing in vitro fertilization",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Shahine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Marshall",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Lamb",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Hickok",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Fertil Steril",
+                "volume": "106",
+                "issue": "",
+                "pages": "1124--1128",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "ESHRE consensus on the definition of ''poor response'' to ovarian stimulation for in vitro fertilization: the Bologna criteria",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Ferraretti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "La",
+                        "middle": [],
+                        "last": "Marca",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Fauser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Tarlatzis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nargund",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Gianaroli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Hum Reprod",
+                "volume": "26",
+                "issue": "",
+                "pages": "1616--1624",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "The use of propensity score matching to assess the benefit of the endometrial receptivity analysis in frozen embryo transfers",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Bergin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Eliner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Duvall",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Roger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Elguero",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Penzias",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "116",
+                "issue": "",
+                "pages": "396--403",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "How many oocytes are optimal to achieve multiple live births with one stimulation cycle? The one-and-done approach",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Vaughan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Leung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Resetkova",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Ruthazer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Penzias",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Sakkas",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Fertil Steril",
+                "volume": "107",
+                "issue": "",
+                "pages": "397--404",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Comparison of pregnancy outcomes following preimplantation genetic testing for aneuploidy using a matched propensity score design",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Haviland",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Murphy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Modest",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Fox",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Wise",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Nillni",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Hum Reprod",
+                "volume": "35",
+                "issue": "",
+                "pages": "2356--2364",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "The nature of aneuploidy with increasing age of the female partner: a review of 15,169 consecutive trophectoderm biopsies evaluated with comprehensive chromosomal screening",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Franasiak",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Forman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Hong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Werner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Upham",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Treff",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Fertil Steril",
+                "volume": "101",
+                "issue": "1",
+                "pages": "656--663",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "A new more detailed stratification of low responders to ovarian stimulation: from a poor ovarian response to a low prognosis concept",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Alviggi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Andersen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Buehler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Conforti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "De",
+                        "middle": [],
+                        "last": "Placido",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Esteves",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Fertil Steril",
+                "volume": "105",
+                "issue": "",
+                "pages": "1452--1453",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Age-related changes of the population of human ovarian follicles: increase in the disappearance rate of nongrowing and early-growing follicles in aging women",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Gougeon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Ecochard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Thalabard",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Biol Reprod",
+                "volume": "50",
+                "issue": "",
+                "pages": "653--663",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Basal level of anti-M\u20ac ullerian hormone is associated with oocyte quality in stimulated cycles",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Ebner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Sommergruber",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Moser",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Shebl",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Schreier-Lechner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Tews",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Hum Reprod",
+                "volume": "21",
+                "issue": "",
+                "pages": "2022--2026",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Age-dependent susceptibility of chromosome cohesion to premature separase activation in mouse oocytes",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Chiang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Schultz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Lampson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Biol Reprod",
+                "volume": "85",
+                "issue": "",
+                "pages": "1279--1283",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Mullerian inhibiting substance levels at the time of HCG administration in IVF cycles predict both ovarian reserve and embryo morphology",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Silberstein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Maclaughlin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Shai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Trimarchi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Lambert-Messerlian",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Seifer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Hum Reprod",
+                "volume": "21",
+                "issue": "",
+                "pages": "159--163",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Connecting the dots between oocyte quantity and quality in diminished ovarian reserve",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Seifer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "115",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Improvement in diminished ovarian reserve after dehydroepiandrosterone supplementation",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Gleicher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Weghofer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Barad",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Reprod Biomed Online",
+                "volume": "21",
+                "issue": "",
+                "pages": "360--365",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Miscarriage rates after dehydroepiandrosterone (DHEA) supplementation in women with diminished ovarian reserve: a case control study",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Gleicher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Ryan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Weghofer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Blanco-Mejia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Barad",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Reprod Biol Endocrinol",
+                "volume": "7",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Un diagn ostico de reserva ov arica disminuida no afecta a la aneuploid\u00eda del embri on o las tasas de nacidos vivos en comparaci on con las pacientes con reserva ov arica normal",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Estimar las tasas de aneuploid\u00eda en mujeres j ovenes con reserva ov arica disminuida (DOR) antes del tratamiento y con respuesta ov arica deficiente (POR) posterior a la recuperaci on ovocitaria. Dise\u00f1o: Estudio de cohorte retrospectivo. Ambito: Una sola cl\u00ednica de fertilidad asociada a una universidad",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Objetivo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Se revisaron los ciclos de transferencia de embriones aut ologos congelados desde diciembre de 2014",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Se usaron factores demogr aficos y cl\u00ednicos con efectos en los resultados para la coincidencia de puntuaci on de propensi on (PSM) en una proporci on de 2: 1 y 4: 1 para el estudio gen etico de aneuploid\u00edas pre-implantaci on pre-ciclo DOR y POR despu es de la estimulaci on, respectivamente. Intervenci on(es): Ninguna. Medida(s) de resultado principal: Tasas de aneuploides, definidas como el n umero de blastocistos aneuploides dividido por el n umero de blastocistos biopsiados por ciclo. Ausencia de embriones euploides para transferir definido cuando todas las cohortes de embriones fueron aneuploides. Resultado(s): Un total de 383 mujeres diagnosticadas con DOR fueron comparadas con controles emparejados. Las tasas de aneuploides no difirieron significativamente entre los dos grupos (42,2 % frente a",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "95--96",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "con DOR y POR se debe a la disminuci on del n umero total de ovocitos/embriones en desarrollo y no al aumento de las tasas de aneuploid\u00eda en estos grupos",
+                "authors": [],
+                "year": null,
+                "venue": "La prevalencia de ciclos sin ''embriones euploides'' en la cohorte POR fue mayor (26 % frente a 13 %)",
+                "volume": "",
+                "issue": "",
+                "pages": "91--91",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 1",
+                "fig_num": "1",
+                "type_str": "figure"
+            },
+            "TABREF0": {
+                "html": null,
+                "num": null,
+                "text": "Patient characteristics in the DOR group before propensity score matching.",
+                "content": "<table><tr><td/><td colspan=\"2\">DOR group</td><td colspan=\"2\">Non-DOR group</td><td/><td/><td/></tr><tr><td/><td>Mean</td><td>SD</td><td>Mean</td><td>SD</td><td>P value</td><td colspan=\"2\">95% CL</td></tr><tr><td>Characteristic</td><td>n [ 383</td><td/><td>n [ 1842</td><td/><td/><td>Lower</td><td>Upper</td></tr><tr><td>Age (y) BMI (kg/m 2 )</td><td>36.40 26.12</td><td>2.74 5.93</td><td>35.19 25.42</td><td>3.12 5.45</td><td>&lt; .001 .08</td><td>\u00c01.55 \u00c01.49</td><td>\u00c00.88 0.09</td></tr><tr><td>Weight (p)</td><td>156.15</td><td>35.66</td><td>150.55</td><td>34.26</td><td>.01</td><td>\u00c09.84</td><td>\u00c01.36</td></tr><tr><td>AMH (ng/mL)</td><td>0.88</td><td>0.74</td><td>4.02</td><td>3.54</td><td>&lt; .001</td><td>2.78</td><td>3.50</td></tr><tr><td>AFC</td><td>6.23</td><td>5.80</td><td>11.34</td><td>7.65</td><td>&lt; .001</td><td>2.74</td><td>4.00</td></tr><tr><td>FSH (IU/mL)</td><td>9.21</td><td>3.81</td><td>7.05</td><td>1.85</td><td>&lt; .001</td><td>\u00c02.43</td><td>\u00c01.89</td></tr><tr><td>Total gonadotropins</td><td>5292.49</td><td>1513.32</td><td>3376.8</td><td>1406.4</td><td>&lt; .001</td><td>\u00c02072.9</td><td>\u00c01758.3</td></tr><tr><td>Oocytes retrieved</td><td>9.47</td><td>6.34</td><td>17.45</td><td>9.22</td><td>&lt; .001</td><td>7.02</td><td>8.96</td></tr><tr><td>Mature oocytes</td><td>7.80</td><td>5.46</td><td>14.30</td><td>7.57</td><td>&lt; .001</td><td>5.70</td><td>7.30</td></tr><tr><td>Normal fertilizations</td><td>6.09</td><td>4.41</td><td>11.34</td><td>6.47</td><td>&lt; .001</td><td>4.57</td><td>5.93</td></tr><tr><td>Blastocysts biopsied</td><td>2.80</td><td>2.20</td><td>5.00</td><td>3.40</td><td>&lt; .001</td><td>1.47</td><td>2.83</td></tr><tr><td>Aneuploids/biopsied (%)</td><td>42.2</td><td>0.37</td><td>39.1</td><td>0.29</td><td>.12</td><td>0.67</td><td>0.81</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF1": {
+                "html": null,
+                "num": null,
+                "text": "Patient characteristics in the DOR group after propensity score matching (1:2).",
+                "content": "<table><tr><td/><td colspan=\"2\">DOR group</td><td colspan=\"2\">Non-DOR group</td><td/><td/><td/></tr><tr><td/><td>Mean</td><td>SD</td><td>Mean</td><td>SD</td><td>P value</td><td/><td>95% CL</td></tr><tr><td>Characteristic</td><td>n [ 383</td><td/><td>n [ 766</td><td/><td/><td>Lower</td><td>Upper</td></tr><tr><td>Age (y) BMI (kg/m 2 )</td><td>36.40 26.04</td><td>2.74 5.65</td><td>36.27 26.07</td><td>2.81 5.67</td><td>.92 .92</td><td>\u00c00.34 \u00c00.73</td><td>0.41 0.633</td></tr><tr><td>Weight (kg)</td><td>70.40</td><td>15.7</td><td>69.57</td><td>16.3</td><td>.97</td><td>\u00c04.23</td><td>4.19</td></tr><tr><td>AMH (ng/mL)</td><td>0.91</td><td>0.76</td><td>3.91</td><td>2.87</td><td>&lt; .001</td><td>2.39</td><td>3.27</td></tr><tr><td>AFC</td><td>6.49</td><td>6.40</td><td>10.34</td><td>6.23</td><td>&lt; .001</td><td>2.88</td><td>4.43</td></tr><tr><td>FSH (IU/mL)</td><td>9.12</td><td>3.76</td><td>7.02</td><td>182</td><td>&lt; .001</td><td>\u00c02.62</td><td>\u00c01.58</td></tr><tr><td>Total gonadotropins</td><td>5287.40</td><td>1514.60</td><td>3310.6</td><td>1275.3</td><td>&lt; .001</td><td>\u00c02017.2</td><td>\u00c01667.0</td></tr><tr><td>Oocytes retrieved</td><td>9.47</td><td>6.34</td><td>17.76</td><td>8.02</td><td>&lt; .001</td><td>4.98</td><td>7.90</td></tr><tr><td>Mature oocytes</td><td>7.80</td><td>5.46</td><td>14.45</td><td>7.39</td><td>&lt; .001</td><td>3.81</td><td>6.76</td></tr><tr><td>Normal fertilizations</td><td>6.09</td><td>4.41</td><td>11.66</td><td>6.21</td><td>&lt; .001</td><td>3.67</td><td>5.88</td></tr><tr><td>Blastocysts biopsied</td><td>2.84</td><td>2.20</td><td>5.14</td><td>3.40</td><td>&lt; .001</td><td>1.92</td><td>2.66</td></tr><tr><td>Aneuploids/biopsied (%)</td><td>42.2</td><td>0.37</td><td>41.7</td><td>0.30</td><td>.87</td><td>0.95</td><td>1.06</td></tr></table>",
+                "type_str": "table"
+            }
+        }
+    }
+}

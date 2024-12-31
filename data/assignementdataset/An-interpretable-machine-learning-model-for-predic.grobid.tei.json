@@ -1,0 +1,1634 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\An-interpretable-machine-learning-model-for-predic",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:28.956562Z"
+    },
+    "title": "An interpretable machine learning model for predicting the optimal day of trigger during ovarian stimulation",
+    "authors": [
+        {
+            "first": "Michael",
+            "middle": [],
+            "last": "Fanton",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Alife Health, Inc",
+                "location": {
+                    "settlement": "Cambridge",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Veronica",
+            "middle": [],
+            "last": "Nutting",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Alife Health, Inc",
+                "location": {
+                    "settlement": "Cambridge",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Funmi",
+            "middle": [],
+            "last": "Solano",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Alife Health, Inc",
+                "location": {
+                    "settlement": "Cambridge",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Paxton",
+            "middle": [],
+            "last": "Maeder-York",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Alife Health, Inc",
+                "location": {
+                    "settlement": "Cambridge",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Eduardo",
+            "middle": [],
+            "last": "Hariton",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of California",
+                "location": {
+                    "settlement": "San Francisco"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Oleksii",
+            "middle": [],
+            "last": "Barash",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Louis",
+            "middle": [],
+            "last": "Weckstein",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Denny",
+            "middle": [],
+            "last": "Sakkas",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Boston IVF-The Eugin Group",
+                "location": {
+                    "settlement": "Waltham",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Alan",
+            "middle": [
+                "B"
+            ],
+            "last": "Copperman",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "New York",
+                "location": {
+                    "settlement": "New York",
+                    "region": "New York"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Kevin",
+            "middle": [],
+            "last": "Loewke",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Alife Health, Inc",
+                "location": {
+                    "settlement": "Cambridge",
+                    "region": "Massachusetts"
+                }
+            },
+            "email": "kloewke@alifehealth.com"
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objective: To develop an interpretable machine learning model for optimizing the day of trigger in terms of mature oocytes (MII), fertilized oocytes (2PNs), and usable blastocysts.Design: Retrospective study.Setting: A group of three assisted reproductive technology centers in the United States.Patient(s): Patients undergoing autologous in vitro fertilization cycles from 2014 to 2020 (n \u00bc 30,278).Intervention(s): None.Main Outcome Measure(s): Average number of MII oocytes, 2PNs, and usable blastocysts.Result(s): A set of interpretable machine learning models were developed using linear regression with follicle counts and estradiol levels.When using the model to make day-by-day predictions of trigger or continuing stimulation, possible early and late triggers were identified in 48.7% and 13.8% of cycles, respectively.After propensity score matching, patients with early triggers had on average 2.3 fewer MII oocytes, 1.8 fewer 2PNs, and 1.0 fewer usable blastocysts compared with matched patients with on-time triggers, and patients with late triggers had on average 2.7 fewer MII oocytes, 2.0 fewer 2PNs, and 0.7 fewer usable blastocysts compared with matched patients with on-time triggers.\nThis study demonstrates that it is possible to develop an interpretable machine learning model for optimizing the day of trigger.Using our model has the potential to improve outcomes for many in vitro fertilization patients.",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\An-interpretable-machine-learning-model-for-predic",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.04.003",
+        "keywords": [
+            "Artificial intelligence",
+            "in vitro fertilization",
+            "machine learning",
+            "ovarian stimulation",
+            "trigger"
+        ],
+        "abstract": [
+            {
+                "text": "Objective: To develop an interpretable machine learning model for optimizing the day of trigger in terms of mature oocytes (MII), fertilized oocytes (2PNs), and usable blastocysts.Design: Retrospective study.Setting: A group of three assisted reproductive technology centers in the United States.Patient(s): Patients undergoing autologous in vitro fertilization cycles from 2014 to 2020 (n \u00bc 30,278).Intervention(s): None.Main Outcome Measure(s): Average number of MII oocytes, 2PNs, and usable blastocysts.Result(s): A set of interpretable machine learning models were developed using linear regression with follicle counts and estradiol levels.When using the model to make day-by-day predictions of trigger or continuing stimulation, possible early and late triggers were identified in 48.7% and 13.8% of cycles, respectively.After propensity score matching, patients with early triggers had on average 2.3 fewer MII oocytes, 1.8 fewer 2PNs, and 1.0 fewer usable blastocysts compared with matched patients with on-time triggers, and patients with late triggers had on average 2.7 fewer MII oocytes, 2.0 fewer 2PNs, and 0.7 fewer usable blastocysts compared with matched patients with on-time triggers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "This study demonstrates that it is possible to develop an interpretable machine learning model for optimizing the day of trigger.Using our model has the potential to improve outcomes for many in vitro fertilization patients.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "T he goal of ovarian stimulation during in vitro fertilization (IVF) cycles is to promote multifollicular development to retrieve multiple high-quality oocytes.During ovarian stimulation, physicians make a series of decisions that are critical to the outcome of the cycle, such as which protocol to use and what starting doses of gonadotropins to prescribe.One of the most important decisions is when to give the final trigger injection to induce the final follicular maturation.Triggering too early may not allow the oocytes to reach maturity, whereas triggering too late may result in postmature oocytes as well as an increased risk of ovarian hyperstimulation syndrome.The optimal time to administer the trigger injection is a subjective decision and varies widely across practices and physicians, with limited data supporting any strict objective criteria.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Numerous studies have explored the relationship between follicle sizes and mature (MII) oocyte outcomes, reporting that follicles that are either too small or too large are less likely to yield MII oocytes (1) (2) (3) (4) .Modeling techniques have been used in retrospective studies to identify follicles of size 12-19 mm on the day of trigger as having the highest likelihood of producing mature oocytes (5) .The ideal way to determine which follicle sizes yield the highest maturation rates would be through individual follicle aspiration; however, such studies are difficult to conduct on a large scale.One study performed individual aspiration of binned follicle group sizes (>18 mm, 16-18 mm, 13-15 mm, 10-12 mm, and <10 mm) and showed that oocyte maturation rates increase with follicle size; however, the point at which follicles reach post-maturity was not established (6) .Although previous studies have established that there is a high correlation between follicle sizes and mature oocyte outcomes, it remains unclear how to apply these findings for optimizing the timing of trigger for an individual patient.",
+                "cite_spans": [
+                    {
+                        "start": 206,
+                        "end": 209,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 210,
+                        "end": 213,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 214,
+                        "end": 217,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 218,
+                        "end": 221,
+                        "text": "(4)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 405,
+                        "end": 408,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 877,
+                        "end": 880,
+                        "text": "(6)",
+                        "ref_id": "BIBREF5"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In recent years, the field of assisted reproduction has recognized that artificial intelligence techniques can be used to support clinical decision-making during ovarian stimulation, especially with regard to optimizing the day of trigger.One of the earliest studies in this area used machine learning algorithms trained on follicle sizes and other parameters to predict whether a physician would continue stimulation or trigger (7) .A more recent study developed causal machine learning techniques using follicle sizes, estradiol (E2) levels, and patient parameters to recommend continuing stimulation or trigger, with the goal of maximizing the number of fertilized oocytes (2PNs) and blastocysts (8) .A potential limitation of these earlier studies is that they relied on blackbox machine learning algorithms, which are unable to explain the basis for their recommendations.As the IVF field considers the adoption of these promising technologies, there is a question of whether physicians will trust black-box approaches or will prefer interpretable techniques that can explain their reasoning.As such, there is a need for further studies that explore the use of interpretable artificial intelligence for clinical decision support.",
+                "cite_spans": [
+                    {
+                        "start": 429,
+                        "end": 432,
+                        "text": "(7)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 699,
+                        "end": 702,
+                        "text": "(8)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In this study, we present an interpretable machine learning approach for predicting the optimal day of trigger during ovarian stimulation.Our model uses a set of linear regression models to predict the number of MII oocytes retrieved if triggered ''today vs tomorrow.''A key advantage of this approach is that it can explain the basis for the recommendations.In addition, our approach provides accurate predictions of next-day E2 levels and MII oocyte outcomes that may be helpful to the physician and can be used for patient counseling.We demonstrate the performance of the model using real-world simulations in which the decisions of continuing stimulation or waiting are evaluated on a day-by-day basis.Our hypothesis for this study was that the use of an interpretable machine learning algorithm for optimizing the day of trigger may result in improved outcomes while keeping E2 levels within a safe range.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "This study was conducted after the research protocol was approved by the WCG Institutional Review Board (Study no.1308073).Patient information was deidentified before analysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Ethics Approval",
+                "sec_num": null
+            },
+            {
+                "text": "This was a retrospective study using data collected from three different IVF clinics in the United States.Historical, deidentified electronic medical record (EMR) data were collected for IVF retrieval cycles started between 2014 and 2020.Records were filtered for autologous, noncanceled cycles.A total of 30,278 cycles were included in this study.An overview of the study design and methodology is shown in Supplemental Figure 1 (available online).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 428,
+                        "end": 429,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Study Design and Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Data for training and testing the models were parsed from the EMRs.The parameters investigated included age, body mass index (BMI), number of previous IVF cycles, baseline antral follicle count (AFC), baseline anti-m\u20ac ullerian hormone (AMH) levels, baseline E2 levels, cycle length in days, and day-by-day measurements of follicle sizes and E2 levels from monitoring visits during ovarian stimulation.Follicle measurements were binned into 6 groups on the basis of their diameter: <11 mm, 11-13 mm, 14-15 mm, 16-17 mm, 18-19 mm, and >19 mm.The primary outcome was the number of MII oocytes retrieved, and cycles were excluded if they were missing this outcome.Additional outcomes included 2PNs and usable blastocysts (defined as the total number of transferred and frozen blastocysts).Furthermore, cycles with apparent data entry errors were excluded, such as cycles in which the number of MII oocytes exceeded the number of oocytes retrieved.Data were split by patient ID into train (70%), validation (10%), and test (20%) data sets stratified by three sites.Performance in this article is reported on the test data set.Cycles from all stimulation protocols were included in the study.After data preparation, there were 2,555 cycles from site 1, 13,051 cycles from site 2, and 14,672 cycles from site 3.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data Preparation",
+                "sec_num": null
+            },
+            {
+                "text": "Models were developed to enable the prediction of MII outcomes if a patient is triggered in the current day (today) compared with the next day (tomorrow), with the goal of having model interpretability.To predict the number of MII oocytes retrieved if triggered today or tomorrow, linear regression models were developed using follicle counts and E2 levels measured on the day of trigger and one day before the day of trigger, respectively.Finally, an E2 forecasting model was developed to predict next-day E2 levels using follicle counts and E2 levels measured 1 day earlier.Together, the combination of these models allowed a comparison of MII outcomes if triggered today vs. tomorrow.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Modeling Strategy",
+                "sec_num": null
+            },
+            {
+                "text": "Linear regression model development.Linear regression models were developed to predict the outcome of MII oocytes and next-day E2 levels using the candidate parameters previously mentioned.Approximately 83% of patient cycles had follicle and E2 measurements on the day of trigger, which were used to develop the same-day (trigger today) MII oocyte prediction model.Approximately 57% of patient cycles had follicle and E2 measurements on the day before trigger, which were used to develop the next-day (trigger tomorrow) MII oocyte prediction and E2 prediction models.All input parameters were standardized by subtracting the mean and dividing by the standard deviation of the training data set.Recursive feature elimination was used to identify the most significant parameters.Final models using only the most significant features were trained on the training data set and tuned on the validation data set, and performance was evaluated on the test data set by calculating the mean absolute error (MAE) and R 2 between the predicted number of MII oocytes and actual number of MII oocytes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Modeling Strategy",
+                "sec_num": null
+            },
+            {
+                "text": "Follicle imputation.To increase the reliability of follicle measurements, a simple follicle imputation algorithm was implemented for each patient record.This algorithm employed a growth constraint on the binned follicle measurements starting on the second monitoring visit to ensure that each observed follicle either grew or remained the same size as the cycle continued.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Modeling Strategy",
+                "sec_num": null
+            },
+            {
+                "text": "Trigger-day recommendation algorithm.A trigger-day recommendation algorithm was developed using the set of linear regression models.For each patient in the test data set, the algorithm evaluated each of the monitoring visits day-by-day, starting from day 7, to simulate real-world scenarios.For each day of stimulation, the number of MII oocytes were predicted if triggered today and if triggered tomorrow, and the E2 level tomorrow was predicted (Supplemental Fig. 2 ).If the predicted number of MII oocytes today vs tomorrow showed an increasing trend, the algorithm recommended to continue stimulation.If the predicted number of MII oocytes today vs. tomorrow showed a decreasing trend, the algorithm recommended to trigger.In addition, if the end of the stimulation cycle was reached and the model had not yet recommended trigger, the model would recommend continuing another day only if the MII trend continued to increase and the predicted number of MII oocytes was <15 and the predicted E2 was <5,000 pg/mL.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 466,
+                        "end": 467,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Modeling Strategy",
+                "sec_num": null
+            },
+            {
+                "text": "Expected benefit from using the trigger model.Data from patients in the test set were used to calculate the expected benefit of using the trigger-day recommendation model.By comparing the model recommendations with the actual trigger days, patients were classified as having an early, on-time, or late trigger.To adjust for factors related to being triggered early or late, propensity score matching was used to match patients in the early/late group with patients in the on-time group.Propensity scores were calculated by training a logistic regression model to predict whether a patient would be triggered early/late or on-time using age, BMI, baseline AMH level, and baseline AFC, on all patients in the test set.Each patient's propensity score was taken as the predicted probability output of the logistic regression model.Each patient in the early/late group was matched 1:1 with the patient in the on-time group with the closest propensity score.Patients with early or late triggers were then compared with matched patients with on-time triggers in terms of average MII oocytes, 2PNs, and usable blastocysts to calculate the expected benefit of using the model.A small subset of cycles, which included MII outcomes but did not measure usable blastocysts (e.g., cleavage-stage embryo transfers or oocyte freezing cycles), were included for training and testing the MII prediction models, but they were excluded from the expected benefit analysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Modeling Strategy",
+                "sec_num": null
+            },
+            {
+                "text": "Supplemental Table 1 summarizes the patient demographics and cycle information for the cycles included in the study.The average day of trigger in our data set was 11.8AE 1.9, and the average number of monitoring visits per cycle was 4.5AE 1.4.The linear regression model for predicting MII outcomes on the day of trigger had a MAE of 2.87 oocytes and an R 2 of 0.64 on the test data set, and the model for predicting the next-day MII outcomes had an MAE of 3.02 oocytes and an R 2 of 0.62 on the test data set.The next-day E2 levels were predicted with a MAE of 274 pg/mL and R 2 of 0.88.Implementation of the follicle imputation algorithm improved the MAE by 0.09 oocytes and R 2 by 0.02.We also tried using generalized linear models with Poisson or negative binomial distributions, because they can be appropriate for data in which the response variable contains positive integers.However, in practice, we found that regular linear regression performed the best (Supplemental Table 2 ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 19,
+                        "end": 20,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    },
+                    {
+                        "start": 984,
+                        "end": 985,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "RESULTS",
+                "sec_num": null
+            },
+            {
+                "text": "The most important feature for predicting the outcome of MII oocytes on the day of trigger was follicles of size 14-15 mm, followed by follicles of size 16-17 mm (Fig. 1 ).The least important feature was large follicles of size >19 mm.For predicting the outcome of the next-day MII oocytes, follicles of size 11-13 mm were of greatest importance, whereas follicles of size >19 mm remained the least important.Precycle parameters such as age, BMI, AMH level, and AFC were not significant in a multivariate model that included follicle counts and E2 levels.To ensure data quality and to evaluate follicle measurement noise, a separate model was developed to predict MII oocytes outcomes using follicle counts from the left and right ovaries separately.This model showed that the left and right follicle counts had similar coefficients for all bins, with the exception of the smallest bin (%10 mm), and followed the same feature importance trends as the original model that adds together the follicles from both ovaries (Fig. 2 ).Unstandardized model coefficients are shown in Supplemental Table 3 , representing how a unit change in each predictor variable would change the predicted MII outcome.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 168,
+                        "end": 169,
+                        "text": "1",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1023,
+                        "end": 1024,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1093,
+                        "end": 1094,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Feature Importance",
+                "sec_num": null
+            },
+            {
+                "text": "In the test data set, possible early and late triggers were idenin 48.7% and 13.8% of cycles, respectively, by comparing the actual day of trigger with what the model would have recommended (Fig. 3 ).Patient parameters (age, BMI, baseline AMH level, and baseline AFC) were different across early, on-time, and late trigger groups, indicating that propensity matching was appropriate.Across all test data, patients with early triggers had on average 5.3 fewer MII oocytes, 4.0 fewer 2PNs, and 2.0 fewer usable blastocysts compared with patients with on-time triggers.Patients with late triggers had on average 7.9 fewer MII oocytes, 6.0 fewer 2PNs, and 2.9 fewer usable blastocysts compared with patients with on-time triggers.After propensity score matching, patients with early triggers had on average 2.3 fewer MII oocytes, 1.8 fewer 2PNs, and 1.0 fewer usable blastocysts, and patients with late triggers had on average 2.7 fewer MII oocytes, 2.0 fewer 2PNs, and 0.7 fewer usable blastocysts compared with matched patients with on-time triggers (Table 1 ).After propensity matching, the patient parameters between groups were not statistically different.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 196,
+                        "end": 197,
+                        "text": "3",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 1055,
+                        "end": 1056,
+                        "text": "1",
+                        "ref_id": "TABREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Early and Late Triggers Result in Fewer MII Oocytes and 2PNs Compared with an Optimal Trigger",
+                "sec_num": null
+            },
+            {
+                "text": "A subanalysis was performed for patients who did not reach the threshold of 15 predicted MII oocytes (85% of all cycles).In this group, possible early and late triggers were identified in 59.3% and 16.8% of cycles, respectively.Patients with early triggers had on average 1.0 fewer MII oocytes, 0.6 fewer 2PNs, and 0.4 fewer usable blastocysts, and patients with late triggers had on average 3.6 fewer MII oocytes, 2.7 fewer 2PNs, and 1.3 fewer usable blastocysts compared with patients with on-time triggers.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Early and Late Triggers Result in Fewer MII Oocytes and 2PNs Compared with an Optimal Trigger",
+                "sec_num": null
+            },
+            {
+                "text": "This study is one of the first to develop an interpretable machine learning model for optimizing the day of trigger during ovarian stimulation.Our results show that over half of all cycles had possible early or late triggers on the basis of retrospective analysis.After propensity score matching, patients with early triggers had on average 2.3 fewer MII oocytes, 1.8 fewer 2PNs, and 1.0 fewer usable blastocysts, and patients",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "FIGURE 2",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Summary of linear regression model standardized coefficients when separating follicle bins by left and right ovaries.Coefficients showed consistency between ovaries, and overall feature importance was similar to that of the original model, which adds together follicles from both ovaries.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Right Ovary Left Ovary",
+                "sec_num": null
+            },
+            {
+                "text": "with late triggers had on average 2.7 fewer MII oocytes, 2.0 fewer 2PNs, and 0.7 fewer usable blastocysts compared with matched patients with on-time triggers.These results indicate that significant improvements in outcomes could potentially be achieved for over half of all ovarian stimulation cycles by following the recommendations of our model.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Right Ovary Left Ovary",
+                "sec_num": null
+            },
+            {
+                "text": "This study places an emphasis on using interpretable machine learning techniques.Previous studies on optimizing the day of trigger have used a machine learning model with bagged decision trees, consisting of an ensemble of 30 different models (8) .Such an approach has the advantage of capturing more complex and nonlinear relationships between the input parameters.This important work was one of the first to demonstrate that it is possible to use machine learning for trigger optimization.However, black-box models are inherently difficult to interpret and could have unseen problems such as overfitting or spurious correlations.The results reported in an earlier study (8) showed that outcomes could be improved by 1.43 more 2PNs and 0.57 more usable blastocysts per cycle on average using their model.Our results also show comparable improvements in 2PNs and usable blastocysts and are important for two reasons.First, our work confirms the previously reported results but across multiple different clinics and with a much larger sample size.Second, our work shows that a linear, interpretable model may provide performances similar to those of more complicated black-box models.This is not surprising, given that the inputs to these models consist of a small number of parameters.Indeed, when applying more complicated models such as random forest and XGBoost regressors to our data set to predict the outcome of MII oocytes, we found that these more complex models did not significantly improve the accuracy of prediction, despite efforts to optimize hyperparameters (Supplemental Table 2 ).For nonlinear models, relative feature importance can be retrospectively inferred using various post hoc analyses; however, these analyses do not directly explain how features are used to generate predicted outputs, and therefore the models remain black-box.As the field of assisted reproduction investigates the use of machine learning technologies, model interpretability will likely be an important part of achieving clinical trust and adoption (9) .",
+                "cite_spans": [
+                    {
+                        "start": 243,
+                        "end": 246,
+                        "text": "(8)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 672,
+                        "end": 675,
+                        "text": "(8)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 2045,
+                        "end": 2048,
+                        "text": "(9)",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1593,
+                        "end": 1594,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Right Ovary Left Ovary",
+                "sec_num": null
+            },
+            {
+                "text": "The standardized model coefficients indicate that follicles of 14-15 mm and 16-17 mm in diameter were most important for predicting the outcome of MII oocytes if triggered today, whereas follicles of %10 mm and >19 mm were the least important (Fig. 1 ).This result is in line with the accepted notion that very small follicles are less likely to yield a mature oocyte (5, 6) and supports the idea that larger follicles may degenerate or produce postmature oocytes (10) .Our model provides greater fidelity than the standard practice of monitoring lead follicle size and could provide physicians with more detailed temporal information to make an informed trigger decision.For example, if a decrease in the predicted number of MII oocytes were to be observed on consecutive days, the model coefficients would suggest that the lead follicles are growing too big, which can be verified by the physician.Conversely, an increase in the predicted number of MII oocytes could suggest that the smaller follicles are continuing to grow into the optimal size range, which also can be confirmed.",
+                "cite_spans": [
+                    {
+                        "start": 368,
+                        "end": 371,
+                        "text": "(5,",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 372,
+                        "end": 374,
+                        "text": "6)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 464,
+                        "end": 468,
+                        "text": "(10)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 249,
+                        "end": 250,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Right Ovary Left Ovary",
+                "sec_num": null
+            },
+            {
+                "text": "Unstandardized model coefficients allow for direct interpretability on how one additional follicle of any given size changes the predicted MII outcome.For example, as shown in Supplemental Table 3 , a single follicle of size 11-13 mm contributes 0.52 oocytes for the trigger today model and 0.71 oocytes for the trigger tomorrow model.For a patient with 10 follicles of size 11-13 mm, this represents an additional 1.9 MII oocytes that could be obtained from this follicle group by waiting one additional day before trigger.Of course, this must be balanced against the potential loss of MII oocytes from other follicles that are growing too large.As shown in Supplemental Table 3 , a single follicle of size 16-17 mm contributes 0.69 oocytes for the trigger today model and 0.57 oocytes for the trigger tomorrow model.For a patient with 10 follicles of size 16-17 mm, this represents 1.2 fewer MII oocytes that would be obtained from this follicle group by waiting another day.The full linear regression model weighs the relative contributions of each follicle group and provides an objective assessment of the potential benefit or harm of waiting another day before the trigger.In developing our model, we explored different outcomes such as oocytes retrieved, MII oocytes, 2PNs, and usable blastocysts.Although all of these outcomes are important, the goal of a successful IVF cycle is of course a healthy live birth.It was not possible with our data to calculate accurate cumulative live birth rates, but our estimates showed that the oocytes retrieved, MII oocytes, and 2PNs all had a positive correlation with live birth outcomes, agreeing with previous studies (11) .However, there may be a plateau for higher responders, which has been suggested in other studies (12, 13) .We decided to use MII oocytes as our primary outcome, because the number of mature oocytes is a direct outcome of ovarian stimulation, whereas other outcomes such as 2PNs and blastocysts depend on the quality of sperm and laboratory procedures.We note that most of our data came from intracytoplasmic sperm injection cycles in which MII oocytes can be most accurately counted.However, we also included conventional IVF cycles if the EMR had an entry for MII oocytes, as we found that excluding conventional IVF cycles had no meaningful impact on our model performance, improving model accuracy by less than 1%.",
+                "cite_spans": [
+                    {
+                        "start": 1667,
+                        "end": 1671,
+                        "text": "(11)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1770,
+                        "end": 1774,
+                        "text": "(12,",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 1775,
+                        "end": 1778,
+                        "text": "13)",
+                        "ref_id": "BIBREF12"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 195,
+                        "end": 196,
+                        "text": "3",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 678,
+                        "end": 679,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Right Ovary Left Ovary",
+                "sec_num": null
+            },
+            {
+                "text": "In evaluating our model performance, the recommendation would default to trigger if the end of the cycle had been reached and the predicted number of MII oocytes had surpassed R15 oocytes or the predicted E2 level had surpassed R5,000 pg/mL.These cutoffs would of course vary between physicians and clinics, but the purpose of using them was to demonstrate that we can optimize outcomes within a reasonable range, and not simply push the high responders to yield more oocytes, at the cost of increased hyperstimulation risk.Furthermore, among only patients who did not exceed the 15 MII oocyte cutoff, we showed improved outcomes for on-time patients compared with late and early patients, demonstrating that optimizing the trigger timing could improve outcomes among patients who are not high responders.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Right Ovary Left Ovary",
+                "sec_num": null
+            },
+            {
+                "text": "Our model to predict the outcome of MII oocytes relies on the accurate measurement of follicle sizes.However, it is known that follicle measurements can be subject to intraand interobserver variability (14) (15) (16) .In addition, as the number of follicles increases, our data suggest that small follicles may not always be counted.The reasons for this are not clear, but it could be because more importance is placed on the larger follicles that are expected to yield a mature oocyte or that follicles that are unlikely to grow enough are ignored closer to the time of trigger.Other possibilities include vanishing follicles, which is a rarely observed phenomenon in women with advancing age (17) .In general, however, we expect that follicles should not disappear during the ovarian stimulation process.For this reason, we implemented a follicle imputation algorithm to make sure that the total follicle count always stayed the same or increased.This imputation helped achieve a small improvement in the performance of our model.Linear regression models trained on follicles separated by ovary show that the right and left ovary bins had very similar coefficients for follicle bin sizes, with the exception of the smallest bin (%10 mm) that had a larger coefficient for the left ovary than that for the right ovary.This observation is likely a result of the aforementioned inconsistencies in small follicle measurements across sites.Despite this, the small follicle bin for our original model, which adds together the follicles from both ovaries, had a strong predictive value in our models and was therefore kept as an input feature.We believe that successful clinical use of our model in the future will depend on accurate follicle counting at each monitoring visit during ovarian stimulation.",
+                "cite_spans": [
+                    {
+                        "start": 202,
+                        "end": 206,
+                        "text": "(14)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 207,
+                        "end": 211,
+                        "text": "(15)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 212,
+                        "end": 216,
+                        "text": "(16)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 694,
+                        "end": 698,
+                        "text": "(17)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Right Ovary Left Ovary",
+                "sec_num": null
+            },
+            {
+                "text": "This study is not without limitations; the primary limitation is its retrospective nature.We did not differentiate between different trigger medications or types of protocols, which should be explored further in future work.Some cycles in our data set had incomplete or missing data.For example, in some cycles, there were no ultrasound measurements taken on the day of trigger.These cycles were therefore excluded from our analysis, which could have introduced a sampling bias.It is possible that our results and feature importance could be biased by the trigger practice of the clinics, for example, if patients are always triggered when two or more follicles reach 18 mm in size.However, the possibility for bias should be reduced by the fact that our training data comes from three separate clinics with varying practices on when to trigger patients.In addition, our data include patients pushed further than a clinic's general guidelines as well as those triggered earlier on the basis of E2 levels.Additionally, although we implemented an E2 level threshold as a surrogate marker for the risk of ovarian hyperstimulation syndrome, we did not have data on which patients had actually been hyperstimulated.Similarly, our models were not able to incorporate risks of other adverse clinical events, such as premature ovulation, given that our data set included only completed cycles.Expanding our data set in future work will allow for the ability to train models to recognize at risk for these complications.Finally, our model did not take into account a patient's previous stimulation results, as our analysis did not show that outcomes from a patient's first stimulation could further improve predictions of outcomes in their second stimulation.However, this should also be further investigated in future work.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Right Ovary Left Ovary",
+                "sec_num": null
+            },
+            {
+                "text": "This study is one of the first to develop an interpretable machine learning model for optimizing the day of trigger during ovarian stimulation.Our results indicate that an interpretable machine learning model can potentially improve outcomes in a considerable number of patients.Future work will focus on continuing to increase the size and diversity of our training data set and performing prospective validation studies to show improved patient outcomes with the use of our model.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "Fanton.Machine learning for trigger optimization.Fertil Steril 2022.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Fertility and Sterility\u00ae",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Acknowledgments: The authors thank Dmitry Gounko, Brianna Amaral, and Daniel Duvall for their help with data collection.These important data made this study possible.The authors also thank the team members of Alife Health for their helpful discussions and review of the manuscript.DIALOG: You can discuss this article with its authors and other readers at https://www.fertstertdialog.com/posts/34691",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "acknowledgement",
+                "sec_num": null
+            },
+            {
+                "text": "submitted work.V.N. has nothing to disclose.F.S. submitted work.E.H. the submitted work.L.W. has nothing to disclose.D.S. reports consulting fees and stock options form Alife Health.A.B.C. reports stock options for Sema4 (Chief Medical Officer) and Progyny (Medical Director).K.L reports grant from Alife Health for the submitted work and stock options from Alife Health outside the submitted work.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "funding",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "The correlation between follicular measurements, oocyte morphology, and fertilization rates in an in vitro fertilization program",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Dubey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Duffy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Penzias",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1995,
+                "venue": "Fertil Steril",
+                "volume": "64",
+                "issue": "",
+                "pages": "787--790",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The relationship between follicular fluid aspirate volume and oocyte maturity in invitro fertilization cycles",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Salha",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Nugent",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Dada",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Kaufmann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Levett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Jenner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Hum Reprod",
+                "volume": "13",
+                "issue": "",
+                "pages": "1901--1906",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Oocyte maturity and preimplantation development in relation to follicle diameter in gonadotropin-releasing hormone agonist or antagonist treatments",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Nogueira",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Friedler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Schachter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Raziel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Ron",
+                        "middle": [
+                            "-"
+                        ],
+                        "last": "El",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Smitz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "Fertil Steril",
+                "volume": "85",
+                "issue": "",
+                "pages": "578--583",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Correlation between follicular diameters and flushing versus no flushing on oocyte maturity, fertilization rate and embryo quality",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Mehri",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Levi",
+                        "middle": [],
+                        "last": "Setti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Greco",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Sakkas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Martinez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Patrizio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "J Assist Reprod Genet",
+                "volume": "31",
+                "issue": "",
+                "pages": "73--77",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Follicle size on day of trigger most likely to yield a mature oocyte",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Abbara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Vuong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Vna",
+                        "middle": [],
+                        "last": "Ho",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Clarke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Jeffers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Comninos",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Front Endocrinol",
+                "volume": "9",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "A quantitative assessment of follicle size on oocyte developmental competence",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Rosen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Shen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Dobson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Rinaudo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Mcculloch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Cedars",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Fertil Steril",
+                "volume": "90",
+                "issue": "",
+                "pages": "684--690",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Artificial intelligence in in vitro fertilization: a computer decision support system for day-to-day management of ovarian stimulation during in vitro fertilization",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Letterie",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Mac",
+                        "middle": [],
+                        "last": "Donald",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Fertil Steril",
+                "volume": "114",
+                "issue": "",
+                "pages": "1026--1031",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "A machine learning algorithm can optimize the day of trigger to improve in vitro fertilization outcomes",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Hariton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Chi",
+                        "middle": [
+                            "Ea"
+                        ],
+                        "last": "Chi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Morris",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Braatz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Rajpurkar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "116",
+                "issue": "",
+                "pages": "1227--1235",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Artificial intelligence in reproductive medicine",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Pan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Jin",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Geng",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Gao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Reproduction",
+                "volume": "158",
+                "issue": "",
+                "pages": "R139--R154",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "A critical review of bi-dimensional and three-dimensional ultrasound techniques to monitor follicle growth: do they help improving IVF outcome? Reprod",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Revelli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Martiny",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Delle",
+                        "middle": [],
+                        "last": "Piane",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Benedetto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Rinaudo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Tur-Kaspa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Biol Endocrinol",
+                "volume": "12",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Total number of oocytes and zygotes are predictive of live birth pregnancy in fresh donor oocyte in vitro fertilization cycles",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Hariton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Mumford",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Palmor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Bortoletto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Cardozo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Fertil Steril",
+                "volume": "108",
+                "issue": "",
+                "pages": "262--268",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Cumulative live birth rates according to the number of oocytes retrieved after the first ovarian stimulation for in vitro fertilization/intracytoplasmic sperm injection: a multicenter multinational analysis including $15,000 women",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Polyzos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Drakopoulos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Parra",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Pellicer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Santos-Ribeiro",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Tournaye",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Fertil Steril",
+                "volume": "110",
+                "issue": "1",
+                "pages": "661--670",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Association between the number of eggs and live birth in IVF treatment: an analysis of 400 135 treatment cycles",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Sunkara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Rittenberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Raine-Fenning",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Bhattacharya",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Zamora",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Coomarasamy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Hum Reprod",
+                "volume": "26",
+                "issue": "",
+                "pages": "1768--1774",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Ultrasound follicle diameter measurement: an assessment of interobserver and intraobserver variation",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Eissa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hudson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "F"
+                        ],
+                        "last": "Docker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Sawers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Newton",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1985,
+                "venue": "Fertil Steril",
+                "volume": "44",
+                "issue": "",
+                "pages": "751--754",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "The value of automated follicle volume measurements in IVF/ICSI",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Vandekerckhove",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Bracke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "De",
+                        "middle": [],
+                        "last": "Sutter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Front Surg",
+                "volume": "1",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Improving inter-observer variability in the evaluation of ultrasonographic features of polycystic ovaries",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Lujan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Chizen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Peppin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Kriegler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Leswick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Bloski",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Reprod Biol Endocrinol",
+                "volume": "6",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Two peas from the same pod: vanishing follicles and postmature oocytes",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Dozortsev",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Diamond",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Fertil Steril",
+                "volume": "117",
+                "issue": "",
+                "pages": "40--41",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Un modelo de aprendizaje autom atico interpretable para predecir el d\u00eda optimo de trigger durante la estimulaci on ov arica. Objetivo: Desarrollar un modelo de aprendizaje autom atico interpretable para optimizar el d\u00eda de trigger en t erminos de ovocitos maduros (MII), ovocitos fertilizados (2PN) y blastocistos utilizables Dise\u00f1o: Estudio retrospectivo",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Entorno: Un grupo de tres centros de reproducci on asistida en los Estados Unidos",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "): se desarroll o un conjunto de modelos de aprendizaje autom atico interpretables mediante regresi on lineal con recuentos de fol\u00edculos y niveles de Estradiol: Cuando se usa el modelo para hacer predicciones d\u00eda a d\u00eda de trigger o para continuar la estimulaci on, se identificaron posibles activaciones tempranas y tard\u00edas en el 48,7% y el 13,8% de los ciclos, respectivamente. Despu es de emparejar la punuaci on de propensi on, los pacientes con trigger temprano ten\u00edan en promedio de 2.3 menos ovocitos MII, 1.8 menos 2PN y 1.0 menos blastocistos utilizables en comparaci on con pacientes emparejados con trigger a tiempo, y las pacientes con trigger tard\u00edos ten\u00edan en promedio 2,7 menos ovocitos MII, 2,0 menos 2PN y 0,7 menos blastocistos utilizables en comparaci on con pacientes emparejados por trigger a tiempo",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Paciente",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "El uso de nuestro modelo tiene el potencial de mejorar los resultados para muchas pacientes de fertilizaci on in vitro",
+                "volume": "",
+                "issue": "",
+                "pages": "30--278",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 1",
+                "fig_num": null,
+                "type_str": "figure"
+            },
+            "FIGREF1": {
+                "uris": null,
+                "num": null,
+                "text": "",
+                "fig_num": null,
+                "type_str": "figure"
+            },
+            "FIGREF2": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 3",
+                "fig_num": "3",
+                "type_str": "figure"
+            },
+            "FIGREF3": {
+                "uris": null,
+                "num": null,
+                "text": "Machine learning for trigger optimization.Fertil Steril 2022.",
+                "fig_num": null,
+                "type_str": "figure"
+            },
+            "TABREF0": {
+                "html": null,
+                "num": null,
+                "text": "Comparison of patient parameters and laboratory outcomes for patients in the test data set with on-time triggers, early triggers, and late triggers, as determined by the model Note: Patients with early and late triggers were propensity matched to patients with on-time triggers.Differences between on-time and early/late triggers were all statistically significant (P value < .01)forMII oocytes, 2PNs, and usable blastocysts.AFC \u00bc antral follicle count; AMH \u00bc antim\u20ac ullerian hormone; BMI \u00bc body mass index; MII \u00bc mature oocyte; 2PNs \u00bc fertilized oocyte.Fanton.Machine learning for trigger optimization.Fertil Steril 2022.",
+                "content": "<table><tr><td/><td/><td>On-time triggers</td><td/><td>On-time triggers</td></tr><tr><td>Patient parameters</td><td>Early triggers</td><td>(matched with early)</td><td>Late triggers</td><td>(matched with late)</td></tr><tr><td>Sample size, n (%)</td><td>2,416 (48.7)</td><td>2,416</td><td>685 (13.8)</td><td>685</td></tr><tr><td>Age (y)</td><td>37.3</td><td>37.3</td><td>37.3</td><td>38.1</td></tr><tr><td>BMI (kg/m 2 )</td><td>25.3</td><td>25.3</td><td>26.7</td><td>27.9</td></tr><tr><td>Baseline AMH (ng/mL)</td><td>1.95</td><td>2.04</td><td>1.34</td><td>1.42</td></tr><tr><td>Baseline AFC</td><td>10.6</td><td>10.2</td><td>8.5</td><td>8.7</td></tr><tr><td>No. of MII oocytes</td><td>8.4</td><td>10.7</td><td>5.8</td><td>8.5</td></tr><tr><td>No. of 2PNs</td><td>6.5</td><td>8.3</td><td>4.4</td><td>6.4</td></tr><tr><td>No. of usable blastocysts</td><td>3.2</td><td>4.2</td><td>2.4</td><td>3.1</td></tr></table>",
+                "type_str": "table"
+            }
+        }
+    }
+}

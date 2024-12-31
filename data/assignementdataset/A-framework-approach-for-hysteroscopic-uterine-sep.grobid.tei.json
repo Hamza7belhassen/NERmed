@@ -1,0 +1,162 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\A-framework-approach-for-hysteroscopic-uterine-sep",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:28.492563Z"
+    },
+    "title": "A framework approach for hysteroscopic uterine septum incision: partial and complete",
+    "authors": [
+        {
+            "first": "Phillip",
+            "middle": [
+                "A"
+            ],
+            "last": "Romanski",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "NewYork-Presbyterian Hospital",
+                "location": {
+                    "settlement": "New York",
+                    "region": "New York"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Pietro",
+            "middle": [],
+            "last": "Bortoletto",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "NewYork-Presbyterian Hospital",
+                "location": {
+                    "settlement": "New York",
+                    "region": "New York"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Samantha",
+            "middle": [
+                "M"
+            ],
+            "last": "Pfeifer",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "NewYork-Presbyterian Hospital",
+                "location": {
+                    "settlement": "New York",
+                    "region": "New York"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objective: To demonstrate safe and efficient techniques for hysteroscopic partial and complete uterine septum incisions with radiofrequency electrosurgery.Review of these techniques may be particularly helpful for a surgical trainee or a less experienced hysteroscopic surgeon.Design: Video instruction of the hysteroscopic uterine septum incision techniques.Setting: Academic hospital setting.Patient(s): One patient with a partial uterine septum and 1 patient with a complete uterine septum and a duplicated cervix (2 distinct external cervices) (1).Intervention(s): Hysteroscopic partial and complete uterine septum incisions with a 7-mm unipolar knife electrode.Importantly, the demonstrated techniques can be performed using any hysteroscopic cutting instrument with which the surgeon is comfortable.Main Outcome Measure(s): Surgical techniques that can be used to safely and efficiently incise a uterine septum and determine when the incision is complete.Result(s): For a partial uterine septum, surgical techniques include uterine septum shortening, uterine septum thinning, and measurement of the residual septum length with the operating instrument to determine when the incision is complete.Visualization of the tubal ostia should be used throughout the procedure to maintain a horizontal incision plane.For a complete uterine septum with a duplicated cervix, we additionally demonstrate how to make a window through the septum at the level of the internal os to incise the uterine body portion while preserving the tissue wall inferiorly that separates the duplicated cervices.Conclusion(s): Uterine septum incision is typically a short procedure that can be successfully performed with operative hysteroscopy.However, if a systematic approach is not followed, the surgeon can quickly and unknowingly become disoriented, resulting in inadvertent uterine perforation, incomplete septum incision, or excessive septum incision causing myometrial thinning, which has been shown to increase the risk of uterine rupture during pregnancy.In practice, the choice of technique used for septum incision should be made intraoperatively and will depend on the septum size and shape.Often, septum shortening, thinning, and residual measurement are best used in combination to achieve a successful result.Surgeons will find the use of these techniques helpful to maintain intraoperative orientation and provide a framework to guide adequate removal of either a partial or complete uterine septum.",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\A-framework-approach-for-hysteroscopic-uterine-sep",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.04.014",
+        "keywords": [
+            "Uterine septum",
+            "partial septum",
+            "complete septum",
+            "surgical technique",
+            "hysteroscopy"
+        ],
+        "abstract": [
+            {
+                "text": "Objective: To demonstrate safe and efficient techniques for hysteroscopic partial and complete uterine septum incisions with radiofrequency electrosurgery.Review of these techniques may be particularly helpful for a surgical trainee or a less experienced hysteroscopic surgeon.Design: Video instruction of the hysteroscopic uterine septum incision techniques.Setting: Academic hospital setting.Patient(s): One patient with a partial uterine septum and 1 patient with a complete uterine septum and a duplicated cervix (2 distinct external cervices) (1).Intervention(s): Hysteroscopic partial and complete uterine septum incisions with a 7-mm unipolar knife electrode.Importantly, the demonstrated techniques can be performed using any hysteroscopic cutting instrument with which the surgeon is comfortable.Main Outcome Measure(s): Surgical techniques that can be used to safely and efficiently incise a uterine septum and determine when the incision is complete.Result(s): For a partial uterine septum, surgical techniques include uterine septum shortening, uterine septum thinning, and measurement of the residual septum length with the operating instrument to determine when the incision is complete.Visualization of the tubal ostia should be used throughout the procedure to maintain a horizontal incision plane.For a complete uterine septum with a duplicated cervix, we additionally demonstrate how to make a window through the septum at the level of the internal os to incise the uterine body portion while preserving the tissue wall inferiorly that separates the duplicated cervices.Conclusion(s): Uterine septum incision is typically a short procedure that can be successfully performed with operative hysteroscopy.However, if a systematic approach is not followed, the surgeon can quickly and unknowingly become disoriented, resulting in inadvertent uterine perforation, incomplete septum incision, or excessive septum incision causing myometrial thinning, which has been shown to increase the risk of uterine rupture during pregnancy.In practice, the choice of technique used for septum incision should be made intraoperatively and will depend on the septum size and shape.Often, septum shortening, thinning, and residual measurement are best used in combination to achieve a successful result.Surgeons will find the use of these techniques helpful to maintain intraoperative orientation and provide a framework to guide adequate removal of either a partial or complete uterine septum.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Gu\u00eda para la resecci on del septo uterino por histeroscopia: parcial y completo.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Objetivo: Mostrar t ecnicas seguras y eficientes para las resecciones del septo uterino parcial y completo con electrocirug\u00eda de radiofrecuencia por histeroscopia.La revisi on de estas t ecnicas puede ser particularmente util para el cirujano histerosc opico en periodo de aprendizaje o con poca experiencia.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Dise\u00f1o: Ense\u00f1anza mediante v\u00eddeo de las t ecnicas de resecci on del septo uterino por histeroscopia.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Entorno: Hospital universitario.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Paciente(s): Una paciente con un septo uterino parcial y una con septo uterino completo y doble cuello (2 cuellos externamente separados).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Intervenci on: Resecci on de un septo uterino parcial y uno completo con bistur\u00ed el ectrico monopolar de 7 mm v\u00eda histerosc opica.Remarcar que las t ecnicas mostradas pueden realizarse utilizando cualquier instrumento de corte histerosc opico con el cual el cirujano se sienta confortable.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Medida(s) del resultado principal: T ecnicas quir urgicas que pueden utilizarse para la resecci on de manera segura y eficiente de un septo uterino y en qu e momento es completa la resecci on.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Resultado(s): Para un septo uterino parcial, las t ecnicas quir urgicas incluyen acortamiento, reducci on del grosor y medida de la longitud del septo residual con el instrumento quir urgico para determinar cu ando la resecci on es completa.Deben visualizarse los ostium tub aricos durante el procedimiento para mantener el plano horizontal de la incisi on.Si se trata de un septo uterino con doble cuello, mostramos adicionalmente c omo hacer una ventana a trav es del septo a nivel del orificio cervical interno para resecar la porci on uterina preservando al mismo tiempo la pared de tejido inferior que separa los dos cuellos.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Conclusi on: La resecci on del septo uterino es un procedimiento t\u00edpicamente corto que puede realizarse con exito con el histeroscopio quir urgico.Sin embargo, si no se sigue un procedimiento sistem atico, el cirujano puede f acilmente desorientarse, resultando en una perforaci on uterina inadvertida, resecci on del septo incompleta o resecci on excesiva originando un adelgazamiento de la pared uterina, lo cual se ha demostrado que aumenta el riesgo de ruptura uterina durante el embarazo.En la pr actica, la elecci on de la t ecnica a utilizar para la resecci on del septo debe ser tomada intraoperatoriamente y depender a del tama\u00f1o y forma del septo.Frecuentemente, el uso conjunto del acortamiento progresivo junto con la reducci on del grosor y la medida residual consigue un resultado optimo.Los cirujanos encontrar an util la utilizaci on de estas t ecnicas para mantener la orientaci on intraoperatoria y se proporciona un marco para guiar la resecci on adecuada del septo uterino parcial o completo.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {},
+        "ref_entries": {}
+    }
+}

@@ -1,0 +1,1944 @@
+{
+    "paper_id": "xml_output_cochrane\\Brown_et_al-2016-Cochrane_Database_of_Systematic_Reviews",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-04-05T17:20:11.823114Z"
+    },
+    "title": "Ultrasound versus 'clinical touch' for catheter guidance during embryo transfer in women",
+    "authors": [
+        {
+            "first": "Julie",
+            "middle": [],
+            "last": "Brown",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "The University of Auckland",
+                "location": {
+                    "settlement": "Auckland",
+                    "region": "New Zealand"
+                }
+            },
+            "email": "j.brown@auckland.ac.nz."
+        },
+        {
+            "first": "Karen",
+            "middle": [],
+            "last": "Buckingham",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "William",
+            "middle": [],
+            "last": "Buckett",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "McGill University",
+                "location": {
+                    "settlement": "Montreal",
+                    "country": "Canada"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Ahmed",
+            "middle": [
+                "M"
+            ],
+            "last": "Abou-Setta",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Manitoba",
+                "location": {
+                    "settlement": "Winnipeg",
+                    "country": "Canada"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "This systematic review now has 21 included studies (four of which we added in the 2016 update), two studies awaiting assessment, and 47 excluded studies.In total, data for meta-analyses were available in 21 trials (n = 6218 women), of which only four reported live births.\nUGET was associated with an increased chance of a live birth/ongoing pregnancy compared with CTET (OR 1.47, 95% CI 1.30 to 1.65; 13 trials; n = 5859 women; I 2 = 74%; low-quality evidence).Sensitivity analysis by including only trials with low risk of selection bias or by using a random-e ects model did not alter the e ect.We estimate that for women with a chance of a live birth/ongoing pregnancy of 23% using CTET, this would increase to between 28% and 33% using UGET.We considered the quality of the evidence using GRADE methodology to be low.\nUGET was associated with an increase in the chance of a clinical pregnancy (OR 1.31, 95% CI 1.17 to 1.45; 20 trials; n = 6711 women; I 2 = 42%; moderate-quality evidence).We identified no di erences between groups for the incidence of adverse events including multiple pregnancy, ectopic pregnancy, or miscarriage.These events were relatively rare, and sample sizes limited the ability to detect such di erences.\nUltrasound versus 'clinical touch' for catheter guidance during embryo transfer in women (Review)",
+    "pdf_parse": {
+        "paper_id": "xml_output_cochrane\\Brown_et_al-2016-Cochrane_Database_of_Systematic_Reviews",
+        "_pdf_hash": "",
+        "doi": "10.1002/14651858.cd006107.pub4",
+        "keywords": [
+            "vitro fertilisation",
+            "RCT: randomised controlled trial",
+            "RR: risk ratio",
+            "Better health . Better health Ultrasonography, Interventional",
+            "Embryo Transfer [adverse e ects] [*methods]",
+            "Palpation [adverse e ects] [*methods]",
+            "Randomized Controlled Trials as Topic",
+            "Treatment Outcome Female",
+            "Humans",
+            "Pregnancy Ultrasound versus"
+        ],
+        "abstract": [
+            {
+                "text": "This systematic review now has 21 included studies (four of which we added in the 2016 update), two studies awaiting assessment, and 47 excluded studies.In total, data for meta-analyses were available in 21 trials (n = 6218 women), of which only four reported live births.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "UGET was associated with an increased chance of a live birth/ongoing pregnancy compared with CTET (OR 1.47, 95% CI 1.30 to 1.65; 13 trials; n = 5859 women; I 2 = 74%; low-quality evidence).Sensitivity analysis by including only trials with low risk of selection bias or by using a random-e ects model did not alter the e ect.We estimate that for women with a chance of a live birth/ongoing pregnancy of 23% using CTET, this would increase to between 28% and 33% using UGET.We considered the quality of the evidence using GRADE methodology to be low.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "UGET was associated with an increase in the chance of a clinical pregnancy (OR 1.31, 95% CI 1.17 to 1.45; 20 trials; n = 6711 women; I 2 = 42%; moderate-quality evidence).We identified no di erences between groups for the incidence of adverse events including multiple pregnancy, ectopic pregnancy, or miscarriage.These events were relatively rare, and sample sizes limited the ability to detect such di erences.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "Ultrasound versus 'clinical touch' for catheter guidance during embryo transfer in women (Review)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Many women undergoing an assisted reproductive technology (ART) cycle will not achieve a live birth.Failure at the embryo transfer stage may be due to lack of good-quality embryo/s, lack of uterine receptivity, or the transfer technique itself.Numerous methods, including the use of ultrasound guidance for proper catheter placement in the endometrial cavity, have been suggested as more e ective techniques of embryo transfer.This review evaluates the e icacy of ultrasound-guided embryo transfer (UGET) compared with 'clinical touch' (CTET), which is the traditional method of embryo transfer and relies on the clinician's tactile senses to judge when the transfer catheter is in the correct position.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Background",
+                "sec_num": null
+            },
+            {
+                "text": "To determine whether ultrasound guidance compared with clinical touch improves pregnancy outcomes in women undergoing embryo transfer during ART cycles.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Objectives",
+                "sec_num": null
+            },
+            {
+                "text": "For the 2016 update of this review, we ran updated searches in the Cochrane Gynaecology and Fertility Group trials register (May 2015), the Cochrane Central Register of Controlled Trials (the Cochrane Library, May 2015), MEDLINE (2009 to May 2015 ), and EMBASE (2009 to May 2015) .We also handsearched relevant conference proceedings: American Society for Reproductive Medicine (ASRM), European Society for Human Reproduction and Embryology (ESHRE), and International Federation of Gynecology and Obstetrics (FIGO).There were no language restrictions.",
+                "cite_spans": [
+                    {
+                        "start": 221,
+                        "end": 234,
+                        "text": "MEDLINE (2009",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 235,
+                        "end": 246,
+                        "text": "to May 2015",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 247,
+                        "end": 266,
+                        "text": "), and EMBASE (2009",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 267,
+                        "end": 279,
+                        "text": "to May 2015)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Search methods",
+                "sec_num": null
+            },
+            {
+                "text": "We included only randomised controlled trials.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selection criteria",
+                "sec_num": null
+            },
+            {
+                "text": "Two review authors independently assessed eligibility and quality of trials and extracted data from those selected.We calculated odds ratio (OR) and 95% confidence interval (CI) for dichotomous outcomes.No outcomes were reported using continuous data.We assessed the overall quality of the evidence for the main findings using the GRADE working group methods.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data collection and analysis",
+                "sec_num": null
+            },
+            {
+                "text": "The evidence suggests ultrasound guidance improves the chance of live birth/ongoing and clinical pregnancies compared with clinical touch, without increasing the chance of multiple pregnancy, ectopic pregnancy, or miscarriage.Methodological limitations included: only four studies reporting details of both computerised randomisation techniques and adequate allocation concealment, only four studies reported on the outcome of live birth, and none of the nine studies that reported on ongoing pregnancy reported on live birth, suggesting possible reporting bias.Adequate reporting of randomisation and allocation concealment will improve the quality of future studies.The primary outcome measure of future studies should be the reporting of live births per woman randomised.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Authors' conclusions",
+                "sec_num": null
+            },
+            {
+                "text": "We wanted to learn whether ultrasound-guided embryo transfer (UGET) improves pregnancy outcomes compared with clinical touch.The traditional method of embryo transfer, clinical touch relies on the clinician's tactile senses to judge when the transfer catheter is in the correct position.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Review question",
+                "sec_num": null
+            },
+            {
+                "text": "The inability of some women undergoing fertility treatment to achieve a live birth may be due to a number of factors, such as lack of goodquality embryo/s, problems with the uterus, or the transfer technique itself.This review looks at one aspect of the transfer technique, whether ultrasound guidance improves pregnancy outcomes compared with clinical touch (clinical judgement without any technical assistance).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Background",
+                "sec_num": null
+            },
+            {
+                "text": "We found 21 randomised controlled trials that compared UGET with clinical touch in a total of 6218 women.The evidence is current to May 2015.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study characteristics",
+                "sec_num": null
+            },
+            {
+                "text": "Live birth/ongoing pregnancies were increased for the ultrasound-guided group compared with the clinical touch group, based on lowquality evidence.We estimate that for women with a chance of a live birth/ongoing pregnancy of 23% using clinical touch, this would increase to between 28% and 33% using UGET.Data for live birth should be interpreted carefully, as di erences between the studies make drawing a conclusion di icult.The evidence suggests that in studies that used the same brand of transfer catheter in both the ultrasoundguided and the clinical touch groups, ultrasound guidance was linked to an increase in the chance of a live birth.There was no evidence that the risk of harm using UGET, including miscarriage, ectopic pregnancies, and multiple pregnancies, is any di erent than when clinical touch is used to guide the embryo transfer.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Key results",
+                "sec_num": null
+            },
+            {
+                "text": "The quality of the evidence for live birth/ongoing pregnancy was low due to poor reporting of study methods and inconsistency in trial results.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Quality of the evidence",
+                "sec_num": null
+            },
+            {
+                "text": "Live birth and ongoing pregnancy (per woman randomised) Cochrane Database of Systematic Reviews",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Quality of the evidence",
+                "sec_num": null
+            },
+            {
+                "text": "Since the first pregnancy using in vitro fertilisation was achieved nearly 40 years ago (Steptoe 1978) , many aspects of the procedure, such as ovarian stimulation, oocyte recovery, and the in vitro techniques of fertilisation and embryo culture, have undergone major revision.In contrast, the technique of embryo transfer has remained largely unchanged.Approximately 80% of women undergoing in vitro fertilisation/intracytoplasmic sperm injection today will reach the embryo transfer stage with good-quality embryos.However, only a small proportion of these women will then go on to achieve a clinical pregnancy, and even fewer will achieve a live birth.This makes the embryo transfer phase the final and least successful step in assisted reproductive technology.Indeed, it is estimated that up to 85% of replaced embryos fail to implant, despite the selection of apparently normal embryos for transfer (Sallam 2002) .This failure may be due to lack of goodquality embryo/s, lack of uterine receptivity, or the technique of embryo transfer itself.",
+                "cite_spans": [
+                    {
+                        "start": 88,
+                        "end": 102,
+                        "text": "(Steptoe 1978)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 904,
+                        "end": 917,
+                        "text": "(Sallam 2002)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "B A C K G R O U N D Description of the condition",
+                "sec_num": null
+            },
+            {
+                "text": "Embryos are usually replaced into the uterine cavity through a transcervical transfer catheter between days 2 to 5 of development.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "Traditionally, the 'clinical touch' method has been used to guide placement of the transfer catheter to within \u02dc10 mm from the uterine fundus prior to injection of the embryos.This method is essentially 'blind' and relies on the clinician's tactile senses to judge when the transfer catheter is in the correct position.Some clinicians transfer the embryos at a fixed distance from the external os (\u02dc6 cm), however this may not take into account variation in cervical length or uterine size, or position (retroverted).Others will conduct a 'dummy' embryo transfer to determine the length of the endometrial cavity prior to the actual embryo transfer.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "Assessment of the transfer catheter position using the clinical touch method is o en unreliable.This was demonstrated by Woolcott and Stanger (Woolcott 1997) , who utilised transvaginal ultrasound to observe catheter placement in relation to the endometrial surface and uterine fundus during 121 embryo transfers.They noted suboptimal catheter placement in more than half of cases, with the catheter either indenting or embedded in the endometrium.",
+                "cite_spans": [
+                    {
+                        "start": 121,
+                        "end": 157,
+                        "text": "Woolcott and Stanger (Woolcott 1997)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "It is generally accepted that an easy, atraumatic embryo transfer is essential for successful implantation (Matorras 2002) .It is possible that minimising endometrial trauma could decrease myometrial contractions, which could in turn enhance implantation.Most clinicians try to avoid having the catheter tip come into contact with the uterine fundus during embryo transfer (Kovacs 1999), as it has been suggested that this may stimulate uterine contractions (Lesny 1998), which in turn may lead to expulsion of the embryos.Indeed, it has been noted that high-frequency uterine contractions visualised by ultrasound are associated with a lower ongoing clinical pregnancy rate (Fanchin 1998) .",
+                "cite_spans": [
+                    {
+                        "start": 107,
+                        "end": 122,
+                        "text": "(Matorras 2002)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 675,
+                        "end": 689,
+                        "text": "(Fanchin 1998)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "The clinical touch method may thus be challenged as a potential cause of cycle failure as a result of (1) initiation of uterine contractility that may lead to immediate or delayed expulsion of the embryo/s, and (2) the inability to accurately identify the ideal location for deposition of embryos, especially in women with acute utero-cervical angulations, cervical stenosis, or anatomical distortion of the cervical canal and uterus.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "Numerous methods to improve the technique of embryo transfer have been studied in an attempt to improve pregnancy rates, including changing the type of catheter used, performing a trial, or 'mock' transfer before the actual procedure, removing any cervical mucus prior to transfer, avoiding the use of a tenaculum, encouraging bed rest following embryo transfer, comparing full and empty bladder, as well as performing the procedure under ultrasound guidance.This review currently focuses on the role of transabdominal ultrasound.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "The use of abdominal ultrasound to guide embryo transfer was first discussed by Strickler et al (Strickler 1985) , who postulated that this would allow accurate and atraumatic positioning of the catheter tip near the uterine fundus, along with visualisation of the injection of the transfer fluid containing the embryos.By allowing identification of the cervical canal and endometrial cavity, ultrasound can facilitate atraumatic penetration of the catheter into the uterus, thereby minimising endometrial trauma.Moreover, its use can confirm that the catheter tip is beyond the internal os of the cervix and that placement of the embryos is at the desired level in the endometrial cavity (Lorusso 2005) .This can be especially helpful in women where the uterine anatomy may be distorted by fibroids or septae (Hurley 1991) .For these reasons, ultrasoundguided embryo transfers have been rated as \"easier\" and \"cleaner\" by clinicians (Prapas 2001).Disadvantages are the need for a second operator, a longer time to execute, and the inconvenience of filling the woman's bladder (Martins 2004) .Another possible drawback is that in some cases moving the catheter to improve identification is required, a motion that is not needed in transfers performed by clinical touch.This manoeuvre can potentially disrupt the endometrium, thus reducing the benefits provided by ultrasound (Garcia-Velasco 2002).Another disadvantage is the possible unknown side e ects of early ultrasound on the preimplantation embryo.",
+                "cite_spans": [
+                    {
+                        "start": 96,
+                        "end": 112,
+                        "text": "(Strickler 1985)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 689,
+                        "end": 703,
+                        "text": "(Lorusso 2005)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 810,
+                        "end": 823,
+                        "text": "(Hurley 1991)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1077,
+                        "end": 1091,
+                        "text": "(Martins 2004)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How the intervention might work",
+                "sec_num": null
+            },
+            {
+                "text": "Studies comparing transabdominal ultrasound guidance with the traditional clinical touch method have reported conflicting results in terms of pregnancy rates.Given the lack of concurrence in the literature, we decided to review the evidence systematically to evaluate this method for successful embryo transfer.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why it is important to do this review",
+                "sec_num": null
+            },
+            {
+                "text": "To determine whether ultrasound guidance compared with clinical touch improves pregnancy outcomes in women undergoing embryo transfer during assisted reproductive technology cycles.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "O B J E C T I V E S",
+                "sec_num": null
+            },
+            {
+                "text": "We considered all published, unpublished, and ongoing prospective randomised trials that reported data comparing outcomes of women undergoing ultrasound-guided embryo transfer (UGET) versus clinical touch embryo transfer (CTET) through the cervical route following in-vitro fertilisation (IVF) or",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of studies",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Database of Systematic Reviews intracytoplasmic sperm injection (ICSI) including frozen embryo transfers for inclusion.We excluded quasi-randomised (sampling of every n th entry from a list), cross-over, and cluster randomised trials.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Women with any form of infertility undergoing embryo transfer via the cervical route (using either fresh or cryopreserved or donated embryos) a er either IVF or ICSI and randomised to either UGET or CTET.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of participants",
+                "sec_num": null
+            },
+            {
+                "text": "The studies had to compare transcervical embryo transfer using transabdominal ultrasound guidance with clinical touch methods.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "The studies should have conducted a standard IVF/ICSI procedure, using standard protocols for controlled ovarian stimulation and transcervical replacement of embryos.Standard culture medium and catheters should have been used for culture and transfer of embryos, respectively.We included embryo transfers that involved donated gametes or embryos.There was no restriction on the number of clinicians conducting the transfers nor the type of catheters used.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "We excluded studies of embryo transfer via zygote intrafallopian transfer.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "The primary outcome measure for this systematic review was live births/ongoing pregnancies per woman randomised.We defined live birth as a live fetus born a er 20 completed weeks.We defined ongoing pregnancies as those continuing for at least 12 weeks a er embryo transfer.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Primary outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "1. Clinical pregnancies per woman randomised (as determined by heart beat detected using ultrasound) 2. Multiple birth per woman randomised 3. Miscarriage rate: miscarriage (confirmed by ultrasound and pregnancy test or histology) per woman randomised (including partial loss of multiple pregnancies) 4. Ectopic pregnancy rate: ectopic gestation per woman randomised 5. Foetal abnormalities as determined by foetal anatomy scan or a er delivery per woman randomised 6. Complication rate: any adverse e ects/events associated with embryo transfer per woman randomised 7. Ease of transfer as determined by clinician",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Secondary outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "We searched for all published and unpublished randomised controlled trials comparing ultrasound with clinical touch, without language restriction, and in conjunction with the Cochrane Gynaecology and Fertility Group's Trials Search Co-ordinator.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Search methods for identification of studies",
+                "sec_num": null
+            },
+            {
+                "text": "We searched the following electronic databases and trial registries in May 2015.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Electronic searches",
+                "sec_num": null
+            },
+            {
+                "text": "We searched the citation lists of relevant publications and review articles published from 2009 to the present (September 2015), and handsearched the references of the included studies.We contacted commercial entities and experts in the field, where identified, to locate trials.We contacted authors where necessary for missing data on live birth rates.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Searching other resources",
+                "sec_num": null
+            },
+            {
+                "text": "We also handsearched relevant conference proceedings: American Society for Reproductive Medicine (ASRM), European Society for Human Reproduction and Embryology (ESHRE), and International Federation of Gynecology and Obstetrics (FIGO).There were no language restrictions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Searching other resources",
+                "sec_num": null
+            },
+            {
+                "text": "A er an initial screen of the titles and abstracts retrieved in the searches (by JB, a methodologist, and KB, a content expert), we retrieved the full texts of all potentially eligible studies.Two review authors (JB, KB) independently examined these full-text articles for compliance with the inclusion criteria and selected studies eligible for inclusion in the review.We corresponded with study investigators, as required, to confirm study eligibility.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selection of studies",
+                "sec_num": null
+            },
+            {
+                "text": "Disagreements as to study eligibility were resolved by consensus.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selection of studies",
+                "sec_num": null
+            },
+            {
+                "text": "Two review authors (JB, KB) independently extracted data from the eligible studies using a data extraction form that had been developed and piloted for consistency and completeness.Any disagreements were resolved by consensus.Data extracted included study characteristics and outcome data.Where studies had multiple publications, we collated multiple reports of the same study so that each study, rather than each report, is the unit of interest in the review, and such studies will have the same study ID with multiple references.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data extraction and management",
+                "sec_num": null
+            },
+            {
+                "text": "We corresponded with study investigators for further information on methods or data/results as required (for example live birth rates).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data extraction and management",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Two review authors independently assessed the eligible studies for risk of bias using the Cochrane 'Risk of bias' assessment tool (www.cochrane-handbook.org)for the following domains: selection (random sequence generation, allocation concealment), performance (blinding of participants and personnel), detection (blinding of outcome assessors), attrition (incomplete outcome data), reporting (selective reporting), and other bias (refer to risk of bias in Characteristics of included studies).Disagreements were resolved by consensus.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of risk of bias in included studies",
+                "sec_num": null
+            },
+            {
+                "text": "We took care to search for within-trial selective reporting, such as trials failing to report specific outcomes, or reporting them in insu icient detail to allow for inclusion of data.We sought out published protocols and compared these with the data reported in the published report.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of risk of bias in included studies",
+                "sec_num": null
+            },
+            {
+                "text": "We performed statistical analysis in accordance with the guidelines for statistical analysis developed by the Cochrane Gynaecology and Fertility Group.The outcome of live birth/ongoing pregnancy and clinical pregnancy is considered a positive consequence of fertility treatment, therefore a higher proportion of women with a clinical pregnancy, ongoing pregnancy, or live birth is considered a benefit.Outcomes such as multiple pregnancy are a negative consequence, therefore higher numbers are considered detrimental.This should be taken into account when viewing summary graphs.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures of treatment e ect",
+                "sec_num": null
+            },
+            {
+                "text": "For dichotomous data, we used the number of events in the intervention and control groups to calculate the Mantel-Haenszel odds ratio with 95% confidence intervals for all outcomes.The Peto odds ratio had been used in previous versions of this review.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures of treatment e ect",
+                "sec_num": null
+            },
+            {
+                "text": "All analyses are reported per woman randomised.In studies that reported on outcome per embryo transfer, we sought verification from the primary author/s.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Unit of analysis issues",
+                "sec_num": null
+            },
+            {
+                "text": "We have presented data as the outcome per woman randomised.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dealing with missing data",
+                "sec_num": null
+            },
+            {
+                "text": "Where we could not collate such data from the paper, we sought verification from the primary author/s.Where possible, we reported data by intention-to-treat.Where data were unobtainable, we only analysed the available data.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dealing with missing data",
+                "sec_num": null
+            },
+            {
+                "text": "We considered whether the clinical and methodological characteristics of the included studies were su iciently similar for meta-analysis to provide a clinically meaningful summary.We assessed heterogeneity using the I 2 statistic.We considered an I 2 greater than 50% to indicate substantial heterogeneity (Higgins 2011).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "We performed a comprehensive search of the literature.We have included published and unpublished data with both positive and negative findings in this review.We identified no pre-publication protocols for the included studies in our search of the trial registries.Additionally, we assessed publication bias using funnel plot techniques, Begg's rank test, Egger's regression test, and the trim-and-fill plot for outcomes that had at least 10 included trials.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of reporting biases",
+                "sec_num": null
+            },
+            {
+                "text": "Where data were considered similar enough to combine, we employed a fixed-e ect model as the primary analysis in the metaanalysis using Review Manager version 5.3 (RevMan 2014).We combined data for the following comparison:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data synthesis",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 ultrasound-guided embryo transfer versus clinical touch.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data synthesis",
+                "sec_num": null
+            },
+            {
+                "text": "Where statistical heterogeneity was found to exceed 50%, we performed subgroup analysis to try to explain the findings.We explored the use of same or di erent type of catheters used in the intervention or control groups.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup analysis and investigation of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "We had planned to conduct sensitivity analyses to compare studies judged to have low risk of bias (those judged to be at low risk of bias for all domains of risk of bias) with those classified as having an unclear/high risk of bias.Instead, we undertook a random-e ects analysis to assess sensitivity to choice of model for all outcomes where heterogeneity was greater than 50%.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sensitivity analysis",
+                "sec_num": null
+            },
+            {
+                "text": "We have prepared a 'Summary of findings' table using GRADEpro Guideline Development Tool so ware (GRADEpro GDT).This table evaluates the overall quality of the body of evidence for the main review outcomes (live birth/ongoing pregnancy, clinical pregnancy, multiple pregnancy, miscarriage and ectopic pregnancy) using GRADE (Grades of Recommendation, Assessment, Development and Evaluation) criteria (study limitations (that is risk of bias), consistency of e ect, imprecision, indirectness, and publication bias).Judgements about evidence quality (high, moderate, or low) have been justified, documented, and incorporated into reporting of results for each outcome.Cochrane Database of Systematic Reviews",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Overall quality of the body of evidence: 'Summary of findings' table",
+                "sec_num": null
+            },
+            {
+                "text": "We requested data from all authors of abstracts (Bar Hava 2003; Faure 1998; Moraga-Sanchez 2004; Weissman 2003) ; we received a response from Dr Bar-Harva, although no data has been forthcoming.We received no correspondence from the other authors.We requested clarification of randomisation from Dr Li but have received no response (Li 2005).Dr Blake was unable to identify the study requested; she was the head of the research department that submitted the summary but cannot identify the original authors of the study within the institution (Blake 1998).",
+                "cite_spans": [
+                    {
+                        "start": 48,
+                        "end": 63,
+                        "text": "(Bar Hava 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 64,
+                        "end": 75,
+                        "text": "Faure 1998;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 76,
+                        "end": 96,
+                        "text": "Moraga-Sanchez 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 97,
+                        "end": 111,
+                        "text": "Weissman 2003)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Figure 1. (Continued)",
+                "sec_num": null
+            },
+            {
+                "text": "In the 2016 update of this review, we moved Blake 1998 to the excluded studies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Figure 1. (Continued)",
+                "sec_num": null
+            },
+            {
+                "text": "We identified 23 publications associated with 21 randomised controlled trials that compared ultrasound guidance with clinical touch.We included 21 trials in the final analysis (Ammar 2013; Azmy 2009; Bar Hava 2003; Chen 2007; Coroleu 2000; Coroleu 2002; Davar 2007; Drakeley 2008; Eskander 2008; Garcia-Velasco 2002; Kosmas 2007; Li 2005; Maldonado 2005; Marconi 2003; Martins 2004; Matorras 2002; Moraga-Sanchez 2004; Tang 2001; Weissman 2003; Wisanto 1989; Zakova 2008) .All of the trials included in the review and final analysis were prospective randomised controlled trials.Twelve studies detailed ease of transfer (Azmy 2009; Coroleu 2000; Coroleu 2002; Drakeley 2008; Eskander 2008; Kosmas 2007; Matorras 2002; Tang 2001; Weissman 2003; Wisanto 1989; Zakova 2008; Davar 2007) For details of the transfer protocol and IVF protocol, see Table 1 .For details of the transfer/replacement procedure, where reported, see Table 2 .For details of day of transfer, whether women were on bed rest or not, and whether they had a full bladder or not, as well as the type of ultrasound machine used, see Table 3 .",
+                "cite_spans": [
+                    {
+                        "start": 176,
+                        "end": 188,
+                        "text": "(Ammar 2013;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 189,
+                        "end": 199,
+                        "text": "Azmy 2009;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 200,
+                        "end": 214,
+                        "text": "Bar Hava 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 215,
+                        "end": 225,
+                        "text": "Chen 2007;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 226,
+                        "end": 239,
+                        "text": "Coroleu 2000;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 240,
+                        "end": 253,
+                        "text": "Coroleu 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 254,
+                        "end": 265,
+                        "text": "Davar 2007;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 266,
+                        "end": 280,
+                        "text": "Drakeley 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 281,
+                        "end": 295,
+                        "text": "Eskander 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 296,
+                        "end": 316,
+                        "text": "Garcia-Velasco 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 317,
+                        "end": 329,
+                        "text": "Kosmas 2007;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 330,
+                        "end": 338,
+                        "text": "Li 2005;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 339,
+                        "end": 354,
+                        "text": "Maldonado 2005;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 355,
+                        "end": 368,
+                        "text": "Marconi 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 369,
+                        "end": 382,
+                        "text": "Martins 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 383,
+                        "end": 397,
+                        "text": "Matorras 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 398,
+                        "end": 418,
+                        "text": "Moraga-Sanchez 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 419,
+                        "end": 429,
+                        "text": "Tang 2001;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 430,
+                        "end": 444,
+                        "text": "Weissman 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 445,
+                        "end": 458,
+                        "text": "Wisanto 1989;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 459,
+                        "end": 471,
+                        "text": "Zakova 2008)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 620,
+                        "end": 631,
+                        "text": "(Azmy 2009;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 632,
+                        "end": 645,
+                        "text": "Coroleu 2000;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 646,
+                        "end": 659,
+                        "text": "Coroleu 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 660,
+                        "end": 674,
+                        "text": "Drakeley 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 675,
+                        "end": 689,
+                        "text": "Eskander 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 690,
+                        "end": 702,
+                        "text": "Kosmas 2007;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 703,
+                        "end": 717,
+                        "text": "Matorras 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 718,
+                        "end": 728,
+                        "text": "Tang 2001;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 729,
+                        "end": 743,
+                        "text": "Weissman 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 744,
+                        "end": 757,
+                        "text": "Wisanto 1989;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 758,
+                        "end": 770,
+                        "text": "Zakova 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 771,
+                        "end": 782,
+                        "text": "Davar 2007)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 848,
+                        "end": 849,
+                        "text": "1",
+                        "ref_id": "TABREF26"
+                    },
+                    {
+                        "start": 928,
+                        "end": 929,
+                        "text": "2",
+                        "ref_id": "TABREF30"
+                    },
+                    {
+                        "start": 1104,
+                        "end": 1105,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Included studies",
+                "sec_num": null
+            },
+            {
+                "text": "We rejected 42 of the 104 potential studies outright based on the title or content of the abstract.A er retrieving the remaining papers, we rejected a further 42 studies because on more detailed analysis of the content we found they were not randomised controlled trials or because they were comparing catheter types and not ultrasound guidance versus clinical touch methods of embryo transfer.Ten papers were reviews or 'letters to the editor' that did not contain any original data.We excluded a further five trials that compared transvaginal ultrasound with transabdominal ultrasound (Bodri 2011; Deep 2013; Hauzman 2012; Porat 2010) , or that did not use ultrasound at the time of embryo transfer (Saharkhiz 2014).In the 2016 update, we excluded two studies that had previously been awaiting classification, as multiple attempts to contact the authors of Faure 1998 were made without reply, and we were unable to identify the authors of the Blake 1998 study.",
+                "cite_spans": [
+                    {
+                        "start": 587,
+                        "end": 599,
+                        "text": "(Bodri 2011;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 600,
+                        "end": 610,
+                        "text": "Deep 2013;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 611,
+                        "end": 624,
+                        "text": "Hauzman 2012;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 625,
+                        "end": 636,
+                        "text": "Porat 2010)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Excluded studies",
+                "sec_num": null
+            },
+            {
+                "text": "The studies were old, and the findings were unlikely to a ect the results of the meta-analyses.We excluded a total of 49 studies (see Characteristics of excluded studies).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Excluded studies",
+                "sec_num": null
+            },
+            {
+                "text": "See Characteristics of included studies table, Figure 2 , and Figure 3 . Tang 2001), one study drew lots using a randomisation table on the day of oocyte retrieval (Martins 2004), and one randomised using tables of random sampling numbers (Wisanto 1989).The remaining studies provided no details of the randomisation method used.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 54,
+                        "end": 55,
+                        "text": "2",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 69,
+                        "end": 70,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Risk of bias in included studies",
+                "sec_num": null
+            },
+            {
+                "text": "Five studies described their process of allocation concealment (Ammar 2013; Drakeley 2008; Eskander 2008; Garcia-Velasco 2002; Davar 2007) .",
+                "cite_spans": [
+                    {
+                        "start": 63,
+                        "end": 75,
+                        "text": "(Ammar 2013;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 76,
+                        "end": 90,
+                        "text": "Drakeley 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 91,
+                        "end": 105,
+                        "text": "Eskander 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 106,
+                        "end": 126,
+                        "text": "Garcia-Velasco 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 127,
+                        "end": 138,
+                        "text": "Davar 2007)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Risk of bias in included studies",
+                "sec_num": null
+            },
+            {
+                "text": "None of the trials used blinding.We judged this to be unclear for performance bias, as although blinding is unlikely to a ect the outcome of pregnancy, the awareness of the intervention by the clinicians involved may a ect the performance of the intervention.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Blinding",
+                "sec_num": null
+            },
+            {
+                "text": "None of the trials provided details as to whether the outcome assessors were blinded, and we judged this as unclear risk of bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Blinding",
+                "sec_num": null
+            },
+            {
+                "text": "Attrition and intention-to-treat analysis: Four women in the trial conducted by Wisanto 1989 were not analysed due to failure during transfer and are not included in this analysis, as their treatment changed and their outcomes are unknown.All of the remaining trials analysed the same number of women as were randomised.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Incomplete outcome data",
+                "sec_num": null
+            },
+            {
+                "text": "Live birth rate was poorly reported, with only four of the 21 included studies reporting this primary outcome.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Incomplete outcome data",
+                "sec_num": null
+            },
+            {
+                "text": "The review authors have retrieved a wide source of data from conference papers, peer-reviewed data, and personal communication with authors.We could not identify published trial protocols for any of the included trials.In addition, 16 studies did not report on the primary outcome of live birth (Ammar 2013; Chen 2007; Coroleu 2000; Coroleu 2002; Davar 2007; Eskander 2008; Garcia-Velasco 2002; Kosmas 2007; Li 2005; Marconi 2003; Matorras 2002; Moraga-Sanchez 2004; Tang 2001; Weissman 2003; Wisanto 1989; Zakova 2008) .",
+                "cite_spans": [
+                    {
+                        "start": 295,
+                        "end": 307,
+                        "text": "(Ammar 2013;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 308,
+                        "end": 318,
+                        "text": "Chen 2007;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 319,
+                        "end": 332,
+                        "text": "Coroleu 2000;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 333,
+                        "end": 346,
+                        "text": "Coroleu 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 347,
+                        "end": 358,
+                        "text": "Davar 2007;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 359,
+                        "end": 373,
+                        "text": "Eskander 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 374,
+                        "end": 394,
+                        "text": "Garcia-Velasco 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 395,
+                        "end": 407,
+                        "text": "Kosmas 2007;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 408,
+                        "end": 416,
+                        "text": "Li 2005;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 417,
+                        "end": 430,
+                        "text": "Marconi 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 431,
+                        "end": 445,
+                        "text": "Matorras 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 446,
+                        "end": 466,
+                        "text": "Moraga-Sanchez 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 467,
+                        "end": 477,
+                        "text": "Tang 2001;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 478,
+                        "end": 492,
+                        "text": "Weissman 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 493,
+                        "end": 506,
+                        "text": "Wisanto 1989;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 507,
+                        "end": 519,
+                        "text": "Zakova 2008)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selective reporting",
+                "sec_num": null
+            },
+            {
+                "text": "We identified no other sources of bias. 2003) .None of the studies reporting ongoing pregnancy reported on live birth and vice versa.",
+                "cite_spans": [
+                    {
+                        "start": 40,
+                        "end": 45,
+                        "text": "2003)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Other potential sources of bias",
+                "sec_num": null
+            },
+            {
+                "text": "Personal communication with two authors resulted in additional data on live birth being received (Martins 2004; Matorras 2002) .",
+                "cite_spans": [
+                    {
+                        "start": 97,
+                        "end": 111,
+                        "text": "(Martins 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 112,
+                        "end": 126,
+                        "text": "Matorras 2002)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "E ects of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "The use of ultrasound-guided embryo transfer (UGET) was associated with an increased chance of a live birth/ongoing pregnancy (917 out of 2963) compared with clinical touch embryo transfer (CTET) (686 out of 2896) (odds ratio (OR) 1.47, 95% confidence interval (CI) 1.30 to 1.65; 13 trials; n = 5859 women; I 2 = 74%; low-quality evidence).Sensitivity analysis using a randome ects model did not a ect the overall results.The subgroup interaction test was not significant, suggesting there was no evidence of a di erential e ect between studies reporting live birth and those reporting ongoing pregnancy (Analysis 1.1; Figure 4 ).We estimate that for women with a chance of a live birth/ongoing pregnancy of 23% using CTET, this would increase to between 28% and 33% using UGET (Summary of findings for the main comparison).Using the GRADE approach, we judged the quality of the evidence to be low.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 626,
+                        "end": 627,
+                        "text": "4",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "E ects of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Database of Systematic Reviews In the review protocol we stated that where there was heterogeneity we would explore it by only including trials with low risk of bias for all the domains.None of the included trials in the review had low risk of bias in all the domains.We therefore looked only at those trials that had low risk of bias for selection bias (allocation).For live birth (all trials included), heterogeneity was I 2 = 91%.We attempted to explore the reasons for this significant heterogeneity by looking for di erences in the trial protocols.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Fresh versus frozen embryos: Azmy 2009, Martins 2004, and Matorras 2002 used fresh embryos only.Drakeley 2008 reported using fresh and frozen embryos (88% fresh and 12% frozen embryos in both groups).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Type of catheter used: One of the included studies appeared to be an outlier (Drakeley 2008).We found that in this trial, the catheters used di ered between the groups.In the UGET group, 97% of embryo transfers used the Cook EchoTip, 1% Wallace, and 2% Rocket catheters.In the CTET group, 2% used the Cook EchoTip, 51% the Wallace, and 47% the Rocket catheters.There was no di erence in the chance of a live birth between groups (OR 0.99, 95% CI 0.79 to 1.25; 1 trial; n = 1649).Martins 2004 and Matorras 2002 used the Frydman catheter in both groups, and Azmy 2009 used the Labotect catheter in both groups.The use of UGET was associated with an increase in live birth compared to CTET where the same catheter was used in both groups (OR 2.45, 95% CI 1.92 to 3.12; 3 studies; n = 1468; I 2 = 57%).The subgroup interaction test was significant, suggesting that using the same catheter type for both intervention groups was associated with an increased chance of a live birth (Chi 2 = 23.06;I 2 = 96.4%;P < 0.00001) (Analysis 2.1).Sensitivity analysis using a random-e ects model did not a ect this result.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Publication bias tests did not indicate a significant probability of the presence of publication bias.Even so, the funnel plot appeared asymmetrical with a gap on the le lower corner.The trim-and-fill plot identified that five trials (favouring CTET) would be needed to make the funnel plot symmetrical (Figure 5 ).With the addition of these trials, the adjusted e ect estimate would still remain significant, but the magnitude of e ect reduced to OR 1.14 (95% CI 1.02 to 1.28).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 311,
+                        "end": 312,
+                        "text": "5",
+                        "ref_id": "FIGREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Database of Systematic Reviews",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Twenty trials reported clinical pregnancies.UGET was associated with an increase in the chance of a clinical pregnancy (1118 out of 3392) compared with CTET (916 out of 3319) (OR 1.31, 95% CI 1.17 to 1.45; 20 studies; n = 6711; I 2 = 42%) (Analysis 1.2).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Clinical pregnancies",
+                "sec_num": "1.2"
+            },
+            {
+                "text": "Publication bias tests did not indicate a significant probability of the presence of publication bias.Even so, the funnel plot appeared asymmetrical with a gap on the le lower corner.The trim-andfill plot identified that six trials (favouring CTET) would be needed to make the funnel plot symmetrical (Figure 6 ).With the addition of these trials, the adjusted e ect estimate would still remain significant, but the magnitude of e ect reduced to OR 1.19 (95% CI 1.07 to 1.32).Using GRADE methodology, we judged the quality of the evidence for clinical pregnancies to be moderate; the evidence was downgraded one level due to lack of methodological details to be able to make a judgement on risk of bias.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 309,
+                        "end": 310,
+                        "text": "6",
+                        "ref_id": "FIGREF6"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Clinical pregnancies",
+                "sec_num": "1.2"
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Database of Systematic Reviews There was no evidence of a di erence between UGET (140 out of 1693) and CTET (124 out of 1686) in the incidence of multiple pregnancies (OR 1.13, 95% CI 0.87 to 1.45; 8 trials; n = 3379; I 2 = 0%) (Analysis 1.3).Using GRADE methodology, we judged the quality of the evidence for multiple pregnancies to be moderate; the evidence was downgraded one level due to lack of methodological details to be able to make a judgement on risk of bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "There was no evidence of a di erence in ectopic pregnancies per woman randomised in the eight trials reporting this outcome 4 ).Using GRADE methodology, we judged the quality of the evidence for miscarriage to be moderate; the evidence was downgraded one level due to lack of methodological details to be able to make a judgement on risk of bias.",
+                "cite_spans": [
+                    {
+                        "start": 124,
+                        "end": 125,
+                        "text": "4",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Ectopic pregnancies",
+                "sec_num": "1.4"
+            },
+            {
+                "text": "Publication bias tests did not indicate a significant probability of the presence of publication bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Ectopic pregnancies",
+                "sec_num": "1.4"
+            },
+            {
+                "text": "Five papers reported blood on the catheter tip as an adverse event following the transfer procedure (Coroleu 2002; Drakeley 2008; Eskander 2008; Garcia-Velasco 2002; Wisanto 1989) .There was no evidence of a di erence between UGET (126 out of 1397) and CTET (124 out of 1383) (OR 1.0, 95% CI 0.77 to 1.30; 5 trials; n = 2780; I 2 = 0%) (Analysis 1.6).",
+                "cite_spans": [
+                    {
+                        "start": 100,
+                        "end": 114,
+                        "text": "(Coroleu 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 115,
+                        "end": 129,
+                        "text": "Drakeley 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 130,
+                        "end": 144,
+                        "text": "Eskander 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 145,
+                        "end": 165,
+                        "text": "Garcia-Velasco 2002;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 166,
+                        "end": 179,
+                        "text": "Wisanto 1989)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Blood on catheter tip",
+                "sec_num": "1.6"
+            },
+            {
+                "text": "Where reported, we extracted data on transfers that were considered to be di icult.There were no reports in any of the analysed papers on the outcome of foetal abnormalities either at anomaly scan or at birth.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Di iculty in transfer",
+                "sec_num": "1.7"
+            },
+            {
+                "text": "The results of this systematic review found an association between ultrasound-guided embryo transfer (UGET) and an increased chance of a live birth/ongoing pregnancy.Heterogeneity was high, with a significant proportion of weighting being attributed to one trial (Drakeley 2008).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary of main results",
+                "sec_num": null
+            },
+            {
+                "text": "We identified no evidence of a di erence between UGET and clinical touch embryo transfer (CTET) with regards to miscarriage, multiple pregnancies, or ectopic pregnancies, and the incidence of such events was relatively small.Data on multiple pregnancies was only reported by six of the studies and may be regarded as a source of reporting bias.We have requested data from all authors with regard to this outcome, and it is recommended that future research takes this into account.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary of main results",
+                "sec_num": null
+            },
+            {
+                "text": "There was no evidence of a di erence between transfer procedures for blood on the catheter a er embryo transfer.The papers were not always explicit in identifying who was responsible for the embryo transfer and what their level of experience in the procedure was.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary of main results",
+                "sec_num": null
+            },
+            {
+                "text": "For the outcome di icult embryo transfer, Azmy 2009 and Matorras 2002 account for the heterogeneity in the analysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary of main results",
+                "sec_num": null
+            },
+            {
+                "text": "In general, the studies identified are similar enough to make meaningful comparisons.There is still a lack of data regarding live birth, which needs to be addressed in future research.The odds ratios for live birth and ongoing pregnancy are similar, and we have interpreted this as suggesting that the benefits identified for UGET over CTET for the ongoing pregnancy data are unlikely to represent selective outcome reporting.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Overall completeness and applicability of evidence",
+                "sec_num": null
+            },
+            {
+                "text": "During the searches for this review update we identified a number of trials that used transvaginal ultrasound or three-dimensional ultrasound.In subsequent updates of this review, we will include these trials for completeness.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Overall completeness and applicability of evidence",
+                "sec_num": null
+            },
+            {
+                "text": "Overall, the included studies could be compromised by their lack of methodological quality.Only two of the studies reported using a computer-generated randomisation and adequate concealment (Drakeley 2008; Garcia-Velasco 2002) .The remaining studies failed to provide adequate detail regarding methodological quality, in particular randomisation method and allocation concealment.",
+                "cite_spans": [
+                    {
+                        "start": 190,
+                        "end": 205,
+                        "text": "(Drakeley 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 206,
+                        "end": 226,
+                        "text": "Garcia-Velasco 2002)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Quality of the evidence",
+                "sec_num": null
+            },
+            {
+                "text": "Only four studies reported live birth, and none of the nine studies that provided data on ongoing pregnancy reported live birth.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Quality of the evidence",
+                "sec_num": null
+            },
+            {
+                "text": "Using GRADE methodology, we judged the quality of the evidence for the primary outcome of live birth to be low.We downgraded quality for high heterogeneity and lack of methodological detail to be able to judge the risk of bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Quality of the evidence",
+                "sec_num": null
+            },
+            {
+                "text": "For the secondary outcomes of clinical pregnancy, multiple pregnancy, ectopic pregnancy, and miscarriage, we judged the quality of the evidence to be moderate.We downgraded the quality for lack of methodological detail, which meant that we were unable to judge the risk of bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Quality of the evidence",
+                "sec_num": null
+            },
+            {
+                "text": "We believe that we have conducted a comprehensive and systematic search of published and unpublished trials.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Potential biases in the review process",
+                "sec_num": null
+            },
+            {
+                "text": "However, publication bias may be an issue, with mainly positive outcomes being reported.During the literature search we identified studies that reported either no di erence or a negative e ect of UGET; these studies tended to be retrospective studies and were excluded for reasons of their study design.The study by Drakeley did report equivocal results between the groups (Drakeley 2008).Further, the outcomes ongoing pregnancy/live birth and clinical pregnancy rates had asymmetric funnel plots that may be the result of publication bias.Even so, the conclusions drawn from the pooled results a er adjustment remained unchanged.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Potential biases in the review process",
+                "sec_num": null
+            },
+            {
+                "text": "The review authors felt that the funnel plot for live birth/ongoing pregnancy appeared relatively asymmetrical (Figure 5 ) .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 119,
+                        "end": 120,
+                        "text": "5",
+                        "ref_id": "FIGREF5"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Potential biases in the review process",
+                "sec_num": null
+            },
+            {
+                "text": "It has been suggested that the increase in clinical pregnancy and live birth/ongoing pregnancy may be due to a decrease in di icult transfers.The definitions of what was considered di icult varied between the studies and may account for the heterogeneity found for this outcome.Clearer, standardised definitions are required for comparisons to be made, although the subjective nature of this outcome may influence the findings in individual studies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Potential biases in the review process",
+                "sec_num": null
+            },
+            {
+                "text": "The exact mechanism by which UGET increases pregnancy rates remains unclear.The main suggested explanations remain the confirmation of the catheter in the uterine cavity , 'ease of transfer' positioning of the catheter, and avoiding touching the fundus or indenting the endometrium.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Potential biases in the review process",
+                "sec_num": null
+            },
+            {
+                "text": "The evidence of this review is congruent with other published evidence, including two systematic reviews with meta-analyses of randomised controlled trials, both of which found a benefit for live birth and clinical pregnancy with UGET compared with CTET (Abou-Setta 2007; Teixeira 2015).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Agreements and disagreements with other studies or reviews",
+                "sec_num": null
+            },
+            {
+                "text": "The evidence suggests that, where personnel and resources are available, the chance of an ongoing pregnancy or live birth is better with UGET than with CTET.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for practice",
+                "sec_num": null
+            },
+            {
+                "text": "The studies highlight a lack of data for the primary outcome measure (live birth) of the systematic review.It is suggested that future research should report on the live birth rate per woman randomised as an outcome measure that is of importance to the target population.Sample size calculations suggest that 759 women in each arm would be su icient to detect an 8 per cent di erence in live birth with 95% power and \u03b1 0.5.The same type",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for research",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Database of Systematic Reviews of transfer catheter should be used in the intervention and control groups where possible to avoid confounding variables.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "We wish to acknowledge the peer reviewers and the sta at the Cochrane Gynaecology and Fertility Group for their contribution to this review.Cochrane Database of Systematic Reviews * Indicates the major publication for the study Cochrane Database of Systematic Reviews",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A C K N O W L E D G E M E N T S",
+                "sec_num": null
+            },
+            {
+                "text": "Selective reporting (reporting bias)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "All outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "High risk Not followed up to live birth, although some adverse events were described",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "All outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Tang 2001 (Continued)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "All outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Prospective randomised trial, no details of method of randomisation or of allocation concealment",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Methods",
+                "sec_num": null
+            },
+            {
+                "text": "Israeli study of 155 women attending an IVF unit.Mean age of women was 34.6 +/-5.9 in the UGET group and 33.6 +/-6.2 years in the clinical touch group from the conference abstract and 34.9 +/-5.6 (UGET) and 34.0 +/-6.2 (clinical touch) from personal communication No details of inclusion or exclusion criteria Interventions Ultrasound-guided embryo transfer (n = 88 conference abstract and total of 160 from personal communication) versus clinical touch (n = 67 conference abstract and total of 124 from personal communication)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Outcomes Pregnancy and implantation rates, miscarriage rates, and difficulty of transfer Notes Conference abstract.Authors contacted for further details.Through personal communication some data provided that was for a larger sample size than in the conference abstract.Updated data is presented in the analysis The addition of new studies did not lead to a change in the conclusions of this review.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Ultrasound versus 'clinical touch' for catheter guidance during embryo transfer in women (Review)Copyright \u00a9 2016 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "UGET: ultrasound-guided embryo transfer",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "annex",
+                "sec_num": null
+            },
+            {
+                "text": "Keywords CONTAINS \"Embryo Transfer\" or \"embryo transfer techniques\" or \"Embryo Transfer-uterine\" or \"frozen embryo transfer\" or \"frozen-thawed embryo transfer\" or \"ET\" or \"FET\" or \"embryo placement\" or \"Embryo transfer-tubal\" or \"embryos transferred\" or \"blastocyst transfer\" or Title CONTAINS \"embryo placement\" or \"Embryo transfer-tubal\" or \"embryos transferred\" or \"blastocyst transfer\" or \"Embryo Transfer\" or \"embryo transfer techniques\" or \"Embryo Transfer-uterine\" or \"frozen embryo transfer\" or \"frozen-thawed embryo transfer\" or \"ET\" or \"FET\" AND Keywords CONTAINS \"ultrasonography\" or \"ultrasound\" or \"ultrasound guidance\" or \"ultrasound guided\" or \"ultrasound guided embryo transfer\" or \"ultrasound, pelvic\" or \"sonographic\" or \"imaging\" or \"sonographic\" or \"sonohysterogram\" or \"sonohysterography\" or \"hysterosonography\" or Title CONTAINS \"ultrasonography\" or \"ultrasound\" or \"ultrasound guidance\" or \"ultrasound guided\" or \"ultrasound guided embryo transfer\" or \"ultrasound, pelvic\" or \"sonographic\" or \"imaging\" or \"sonographic\" or \"sonohysterogram\" or \"sonohysterography\" or \"hysterosonography\"",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A P P E N D I C E S Appendix 1. Gynaecology and Fertility Group key words",
+                "sec_num": null
+            },
+            {
+                "text": "Database: EBM Reviews -Cochrane Central Register of Controlled Trials <March 2015> Search Strategy:- ------------------------------------------------------------------------------ -------------------------------------------------------------------------------exp embryo transfer/ ( 13099 Cochrane Database of Systematic Reviews",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 101,
+                        "end": 179,
+                        "text": "------------------------------------------------------------------------------",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Appendix 2. CENTRAL search strategy",
+                "sec_num": null
+            },
+            {
+                "text": "Julie Brown took the lead in writing the review and update and was involved in all aspects of review design, search, data extraction, and summary.Karen Buckingham was a co-author of the review and was involved in the design, data extraction, and summary.She is a clinical expert in the field.William Buckett and Ahmed Abou-Setta helped review the manuscript and are experienced in the specialised field.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "C O N T R I B U T I O N S O F A U T H O R S",
+                "sec_num": null
+            },
+            {
+                "text": "Ahmed Abou-Setta and William Buckett are both authors of separate, complementary systematic reviews on the topic of ultrasound guidance versus clinical touch during embryo transfer.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D E C L A R A T I O N S O F I N T E R E S T",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Liggins Institute, The University of Auckland, New Zealand.Infrastructure support to update this review \u2022 Department of Obstetrics and Gynaecology, The University of Auckland, New Zealand.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "S O U R C E S O F S U P P O R T Internal sources",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 None, Other.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "External sources",
+                "sec_num": null
+            },
+            {
+                "text": "As per the Cochrane Gynaecology and Fertility Group's new guidelines, the Peto odds ratio has been replaced with the Mantel-Haenszel odds ratio.We have removed the secondary outcome of multiple pregnancy rate -multiple pregnancy (twins, triplets, or higher, order specified if possible) per clinical pregnancy, confirmed by ultrasound or delivery.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D I F F E R E N C E S B E T W E E N P R O T O C O L A N D R E V I E W",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {},
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "................................................................................................................................................................................................... PLAIN LANGUAGE SUMMARY....................................................................................................................................................................... SUMMARY OF FINDINGS.............................................................................................................................................................................. BACKGROUND.............................................................................................................................................................................................. OBJECTIVES.................................................................................................................................................................................................. METHODS..................................................................................................................................................................................................... RESULTS........................................................................................................................................................................................................ Figure 1.................................................................................................................................................................................................. Figure 2.................................................................................................................................................................................................. Figure 3.................................................................................................................................................................................................. Figure 4.................................................................................................................................................................................................. Figure 5.................................................................................................................................................................................................. Figure 6.................................................................................................................................................................................................. DISCUSSION.................................................................................................................................................................................................. AUTHORS' CONCLUSIONS........................................................................................................................................................................... ACKNOWLEDGEMENTS................................................................................................................................................................................ REFERENCES................................................................................................................................................................................................",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF1": {
+                "text": ". Details regarding day of embryo transfer were not provided by Bar Hava 2003, Davar 2007, and Moraga-Sanchez 2004, and type of ultrasound machine used for the procedure was described by Azmy 2009, Chen 2007, Coroleu 2000, Coroleu 2002, Davar 2007, Drakeley 2008, Eskander 2008, Garcia-Velasco 2002, Kosmas 2007, Li 2005, Martins 2004, Matorras 2002, and Tang 2001.Details on requirement of full bladder were provided by Ammar 2013, Azmy 2009, Coroleu 2002, Davar 2007, Drakeley 2008, Eskander 2008, Garcia-Velasco 2002, Kosmas 2007, Matorras 2002, Tang 2001, Weissman 2003, and Wisanto 1989.Bed rest postprocedure was detailed by Ammar 2013, Coroleu 2002, Davar 2007, Garcia-Velasco 2002, Kosmas 2007, Li 2005, Matorras 2002, Tang 2001, and Wisanto 1989.",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF2": {
+                "text": "Figure 2. Methodological quality graph: review authors' judgements about each methodological quality item presented as percentages across all included studies.",
+                "fig_num": "2",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF3": {
+                "text": "Figure 4. Forest plot of comparison: 1 Ultrasound-guided embryo transfer versus 'clinical touch', outcome: 1.1 Live birth and ongoing pregnancy (per woman randomised).",
+                "fig_num": "4",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF4": {
+                "text": "For the outcome of live birth we excluded Azmy 2009.For the outcome of ongoing pregnancy we excluded Coroleu 2000; Eskander 2008; Marconi 2003 and Weissman 2003.The evidence of an overall benefit for UGET still remained , although the strength of the e ect was diminished (OR 1.17, 95%CI 1.01 to 1.36; 8 trials, n = 3904; I 2 = 22%; analysis not shown).",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF5": {
+                "text": "Figure 5. Live-birth/ongoing pregnancy rate trim-and-fill plot.",
+                "fig_num": "5",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF6": {
+                "text": "Figure 6.Clinical pregnancy rate trim-and-fill plot.",
+                "fig_num": "6",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "TABREF1": {
+                "text": "The Cochrane Gynaecology and Fertility Group Specialised Register of Controlled Trials, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid), EMBASE (Ovid), PsycINFO (Ovid), and CINAHL (EbscoHost).We combined the MEDLINE search with the Cochrane Highly Sensitive Search Strategy for identifying randomised trials that appears in Section 6.4.11 of the Cochrane Handbook for Systematic Reviews of Interventions",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>(Version 5.1.0) (Higgins 2011). We combined the EMBASE,</td></tr><tr><td>PsycINFO, and CINAHL searches with the trial filters developed</td></tr><tr><td>by the Scottish Intercollegiate Guidelines Network (SIGN) (http://</td></tr><tr><td>www.sign.ac.uk/methodology/filters.html#random) (Appendix 1;</td></tr><tr><td>Appendix 2; Appendix 3; Appendix 4; Appendix 5; Appendix 6).</td></tr><tr><td>Other electronic sources of trials included:</td></tr><tr><td>\u2022 trials registers of registered and ongoing trials</td></tr><tr><td>\u2022 http://clinicaltrials.gov (a service of the US National</td></tr><tr><td>Institutes of Health);</td></tr><tr><td>\u2022 http://who.int/trialsearch/Default.aspx (the World Health</td></tr><tr><td>Organization International Trials Registry Platform search</td></tr><tr><td>portal).</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF2": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>We identified 104 potential studies in the original search, and an</td></tr><tr><td>additional six studies in the update in 2009. In the 2016 update,</td></tr><tr><td>we added four new studies (Ammar 2013; Azmy 2009; Davar</td></tr><tr><td>2007; Maldonado 2005), and excluded five (Bodri 2011; Deep 2013;</td></tr><tr><td>Hauzman 2012; Porat 2010; Saharkhiz 2014) (Characteristics of</td></tr><tr><td>excluded studies). See Figure 1.</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF3": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table/>",
+                "type_str": "table"
+            },
+            "TABREF4": {
+                "text": "Martins 2004), or undergoing ICSI or IVF with frozen-thawed embryos.Azmy 2009 required women to be less than 38 years of age and have a body mass index equal to or less than 30 kg/m 2 .Ammar 2013 required women to be between 20 and 39 years of age.Marconi 2003 and Azmy 2009 also required that women have a day 3 follicle-stimulating hormone level of less than 12 IU/ml.In Kosmas 2007, women were under 40 years of age with fresh embryos undergoing non-donor embryo transfer; exclusions were cryopreserved embryos and women with previous cervical excision for cervical dysplasia.No details of inclusion or exclusion criteria were provided byDrakeley 2008, Eskander 2008, Moraga-Sanchez  2004, and Zakova 2008.",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td/><td>Cochrane Database of Systematic Reviews</td></tr><tr><td>media (Ammar 2013; Coroleu 2000; Coroleu 2002; Li 2005; Tang</td><td/></tr><tr><td>2001; Garcia-Velasco 2002; Wisanto 1989). All of the studies with the</td><td/></tr><tr><td>exception of Bar Hava 2003, Maldonado 2005, and Moraga-Sanchez</td><td/></tr><tr><td>2004 included details of the catheter type used for embryo transfer.</td><td/></tr><tr><td>The distance from the fundus where the embryos were placed was</td><td/></tr><tr><td>not detailed by Bar Hava 2003, Kosmas 2007, Moraga-Sanchez 2004,</td><td/></tr><tr><td>Marconi 2003, Weissman 2003, and Zakova 2008, and two trials</td><td/></tr><tr><td>failed to record the number of embryos transferred (Maldonado</td><td/></tr><tr><td>2005; Zakova 2008).</td><td/></tr><tr><td/><td>embryo transfer of good-quality embryos (Garcia-Velasco 2002),</td></tr><tr><td/><td>aged 28 to 41 years undergoing IVF (including ICSI) (Ammar 2013; Li</td></tr><tr><td/><td>2005; All studies reported maternal age except Drakeley 2008, Maldonado</td></tr><tr><td/><td>2005, and Moraga-Sanchez 2004 (Table 1). Thirteen trials included</td></tr><tr><td/><td>women who had embryo transfer related to fresh IVF/ICSI cycles</td></tr><tr><td/><td>(Ammar 2013; Azmy 2009; Chen 2007; Coroleu 2000; Davar 2007;</td></tr><tr><td/><td>Eskander 2008; Kosmas 2007; Li 2005; Marconi 2003; Martins 2004;</td></tr><tr><td/><td>Matorras 2002; Garcia-Velasco 2002; Wisanto 1989); one study had</td></tr><tr><td/><td>56.3% fresh embryos in the ultrasound-guided group and 54% in</td></tr><tr><td/><td>the clinical touch group (Tang 2001); and Coroleu 2002 used frozen/</td></tr><tr><td/><td>thawed embryos in both groups. Drakeley 2008 included both fresh</td></tr><tr><td/><td>and frozen embryo transfers. Maldonado 2005 did not report if</td></tr><tr><td>Studies emerged from a variety of centres around the world: the UK (Drakeley 2008), Spain (Coroleu 2000; Coroleu 2002; Garcia-Velasco 2002; Matorras 2002), China (Tang 2001; Li 2005), Belgium (Kosmas 2007; Wisanto 1989), Brazil (Martins 2004), Israel (Bar Hava 2003;</td><td>embryos were fresh or frozen. Matorras 2002 excluded women with cryopreserved embryos, having oocyte donation, or undergoing ICSI, and Tang 2001 excluded women requiring general anaesthesia or refusing to participate. No details were provided by Zakova 2008.</td></tr><tr><td>Weissman 2003), Argentina (Marconi 2003), Taiwan (Chen 2007),</td><td>Seven studies reported the duration of infertility (Coroleu 2000;</td></tr><tr><td>Saudi Arabia (Eskander 2008), the Czech Republic (Zakova 2008),</td><td>Li 2005; Matorras 2002; Tang 2001; Wisanto 1989; Weissman 2003;</td></tr><tr><td>Iran (Davar 2007), Brazil (Maldonado 2005), Egypt (Ammar 2013;</td><td>Davar 2007), and seven studies mentioned the primary causes</td></tr><tr><td>Azmy 2009), and Mexico/USA (Moraga-Sanchez 2004). All of the</td><td>of infertility (Ammar 2013; Coroleu 2002; Wisanto 1989; Li 2005;</td></tr><tr><td>studies used transabdominal ultrasound. The 21 included studies</td><td>Matorras 2002; Tang 2001; Davar 2007). The remaining studies</td></tr><tr><td>reported on 6711 women undergoing embryo transfer.</td><td>provided no details.</td></tr><tr><td>All couples were infertile and participating in some form of fertility</td><td>Fi een studies provided IVF protocol information (Ammar 2013;</td></tr><tr><td>programme. Inclusion criteria reported in the studies was for the</td><td>Chen 2007; Coroleu 2000; Coroleu 2002; Eskander 2008; Garcia-</td></tr><tr><td>women to be on an in-vitro fertilisation/intracytoplasmic sperm</td><td>Velasco 2002; Kosmas 2007; Li 2005; Marconi 2003; Martins 2004;</td></tr><tr><td>injection (IVF/ICSI) embryo transfer programme (Bar Hava 2003;</td><td>Matorras 2002; Tang 2001; Wisanto 1989; Zakova 2008; Davar 2007),</td></tr><tr><td>Coroleu 2000; Coroleu 2002; Li 2005; Maldonado 2005; Marconi</td><td>and 12 described embryo transfer information (Chen 2007; Coroleu</td></tr><tr><td>2003; Weissman 2003; Wisanto 1989; Davar 2007), undergoing</td><td>2000; Coroleu 2002; Eskander 2008; Garcia-Velasco 2002; Kosmas</td></tr><tr><td>IVF but less than 40 years of age (Marconi 2003; Matorras 2002),</td><td>2007; Li 2005; Martins 2004; Matorras 2002; Tang 2001; Wisanto</td></tr><tr><td>to be recipients of oocyte donation programme and undergoing</td><td>1989; Davar 2007). Seven studies described details on the embryo</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF8": {
+                "text": "Human Reproduction 2002;17(2):341-6.Sallam H, Agameya A, Rahman A, Ezzeldin F, Sallam A. Ultrasound measurement of the uterocervical angle before embryo transfer: a prospective controlled study.Human Reproduction.2001; Vol.16, issue abstract book 1:126.",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library Cochrane Library Cochrane Library</td><td>Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health.</td><td>Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews</td></tr><tr><td colspan=\"2\">Weissman 2003 {published and unpublished data} Hauzman 2012 {published data only} Sallam 2001 {published data only}</td><td>Lesny 1998 {published data only} Additional references</td></tr><tr><td colspan=\"2\">Weissman A, Farhi J, Steinfeld Z, Mustafi R, Nahum H, Levran D. A prospective randomized study of ultrasound-guided embryo transfer. Fertility and Sterility 2003;80 (Suppl 1):S122. Wisanto 1989 {published data only} Wisanto A, Janssens R, Desacht J, Camus M, Devroey P, Van Steirtegham AC. Performance of di erent embryo transfer catheters in a human in vitro fertilization program. Fertility and Hauzman E, Kohls G, Barrio A, Martinez Salazar J, Iglesias C, Garcia-Velasco JA. Comparison of embryo transfer in egg donation recipients with transvaginal and transabdominal ultrasound: A randomized pilot study. Human Reproduction 2013;28:i241. Hurley 1991 {published data only} Hurley V, Osborn J, Leoni M, Leeton J. Ultrasound-guided Sallam 2002a {published data only} Sallam HN, Agameya AF, Rahman AF, Ezzeldin F, Sallam AN. Ultrasound measurement of the uterocervical angle before</td><td>Cruickshank 2003 {published data only} * Cruickshank B, Fasciani A, Di Berardino A, Hannam TG, Casper RF, Greenblatt E. The ultrasound guided embryo transfer significantly increases the ongoing pregnancy rates when a 'laminar flow' pattern is observed. Human Reproduction 2003;18((Suppl 1) Issue 6):Xviii6. Lesny P, Killick SR, Tetlow RL, Robinson J, Maguiness SD. Abou-Setta 2007 Embryo transfer -can we learn anything new from the Abou-Setta AM, Mansour RT, Al-Inany HG, Aboulghar MM, observation of junctional zone contractions?. Human Aboulghar MA, Serour GI. Among women undergoing embryo Reproduction 1998;13(6):1540-6. transfer is the probability of pregnancy and live birth improved Letterie 2005 {published data only} Letterie GS. Three-dimensional ultrasound-guided embryo transfer: A preliminary study. American Journal of Obstetrics and with ultrasound guidance over clinical touch alone? A systematic review and meta-analysis of prospective randomised controlled trials. Fertility and Sterility 2007;88(2):333-41.</td></tr><tr><td colspan=\"2\">Sterility 1989;52(1):79-84. Zakova 2008 {published data only} Zakova J, Crha L, Ventruba P, Lobsova E, Huser M. Does ultrasound-guided embryo transfer improve pregnancy rate in in vitro fertilization?. Human Reproduction 2008;23 embryo transfer: a controlled trial. Fertility and Sterility 1991;55(3):559-62. Kan 1999 {published data only} Kan AKS, Abdalla HI, Gafar AH, Nappi L, Ogunyemi BO, Thomas A, Ola-ojo OO. Embryo transfer: ultrasound-guided embryo transfer: a prospective controlled study. Human Reproduction 2002;17(7):1767-772. Sasy 2003 {published data only} Sasy M, Salem W, Fattah A, Ashraf M, Abozaid T, Khan I, et al. Comparison between ultrasound-guided embryo transfer and</td><td>Deep 2013 {published data only} Deep JP, Li Y, Liu H. The e ect of embryo transfer on IVF treatment: Comparing the trans-vaginal versus transabdominal ultrasound approach. Journal of Minimally Invasive Gynecology 2013;1:S42-3. Gynecology 2005;192:1983-8. Fanchin 1998 Fanchin R, Righini C, Olivennes F, Taylor S, de Ziegler D, Lindheim 1999 {published data only} Lindheim SR, Cohen MA, Sauer MV. Ultrasound guided embryo transfer significantly improves pregnancy rates in women undergoing oocyte donation. International Journal of Frydman R. Uterine contractions at the time of embryo transfer alter pregnancy rates a er in vitro fertilization. Human Reproduction 1998;13:1968-74.</td></tr><tr><td colspan=\"2\">(Supplement 1):i135. References to studies excluded from this review Al-Shawaf 1993 {published data only} versus clinical touch. Human Reproduction 1999;14(5):1259-61. Karande 2002 {published data only} Karande V, Hazlett D, Vietzke M, Cleicher N. A prospective randomized comparison of the Wallace catheter and the Cook Echo-Tip catheter for ultrasound guided embryo transfer. tubal embryo transfer a er intracytoplasmic sperm injection. Middle East Fertility Society Journal 2003;8(3):223-8. Scholtes 1994 {published data only} Scholtes M, Roozenburg B, Verhoe , Zeilmaker G. A randomised trial of transcervical intrafallopian transfer of pronucleate Al-Shawaf T, Yang D, Al-Magid Y, Seaton A, Iketubosin F, Cra I. Ultrasonic monitoring during replacement of frozen/thawed embryos in natural and hormone replacement cycles. Human Reproduction 1993;8(12):2068-74. Fertility and Sterility 2002;77(4):826-30. embryos controlled by ultrasound versus intrauterine transfer of four to eight cell embryos. Fertility and Sterility 1994;61(1):102-4.</td><td>Englert 1986 {published data only} Englert Y, Puissant F, Camus M, Van Hoeck J, Leroy F. Clinical study on embryo transfer a er human in vitro fertilisation. Journal of In Vitro Fertilization and Embryo Transfer 1986;3(4):243-6. Gynecology and Obstetrics 1999;66:281-4. GRADEpro GDT [Computer program] McMaster University (developed by Evidence Prime Inc). Lorusso 2005 {published data only} Lorusso F, Depalo R, Bettocchi S, Vacca M, Vimercati A, Selvaggi L. Outcome of in vitro fertilization a er transabdominal ultrasound-assisted embryo transfer with a full or empty Available from gradepro.org. GRADEpro GDT: GRADEpro Guideline Development Tool. McMaster University (developed by Evidence Prime Inc). Available from gradepro.org, 2015. bladder. Fertility and Sterility 2005;84(4):1046-8. Higgins 2011 Higgins J, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March</td></tr><tr><td/><td/><td>2011]. The Cochrane Collaboration, 2011. Available from</td></tr><tr><td/><td/><td>www.cochrane-handbook.org.</td></tr><tr><td/><td/><td>Kovacs 1999</td></tr><tr><td/><td/><td>Kovacs GT. What factors are important for successful embryo</td></tr><tr><td colspan=\"2\">Silberstein 2005 {published data only} Silberstein T, Trimarchi JR, Shackelton R, Weitzen S, Anderson 2002 {published data only} Anderson RE, Nugent NL, Gregg AT, Nunn SL, Behr BR. Transvaginal ultrasound-guided embryo transfer improves outcome in patients with previous failed in vitro fertilization cycles. Fertility and Sterility 2002;77(4):769-74. Baba 2000 {published data only} Baba K, Ishihara O, Hayashi N, Saioh M, Taya J, Kinoshita K. Three dimensional ultrasound in embryo transfer. Ultrasound in Obsterics and Gynecology 2000;16:372-3. Kosmas 2006a {published data only} Kosmas IP, Janssens R, De Munck L, Al Turki HF, Tournaye H, Van Steirteghem AC, et al. Ultrasound guidance during embryo transfer does not o er any benefit in clinical outcome: a randomized controlled trial. Human Reproduction 2006;21(6):i101. Kreiner 2000 {published data only} Frankfurter D, Plosker S. Ultrasound guided mid-uterine cavity embryo transfer is associated with a decreased incidence of retained embryos in the transfer catheter. Fertility and Sterility 2005;84(5):1510-2. Strickler 1985 {published data only} Strickler RC, Christianson C, Crane JP, Curato A, Knight AB, Yang V. Ultrasound guidance for human embryo transfer. Fertility and Sterility 1985;43(1):54-61.</td><td>transfer a er in-vitro fertilization?. Human Reproduction 1999;14:590-2. Flisser 2006 {published data only} Flisser E, Grifo JA, Krey L, Noyes N. Transabdominal ultrasound-assisted embryo transfer and pregnancy outcome. Fertility and Sterility 2006;85(2):353-7. Garcia-Velasco 2001 {published data only} Garcia-Velasco J, Martinez-Salazar J, Isaza A, Landazabal A, Requena A, Simon C. Does ultrasound guidance at embryo transfers improve pregnancy rates in oocyte recipients?. Fertility Porat 2010 {published data only} RevMan 2014 [Computer program] The Nordic Cochrane Centre, The Cochrane Collaboration. Review Manager (RevMan). Version 5.3. Copenhagen: The Nordic Cochrane Centre, The Cochrane Collaboration, 2014. Porat N, Boehnlein LM, Schouweiler CM, Kang J, Lindheim SR. Interim analysis of a randomized clinical trial comparing abdominal versus transvaginal ultrasound-guided embryo transfer. The Journal of Obstetrics and Gynaecology Research 2010;36(2):384-92. Sallam 2002 Sallam HN, Saad-el-Din S. Performing embryo transfer under ultrasound guidance -A meta analysis of randomized trials. Fertility and Sterility 2002;78(3 (Suppl 1)):S46.</td></tr><tr><td colspan=\"2\">Blake 1998 {unpublished data only} Blake. Unpublished. Personal communicaton 1998. Bodri 2011 {published data only} Bodri D, Colodron M, Garcia D, Obradors Am Vernaeve V, Coll O. Transvaginal versus transabdominal ultrasound guidance for embryo transfer in donor oocyte recipients: a randomized clinical trial. Fertility and Sterility 2011;95(7):2263-8. Broussin 1998 {published data only} Broussin B, Jayot S, Subtil D, Parneix I, Audebert A, Dubecq F, et al. Di icult embryo transfer: the ultrasonography contribution. Fertilite Contraception Sexualite 1998;26(7-8):492-7. Coroleu 2002a {published data only} Kreiner D, Moschella J, Carlson N, Jelicks J, Bolkas M, Moodie G, et al. Pregnancy rates of a two step ultrasound guided embryo transfer 1-112 cm from the top of the uterine cavity. Fertility and Sterility 2000;74(3 (suppl 1)):S206. Wood 2000 {published data only} Wood EG, Batzer F, Go KJ, Gutmann JN, Corson SL. Ultrasound-guided so catheter embryo transfers will improve pregnancy rates in in-vitro fertilization. Human Reproduction 2000;15(1):107-12. Lenz 1987a {published data only} Sterility 1985;44(3):318-21. Vitro Fertilization and Embryo Transfer 1987;4(1):18-22. cause of ectopic pregnancies in in-vitro fertilization. Fertility and Woolcott 1997 {published data only} Lenz S, Leeton J, Rogers P, Trouson A. Transfundal transfer of embryos using ultrasound. Journal of In Vitro Fertilization and Embryo Transfer 1987;4(1):13-7. Lenz 1987b {published data only} by ultrasonically guided transabdominal puncture. Journal of In Yovich J, Turner S, Murphy A. Embryo transfer technique as a Lenz S, Leeton J. Evaluating the possibility of uterine transfer Yovich 1985 {published data only} Woolcott R, Stanger J. Potentially important variables identified by transvaginal ultrasound-guided embryo transfer. Human Reproduction 1997;12(5):963-6.</td><td>and Sterility 2001;76:75-6. Garzo 2006 {published data only} Garzo G. Embryo transfer technique. Clinical Obstetrics and Prapas 1995 {published data only} Prapas Y, Prapas N, Hatziparasidou A, Prapa S, Nijs M, Vanderzwalmen P, et al. The echoguide embryo transfer maximises the IVF results. Acta Europaea Fertilitatis Steptoe 1978 Steptoe PC, Edwards RG. Birth a er the reimplantation of a human embryo. The Lancet 1978;2:366. Gynecology 2006;49(1):117-22. 1995;26(3):113-5. Teixeira 2015 Gergely 2005 {published data only} Gergely R, DeUgarte C, Danzer H, Surrey M, Hill D, DeCherney A. Three dimensional/four dimensional ultrasound-guided embryo transfer using the maximal implantation potential point. Fertility and Sterility 2005;84(2):500-3. Ghazzawi 1999 {published data only} Fertility and Sterility 2014;8(3):249-54. 1999;14(3):677-82. on previously measured uterine length. International Journal of embryo expulsion and the outcome of IVF. Human Reproduction conventional blind embryo transfer and embryo transfer based and catheter choice influence the incidence of transcervical Saharkhiz N, Nikbakht R, Salehpour S. Comparison between Ghazzawi I, Hassani S, Karaki R, Souso S. Transfer technique Prapas 2001 {published data only} Teixeira DM, Dassuncao LA, Vieira CV, Barbosa MA, Coelho Saharkhiz 2014 {published data only} Prapas Y, Prapas N, Hatziparasidou A, Vanderzwalmen P, Nijs M, Prapa S, et al. Ultrasound-guided embryo transfer maximizes the IVF results on day 3 and day 4 embryo transfer but has no impact on day 5. Human Reproduction 2001;16(9):1904-8. Neto MA, Nastri CO, et al. Ultrasound guidance during embryo transfer: a systemtic review and meta-analysis of randomised controlled trials. Ultrasound in Obstetrics and Gynecology 2015;45(2):139-48.</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF9": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library Cochrane Library Cochrane Library Cochrane Library Cochrane Library</td><td colspan=\"2\">Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health.</td><td>Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews</td></tr><tr><td>Bar Hava 2003 Chen 2007 (Continued) Coroleu 2002 (Continued) Davar 2007 (Continued)</td><td/><td/></tr><tr><td>Methods Participants Risk of bias porting bias) Selective reporting (re-porting bias) Azmy 2009 Methods Notes All outcomes Selective reporting (re-</td><td/><td colspan=\"2\">131 women participating in this Israeli study attending an IVF programme. Age 31 +/-5.5 for UGET and Randomised controlled trial ment ter the positive pregnancy test Unclear risk No details of follow up to live birth, although adverse events were included Prospective randomised trial, no details of randomisation method. No details of allocation conceal-Clinical pregnancy confirmed by ultrasound scan showing at least 1 sac in the uterine cavity 2 weeks af-High risk No details on live birth were reported</td></tr><tr><td colspan=\"2\">Methods Participants Ammar 2013 Bias Interventions Random sequence genera-Davar 2007 Methods</td><td colspan=\"2\">Randomised controlled trial, single centre 853 women undergoing ICSI 33.2 +/-6.0 for clinical touch. No details of inclusion or exclusion criteria Authors' judgement Support for judgement Inclusion: &lt; 38 years, \u2264 BMI 30 kg/m 2 , basal FSH \u2264 12 IU/mL, embryo quality was \u2265 grade B on day 3 and Ultrasound-guided embryo transfer (n = 65) versus clinical touch (n = 66) number of fresh embryos replaced was \u2264 3 Low risk Randomised by means of a computer-generated random number sequence Randomised controlled trial</td></tr><tr><td>Participants Outcomes tion (selection bias) Methods Participants</td><td/><td colspan=\"2\">90 infertile women from Egypt Setting: ART unit in Cairo, Egypt Pregnancy and implantation rates Randomised controlled trial, single centre No details of inclusion or exclusion</td></tr><tr><td colspan=\"2\">Interventions Interventions Outcomes Notes Allocation concealment (selection bias) Participants Risk of bias Bias Random sequence genera-tion (selection bias) Blinding of participants and personnel (perfor-mance bias) All outcomes Blinding of outcome as-Interventions Notes Allocation concealment (selection bias) sessment (detection bias) Interventions All outcomes</td><td colspan=\"2\">Inclusion criteria: Women undergoing ICSI. Age 20 to 39 years, male factor infertility, ovarian factor, and unexplained infertility Exclusion criteria: Tubal factor infertility, endometriosis, FSH concentration &gt; 16 IU/mL on cycle day 3, less than 2 embryos grade A, difficult embryo transfer that needs cervical dilatation, tenaculum, or anaesthesia Setting: Maternity hospital, Egypt Timing: September 2009 to August 2011 Ultrasound-guided embryo transfer Timing: Not stated Ultrasound-guided embryo transfer (n = 435) versus Clinical touch (n = 418) Live birth, other outcomes were not prespecified but ease of transfer, implantation rate, miscarriage Unable to extract pregnancy data directly from abstract, authors contacted and awaiting response High risk No details 180 infertile women (20 to 39 years) undergoing treatment with IVF and ICSI. Only first embryo transfers No details of mean age or main reasons for or duration of infertility were included Authors' judgement Support for judgement Unclear risk No details of randomisation Unclear risk No details, but unlikely. Unlikely to affect participant outcomes, but may affect Setting : Women attending a centre for reproductive medicine in the UK No other details of inclusion or exclusion clinical performance of intervention Timing: February 2003 to May 2005 Setting: Centre for Infertility, Yazd, Iran Unclear risk Some women had more than 1 attempt at embryo transfer during the trial, therefore we used the data Timing: 2005 to 2006 for first attempts only, as this reflects per woman randomised No details rate, multiple pregnancy rate, ectopic pregnancy rate, preterm birth, chemical pregnancy rate No power calculation Unclear risk Fresh embryos transferred in all women Ultrasound-guided embryo transfer = 834 Unclear, no details Transabdominal ultrasound-guided embryo transfer with full bladder (n = 90) Clinical touch = 816</td></tr><tr><td>Outcomes Blinding of participants and personnel (perfor-mance bias) Incomplete outcome data (attrition bias) Outcomes All outcomes Notes Risk of bias All outcomes Blinding of outcome as-Selective reporting (re-porting bias) Outcomes Notes</td><td/><td colspan=\"2\">Clinical touch Primary outcomes were not prespecified. Outcomes listed as clinical pregnancy, ongoing pregnancy, ITT analysis: All women randomised appear to be analysed Funding -no details Unclear risk No details, but unlikely. Unlikely to affect participant outcomes, but may affect High risk No details of follow up to live birth. Does not appear to be any attrition versus Biochemical and clinical pregnancy and live birth; blood on catheter tip; ease of transfer; types of clinical performance of intervention catheter Clinical touch embryo transfer (n = 90) and miscarriage Sample size calculation -Not reported Unclear risk No details High risk No details of adverse events or live birth/ongoing pregnancies Biochemical pregnancy defined as positive beta-hCG, clinical pregnancy defined as the observation of Ease of transfer, clinical pregnancy, ongoing pregnancy, implantation rate, number of embryos trans-ferred, miscarriage rate foetal heart on ultrasound at 7 weeks gestation</td></tr><tr><td>Bias sessment (detection bias) All outcomes Notes</td><td/><td colspan=\"2\">ITT analysis -Yes Authors' judgement Support for judgement Sample size calculation -no details Sample size calculation -Yes based on pregnancy rates</td></tr><tr><td colspan=\"2\">Risk of bias Random sequence genera-tion (selection bias) Allocation concealment Incomplete outcome data (attrition bias) All outcomes Methods Coroleu 2000</td><td colspan=\"2\">Funding -No details of funding reported Unclear risk 'randomised'. No details Unclear risk No details High risk No pre-publication protocol identified Prospective randomised trial. No details of randomisation procedure ITT analysis -Yes ITT analysis -data available for all women randomised No details on funding Funding -UK government, NHS</td></tr><tr><td>Bias (selection bias) Selective reporting (re-Participants</td><td/><td colspan=\"2\">Authors' judgement Support for judgement High risk Did not follow up to live birth. No adverse events reported Study conducted in Spain. 362 women on the IVF embryo transfer programme</td></tr><tr><td colspan=\"2\">Random sequence genera-Blinding of participants porting bias) and personnel (perfor-tion (selection bias) Allocation concealment mance bias) All outcomes Random sequence genera-tion (selection bias) (selection bias) Blinding of participants and personnel (perfor-mance bias) All outcomes Blinding of outcome as-sessment (detection bias) All outcomes Methods Chen 2007 Interventions Allocation concealment Outcomes (selection bias) Blinding of outcome as-sessment (detection bias) All outcomes Incomplete outcome data (attrition bias) All outcomes Incomplete outcome data (attrition bias) Participants Blinding of participants Notes and personnel (perfor-mance bias) All outcomes Selective reporting (re-porting bias) All outcomes Risk of bias Interventions Bias Blinding of outcome as-sessment (detection bias) Random sequence genera-All outcomes tion (selection bias) Incomplete outcome data</td><td colspan=\"2\">Low risk Unclear risk Mean age 34.6 +/-4.0 (UGET), 34.5 +/-4.1 (clinical touch) No details, but unlikely. Unlikely to affect participant outcomes, but may affect Randomised by computer-generated random number table clinical performance of intervention Main causes of infertility were male and tubal for both UGET and clinical touch groups. No details on Low risk A nurse not involved with the recruitment kept the randomisation table duration of infertility Low risk 'computer-generated random table' No details of exclusion criteria Unclear risk No details, but unlikely. Unlikely to affect participant outcomes, but may affect Unclear risk No details Ultrasound-guided embryo transfer (n = 182) versus clinical touch (n = 180) Low risk The randomisation table was made and kept by a nurse who was not involved Randomised by means of a computer-generated random number sequence Embryos retrieved and transferred, pregnancy rate, ongoing pregnancies, pregnancy by embryos trans-in the recruitment of the women clinical performance of intervention Unclear risk No details Low risk All women randomised were analysed Low risk 50 women undergoing IVF in Taiwan ferred, ease of transfer, number of clinical pregnancies, implantation rate, adverse events Unclear risk Not reported, but unlikely to have occurred. Although blinding for this inter-All women randomised appear to be analysed Inclusion: At least 1 grade 2 embryo available for transfer; embryo to be transferred at the 8-cell stage vention is unlikely to affect the outcome for the woman, it might influence the Published data only researcher's performance Unclear risk Exclusion: Woman age \u2265 40 years; cleaved embryos with less than 8 cells; patient history of 3 previous failed assisted conception cycles; anticipated difficulty in the transfer Outcomes are not clearly prespecified Unclear risk No details Authors' judgement Support for judgement UGET = 27 women Unclear risk No details of randomisation Clinical touch = 23 women Low risk All women randomised appear to have been analysed</td></tr><tr><td>Selective reporting (re-porting bias) Outcomes Allocation concealment (selection bias) (attrition bias) All outcomes</td><td/><td>High risk Clinical pregnancy Unclear risk</td><td>All outcomes listed in the methods were reported on. Live birthrate not report-ed Unclear, no details</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF10": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library Cochrane Library Cochrane Library Cochrane Library</td><td colspan=\"2\">Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health.</td><td>Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews</td></tr><tr><td colspan=\"2\">Garcia-Velasco 2002 (Continued) Kosmas 2007 (Continued) Li 2005 (Continued) Matorras 2002 (Continued)</td><td/></tr><tr><td>Participants Notes Allocation concealment Interventions</td><td/><td colspan=\"2\">Study conducted in Spain on 374 infertile women Pregnancy rate -rising hCG level 2 weeks after embryo transfer Unclear risk Unclear, no details Ultrasound-guided embryo transfer (n = 255) versus clinical touch (n = 260)</td></tr><tr><td>(selection bias) Outcomes</td><td/><td colspan=\"2\">Mean age UGET 37.8 +/-0.3, mean age clinical touch 38.2 +/-0.4 Main causes of infertility were male and age-related factors. No details on duration of infertility Clinical pregnancy -pregnancy sac with a positive heartbeat at 7-week scan Fertilisation rate, embryos replaced, ease of transfer, clinical pregnancies, implantation rate, adverse</td></tr><tr><td>and personnel (perfor-Risk of bias Blinding of participants</td><td/><td colspan=\"2\">Inclusion: Recipients of oocyte donation programme and be undergoing embryo transfer of good-qual-ity embryos clinical performance of intervention Unclear risk No details, but unlikely. Unlikely to affect participant outcomes, but may affect events</td></tr><tr><td>Drakeley 2008 Interventions Bias All outcomes mance bias) Notes</td><td/><td colspan=\"2\">Ultrasound-guided embryo transfer (n = 187) versus clinical touch (n = 187) Authors' judgement Support for judgement Published data only</td></tr><tr><td colspan=\"2\">Outcomes Random sequence genera-Blinding of outcome as-Risk of bias</td><td colspan=\"2\">Embryos transferred, clinical pregnancies, implantation rate, adverse events Low risk Unclear risk No details Randomised using computer-generated sequence</td></tr><tr><td>Notes tion (selection bias) sessment (detection bias) All outcomes Bias</td><td/><td colspan=\"2\">Published data only Authors' judgement Support for judgement</td></tr><tr><td colspan=\"2\">Risk of bias Allocation concealment (selection bias) Incomplete outcome data (attrition bias) tion (selection bias) Random sequence genera-</td><td>Unclear risk Unclear risk Low risk</td><td>Randomisation list was kept in the embryo transfer room. Participant alloca-tion was done by an accompanying nurse not involved in the study No pre-publication protocol identified Computer-generated random table</td></tr><tr><td colspan=\"2\">Bias Random sequence genera-tion (selection bias) Blinding of participants and personnel (perfor-mance bias) All outcomes Allocation concealment Selective reporting (re-(selection bias) All outcomes porting bias) Blinding of participants</td><td colspan=\"2\">Authors' judgement Support for judgement Low risk Unclear risk No details, but unlikely. Unlikely to affect participant outcomes, but may affect Unclear risk Unclear, no details clinical performance of intervention High risk Did not follow up to live birth, no adverse events reported Randomised using permuted blocks Unclear risk No details, but unlikely. Unlikely to affect participant outcomes, but may affect</td></tr><tr><td>Allocation concealment (selection bias) Blinding of outcome as-All outcomes All outcomes sessment (detection bias) mance bias) and personnel (perfor-</td><td/><td>Low risk Unclear risk</td><td>Adequate opaque, sealed envelopes No details clinical performance of intervention</td></tr><tr><td>Blinding of participants and personnel (perfor-mance bias) All outcomes Incomplete outcome data (attrition bias) All outcomes Participants All outcomes Methods sessment (detection bias) Maldonado 2005 Blinding of outcome as-</td><td/><td colspan=\"2\">Unclear risk Unclear risk 26 Brazilian women Randomised controlled trial No details, but unlikely. Unlikely to affect participant outcomes, but may affect clinical performance of intervention groups; recruitment was halted at n = 300. There was no loss to follow-up detect a difference. After an interim analysis found no difference between the ITT analysis. A power calculation suggested a sample of 772 was required to Unclear risk No details</td></tr><tr><td>Blinding of outcome as-sessment (detection bias) All outcomes Selective reporting (re-porting bias) All outcomes (attrition bias) Incomplete outcome data</td><td/><td colspan=\"2\">Unclear risk High risk Exclusion criteria: No details No details Not followed up to live birth. Details of adverse events included, although not mentioned in methods section Inclusion criteria: Women attending clinic for infertility Unclear risk No pre-publication protocol identified</td></tr><tr><td>Incomplete outcome data porting bias) Selective reporting (re-</td><td/><td colspan=\"2\">Unclear risk Setting: Fertility centre in Brazil No pre-study protocol identified Low risk Main outcomes discussed</td></tr><tr><td>(attrition bias) All outcomes Li 2005</td><td/><td>Timing: Not stated</td></tr><tr><td>Methods Interventions</td><td/><td colspan=\"2\">Prospective randomised trial. Randomly divided on day of transfer Ultrasound-guided embryo transfer no hysterosonometry (n = 13)</td></tr><tr><td>Selective reporting (re-porting bias) Participants</td><td/><td colspan=\"2\">High risk 330 infertile Chinese women Not followed up to live birth versus</td></tr><tr><td colspan=\"2\">Random sequence genera-tion (selection bias) Methods Outcomes Participants</td><td colspan=\"2\">Low risk Mean age UGET group 32.2 +/-3.9 years, clinical touch group 32.5 +/-4.2 Main cause of infertility was tubal and male factors in both groups, duration of infertility was 5.8 +/-2.1 Prospective randomised trial. No details of randomisation method or allocation concealment Hysterosonometry followed by clinical touch embryo transfer (n = 13) Block randomisation with random block size using computer randomisation software. Randomisation stratified for age and fresh/frozen embryos years for UGET and 5.6 +/-1.6 years for clinical touch Inclusion: 28 to 41 years of age undergoing treatment with IVF (including ICSI) Not prespecified in the conference abstract Mexican/USA study of 67 women. No details of inclusion or exclusion</td></tr><tr><td>Allocation concealment (selection bias) Methods Kosmas 2007 Notes Interventions Interventions Outcomes</td><td/><td colspan=\"2\">Low risk No details of exclusion criteria Randomisation codes were prepared independently from the authors by the hospital research and development office and allocations sealed in 4 differ-ent-coloured, sequentially numbered envelopes Ultrasound-guided embryo transfer (n = 33) versus clinical touch (n = 34) Sample size calculation -No Prospective randomised trial. Randomisation was computer generated Ultrasound-guided embryo transfer (n = 178) versus clinical touch (n = 152) ITT analysis -Unclear as conference abstract Pregnancy and implantation rates</td></tr><tr><td>Blinding of participants and personnel (perfor-mance bias) All outcomes Participants Outcomes Notes Notes Risk of bias Risk of bias</td><td/><td colspan=\"2\">Unclear risk Study conducted in Belgium on 196 women. Women undergoing IVF or ICSI. Aged less than 40 years Not reported, but unlikely to have occurred. Although blinding for this inter-who had undergone fresh, non-donor embryo transfer. BMI 20 to 30 kg/m 2 . Women with previous cervi-Embryos transferred, clinical pregnancies, implantation rate Funding -Not reported in abstract Conference abstract only. Authors contacted, no response vention is unlikely to affect the outcome for the woman, it might influence the researcher's performance cal surgery for cervical intraepithelial neoplasia excluded. Mean age UGET 32.05 +/-4.31 years, clinical touch group 32.31 +/-3.92 years. Over 80% of women were undergoing ICSI Published data only</td></tr><tr><td>Blinding of outcome as-Risk of bias Bias Bias</td><td/><td colspan=\"2\">Unclear risk Mean duration of infertility for the UGET group was 3.19 +/-2.25 years, and the main cause of infertility No details was male factor (54%). Mean duration of infertility for the clinical touch group was 3.37 +/-2.67 years, Authors' judgement Support for judgement Authors' judgement Support for judgement</td></tr><tr><td colspan=\"2\">sessment (detection bias) All outcomes Interventions Bias Random sequence genera-Random sequence genera-tion (selection bias) tion (selection bias) Random sequence genera-</td><td colspan=\"2\">and the main cause of infertility was male factor (65.3%) Ultrasound-guided embryo transfer (n = 150) Authors' judgement Support for judgement Unclear risk Randomly divided on day of transfer, no details Unclear risk 'randomised', no other details Low risk 'Randomised', no details</td></tr><tr><td>Incomplete outcome data (attrition bias) Outcomes All outcomes tion (selection bias) Allocation concealment (selection bias) (selection bias) Allocation concealment</td><td/><td colspan=\"2\">Embryos transferred, implantation rates and pregnancy rates, adverse events, difficulty of transfer Unclear risk Analysis by ITT, follow to live birth, no details of adverse events such as miscar-riage Clinical touch embryo transfer (n = 150) Unclear risk No details Unclear risk Unclear, no details</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF11": {
+                "text": "Copyright \u00a9 2016 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library</td><td>Trusted evidence. Informed decisions. Better health.</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF12": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library</td><td colspan=\"2\">Trusted evidence. Informed decisions. Better health.</td><td>Cochrane Database of Systematic Reviews</td></tr><tr><td>Wisanto 1989 (Continued)</td><td/><td/></tr><tr><td>Participants</td><td/><td colspan=\"2\">200 women undergoing fresh embryo transfer for infertility</td></tr><tr><td/><td/><td>No exclusion details</td></tr><tr><td/><td/><td colspan=\"2\">Mean age 32.8 +/-5 for UGET, 32.2 +/-4.4 for clinical touch</td></tr><tr><td/><td/><td colspan=\"2\">Main cause of infertility was tubal</td></tr><tr><td>Interventions</td><td/><td colspan=\"2\">Ultrasound-guided embryo transfer (n = 100) versus clinical touch (n = 100)</td></tr><tr><td>Weissman 2003 Outcomes</td><td/><td colspan=\"2\">Pregnancy rates, adverse events, ease of transfer</td></tr><tr><td>Notes</td><td/><td colspan=\"2\">Study was a trial comparing 3 catheter types, only part of the study compared ultrasound guidance and</td></tr><tr><td/><td/><td colspan=\"2\">clinical touch, the data for this has been abstracted separately from the rest of the study</td></tr><tr><td>Risk of bias</td><td/><td/></tr><tr><td>Bias</td><td/><td colspan=\"2\">Authors' judgement Support for judgement</td></tr><tr><td colspan=\"2\">Random sequence genera-</td><td>Low risk</td><td>Tables of randomly selected numbers</td></tr><tr><td>tion (selection bias)</td><td/><td/></tr><tr><td>Allocation concealment</td><td/><td>Unclear risk</td><td>Unclear, no details</td></tr><tr><td>(selection bias)</td><td/><td/></tr><tr><td>Blinding of participants</td><td/><td>Unclear risk</td><td>No details, but unlikely. Unlikely to affect participant outcomes, but may affect</td></tr><tr><td>and personnel (perfor-</td><td/><td/><td>clinical performance of intervention</td></tr><tr><td>mance bias)</td><td/><td/></tr><tr><td>All outcomes</td><td/><td/></tr><tr><td>Blinding of outcome as-</td><td/><td>Unclear risk</td><td>No details</td></tr><tr><td>sessment (detection bias)</td><td/><td/></tr><tr><td>All outcomes</td><td/><td/></tr><tr><td colspan=\"2\">Random sequence genera-</td><td>Unclear risk</td><td>No details of randomisation process</td></tr><tr><td>tion (selection bias) Incomplete outcome data</td><td/><td>High risk</td><td>Conference abstract, not fully published</td></tr><tr><td>(attrition bias)</td><td/><td/></tr><tr><td>Allocation concealment All outcomes</td><td/><td>Unclear risk</td><td>Unclear, no details</td></tr><tr><td>(selection bias)</td><td/><td/></tr><tr><td>Selective reporting (re-</td><td/><td>High risk</td><td>Not followed up to live birth</td></tr><tr><td>Blinding of participants porting bias)</td><td/><td>Unclear risk</td><td>No details, but unlikely. Unlikely to affect participant outcomes, but may affect</td></tr><tr><td>and personnel (perfor-</td><td/><td/><td>clinical performance of intervention</td></tr><tr><td>mance bias)</td><td/><td/></tr><tr><td>All outcomes</td><td/><td/></tr><tr><td>Blinding of outcome as-</td><td/><td>Unclear risk</td><td>No details</td></tr><tr><td>sessment (detection bias) All outcomes Methods</td><td/><td colspan=\"2\">Randomised to 2 groups -no details</td></tr><tr><td>Incomplete outcome data (attrition bias) Participants</td><td/><td colspan=\"2\">High risk Women attending medical centre in the Czech Republic; no details of inclusion or exclusion criteria, in-Conference abstract, not fully published fertility causes or duration</td></tr><tr><td>All outcomes Interventions</td><td/><td>UGET = 308</td></tr><tr><td>Selective reporting (re-porting bias)</td><td/><td>High risk Clinical touch = 309</td><td>Not followed up to live birth</td></tr><tr><td>Outcomes</td><td/><td>Clinical pregnancies</td></tr><tr><td>Notes</td><td/><td>No definitions</td></tr><tr><td>Methods Wisanto 1989 Risk</td><td/><td colspan=\"2\">Prospective randomised trial. Randomisation using tables of random sampling numbers</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF13": {
+                "text": "Copyright \u00a9 2016 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td colspan=\"2\">Cochrane Library Cochrane Library Cochrane Library</td><td colspan=\"2\">Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health.</td><td>Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews</td></tr><tr><td colspan=\"4\">Study Study Comparison 1. Ultrasound-guided embryo transfer versus 'clinical touch' Reason for exclusion Reason for exclusion</td></tr><tr><td colspan=\"3\">Cruickshank 2003 Lorusso 2005 Outcome or subgroup title</td><td>Cohort study, not a randomised trial pants Randomised trial but not comparing ultrasound with clinical touch No. of studies No. of partici-Statistical method</td><td>Effect size</td></tr><tr><td colspan=\"3\">Deep 2013 Martinez 2001 cy (per woman randomised) 1 Live birth and ongoing pregnan-</td><td>Comparison was abdominal versus transvaginal ultrasound, therefore both groups had ultra-sound-guided embryo transfer Randomised trial of ultrasound-guided embryo transfer, however main outcome was immediate CI) withdrawal versus a 30-second delay 13 5859 Odds Ratio (M-H, Fixed, 95% 1.47 [1.30, 1.65]</td></tr><tr><td>Englert 1986 Parsons 1987 1.1 Live birth</td><td/><td/><td>Characteristics of replacement procedure, however did not compare with ultrasound transfer Paper of case reports of ultrasound-directed surgical embryo transfer. Not randomised trial 4 3117 Odds Ratio (M-H, Fixed, 95% 1.53 [1.29, 1.80]</td></tr><tr><td>Eskander 2007 Porat 2010</td><td/><td/><td>Conference proceeding superceded by full publication Comparison was abdominal versus transvaginal ultrasound, therefore both groups had ultra-CI)</td></tr><tr><td colspan=\"2\">Faure 1998 Prapas 1995 1.2 Ongoing pregnancy</td><td/><td>Ultrasound-guided embryo transfer, study was not a randomised trial and choice of transfer type CI) Abstract only. Attempts to contact authors on multiple occasions. No response received sound-guided embryo transfer 9 2742 Odds Ratio (M-H, Fixed, 95% 1.40 [1.19, 1.66]</td></tr><tr><td colspan=\"4\">Flisser 2006 2 Clinical pregnancies (per woman Transabdominal ultrasound-assisted transfer, but design was retrospective was dependent on the room available for the procedure 20 6711 Odds Ratio (M-H, Fixed, 95%</td><td>1.31 [1.17, 1.45]</td></tr><tr><td>Garcia-Velasco 2001 Prapas 2001 randomised)</td><td/><td/><td>Study excluded because of duplication of data with Garcia-Velasco 2002 Ultrasound-guided embryo transfer, study was not a randomised trial and choice of transfer type CI)</td></tr><tr><td colspan=\"3\">Garzo 2006 Saharkhiz 2014 woman randomised) 3 Multiple pregnancies (per</td><td>There was no ultrasound guidance at the time of embryo transfer in the intervention group. Ultra-CI) Paper is a review of transfer techniques not a clinical trial was dependent on the room available for the procedure 8 3379 Odds Ratio (M-H, Fixed, 95% 1.13 [0.87, 1.45]</td></tr><tr><td colspan=\"3\">Gergely 2005 4 Miscarriage (per woman ran-</td><td>Used ultrasound guidance for embryo transfer, but study was retrospective sound had been previously performed to measure uterine length 11 4053 Odds Ratio (M-H, Fixed, 95%</td><td>0.99 [0.74, 1.31]</td></tr><tr><td colspan=\"3\">Ghazzawi 1999 Sallam 2001 domised) 5 Ectopic pregnancy (per woman</td><td>CI) Ultrasound measurement of the uterocervical angle before embryo transfer, study rejected as allo-Paper reports on catheter type, not comparing ultrasound guidance and clinical touch cation was done alternately, not randomised 8 3761 Odds Ratio (M-H, Fixed, 95% 0.64 [0.28, 1.49]</td></tr><tr><td>Hauzman 2012 Sallam 2002a randomised) 6 Blood on catheter</td><td/><td/><td>Comparison was abdominal versus transvaginal ultrasound, therefore both groups had ultra-CI) Ultrasound measurement of the uterocervical angle before embryo transfer, study rejected as allo-sound-guided embryo transfer cation was done alternately, not randomised 5 2780 Odds Ratio (M-H, Fixed, 95% 1.00 [0.77, 1.30]</td></tr><tr><td>Hurley 1991 Sasy 2003</td><td/><td/><td>Randomised trial of ultrasound versus clinical touch. However, randomisation for this study was based on availability of authors Retrospective study comparing ultrasound-guided embryo transfer and tubal embryo transfer CI)</td></tr><tr><td colspan=\"3\">Kan 1999 Scholtes 1994 7 Not considered an easy transfer</td><td>of the week menstrual bleeding started. Also not compared with clinical touch dent upon the availability of ultrasound trasound versus intrauterine transfer of 4-to 8-cell embryos. Randomisation was dependent on day Prospective controlled study of ultrasound versus clinical touch, but randomisation was depen-Randomised trial of transcervical intrafallopian transfer of pronucleate embryos controlled by ul-10 4295 Risk Ratio (M-H, Fixed, 95% CI) 0.69 [0.57, 0.82]</td></tr><tr><td>Karande 2002 Shamonki 2005</td><td colspan=\"3\">Randomised comparison of catheter types using ultrasound but not comparing it with clinical touch Study looking at accuracy of transfer, not a randomised trial Analysis 1.1.</td></tr><tr><td>Kojima 2001 Silberstein 2005</td><td/><td/><td>Ultrasound-guided mid-uterine cavity embryo transfer, retrospective analysis of effectiveness, but Retrospective study using ultrasound did not compare with clinical touch</td></tr><tr><td>Kolankaya 2001 Strickler 1985</td><td/><td/><td>Not a randomised trial, retrospective analysis Ultrasound guidance for human embryo transfer, not a randomised trial</td></tr><tr><td>Kosmas 2006a Wood 2000</td><td/><td/><td>Conference abstract superceded by full publication Retrospective analysis of ultrasound and embryo transfers</td></tr><tr><td>Kreiner 2000 Woolcott 1997</td><td/><td/><td>Prospective randomised trial using ultrasound to replace embryos at a specific point, does not Evaluating transvaginal ultrasound-guided embryo transfer, not a randomised controlled trial and compare with clinical touch not compared with clinical touch</td></tr><tr><td>Lenz 1987a Yovich 1985</td><td/><td/><td>Transfundal transfer of embryos using ultrasound. Not a randomised trial and not comparing with clinical touch Evaluating embryo transfer technique, but does not compare ultrasound with clinical touch</td></tr><tr><td>Lenz 1987b</td><td/><td/><td>Transfundal transfer of embryos using ultrasound. Not a randomised trial and not comparing with</td></tr><tr><td/><td/><td/><td>clinical touch</td></tr><tr><td colspan=\"3\">Leong 1986 D A T A A N D A N A L Y S E S</td><td>Describes technique, not a randomised trial</td></tr><tr><td>Lesny 1998</td><td/><td/><td>Study was based on mock transfers without embryos</td></tr><tr><td>Letterie 2005</td><td/><td/><td>Compares 2D and 3D ultrasound transfer, not a randomised controlled trial</td></tr><tr><td>Lindheim 1999</td><td/><td/><td>Retrospective analysis of women undergoing ultrasound-guided embryo transfer</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF14": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Azmy 2009</td><td>181/435</td><td>80/418</td><td/><td>10.37%</td><td>3.01[2.21,4.1]</td></tr><tr><td>Drakeley 2008</td><td>190/834</td><td>187/815</td><td/><td>31.8%</td><td>0.99[0.79,1.25]</td></tr><tr><td>Martins 2004</td><td>23/50</td><td>17/50</td><td/><td>2%</td><td>1.65[0.74,3.71]</td></tr><tr><td>Matorras 2002</td><td>56/255</td><td>36/260</td><td/><td>6.06%</td><td>1.75[1.11,2.77]</td></tr><tr><td>Subtotal (95% CI)</td><td>1574</td><td>1543</td><td/><td>50.22%</td><td>1.53[1.29,1.8]</td></tr><tr><td>Total events: 450 (UGET), 320 (CTET)</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Heterogeneity: Tau =0; Chi =32.47, df=3(P&lt;0.0001); I =90.76%</td><td/><td/><td/></tr><tr><td>Test for overall effect: Z=5.03(P&lt;0.0001)</td><td/><td/><td/><td/></tr><tr><td>1.1.2 Ongoing pregnancy</td><td/><td/><td/><td/></tr><tr><td>Ammar 2013</td><td>9/45</td><td>5/45</td><td/><td>0.87%</td><td>2[0.61,6.52]</td></tr><tr><td>Coroleu 2000</td><td>85/182</td><td>52/180</td><td/><td>6.07%</td><td>2.16[1.4,3.33]</td></tr><tr><td>Davar 2007</td><td>17/90</td><td>11/90</td><td/><td>1.94%</td><td>1.67[0.73,3.81]</td></tr><tr><td>Eskander 2008</td><td>68/183</td><td>50/190</td><td/><td>6.71%</td><td>1.66[1.07,2.57]</td></tr><tr><td>Garcia-Velasco 2002</td><td>100/187</td><td>94/187</td><td/><td>9.52%</td><td>1.14[0.76,1.71]</td></tr><tr><td>Kosmas 2007</td><td>36/101</td><td>38/95</td><td/><td>5.49%</td><td>0.83[0.47,1.48]</td></tr><tr><td/><td colspan=\"2\">Favours CTET</td><td>1 1 1</td><td>Favours UGET</td></tr><tr><td>Ultrasound versus '</td><td/><td/><td/><td/></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF15": {
+                "text": "Copyright \u00a9 2016 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library</td><td>Trusted evidence. Informed decisions. Better health.</td><td/><td/><td colspan=\"2\">Cochrane Database of Systematic Reviews</td></tr><tr><td>Study or subgroup</td><td>UGET</td><td>CTET</td><td>Odds Ratio</td><td>Weight</td><td>Odds Ratio</td></tr><tr><td/><td>n/N</td><td>n/N</td><td>M-H, Fixed, 95% CI</td><td/><td>M-H, Fixed, 95% CI</td></tr><tr><td>Marconi 2003</td><td>22/41</td><td>12/42</td><td/><td>1.2%</td><td>2.89[1.17,7.18]</td></tr><tr><td>Tang 2001</td><td>94/400</td><td>76/400</td><td/><td>12.66%</td><td>1.31[0.93,1.84]</td></tr><tr><td>Weissman 2003</td><td>36/160</td><td>28/124</td><td/><td>5.32%</td><td>1[0.57,1.74]</td></tr><tr><td>Subtotal (95% CI)</td><td>1389</td><td>1353</td><td/><td>49.78%</td><td>1.4[1.19,1.66]</td></tr><tr><td colspan=\"2\">Total events: 467 (UGET), 366 (CTET)</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Heterogeneity: Tau =0; Chi =13.05, df=8(P=0.11); I =38.7%</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Test for overall effect: Z=3.95(P&lt;0.0001)</td><td/><td/><td/><td/></tr><tr><td>Total (95% CI)</td><td>2963</td><td>2896</td><td/><td>100%</td><td>1.47[1.3,1.65]</td></tr><tr><td colspan=\"2\">Total events: 917 (UGET), 686 (CTET)</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Heterogeneity: Tau =0; Chi =45.91, df=12(P&lt;0.0001); I =73.86%</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Test for overall effect: Z=6.36(P&lt;0.0001)</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Test for subgroup differences: Chi =0.48, df=1 (P=0.49), I =0%</td><td/><td/><td/><td/></tr><tr><td/><td colspan=\"2\">Favours CTET</td><td>1 1 1</td><td>Favours UGET</td><td/></tr><tr><td/><td>Analysis 1.2.</td><td/><td/><td/><td/></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF16": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Study or subgroup</td><td>UGET</td><td>Clinical touch</td><td/><td/><td>Odds Ratio</td><td>Weight</td><td>Odds Ratio</td></tr><tr><td/><td>n/N</td><td>n/N</td><td/><td colspan=\"2\">M-H, Fixed, 95% CI</td><td>M-H, Fixed, 95% CI</td></tr><tr><td>Ammar 2013</td><td>10/45</td><td>7/45</td><td/><td/><td/><td>0.92%</td><td>1.55[0.53,4.52]</td></tr><tr><td>Bar Hava 2003</td><td>22/65</td><td>15/66</td><td/><td/><td/><td>1.67%</td><td>1.74[0.8,3.76]</td></tr><tr><td>Chen 2007</td><td>5/27</td><td>4/23</td><td/><td/><td/><td>0.6%</td><td>1.08[0.25,4.61]</td></tr><tr><td>Coroleu 2000</td><td>91/182</td><td>61/180</td><td/><td/><td/><td>5.2%</td><td>1.95[1.28,2.98]</td></tr><tr><td>Coroleu 2002</td><td>32/93</td><td>18/91</td><td/><td/><td/><td>2.02%</td><td>2.13[1.09,4.16]</td></tr><tr><td>Davar 2007</td><td>19/90</td><td>14/90</td><td/><td/><td/><td>1.87%</td><td>1.45[0.68,3.11]</td></tr><tr><td>Drakeley 2008</td><td>207/834</td><td>204/815</td><td/><td/><td/><td>26.28%</td><td>0.99[0.79,1.24]</td></tr><tr><td>Eskander 2008</td><td>75/183</td><td>54/190</td><td/><td/><td/><td>5.3%</td><td>1.75[1.14,2.69]</td></tr><tr><td>Garcia-Velasco 2002</td><td>112/187</td><td>103/187</td><td/><td/><td/><td>7%</td><td>1.22[0.81,1.84]</td></tr><tr><td>Kosmas 2007</td><td>63/150</td><td>63/150</td><td/><td/><td/><td>6.19%</td><td>1[0.63,1.58]</td></tr><tr><td>Li 2005</td><td>66/178</td><td>38/152</td><td/><td/><td/><td>4.37%</td><td>1.77[1.1,2.85]</td></tr><tr><td>Maldonado 2005</td><td>5/13</td><td>10/13</td><td/><td/><td/><td>1.04%</td><td>0.19[0.03,1.03]</td></tr><tr><td>Marconi 2003</td><td>25/41</td><td>15/42</td><td/><td/><td/><td>0.98%</td><td>2.81[1.15,6.85]</td></tr><tr><td>Martins 2004</td><td>21/50</td><td>15/50</td><td/><td/><td/><td>1.47%</td><td>1.69[0.74,3.86]</td></tr><tr><td>Matorras 2002</td><td>67/255</td><td>47/260</td><td/><td/><td/><td>5.81%</td><td>1.62[1.06,2.46]</td></tr><tr><td>Moraga_x002d_Sanchez 2004</td><td>21/33</td><td>13/34</td><td/><td/><td/><td>0.79%</td><td>2.83[1.05,7.61]</td></tr><tr><td>Tang 2001</td><td>104/400</td><td>90/400</td><td/><td/><td/><td>11.28%</td><td>1.21[0.88,1.67]</td></tr><tr><td>Weissman 2003</td><td>49/160</td><td>39/124</td><td/><td/><td/><td>5.16%</td><td>0.96[0.58,1.6]</td></tr><tr><td>Wisanto 1989</td><td>19/98</td><td>9/98</td><td/><td/><td/><td>1.23%</td><td>2.38[1.02,5.56]</td></tr><tr><td>Zakova 2008</td><td>105/308</td><td>97/309</td><td/><td/><td/><td>10.81%</td><td>1.13[0.81,1.58]</td></tr><tr><td>Total (95% CI)</td><td>3392</td><td>3319</td><td/><td/><td/><td>100%</td><td>1.31[1.17,1.45]</td></tr><tr><td colspan=\"2\">Total events: 1118 (UGET), 916 (Clinical touch)</td><td/><td/><td/><td/></tr><tr><td colspan=\"3\">Heterogeneity: Tau =0; Chi =32.68, df=19(P=0.03); I =41.86%</td><td/><td/><td/></tr><tr><td>Test for overall effect: Z=4.91(P&lt;0.0001)</td><td/><td/><td/><td/><td/></tr><tr><td/><td/><td>UGET</td><td>0.05</td><td>0.2</td><td>1</td><td>5</td><td>20</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF17": {
+                "text": "Copyright \u00a9 2016 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library</td><td>Trusted evidence. Informed decisions. Better health.</td><td>Cochrane Database of Systematic Reviews</td></tr><tr><td/><td>Analysis 1.3.</td><td/></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF18": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Study or subgroup</td><td>UGET</td><td>Clinical touch</td><td/><td colspan=\"2\">Odds Ratio</td><td/><td>Weight</td><td>Odds Ratio</td></tr><tr><td/><td>n/N</td><td>n/N</td><td/><td colspan=\"3\">M-H, Fixed, 95% CI</td><td>M-H, Fixed, 95% CI</td></tr><tr><td>Azmy 2009</td><td>48/435</td><td>50/418</td><td/><td/><td/><td/><td>40.49%</td><td>0.91[0.6,1.39]</td></tr><tr><td>Coroleu 2002</td><td>6/93</td><td>6/91</td><td/><td/><td/><td/><td>5.06%</td><td>0.98[0.3,3.15]</td></tr><tr><td>Davar 2007</td><td>0/90</td><td>0/90</td><td/><td/><td/><td/><td>Not estimable</td></tr><tr><td>Eskander 2008</td><td>3/183</td><td>2/190</td><td/><td/><td/><td/><td>1.72%</td><td>1.57[0.26,9.49]</td></tr><tr><td>Garcia-Velasco 2002</td><td>24/187</td><td>25/187</td><td/><td/><td/><td/><td>19.45%</td><td>0.95[0.52,1.74]</td></tr><tr><td>Martins 2004</td><td>6/50</td><td>7/50</td><td/><td/><td/><td/><td>5.5%</td><td>0.84[0.26,2.7]</td></tr><tr><td>Matorras 2002</td><td>22/255</td><td>14/260</td><td/><td/><td/><td/><td>11.31%</td><td>1.66[0.83,3.32]</td></tr><tr><td>Tang 2001</td><td>31/400</td><td>20/400</td><td/><td/><td/><td/><td>16.47%</td><td>1.6[0.89,2.85]</td></tr><tr><td>Total (95% CI)</td><td>1693</td><td>1686</td><td/><td/><td/><td/><td>100%</td><td>1.13[0.87,1.45]</td></tr><tr><td colspan=\"2\">Total events: 140 (UGET), 124 (Clinical touch)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Heterogeneity: Tau =0; Chi =4.27, df=6(P=0.64); I =0%</td><td/><td/><td/><td/><td/></tr><tr><td>Test for overall effect: Z=0.93(P=0.35)</td><td/><td/><td/><td/><td/><td/></tr><tr><td/><td/><td>Favours UGET</td><td>0.2</td><td>0.5</td><td>1</td><td>2</td><td>5</td><td>Favours CTET</td></tr><tr><td colspan=\"2\">Analysis 1.4.</td><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF19": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Study or subgroup</td><td>UGET</td><td>Clinical touch</td><td/><td/><td>Odds Ratio</td><td/><td>Weight</td><td>Odds Ratio</td></tr><tr><td/><td>n/N</td><td>n/N</td><td/><td/><td>M-H, Fixed, 95% CI</td><td/><td>M-H, Fixed, 95% CI</td></tr><tr><td>Ammar 2013</td><td>1/45</td><td>2/45</td><td/><td/><td/><td/><td>2.04%</td><td>0.49[0.04,5.59]</td></tr><tr><td>Azmy 2009</td><td>43/435</td><td>38/418</td><td/><td/><td/><td/><td>36.36%</td><td>1.1[0.69,1.74]</td></tr><tr><td>Coroleu 2002</td><td>7/93</td><td>4/91</td><td/><td/><td/><td/><td>3.89%</td><td>1.77[0.5,6.27]</td></tr><tr><td>Davar 2007</td><td>2/90</td><td>3/90</td><td/><td/><td/><td/><td>3.05%</td><td>0.66[0.11,4.04]</td></tr><tr><td>Eskander 2008</td><td>5/183</td><td>4/190</td><td/><td/><td/><td/><td>3.97%</td><td>1.31[0.35,4.94]</td></tr><tr><td>Garcia-Velasco 2002</td><td>12/187</td><td>10/187</td><td/><td/><td/><td/><td>9.74%</td><td>1.21[0.51,2.88]</td></tr><tr><td>Kosmas 2007</td><td>4/150</td><td>6/150</td><td/><td/><td/><td/><td>6.08%</td><td>0.66[0.18,2.38]</td></tr><tr><td>Martins 2004</td><td>2/50</td><td>7/50</td><td/><td/><td/><td/><td>7%</td><td>0.26[0.05,1.3]</td></tr><tr><td>Matorras 2002</td><td>10/255</td><td>10/260</td><td/><td/><td/><td/><td>9.91%</td><td>1.02[0.42,2.49]</td></tr><tr><td>Tang 2001</td><td>8/400</td><td>10/400</td><td/><td/><td/><td/><td>10.2%</td><td>0.8[0.31,2.04]</td></tr><tr><td>Weissman 2003</td><td>9/160</td><td>7/124</td><td/><td/><td/><td/><td>7.75%</td><td>1[0.36,2.75]</td></tr><tr><td>Total (95% CI)</td><td>2048</td><td>2005</td><td/><td/><td/><td/><td>100%</td><td>0.99[0.74,1.31]</td></tr><tr><td colspan=\"2\">Total events: 103 (UGET), 101 (Clinical touch)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Heterogeneity: Tau =0; Chi =5.17, df=10(P=0.88); I =0%</td><td/><td/><td/><td/><td/></tr><tr><td>Test for overall effect: Z=0.1(P=0.92)</td><td/><td/><td/><td/><td/><td/></tr><tr><td/><td/><td>Favours UGET</td><td>0.05</td><td>0.2</td><td>1</td><td>5</td><td>20</td><td>Favours CTET</td></tr><tr><td colspan=\"2\">Analysis 1.5.</td><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF20": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Study or subgroup</td><td>UGET</td><td>Clinical touch</td><td/><td/><td>Odds Ratio</td><td/><td>Weight</td><td>Odds Ratio</td></tr><tr><td/><td>n/N</td><td>n/N</td><td/><td colspan=\"3\">M-H, Fixed, 95% CI</td><td>M-H, Fixed, 95% CI</td></tr><tr><td>Azmy 2009</td><td>0/435</td><td>0/418</td><td/><td/><td/><td/><td>Not estimable</td></tr><tr><td/><td/><td>Favours UGET</td><td>0.005</td><td>0.1</td><td>1</td><td>10</td><td>200</td><td>Favours CTET</td></tr><tr><td>Ultrasound versus '</td><td/><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF21": {
+                "text": "Copyright \u00a9 2016 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library</td><td>Trusted evidence. Informed decisions. Better health.</td><td/><td/><td/><td/><td/><td>Cochrane Database of Systematic Reviews</td></tr><tr><td>Study or subgroup</td><td>UGET</td><td>Clinical touch</td><td/><td/><td>Odds Ratio</td><td/><td>Weight</td><td>Odds Ratio</td></tr><tr><td/><td>n/N</td><td>n/N</td><td/><td colspan=\"3\">M-H, Fixed, 95% CI</td><td>M-H, Fixed, 95% CI</td></tr><tr><td>Coroleu 2000</td><td>1/182</td><td>1/180</td><td/><td/><td/><td/><td>7.19%</td><td>0.99[0.06,15.93]</td></tr><tr><td>Coroleu 2002</td><td>0/93</td><td>0/91</td><td/><td/><td/><td/><td>Not estimable</td></tr><tr><td>Eskander 2008</td><td>1/183</td><td>0/190</td><td/><td/><td/><td/><td>3.5%</td><td>3.13[0.13,77.37]</td></tr><tr><td>Garcia-Velasco 2002</td><td>0/187</td><td>5/187</td><td/><td/><td/><td/><td>39.44%</td><td>0.09[0,1.61]</td></tr><tr><td>Kosmas 2007</td><td>2/150</td><td>2/150</td><td/><td/><td/><td/><td>14.19%</td><td>1[0.14,7.19]</td></tr><tr><td>Matorras 2002</td><td>2/255</td><td>1/260</td><td/><td/><td/><td/><td>7.06%</td><td>2.05[0.18,22.72]</td></tr><tr><td>Tang 2001</td><td>2/400</td><td>4/400</td><td/><td/><td/><td/><td>28.62%</td><td>0.5[0.09,2.73]</td></tr><tr><td>Total (95% CI)</td><td>1885</td><td>1876</td><td/><td/><td/><td/><td>100%</td><td>0.64[0.28,1.49]</td></tr><tr><td colspan=\"2\">Total events: 8 (UGET), 13 (Clinical touch)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Heterogeneity: Tau =0; Chi =3.99, df=5(P=0.55); I =0%</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Test for overall effect: Z=1.03(P=0.3)</td><td/><td/><td/><td/><td/></tr><tr><td/><td/><td>Favours UGET</td><td>0.005</td><td>0.1</td><td>1</td><td>10</td><td>200</td><td>Favours CTET</td></tr><tr><td/><td colspan=\"2\">Analysis 1.6.</td><td/><td/><td/><td/></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF22": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Study or subgroup</td><td>UGET</td><td>Clinical touch</td><td/><td/><td colspan=\"3\">Odds Ratio</td><td/><td>Weight</td><td>Odds Ratio</td></tr><tr><td/><td>n/N</td><td>n/N</td><td/><td/><td colspan=\"3\">M-H, Fixed, 95% CI</td><td/><td>M-H, Fixed, 95% CI</td></tr><tr><td>Coroleu 2002</td><td>2/93</td><td>6/91</td><td/><td/><td/><td/><td/><td/><td>5.34%</td><td>0.31[0.06,1.58]</td></tr><tr><td>Drakeley 2008</td><td>89/834</td><td>86/815</td><td/><td/><td/><td/><td/><td/><td>69.88%</td><td>1.01[0.74,1.39]</td></tr><tr><td>Eskander 2008</td><td>5/183</td><td>3/190</td><td/><td/><td/><td/><td/><td/><td>2.57%</td><td>1.75[0.41,7.43]</td></tr><tr><td>Garcia-Velasco 2002</td><td>9/187</td><td>11/187</td><td/><td/><td/><td/><td/><td/><td>9.42%</td><td>0.81[0.33,2]</td></tr><tr><td>Wisanto 1989</td><td>21/100</td><td>18/100</td><td/><td/><td/><td/><td/><td/><td>12.79%</td><td>1.21[0.6,2.44]</td></tr><tr><td>Total (95% CI)</td><td>1397</td><td>1383</td><td/><td/><td/><td/><td/><td/><td>100%</td><td>1[0.77,1.3]</td></tr><tr><td colspan=\"2\">Total events: 126 (UGET), 124 (Clinical touch)</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Heterogeneity: Tau =0; Chi =3.05, df=4(P=0.55); I =0%</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td>Test for overall effect: Z=0(P=1)</td><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td/><td/><td>Favours UGET</td><td>0.1</td><td>0.2</td><td>0.5</td><td>1</td><td>2</td><td>5</td><td>10</td><td>Favours CTET</td></tr><tr><td/><td>Analysis 1.</td><td/><td/><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF23": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library</td><td colspan=\"2\">Trusted evidence. Informed decisions. Better health.</td><td/><td/><td/><td/><td>Cochrane Database of Systematic Reviews</td></tr><tr><td>Study or subgroup</td><td>UGET</td><td colspan=\"2\">Clinical touch</td><td/><td/><td>Risk Ratio</td><td>Weight</td><td>Risk Ratio</td></tr><tr><td/><td>n/N</td><td colspan=\"2\">n/N</td><td/><td colspan=\"3\">M-H, Fixed, 95% CI</td><td>M-H, Fixed, 95% CI</td></tr><tr><td>Total (95% CI)</td><td/><td>2173</td><td>2122</td><td/><td/><td/><td>100%</td><td>0.69[0.57,0.82]</td></tr><tr><td colspan=\"2\">Total events: 183 (UGET), 258 (Clinical touch)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"3\">Heterogeneity: Tau =0; Chi =35.34, df=9(P&lt;0.0001); I =74.53%</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Test for overall effect: Z=4.12(P&lt;0.0001)</td><td/><td/><td/><td/><td/></tr><tr><td/><td/><td colspan=\"2\">Favours UGET</td><td>0.01</td><td>0.1</td><td>1</td><td>10</td><td>100</td><td>Favours CTET</td></tr><tr><td colspan=\"7\">Comparison 2. Additional analyses -Live birth and type of catheter</td></tr><tr><td colspan=\"2\">Outcome or subgroup title</td><td>No. of studies</td><td/><td colspan=\"2\">No. of partici-</td><td colspan=\"2\">Statistical method</td><td>Effect size</td></tr><tr><td/><td/><td/><td/><td>pants</td><td/><td/></tr><tr><td>1 Type of catheter</td><td/><td>4</td><td/><td>3117</td><td/><td colspan=\"2\">Odds Ratio (M-H, Fixed, 95%</td><td>1.53 [1.29, 1.80]</td></tr><tr><td/><td/><td/><td/><td/><td/><td>CI)</td></tr><tr><td colspan=\"2\">1.1 Different catheters used be-</td><td>1</td><td/><td>1649</td><td/><td colspan=\"2\">Odds Ratio (M-H, Fixed, 95%</td><td>0.99 [0.79, 1.25]</td></tr><tr><td>tween groups</td><td/><td/><td/><td/><td/><td>CI)</td></tr><tr><td colspan=\"2\">1.2 Same catheter both groups</td><td>3</td><td/><td>1468</td><td/><td colspan=\"2\">Odds Ratio (M-H, Fixed, 95%</td><td>2.45 [1.92, 3.12]</td></tr><tr><td/><td/><td/><td/><td/><td/><td>CI)</td></tr><tr><td>Analysis 2.1.</td><td/><td/><td/><td/><td/><td/></tr><tr><td>Study or subgroup</td><td>UGET</td><td colspan=\"2\">Clinical touch</td><td/><td/><td>Risk Ratio</td><td>Weight</td><td>Risk Ratio</td></tr><tr><td/><td>n/N</td><td colspan=\"2\">n/N</td><td/><td colspan=\"3\">M-H, Fixed, 95% CI</td><td>M-H, Fixed, 95% CI</td></tr><tr><td>Azmy 2009</td><td colspan=\"2\">31/435</td><td>88/418</td><td/><td/><td/><td>34.38%</td><td>0.34[0.23,0.5]</td></tr><tr><td>Coroleu 2000</td><td colspan=\"2\">3/182</td><td>5/180</td><td/><td/><td/><td>1.93%</td><td>0.59[0.14,2.45]</td></tr><tr><td>Coroleu 2002</td><td/><td>6/93</td><td>11/91</td><td/><td/><td/><td>4.26%</td><td>0.53[0.21,1.38]</td></tr><tr><td>Davar 2007</td><td/><td>8/90</td><td>12/90</td><td/><td/><td/><td>4.6%</td><td>0.67[0.29,1.55]</td></tr><tr><td>Kosmas 2007</td><td colspan=\"2\">7/150</td><td>9/150</td><td/><td/><td/><td>3.45%</td><td>0.78[0.3,2.03]</td></tr><tr><td>Matorras 2002</td><td colspan=\"2\">1/255</td><td>18/260</td><td/><td/><td/><td>6.83%</td><td>0.06[0.01,0.42]</td></tr><tr><td>Tang 2001</td><td colspan=\"2\">65/400</td><td>72/400</td><td/><td/><td/><td>27.58%</td><td>0.9[0.67,1.23]</td></tr><tr><td>Weissman 2003</td><td colspan=\"2\">24/160</td><td>11/124</td><td/><td/><td/><td>4.75%</td><td>1.69[0.86,3.32]</td></tr><tr><td>Wisanto 1989</td><td colspan=\"2\">6/100</td><td>7/100</td><td/><td/><td/><td>2.68%</td><td>0.86[0.3,2.46]</td></tr><tr><td>Zakova 2008</td><td colspan=\"2\">32/308</td><td>25/309</td><td/><td/><td/><td>9.56%</td><td>1.28[0.78,2.11]</td></tr><tr><td/><td/><td colspan=\"2\">Favours UGET</td><td>0.01</td><td>0.1</td><td>1</td><td>10</td><td>100</td><td>Favours CTET</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF24": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Study or subgroup</td><td>UGET</td><td>Clinical touch</td><td>Odds Ratio</td><td>Weight</td><td>Odds Ratio</td></tr><tr><td/><td>n/N</td><td>n/N</td><td>M-H, Fixed, 95% CI</td><td/><td>M-H, Fixed, 95% CI</td></tr><tr><td colspan=\"2\">2.1.1 Different catheters used between groups</td><td/><td/><td/><td/></tr><tr><td>Drakeley 2008</td><td>190/834</td><td>187/815</td><td/><td>63.31%</td><td>0.99[0.79,1.25]</td></tr><tr><td>Subtotal (95% CI)</td><td>834</td><td>815</td><td/><td>63.31%</td><td>0.99[0.79,1.25]</td></tr><tr><td colspan=\"2\">Total events: 190 (UGET), 187 (Clinical touch)</td><td/><td/><td/><td/></tr><tr><td>Heterogeneity: Not applicable</td><td/><td/><td/><td/><td/></tr><tr><td>Test for overall effect: Z=0.08(P=0.94)</td><td/><td/><td/><td/><td/></tr><tr><td>2.1</td><td/><td/><td/><td/><td/></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF25": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library</td><td>Trusted evidence. Informed decisions. Better health.</td><td/><td/><td/><td/><td/></tr><tr><td>Azmy 2009</td><td>181/435</td><td>80/418</td><td/><td/><td/><td/><td>20.65%</td><td>3.01[2.21,4.1]</td></tr><tr><td>Martins 2004</td><td>23/50</td><td>17/50</td><td/><td/><td/><td/><td>3.98%</td><td>1.65[0.74,3.71]</td></tr><tr><td>Matorras 2002</td><td>56/255</td><td>36/260</td><td/><td/><td/><td/><td>12.06%</td><td>1.75[1.11,2.77]</td></tr><tr><td>Subtotal (95% CI)</td><td>740</td><td>728</td><td/><td/><td/><td/><td>36.69%</td><td>2.45[1.92,3.12]</td></tr><tr><td colspan=\"2\">Total events: 260 (UGET), 133 (Clinical touch)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Heterogeneity: Tau =0; Chi =4.66, df=2(P=0.1); I =57.1%</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Test for overall effect: Z=7.21(P&lt;0.0001)</td><td/><td/><td/><td/><td/></tr><tr><td>Total (95% CI)</td><td>1574</td><td>1543</td><td/><td/><td/><td/><td>100%</td><td>1.53[1.29,1.8]</td></tr><tr><td colspan=\"2\">Total events: 450 (UGET), 320 (Clinical touch)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Heterogeneity: Tau =0; Chi =32.47, df=3(P&lt;0.0001); I =90.76%</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Test for overall effect: Z=5.03(P&lt;0.0001)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"3\">Test for subgroup differences: Chi =28.06, df=1 (P&lt;0.0001), I =96.44%</td><td/><td/><td/><td/></tr><tr><td/><td colspan=\"2\">Favours CTET</td><td>0.01</td><td>0.1</td><td>1</td><td>10</td><td>100</td><td>Favours UGET</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF26": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Study ID</td><td>Frozen or fresh</td><td>IVF protocol</td><td>Embryo transfer</td><td>Age of women</td></tr><tr><td/><td/><td/><td>protocol</td><td/></tr><tr><td>Ammar 2013</td><td>Fresh embryos</td><td>Long protocol, pituitary down-regulation with</td><td>Dorsolithotomy po-</td><td>29.0 +/-5.0 in</td></tr><tr><td/><td/><td>triptorelin (0.1 mg SC) daily starting from day</td><td>sition and sterile</td><td>UGET group and</td></tr><tr><td/><td/><td>21 of cycle and decreased to 0.05 mg/day with</td><td>speculum inserted</td><td>30.0 +/-5.0 in</td></tr><tr><td/><td/><td>the onset of menstruation. HMG started on day</td><td>into vagina. When</td><td>clinical touch</td></tr><tr><td/><td/><td>2 of menstrual cycle (150 to 300 IU/day).</td><td>cervix was visualised</td><td>group</td></tr><tr><td/><td/><td>When 3 or more follicles were &gt; 18 mm in di-ameter, 10,000 IU of hCG given IM. Oocytes re-trieved 36 hours later</td><td>it was washed with a sponge soaked with the transfer media.</td><td/></tr><tr><td/><td/><td/><td>Catheter removed af-</td><td/></tr><tr><td/><td/><td/><td>ter 10 seconds of re-</td><td/></tr><tr><td/><td/><td/><td>leasing embryos</td><td/></tr><tr><td>Azmy 2009</td><td>Fresh embryos</td><td>No details</td><td>No details</td><td>32.4 +/-4.1 in</td></tr><tr><td/><td/><td/><td/><td>UGET group and</td></tr><tr><td/><td/><td/><td/><td>33.2 +/-3.6 in</td></tr><tr><td/><td/><td/><td/><td>clinical touch</td></tr><tr><td/><td/><td/><td/><td>group</td></tr><tr><td>Zakova 2008</td><td>No details</td><td>Standard procedure for institution</td><td>No details</td><td>32.7 +/-4.2 in</td></tr><tr><td/><td/><td/><td/><td>UGET group and</td></tr><tr><td/><td/><td/><td/><td>32.5 +/-4.4 in</td></tr><tr><td/><td/><td/><td/><td>clinical touch</td></tr><tr><td/><td/><td/><td/><td>group</td></tr><tr><td>Drakeley 2008</td><td>Fresh and frozen</td><td>No details</td><td>No details</td><td>No details of</td></tr><tr><td/><td>embryos used</td><td/><td/><td>mean age</td></tr><tr><td>Eskander 2008</td><td>Fresh trans-</td><td>Down-regulation with GnRH agonist protocol</td><td>Standardised proce-</td><td>32.41 +/-5.47 in</td></tr><tr><td/><td>fer from both</td><td>followed by ovarian stimulation with recom-</td><td>dure not described</td><td>UGET group and</td></tr><tr><td/><td>groups</td><td>binant FSH or hMG, or both, until the day of</td><td/><td>31.69 +/-5.46 in</td></tr><tr><td/><td/><td>hCG administration. When the leading follicle</td><td/><td>clinical touch</td></tr><tr><td/><td/><td>reached &gt; 18 mm, hCG was given and oocyte</td><td/><td>group</td></tr><tr><td/><td/><td>retrieval performed 34 to 36 hours later. Luteal</td><td/><td/></tr><tr><td/><td/><td>phase support provided by daily P vaginal sup-</td><td/><td/></tr><tr><td/><td/><td>positories</td><td/><td/></tr><tr><td>Chen 2007</td><td>Fresh trans-</td><td>Down-regulated with the a GnRH analogue.</td><td>External genitalia</td><td>34 +/-3.6 in</td></tr><tr><td/><td>fers from both</td><td>On day 3 of the treatment cycle, recombinant</td><td>and cervix prepared</td><td>UGET group and</td></tr><tr><td/><td>groups</td><td>FSH at a dose of 225 to 300 IU/day combined</td><td/><td>32.6 +/-3.6 in</td></tr><tr><td/><td/><td>with hMG 150 IU/day administered for 3 days.</td><td/><td>clinical touch</td></tr><tr><td/><td/><td>From day 6 follitropin alfa (Gonal-F) 300 IU/</td><td/><td>group</td></tr><tr><td/><td/><td>day administered for 4 days. HCG administered</td><td/><td/></tr><tr><td/><td/><td>when leading follicles &gt; 18 mm diameter and at</td><td/><td/></tr><tr><td/><td/><td>least 2 other follicles &gt; 14 mm diameter. Luteal</td><td/><td/></tr><tr><td/><td/><td>phase support through micronised P beginning</td><td/><td/></tr><tr><td/><td/><td>on the day of embryo retrieval</td><td/><td/></tr><tr><td>Coroleu 2002</td><td>100% frozen</td><td>Leuprolide acetate for pituitary suppression.</td><td>Lithotomy position,</td><td>36.6 +/-3.4 for</td></tr><tr><td/><td>from each group</td><td>A 'flare up' protocol was used in women with</td><td>cervix exposed us-</td><td>UGET group and</td></tr><tr><td/><td/><td>poor response and/or basal FSH &gt; 10.5 IU/L (le-</td><td>ing bivalve specu-</td><td>36.2 +/-3.0 for</td></tr><tr><td/><td/><td>uprolide acetate + hMG). HCG administered</td><td>lum; exocervix</td><td>clinical touch</td></tr><tr><td/><td/><td>when 2 or more follicles &gt; 18 mm in diameter</td><td>cleaned with phos-</td><td>group</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF27": {
+                "text": "Additional data(Continued)Oral contraceptives + GnRHa': Oral contraceptives for 21 to 28 days and in last 7 days.Decapeptyl 0.1 mg daily.On days 2 to 3 of menstrual cycle FSH 75 to 150 IU/day then 10,000 IU hCG when lead follicle > 18 mm.",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library</td><td>Trusted evidence. Informed decisions. Better health.</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF28": {
+                "text": "Additional data (Continued) Copyright \u00a9 2016 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library</td><td>Trusted evidence. Informed decisions. Better health.</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF29": {
+                "text": "Additional data(Continued)",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td colspan=\"2\">FSH: follicle-stimulating hormone</td><td/><td/><td/><td/></tr><tr><td colspan=\"3\">GnRHa: gonadotropin-releasing hormone agonist</td><td/><td/><td/></tr><tr><td colspan=\"2\">hCG: human chorionic gonadotropin</td><td/><td/><td/><td/></tr><tr><td colspan=\"3\">hMG: human menopausal gonadotropin</td><td/><td/><td/></tr><tr><td colspan=\"2\">HRT: hormone replacement therapy</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">IM: intramuscularly</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">IVF: in-vitro fertilisation</td><td/><td/><td/><td/></tr><tr><td colspan=\"2\">OPU: ovum pick-up</td><td/><td/><td/><td/></tr><tr><td>P: progesterone</td><td/><td/><td/><td/><td/></tr><tr><td>QDS: 4 times a day</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"3\">rFSH: recombinant follicle-stimulating hormone</td><td/><td/><td/></tr><tr><td colspan=\"2\">SC: subcutaneously</td><td/><td/><td/><td/></tr><tr><td colspan=\"3\">UGET: ultrasound-guided embryo transfer</td><td/><td/><td/></tr><tr><td>Study ID</td><td>Medium type</td><td>Distance from fundus</td><td>Ease of transfer</td><td>Type of</td><td>Number of embryos</td></tr><tr><td/><td/><td/><td/><td>catheter</td><td/></tr><tr><td>Ammar 2013</td><td>G-1 TM ver-</td><td>1.5 cm</td><td>No details</td><td>Labotect</td><td>Maximum of 3</td></tr><tr><td/><td>sion 3 (Vitro-</td><td/><td/><td>catheter</td><td/></tr><tr><td/><td>life, Goteborg,</td><td/><td/><td/><td/></tr><tr><td/><td>Sweden)</td><td/><td/><td/><td/></tr><tr><td>Azmy 2009</td><td>No details</td><td>10 to 15 mm</td><td>There were no diffi-</td><td>So catheter</td><td>2.23 +/-0.5 for UGET</td></tr><tr><td/><td/><td/><td>cult transfers in ei-</td><td>(Labotect em-</td><td>group and 2.34 +/-0.6</td></tr><tr><td/><td/><td/><td>ther group</td><td>bryo transfer</td><td>for clinical touch group</td></tr><tr><td/><td/><td/><td/><td>catheter set)</td><td/></tr><tr><td>Davar 2007</td><td>No details</td><td>1.5 cm</td><td>8.9% of UGET group</td><td>An ultrasoft</td><td>2.11 +/-0.6 for UGET</td></tr><tr><td/><td/><td/><td>versus 13.3% of</td><td>catheter</td><td>group and 2.29 +/-0.6</td></tr><tr><td/><td/><td/><td>clinical touch group</td><td/><td>for clinical touch group</td></tr><tr><td/><td/><td/><td>were difficult trans-</td><td/><td/></tr><tr><td/><td/><td/><td>fers</td><td/><td/></tr><tr><td>Zakova 2008</td><td>No details</td><td>No details</td><td>89.5% in UGET</td><td>Cook So -</td><td>No details</td></tr><tr><td/><td/><td/><td>group and 91.8% in</td><td>Pass EchoTip</td><td/></tr><tr><td/><td/><td/><td>clinical touch group</td><td>in the UGET</td><td/></tr><tr><td/><td/><td/><td>were ideal transfers</td><td>group; Cook</td><td/></tr><tr><td/><td/><td/><td/><td>Sydney IVF</td><td/></tr><tr><td/><td/><td/><td/><td>Embryo</td><td/></tr><tr><td/><td/><td/><td/><td>Transfer</td><td/></tr><tr><td/><td/><td/><td/><td>Catheter Set</td><td/></tr><tr><td/><td/><td/><td/><td>in the clinical</td><td/></tr><tr><td/><td/><td/><td/><td>touch group</td><td/></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF30": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Database of Systematic Reviews</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF31": {
+                "text": "Replacement procedure (Continued) Copyright \u00a9 2016 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library</td><td>Trusted evidence. Informed decisions. Better health.</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF32": {
+                "text": "Replacement procedure (Continued) New search has been performed New searches run in May 2015 and four new studies added (Ammar 2013, Azmy 2009, Davar 2007, Maldonado 2005).Five studies were excluded (Bodri 2011, Deep 2013, Hauzman 2012, Porat 2010, Saharkhiz 2014).",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library</td><td>Trusted evidence. Informed decisions. Better health.</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF33": {
+                "text": "The conclusions of the updated review have altered with the addition of five newly identified randomised controlled trials, and the review has been amended as a consequence.",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td colspan=\"2\">Protocol first published: Issue 3, 2006</td><td/></tr><tr><td colspan=\"2\">Review first published: Issue 1, 2007</td><td/></tr><tr><td>Date</td><td>Event</td><td>Description</td></tr><tr><td>22 June 2009</td><td>New search has been performed</td><td>Five new studies have been added to the review and the review</td></tr><tr><td/><td/><td>style altered to the RevMan 5 requirements.</td></tr><tr><td>22 June 2009</td><td>New citation required and conclusions</td><td/></tr><tr><td/><td>have changed</td><td/></tr><tr><td>6 November 2008</td><td>Amended</td><td>Converted to new review format.</td></tr><tr><td>14 November 2006</td><td>New citation required and conclusions</td><td>Substantive amendment.</td></tr><tr><td/><td>have changed</td><td/></tr></table>",
+                "type_str": "table"
+            }
+        }
+    }
+}

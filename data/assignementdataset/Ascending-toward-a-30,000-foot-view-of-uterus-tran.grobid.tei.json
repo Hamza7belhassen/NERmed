@@ -1,0 +1,413 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Ascending-toward-a-30,000-foot-view-of-uterus-tran",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:29.292908Z"
+    },
+    "title": "Ascending toward a 30,000 foot view of uterus transplant",
+    "authors": [
+        {
+            "first": "Rebecca",
+            "middle": [
+                "K"
+            ],
+            "last": "Chung",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University Hospitals Cleveland Medical Center",
+                "location": {
+                    "settlement": "Beachwood",
+                    "region": "Ohio"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Elliott",
+            "middle": [
+                "G"
+            ],
+            "last": "Richards",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Cleveland Clinic",
+                "location": {
+                    "settlement": "Cleveland",
+                    "region": "Ohio"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Ruth",
+            "middle": [],
+            "last": "Farrell",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Cleveland Clinic",
+                "location": {
+                    "settlement": "Cleveland",
+                    "region": "Ohio"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Rebecca",
+            "middle": [
+                "L"
+            ],
+            "last": "Flyckt",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University Hospitals Cleveland Medical Center",
+                "location": {
+                    "settlement": "Beachwood",
+                    "region": "Ohio"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Ascending-toward-a-30,000-foot-view-of-uterus-tran",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.07.013",
+        "keywords": [],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "Historically, patients with absolute uterine factor infertility (AUFI) have faced limited options and no true treatments for what has been described by patients with AUFI themselves as a life-defining illness (1) .As many as 1.5 million people, or 1 in 500 women, have AUFI.Common causes of AUFI include congenital uterine agenesis or the acquired absence of the uterus, which can be the result of an unplanned emergent (e.g., obstetric complications) or a planned (e.g., gynecologic malignancy) hysterectomy (2) .Although in vitro fertilization with a gestational carrier or adoption may be feasible for some, these options are unrealistic for many women with AUFI because of legal, cultural, and personal barriers to these family building approaches (1) .",
+                "cite_spans": [
+                    {
+                        "start": 209,
+                        "end": 212,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 509,
+                        "end": 512,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 752,
+                        "end": 755,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Uterus transplantation (UTx) is a restorative surgical treatment for AUFI that has, for the first time in history, provided the ability for these patients to become gestational mothers.Twenty years since the first human attempt, 8 years since the first live birth, and with >30 infants born, UTx is no longer theoretical (and many argue no longer experimental given that it has been performed outside of clinical trials) with an increasing number of published case series that detail overall favorable surgical, reproductive, and longer term outcomes (3) .Uterus transplantation involves the procurement of a uterus from either a living or deceased donor and then transplantation into a recipient.The recipient undergoes rigorous screening and preparation with a highly specialized, multidisciplinary team.Postoperatively, the patient receives immunosuppressive medications along with extensive postoperative monitoring through embryo implantation and pregnancy until the graft eventually is removed after 1-2 livebirths (2).The complexity of this reproductive undertaking is clear and the ultimate measure of success is data from well-designed clinical trials to understand not just the benefits of the procedure, but also its risks to donors, recipients, offspring, and families.",
+                "cite_spans": [
+                    {
+                        "start": 551,
+                        "end": 554,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Br\u20ac annstr\u20ac om et al. ( 4) are recognized leaders in the field of UTx, having reported their landmark clinical trial in 2012 and the first successful live birth published in 2015.Their success soon was replicated by teams in the United States, South America, Europe, and Asia.In this issue of Fertility and Sterility, Br\u20ac annstr\u20ac om et al. ( 4) provided important contributions to the UTx literature by describing complete long-term outcomes from their initial trial.As a summary of their data, 7 of 9 transplants had return of menses within 2 months, all 7 patients conceived at least once, and 6 had at least 1 live birth.Each patient in this study underwent R2 in vitro fertilization cycles before UTx to bank at least 10 (largely cleavage stage) embryos, and cumulatively, 46 embryo transfers were performed, most of which were of day 2 embryos.Of the pregnancies, there was appropriate fetal growth with low-normal uterine blood flow throughout gestation.Although the publication does contain some redundancy with their earlier reports, there are novel elements that should be highlighted.The new data that the investigators included in this study were the longitudinal measures of physical and mental health of the UTx triad (donor, recipient, and child) after delivery.The investigators reported a normal height-weight growth trajectory over the child's first 2 years of life with the mean just below the 50th percentile.Additionally, using validated survey questionnaires, all donor and recipients had no significant changes in their mental and physical component summary scores, nor differences in their anxiety, depression, and relationship satisfaction scores before and 4 years after UTx.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Although the investigators emphasize that their longterm data provide support for UTx as a safe and effective treatment, they are transparent about the neonatal and pregnancy complications observed during the trial.This kind of transparency and open sharing of all data, including adverse outcomes, is necessary for the field of UTx to advance.Respiratory distress syndrome related to prematurity affected the first 4 neonates in the trial.This triggered a modification in practice to delay planned delivery from 35 week to 37 weeks, which showed improvements in neonatal outcomes.None of the remaining 5 neonates born after this change had respiratory distress syndrome and only 1 required a short neonatal intensive care unit stay.Another unfavorable outcome highlighted was preeclampsia.This study demonstrated that 3 of the 9 pregnancies after UTx were complicated by preeclampsia requiring delivery earlier than planned.The investigators assert that this adverse outcome was a consequence of having a solitary kidney related to Mayer-Rokitansky-K\u20ac uster-Hauser syndrome, which all 3 women with preeclampsia had.Uterus transplantation itself and the immunosuppressive medications transplant patients take also potentially may elevate their risk for pregnancy-induced hypertension.Even with these neonatal and pregnancy complications, the investigators were reassured by the normal growth trajectory observed in the children born from UTx.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Nevertheless, the risk of poor neonatal and maternal outcomes can add to the psychologic toll for patients with AUFI undergoing UTx.Br\u20ac annstr\u20ac om et al. (4) are the first to explore this important concern by detailing in their study the recipients' mental and physical health before and 4 years after UTx.Although mental and physical health did not appear to be negatively impacted for recipients in general, 2 recipients had poor mental component summary scores at 4 years after UTx; these 2 had either a poor baseline or were childless with a concomitant poor physical component summary score.In addition, patients who also had higher anxiety and depression scores 4 years after UTx were those who had multiple pregnancy failures.This underscores an important subgroup of the UTx population that may be at increased risk for poorer mental health outcomes, and for whom additional support can be anticipated.",
+                "cite_spans": [
+                    {
+                        "start": 154,
+                        "end": 157,
+                        "text": "(4)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Though this article addresses the most pressing need in the UTx literature at present (the need for long-term outcomes data) a significant limitation that the investigators acknowledged is the small number of subjects in their study.Despite this limitation, their report remains very valuable by adding to the mounting evidence that UTx is a safe and effective treatment for AUFI, and also by shining a light on areas of inquiry that merit deeper exploration.We applaud Br\u20ac annstr\u20ac om et al. (4) for their transparency in describing their successes and complications, an essential element in the evolution of this unique procedure.",
+                "cite_spans": [
+                    {
+                        "start": 492,
+                        "end": 495,
+                        "text": "(4)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Despite the encouragement that articles such as this provide, the burden still rests with UTx programs to collaborate on their research efforts.Initially, UTx trials generated encouraging anecdotes.More recently, we are moving these anecdotes into data.The next step must be an ascension to the 30,000 foot view.It is only at this vantage point, where aggregated, multicenter data from UTx registries can be seen, interpreted, and understood clearly, that we will gain the clarity needed to fully inform our understanding of the procedure.In this way, we can move together to develop best practice, improve outcomes, and fully understand the long-term outcomes for recipients, donors, and children.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Framing the diagnosis and treatment of absolute uterine factor infertility: insights from in-depth interviews with uterus transplant trial participants",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Richards",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Agatisa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Davis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Flyckt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Mabel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Falcone",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "AJOB Empir Bioeth",
+                "volume": "10",
+                "issue": "",
+                "pages": "23--35",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Uterine transplantation: recipient patient populations",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Chung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Salari",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Findley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Richards",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Rlr",
+                        "middle": [],
+                        "last": "Flyckt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Clin Obstet Gynecol",
+                "volume": "65",
+                "issue": "",
+                "pages": "15--23",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Uterus transplantation: state of the art in 2021",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Richards",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Farrell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Ricci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Perni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Quintini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Tzakis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "J Assist Reprod Genet",
+                "volume": "38",
+                "issue": "",
+                "pages": "2251--2259",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Reproductive, obstetric, and long-term health outcome after uterus transplantation: results of the first clinical trial",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Br\u20ac Annstr\u20ac Om",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Dahm-K\u20ac",
+                        "middle": [],
+                        "last": "Ahler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Kvarnstr\u20ac Om",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Enskog",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Olofsson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Olausson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Fertil Steril",
+                "volume": "118",
+                "issue": "",
+                "pages": "576--585",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

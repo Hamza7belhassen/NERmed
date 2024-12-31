@@ -1,0 +1,4300 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Adenomyosis--single-cell-transcriptomic-analysis-r",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:28.875045Z"
+    },
+    "title": "Adenomyosis: single-cell transcriptomic analysis reveals a paracrine mesenchymal\u2013epithelial interaction involving the WNT/SFRP pathway",
+    "authors": [
+        {
+            "first": "Sule",
+            "middle": [],
+            "last": "Yildiz",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Northwestern University",
+                "location": {
+                    "settlement": "Chicago",
+                    "region": "Illinois"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Meric",
+            "middle": [],
+            "last": "Kinali",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Northwestern University",
+                "location": {
+                    "settlement": "Chicago",
+                    "region": "Illinois"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Jian",
+            "middle": [
+                "Jun"
+            ],
+            "last": "Wei",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Northwestern University",
+                "location": {
+                    "settlement": "Chicago",
+                    "region": "Illinois"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Magdy",
+            "middle": [],
+            "last": "Milad",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Northwestern University",
+                "location": {
+                    "settlement": "Chicago",
+                    "region": "Illinois"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Ping",
+            "middle": [],
+            "last": "Yin",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Mazhar",
+            "middle": [],
+            "last": "Adli",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Northwestern University",
+                "location": {
+                    "settlement": "Chicago",
+                    "region": "Illinois"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Serdar",
+            "middle": [
+                "E"
+            ],
+            "last": "Bulun",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Northwestern University",
+                "location": {
+                    "settlement": "Chicago",
+                    "region": "Illinois"
+                }
+            },
+            "email": "bulun@northwestern.edu"
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objective: To assess the cellular and molecular landscape of adenomyosis.Design: Single-cell analysis of genome-wide messenger RNA (mRNA) expression (single-cell RNA sequencing) of matched tissues of endometrium, adenomyosis, and myometrium using relatively large numbers of viable cells.Setting: Not applicable.Patient(s): Patients (n \u00bc 3, age range 40-44 years) undergoing hysterectomy for diffuse adenomyosis.Main Outcome Measure(s): Definition of the molecular landscape of matched adenomyotic, endometrial and myometrial tissues from the same uterus using single-cell RNA sequencing and comparison of distinct cell types in these tissues to identify disease-specific cell populations, abnormal gene expression and pathway activation, and mesenchymal-epithelial interactions.\nThe largest cell population in the endometrium was composed of closely clustered fibroblast groups, which comprise 36% of all cells and seem to originate from pericyte progenitors differentiating to estrogen/progesterone receptor-expressing endometrial stromal-cells.In contrast, the entire fibroblast population in adenomyosis comprised a larger (50%) portion of all cells and was not linked to any pericyte progenitors.Adenomyotic fibroblasts eventually differentiate into extracellular matrix protein-expressing fibroblasts and smooth muscle cells.Hierarchical clustering of mRNA expression revealed a unique adenomyotic fibroblast population that clustered transcriptomically with endometrial fibroblasts, suggestive of an endometrial stromal cell population serving as progenitors of adenomyosis.Four other adenomyotic fibroblast clusters with disease-specific transcriptomes were distinct from those of endometrial or myometrial fibroblasts.The mRNA levels of the natural WNT inhibitors, named, secreted frizzledrelated proteins 1, 2, and 4, were higher in these 4 adenomyotic fibroblast clusters than in endometrial fibroblast clusters.Moreover, we found that multiple WNTs, which originate from fibroblasts and target ciliated and unciliated epithelial cells and endothelial cells, constitute a critical paracrine signaling network in adenomyotic tissue.Compared with endometrial tissue, unciliated and ciliated epithelial cells in adenomyosis comprised a significantly smaller portion of this tissue and exhibited molecular evidence of progesterone resistance and diminished regulation of estrogen signaling.\nWe found a high degree of heterogeneity in fibroblast-like cells in the adenomyotic uterus.The WNT signaling involving differential expression of secreted frizzled-related proteins, which act as decoy receptors for WNTs, in adenomyotic fibroblasts may have a key role in the pathophysiology of this disease.(",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Adenomyosis--single-cell-transcriptomic-analysis-r",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2023.01.041",
+        "keywords": [
+            "Adenomyosis",
+            "endometrium",
+            "endometriosis",
+            "scRNA-seq",
+            "SFRP",
+            "fibroblast"
+        ],
+        "abstract": [
+            {
+                "text": "Objective: To assess the cellular and molecular landscape of adenomyosis.Design: Single-cell analysis of genome-wide messenger RNA (mRNA) expression (single-cell RNA sequencing) of matched tissues of endometrium, adenomyosis, and myometrium using relatively large numbers of viable cells.Setting: Not applicable.Patient(s): Patients (n \u00bc 3, age range 40-44 years) undergoing hysterectomy for diffuse adenomyosis.Main Outcome Measure(s): Definition of the molecular landscape of matched adenomyotic, endometrial and myometrial tissues from the same uterus using single-cell RNA sequencing and comparison of distinct cell types in these tissues to identify disease-specific cell populations, abnormal gene expression and pathway activation, and mesenchymal-epithelial interactions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "The largest cell population in the endometrium was composed of closely clustered fibroblast groups, which comprise 36% of all cells and seem to originate from pericyte progenitors differentiating to estrogen/progesterone receptor-expressing endometrial stromal-cells.In contrast, the entire fibroblast population in adenomyosis comprised a larger (50%) portion of all cells and was not linked to any pericyte progenitors.Adenomyotic fibroblasts eventually differentiate into extracellular matrix protein-expressing fibroblasts and smooth muscle cells.Hierarchical clustering of mRNA expression revealed a unique adenomyotic fibroblast population that clustered transcriptomically with endometrial fibroblasts, suggestive of an endometrial stromal cell population serving as progenitors of adenomyosis.Four other adenomyotic fibroblast clusters with disease-specific transcriptomes were distinct from those of endometrial or myometrial fibroblasts.The mRNA levels of the natural WNT inhibitors, named, secreted frizzledrelated proteins 1, 2, and 4, were higher in these 4 adenomyotic fibroblast clusters than in endometrial fibroblast clusters.Moreover, we found that multiple WNTs, which originate from fibroblasts and target ciliated and unciliated epithelial cells and endothelial cells, constitute a critical paracrine signaling network in adenomyotic tissue.Compared with endometrial tissue, unciliated and ciliated epithelial cells in adenomyosis comprised a significantly smaller portion of this tissue and exhibited molecular evidence of progesterone resistance and diminished regulation of estrogen signaling.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "We found a high degree of heterogeneity in fibroblast-like cells in the adenomyotic uterus.The WNT signaling involving differential expression of secreted frizzled-related proteins, which act as decoy receptors for WNTs, in adenomyotic fibroblasts may have a key role in the pathophysiology of this disease.(",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "denomyosis is an estrogen-dependent gynecologic disorder in which endometrial epithelial cells and stromal fibroblasts appear in the myometrium as islands surrounded by hypertrophic smooth muscle cells (1) (2) (3) .It is associated with heavy menstrual bleeding, dysmenorrhea, chronic pelvic pain, and infertility (3, 4) .The etiology and underlying mechanisms of adenomyosis have remained mostly unclear, although 2 main explanations have been proposed: invagination of the basal layer of the endometrium and metaplasia of M\u20ac ullerian remnant progenitor cells inside the myometrium (1, 5) .Another explanation, proposed by Leyendecker, describes a ''tissue injury and repair'' mechanism that is activated by hyperestrogenism and hyperperistalsis leading to uterine autotraumatization (6, 7) .According to the tissue injury and repair theory, adenomyosis arises from a vicious cycle involving hyperestrogen-initiated local injury that leads to increased production of prostaglandin E2, hyperperistalsis, and trauma at the archimetria (endometrial glands, endometrial stroma, and subendometrial myometrium), endometrial invagination, and chronic inflammation, which leads to further local hyperestrogenism (1, (7) (8) (9) .",
+                "cite_spans": [
+                    {
+                        "start": 202,
+                        "end": 205,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 206,
+                        "end": 209,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 210,
+                        "end": 213,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 314,
+                        "end": 317,
+                        "text": "(3,",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 318,
+                        "end": 320,
+                        "text": "4)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 583,
+                        "end": 586,
+                        "text": "(1,",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 587,
+                        "end": 589,
+                        "text": "5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 785,
+                        "end": 788,
+                        "text": "(6,",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 789,
+                        "end": 791,
+                        "text": "7)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1205,
+                        "end": 1208,
+                        "text": "(1,",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1209,
+                        "end": 1212,
+                        "text": "(7)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 1213,
+                        "end": 1216,
+                        "text": "(8)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 1217,
+                        "end": 1220,
+                        "text": "(9)",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A",
+                "sec_num": null
+            },
+            {
+                "text": "In its advanced stages, the disease imitates malignancy, not in terms of histology but by its clinical course.The unclear etiology and lack of effective medical therapy make adenomyosis a challenging clinical disorder.It is clear, however, that estrogen is essential for the growth of ectopic endometrium outside the uterus (1, 5) .Therefore, medical strategies blocking ovarian steroidogenesis and local estrogen synthesis by the aromatase enzyme represent an indispensable option for treatment (10) .However, the majority of patients require hysterectomy (11, 12) , which is a radical treatment but not an appropriate option for women who desire pregnancy.",
+                "cite_spans": [
+                    {
+                        "start": 324,
+                        "end": 327,
+                        "text": "(1,",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 328,
+                        "end": 330,
+                        "text": "5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 496,
+                        "end": 500,
+                        "text": "(10)",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 557,
+                        "end": 561,
+                        "text": "(11,",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 562,
+                        "end": 565,
+                        "text": "12)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A",
+                "sec_num": null
+            },
+            {
+                "text": "Adenomyosis once was seen as a disease of parous women that could be diagnosed only by surgical resection and pathological examination (13) .However, advancements in high-resolution imaging now allow for noninvasive diagnosis by magnetic resonance imaging or transvaginal ultrasound (14, 15) .Ultrasound features of the adenomyotic uterus include an enlarged uterus, asymmetry of the myometrial thickness, a poorly defined endomyometrial junction, and heterogeneously hypoechoic myometrium (11) .Development of noninvasive diagnostic techniques also revealed a higher prevalence of adenomyosis in infertile women (16, 17) ; suggested mechanisms underlying uterine factor infertility include abnormal decidualization resulting in impaired endometrial receptivity, altered peristalsis of the uterus, and disruption of the endomyometrial junction (18, 19) .Alterations in the immune system linked to sex steroid hormone changes and epithelial mesenchymal transition in women with adenomyosis may promote inflammation and impair fertility (20) .Some studies have shown that adenomyosis is associated not only with infertility but also increased risk of miscarriage (21, 22) .",
+                "cite_spans": [
+                    {
+                        "start": 135,
+                        "end": 139,
+                        "text": "(13)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 283,
+                        "end": 287,
+                        "text": "(14,",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 288,
+                        "end": 291,
+                        "text": "15)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 490,
+                        "end": 494,
+                        "text": "(11)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 613,
+                        "end": 617,
+                        "text": "(16,",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 618,
+                        "end": 621,
+                        "text": "17)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 844,
+                        "end": 848,
+                        "text": "(18,",
+                        "ref_id": "BIBREF17"
+                    },
+                    {
+                        "start": 849,
+                        "end": 852,
+                        "text": "19)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 1035,
+                        "end": 1039,
+                        "text": "(20)",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 1161,
+                        "end": 1165,
+                        "text": "(21,",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 1166,
+                        "end": 1169,
+                        "text": "22)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A",
+                "sec_num": null
+            },
+            {
+                "text": "Recent research has led to new insights into the molecular pathophysiology of adenomyosis.Evidence from nextgeneration screening-based studies identified KRAS mutations in endometrial epithelial cell clones and adjacent adenomyotic tissue (5, 23) .These activating KRAS mutations, which also have been found in endometriosis, are one of the most frequent driver mutations in malignancies, such as lung, pancreatic, and colorectal cancers (24) .KRAS mutations in adenomyosis and endometriosis are confined to endometrial epithelial cells and associated with specific pathways that increase cell survival and proliferation (25) .These mutations also have been associated with progesterone resistance in adenomyosis (23) .The findings of next-generation screening-based studies favor mechanisms involving invagination of mutated cells rather than metaplasia or differentiation of progenitor cells; however, more work is needed to understand gene expression in the extremely heterogeneous adenomyotic cell populations and cross talk with surrounding tissues.",
+                "cite_spans": [
+                    {
+                        "start": 239,
+                        "end": 242,
+                        "text": "(5,",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 243,
+                        "end": 246,
+                        "text": "23)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 438,
+                        "end": 442,
+                        "text": "(24)",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 621,
+                        "end": 625,
+                        "text": "(25)",
+                        "ref_id": "BIBREF24"
+                    },
+                    {
+                        "start": 713,
+                        "end": 717,
+                        "text": "(23)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A",
+                "sec_num": null
+            },
+            {
+                "text": "The histologically complex nature of adenomyosis, with island-like structures inside the myometrium that also contain endometrial and myometrial cells, makes it difficult to identify pathophysiologic mechanisms based on the average gene expression of the whole tissue because of the background noise or dilution issues.Single-cell RNA sequencing (scRNA-seq) has opened a new era in research that enables investigators to reveal the heterogeneity in complex tissues and understand how distinct cell types contribute to disease (26) .In a recent study, scRNA-seq of endometrial tissues collected throughout the menstrual cycle from healthy women revealed 7 cell types based on the transcriptomic profile of epithelial cells and stromal fibroblasts during 4 major phases of endometrial transformation (27) .Here, we applied scRNA-seq to analyze the cellular composition and transcriptomic profiles of matched tissues of endometrium, normal myometrium, and adenomyosis from the same hysterectomy specimens collected from 3 women, with the goal of identifying specific signaling pathways and cell-cell interactions in the adenomyotic uterus that contribute to this complex disease.",
+                "cite_spans": [
+                    {
+                        "start": 526,
+                        "end": 530,
+                        "text": "(26)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 798,
+                        "end": 802,
+                        "text": "(27)",
+                        "ref_id": "BIBREF26"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A",
+                "sec_num": null
+            },
+            {
+                "text": "Northwestern University's institutional review board approved the use of human tissue for this study.After obtaining written informed consent, adenomyotic tissue and adjacent normal endometrium and normal myometrium were obtained from premenopausal women undergoing hysterectomy for adenomyosis.Three samples were collected from each patient, for a total of 9 samples from 3 patients.Briefly, after hysterectomy, 3 samples from each hysterectomy specimen were dissected by a senior pathologist immediately and confirmed histologically using hematoxylin and eosin staining.Normal-appearing endometrial and myometrial samples were obtained at 1 cm from adenomyotic tissue.For normalappearing endometrium we obtained a full thickness section of endometrial tissue that included functionalis and basalis layers.After tissue dissection and digestion as described below, single-cell suspensions were submitted for scRNAseq in the Northwestern University NUSeq Core (Fig. 1A ).The age range of the patients was 40-44 years and each patient had at least 1 previous delivery.No patient had been receiving hormonal treatment at the time of tissue collection for a period of at least 3 months preoperatively.All tissues were collected during the follicular phase.The cycle phase was determined based on last menstrual period and histology.All 3 patients had diagnoses of diffuse adenomyosis confirmed by pathology reports.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 965,
+                        "end": 967,
+                        "text": "1A",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Tissue Collection and Patient Characteristics",
+                "sec_num": null
+            },
+            {
+                "text": "Adenomyotic, endometrial, and myometrial tissues were dissociated and cells were isolated using a previously described protocol (28) .Briefly, tissues were digested or frozen within 12 hours after hysterectomy.Samples from 2 patients (6 samples) were processed fresh.The remaining patient's samples (3 samples) were frozen due to lack of available appointments in the Northwestern University NUSeq Core.For the fresh samples, tissues were kept in HypoThermosol FRS Solution (BioLife Solutions, Bothell, WA) for up to 12 hours.Tissues were minced into very small pieces in a petri dish with Hank's balanced salt solution, then placed in a 50 mL Falcon tube with digestion enzyme mixture (collagenase, protease, DNase, hyaluronidase, and calcium chloride) in 10 mL Hank's balanced salt solution.Tissues were incubated for 2 hours in a 37 C bead bad incubator with 5 minutes of gentle shaking every 30 minutes.After enzymatic and mechanical digestion, the tissue fraction was allowed to sediment out (approximately 2-5 minutes).The stromal cells and smooth muscle cells were collected by passing the digested supernatant through 70-mm cell sieves and debris was left in the filter.Red blood cell lysis was performed for the stromal cell fraction.For adenomyotic and endometrial tissues, the epithelial cell pellets were backwashed by inverting the cell strainer and centrifugation.The supernatant was removed, and epithelial cells were digested further with 1 mL TrypLE express enzyme (Gibco, Billings, MNT) at 37 C for 10 minutes, followed by passing through 70-mm cell sieves to obtain single epithelial cell suspensions.Epithelial and stroma cell suspensions were centrifuged at 300 relative centrifugal force for 5 minutes at room temperature.After removing the supernatant without disrupting the pellet, stromal and epithelial cells were suspended and mixed together in \u00c21 phosphate-buffered saline with 0.04% bovine serum albumin (400 mg/mL) to achieve the target cell concentration (<5 million cells per tube in 1 mL washing solution in 2 mL DNA LoBind Tubes).Epithelial cell digestion steps were skipped for normal myometrium tissue because significant numbers of epithelial cells were expected in the sample.For all 3 tissue types, to remove the remaining cell debris and large clumps, the cell suspension was pipetted gently and filtered with Scienceware 40 mm Flowm Tip strainers (VWR, Radnor, PA).For frozen samples, the tissue was minced into very small pieces immediately after collection from the pathology core and split into cryovials containing Cryostor CS10 Freeze media (BioLife Solutions).Before scRNA-seq, frozen samples were thawed in a 37 C bath for 1 minute and digested to obtain single-cell suspensions, as described above.",
+                "cite_spans": [
+                    {
+                        "start": 128,
+                        "end": 132,
+                        "text": "(28)",
+                        "ref_id": "BIBREF27"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Single-Cell Suspension Protocol",
+                "sec_num": null
+            },
+            {
+                "text": "Single-cell suspensions of each tissue in DNA LoBind tubes were placed on ice and submitted to the NUSeq Core immediately to check the viability and cell number.Cell yield and viability of the frozen and thawed samples and fresh samples were comparable and >75%, as determined by the trypan blue cell viability assay.From the 9 samples, a total of approximately 90,000 cells were collected.After checking for sample quality and filtering out dead cells, the final total cell number was 66,000.Overall, the contribution from each of the 3 patients to cell clusters was comparable in terms of total cell numbers.However, we noted that each patient sample contributed variably to 3 cell clusters in endometrial and adenomyotic issues.The contribution came primarily from a single patient in 3 extremely small clusters: 2 endometrial clusters (progenitor and T-cell) and 1 adenomyotic cluster (neuron-like).Data from these 3 clusters were excluded from our analyses.Due to high cell yield, suspensions were diluted before sequencing to obtain the target cell concentration.Single-cell suspensions from adenomyotic uteri with approximately 80% cell viability was used as input material with an optimal cell concentration of 700-1200 cells/mL.Samples then were processed for construction of 10\u00c2 libraries for sequencing using the 10\u00c2 Genomics Single-Cell 3 0 reagent kit protocol.Samples were loaded onto the 10\u00c2 Genomics Chromium platform to generate single-cell gel beads in emulsion.Cells underwent reverse transcription reactions to generate barcoded cDNA, which shares a 10\u00c2 barcode with all cDNA from its individual cell of origin.Subsequently, the gel beads in emulsion were broken, and all uniquely barcoded cDNAs were pooled and amplified by polymerase chain reaction to generate material for sequencing on the Illumina HiSeq 4000 at a depth of average 37,000 reads per cell.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Single-Cell RNA Sequencing",
+                "sec_num": null
+            },
+            {
+                "text": "Pre-processing and integration.Processed data from the Cell Ranger pipeline was analyzed using the R package Seurat (v3.2) as described previously (29) .Quality control analysis was performed before data integration.Cells with %300 gene counts and cells with >15% mitochondrial RNA content were filtered out to remove low-quality cells.After log normalization of the filtered data from the 3 patients, data were aligned using the FindIntegrationAnchors and Integra-teData functions to remove batch effects.This process was performed for data from adenomyosis, endometrium, and myometrium samples separately to identify and compare tissue-specific cell types.",
+                "cite_spans": [
+                    {
+                        "start": 147,
+                        "end": 151,
+                        "text": "(29)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Single-Cell RNA-Sequencing Data Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Cell clustering, visualization, and cell-type annotation.After scaling with a coefficient and regressing out the effects of mitochondrial genes and the cell cycle effect (S Scores and iG2 Scores), principal component analysis was performed with 30 principal components and a default resolution parameter using the FindCluster function.Identified cell clusters were visualized by a nonlinear dimensionality reduction algorithm, UMAP.To identify the cell type of each cluster, canonical cell marker gene information was collected from the published",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Single-Cell RNA-Sequencing Data Analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Single-cell transcriptomic analysis of adenomyosis tissue.(A) UMAP presentation of adenomyotic cell clusters.There is a larger and more heterogeneous group of fibroblast-like cells than endometrial fibroblasts (see Fig. 1 ).In contrast to endometrial tissue, there is no readily recognizable connection between the pericyte progenitors and fibroblast-like cells.(B) Fibroblasts comprised a much larger portion (50%) of adenomyosis, compared with endometrial fibroblast population (36%, see Fig. 1 ).In contrast, epithelial cells made up only 3% of adenomyosis versus 14% of endometrial tissue (see Fig. literature, then marker genes for every cluster were identified using the Wilcoxon rank-sum test option of the FindAll-Markers function, and clusters were annotated based on the presence of reference marker genes in these clusters.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 220,
+                        "end": 221,
+                        "text": "1",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 495,
+                        "end": 496,
+                        "text": "1",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "FIGURE 2",
+                "sec_num": null
+            },
+            {
+                "text": "Pseudotime, DoRothEA, PROGENy, and gene enrichment analyses.After transferring Seurat-generated cluster embeddings into a monocle object, pseudotime analysis was performed on the fibroblast-like cell clusters using monocle3 (v0.2.1) (30) .Transcription factor (TF) enrichment analysis was performed on fibroblast-like cell clusters of all tissues using the discriminant regulon expression analysis tool, DoRo-thEA (v2), which is a curated resource of TFs and their transcriptional targets (31) .First, regulons with A-C confidence level were selected for the analysis, then the 20 most variable TFs in selected clusters were visualized.Pathway activities of selected clusters were estimated by PROGENy, which infers pathway activity from perturbation experiments (32) .Gene ontology terms for differentially upregulated genes in unciliated epithelial cells in adenomyosis and endometrium samples were identified using cluster Profiler on Gene Set Enrichment Analysis using the gseGO function for all ontologies.Normalized enrichment scores were calculated for enrichment after correcting for multiple testing with the Benjamini-Hochberg method.Dot plots were generated to show significant GO terms based on their p-adjusted value and Gene Ratio, derived by dividing the total number of genes in the gene set by the number of overlapping genes.In these pathway analyses, we excluded the clusters that originated primarily from the tissue of from a single patient; i.e., E18 and E21 from endometrium and A24 from adenomyosis (see Figs. 1E, 2C ).",
+                "cite_spans": [
+                    {
+                        "start": 233,
+                        "end": 237,
+                        "text": "(30)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 489,
+                        "end": 493,
+                        "text": "(31)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 763,
+                        "end": 767,
+                        "text": "(32)",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1534,
+                        "end": 1537,
+                        "text": "1E,",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 1538,
+                        "end": 1540,
+                        "text": "2C",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "FIGURE 2",
+                "sec_num": null
+            },
+            {
+                "text": "We identified 21 cell clusters comprised of 12 distinct cell types shown in the UMAP: unciliated (3 clusters) and ciliated epithelial cells, endothelial cells (3 clusters), fibroblast-like cells (4 clusters), activated fibroblasts, pericytes, vascular smooth muscle cells, NK cells, T cells (3 clusters), B cells, macrophages, monocytes, and potential progenitor cells (Fig. 1B ) The top markers for each cell type are shown in a dot blot (Fig. 1C ), and the top markers for each cluster are shown in a detailed heatmap (Supplemental Fig. 1a ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 375,
+                        "end": 377,
+                        "text": "1B",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 445,
+                        "end": 447,
+                        "text": "1C",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 539,
+                        "end": 541,
+                        "text": "1a",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Endometrium: A Complex Landscape Rich in Fibroblast and Immune Cell Populations",
+                "sec_num": null
+            },
+            {
+                "text": "Unciliated epithelial cells organized in 3 clusters (E2, E17, E19) comprised 11% of the endometrium.Epithelial cells were identified with canonical markers including EPCAM, PAEP, MMP7, and KRT18.We also identified one ciliated epithelial cell cluster, which expresses cilia-associated genes (C14), such as RSPH1, AGR3, and PIFO; this cell type was described recently in a study performing scRNA-seq of normal endometrium (27; Figs. 1B-D ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 432,
+                        "end": 436,
+                        "text": "1B-D",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Endometrium: A Complex Landscape Rich in Fibroblast and Immune Cell Populations",
+                "sec_num": null
+            },
+            {
+                "text": "Endothelial cells expressed PECAM1, SOX18 and CLDN5 and were present in 3 clusters (E3, E9, E16), which constituted 14% of endometrium (Figs. 1B-D ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 142,
+                        "end": 146,
+                        "text": "1B-D",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Endometrium: A Complex Landscape Rich in Fibroblast and Immune Cell Populations",
+                "sec_num": null
+            },
+            {
+                "text": "Immune cells constituted of 24% of endometrium.The dominant immune cells were NK cells (7%) expressing NKG7 and GNLY) and T cells (12%) expressing CD3D and CD69.Macrophages and monocytes were identified based on CD74 and HLA-DRA expression.A very small B cell cluster also was present (1%), which expressed CD79A and IGKC (Figs. 1B-D ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 329,
+                        "end": 333,
+                        "text": "1B-D",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Endometrium: A Complex Landscape Rich in Fibroblast and Immune Cell Populations",
+                "sec_num": null
+            },
+            {
+                "text": "Fibroblast-like cells constituted the majority of the endometrium (36%).We identified 4 closely grouped clusters of fibroblast-like cells (E0, E1, E11, E13), which express collagen and matrix-related genes (Figs. 1B-D ).When comparing endometrial tissues across the 3 patients, all 3 tissues contained the majority of cellular clusters, although at varying levels (Fig. 1E ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 213,
+                        "end": 217,
+                        "text": "1B-D",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 370,
+                        "end": 372,
+                        "text": "1E",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Endometrium: A Complex Landscape Rich in Fibroblast and Immune Cell Populations",
+                "sec_num": null
+            },
+            {
+                "text": "Fibroblast clusters E0 and E1 had similar gene expression profiles, with both expressing SFRP4, COL1A1, LUM, MMP11, SFRP1, ECM1, and IGF1 (Fig. 1F ).Feature plots also revealed that both clusters also expressed MME, ESR1, and PGR, which are expressed by endometrial stromal fibroblasts (Fig. 1G ).Cluster E11 showed high expression of adhesion-related genes, such as WISP2, CCDC80, GSN, OGN, and SERPINF1.Cluster E13 was slightly segregated from the group and uniquely expressed differentiation and mitogenesis-related genes, such as FOSB, EGR1, NR4A1, FOS, RO RB, THBS1, ESR1, JUN, and PDGFRA.Among all fibroblast-like cells, ESR1 expression was the highest in cluster E13, which we identified as differentiated fibroblasts.Some of the key genes expressed in the fibroblast-like populations are shown as feature plots in Figures 1F and 1G .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 144,
+                        "end": 146,
+                        "text": "1F",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 292,
+                        "end": 294,
+                        "text": "1G",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 830,
+                        "end": 832,
+                        "text": "1F",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 837,
+                        "end": 839,
+                        "text": "1G",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Endometrium: A Complex Landscape Rich in Fibroblast and Immune Cell Populations",
+                "sec_num": null
+            },
+            {
+                "text": "A distinct cluster (E7) that closely mapped to fibroblasts showed unique expression of the pericyte markers COX4I2, MCAM, NOTCH3, and PDGFRB.Attached to E7 was a vascular smooth muscle cell cluster (E6) expressing markers, such as MYL9, TINAGL, BCAM, MYH11, MYLK, and ACTA2 (Fig. 1F ).Because stem/progenitor type cells were detected consistently among pericytes, we performed a pseudotime analysis starting from cluster E7 (33) .Intriguingly, the differentiation trajectory initiating from pericytes progressed through fibroblast-like cells in E0 and E1, then through actively differentiating fibroblast-like cells (E13) and ended in ciliated epithelium (E14; Fig. 1H ).Endometrial mesenchymal stem cells were reported previously to be clonogenic and multipotent pericytes, which may respond to conditions during endometrial regeneration (34) .Therefore, our findings suggest that fibroblast-like cells might originate from pericytes with mesenchymal stem cell characteristics.The scRNA-seq data also suggested that ciliated epithelial cells may be derived from pericytes through mesenchymalepithelial transition (MET; Fig. 1H ).The PROGENy analysis of this MET trajectory showed that 2 distinct signaling pathways, namely PI3K and P53, were upregulated in differentiated fibroblast-like cells (E13) and the ciliated epithelial cluster (E14), respectively (Fig. 1I ).We also used DoRothEA to examine differential expression of TFs in MET differentiation trajectories (E7/E0/E1/E11/E14), which is detailed in Supplemental Fig. 1b (available online).",
+                "cite_spans": [
+                    {
+                        "start": 424,
+                        "end": 428,
+                        "text": "(33)",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 839,
+                        "end": 843,
+                        "text": "(34)",
+                        "ref_id": "BIBREF33"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 280,
+                        "end": 282,
+                        "text": "1F",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 666,
+                        "end": 668,
+                        "text": "1H",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 1125,
+                        "end": 1127,
+                        "text": "1H",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 1363,
+                        "end": 1365,
+                        "text": "1I",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 1527,
+                        "end": 1529,
+                        "text": "1b",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Endometrium: A Complex Landscape Rich in Fibroblast and Immune Cell Populations",
+                "sec_num": null
+            },
+            {
+                "text": "We identified 24 clusters including 13 cell types in adenomyotic tissue, as shown in UMAP (Fig. 2A ).Compared with endometrium, adenomyotic tissue had a higher proportion of fibroblasts and lower proportion of epithelial cells.Fibroblastlike cells constituted 50% of the tissue and showed a high degree of heterogeneity, gathering in 6 distinct clusters (A0, A1, A4, A5, A6, A12).A smooth muscle cell cluster (A2), which closely grouped with the fibroblast populations, constituted 9% of adenomyotic tissue.Epithelial cells constituted 3% of the tissue including ciliated and unciliated epithelium (A13, A18; Figs. 2A, 2B ).Unlike endometrium, we identified a small neuron-like cluster (A24) grouped with fibroblast-like cells and a cluster with myeloid progenitor cells grouped with mast cells (A23).The relative contributions of each cluster per patient and the top gene markers for each cell type are shown in Figures 2C and 2D and Supplemental Figure 2a (available online).Immune cells constituted 13% of adenomyosis, compared with 24% in endometrium.Macrophages and monocytes constituted 6% of cells in adenomyotic tissue followed by T cells (5%) and NK cells (2%).Endothelial cells constituted approximately 15% of the tissue (A3, A10, A14), with a small cluster including lymphatic endothelial cells (A17).In contrast with endometrium, pericytes (A8) and vascular smooth muscle cells (A9) clustered separately from the fibroblast-like cells.Similar to the endometrium, we identified a potential progenitor cell cluster (A19), which associated closely with fibroblast-like cells and constituted 1% of adenomyotic tissue (Figs. 2A, 2B ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 96,
+                        "end": 98,
+                        "text": "2A",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 615,
+                        "end": 618,
+                        "text": "2A,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 619,
+                        "end": 621,
+                        "text": "2B",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 921,
+                        "end": 923,
+                        "text": "2C",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 928,
+                        "end": 930,
+                        "text": "2D",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 955,
+                        "end": 957,
+                        "text": "2a",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1633,
+                        "end": 1636,
+                        "text": "2A,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1637,
+                        "end": 1639,
+                        "text": "2B",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Adenomyosis is Dominated by Fibrosis and a Highly Heterogeneous Fibroblast Population",
+                "sec_num": null
+            },
+            {
+                "text": "The fibroblast-like clusters A0, A6, A5, A1 and A12 showed transcriptomic similarities and represented a group distinct from A2, which was uniquely enriched in smooth muscle cell markers, and A4 that had a strong signature for extracellular matrix-related genes (Fig. 2E ).In A0, a TF analysis demonstrated increased activity of ESR2, ETS2, FLI1, and FOXL2 (Supplemental Fig. 2b ), whereas PROGENy showed activation of the MAPK and EGFR pathways, both of which are associated with cell proliferation (Fig. 2H ).The neighboring A6 cluster had high expression of PDGFRA, COL6A3, MME, ESR1, RORB and HAND2, classical markers for mesenchymal progenitors as well as endometrial stromal cells (Fig. 2E ).The PDGFRA together with ESR1 genes were expressed in A6, suggestive of actively proliferating and differentiating mesenchymal cells driven by estrogen.Interestingly, A6 showed a pattern of maximum ESR1 expression indicative of high estrogen responsiveness, whereas the highest PGR expression was seen in A12 and A5 (Fig. 2F ).This pattern of progression of ESR1/PGR expression is consistent with a pseudotime analysis showing differentiation in the direction of A0/A6/A12/A5 (Figs. 2F, 2G ).The TF analysis suggested that A6 and A12 have increased ATF3 activity, which is related to cellular response to injury, and A6 showed MXI1 and THAP11 upregulation, which are related with pluripotency and mesenchymal cell differentiation (Supplemental Fig. 2b ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 268,
+                        "end": 270,
+                        "text": "2E",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 376,
+                        "end": 378,
+                        "text": "2b",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 506,
+                        "end": 508,
+                        "text": "2H",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 693,
+                        "end": 695,
+                        "text": "2E",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1020,
+                        "end": 1022,
+                        "text": "2F",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1181,
+                        "end": 1184,
+                        "text": "2F,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1185,
+                        "end": 1187,
+                        "text": "2G",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1447,
+                        "end": 1449,
+                        "text": "2b",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Adenomyosis is Dominated by Fibrosis and a Highly Heterogeneous Fibroblast Population",
+                "sec_num": null
+            },
+            {
+                "text": "Cluster A2 showed clear expression of smooth muscle cell markers, such as ACTA2, DES, ACTG2, and MYLK; therefore, we identified it as the smooth muscle cells (SMCs) cluster (Fig. 2E ).Pseudotime analysis suggested that this SMC cluster seems to originate from an adenomyotic fibroblast cluster after a differentiation pattern of A0/A6/A12/A5/A2 (Fig. 2G ).The TF analysis of A2 showed high activity of MEF2A, TEAD1, and SMAD4, which are associated with EMT regulation and muscle hypertrophy.Matrix gla protein (MGP) was the top marker in A4; these cells showed high expression of genes associated with matrix remodeling including decorin (DCN), which is a collagen binding proteoglycan of extracellular matrix, asporin (ASPN), which has a key role in osteoblast driven collagen mineralization activity, and other genes related to macrophage response, such as AEBP1.The TFs associated with immune response (STAT3, SPI) and muscle hypertrophy (SMAD4), and the related TNF and NFKB pathways, were predicted to be activated in this cluster (Supplemental Fig. 2b ).The MGP-expressing A4 cluster may represent terminally differentiated fibroblasts that are resident in adenomyosis.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 179,
+                        "end": 181,
+                        "text": "2E",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 351,
+                        "end": 353,
+                        "text": "2G",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1055,
+                        "end": 1057,
+                        "text": "2b",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Adenomyosis is Dominated by Fibrosis and a Highly Heterogeneous Fibroblast Population",
+                "sec_num": null
+            },
+            {
+                "text": "In the fibroblast-like cell population, the pseudotime analysis initiated from A0 showed a pro-proliferative transcriptomic profile similar to that of the small progenitor cluster (A19, Fig. 2E ); the differentiation trajectory diffusely transitioned via A1, A6, A12, and A5, and segregated to reach 2 clear end points, namely A2 (SMCs) and A4 (fibroblast-like cells expressing matrix-associated genes including MGP, thus designated MGP fibroblast-like; Fig. 2G ).Intriguingly, this analysis also demonstrated a trajectory between the small progenitor cluster (A19) and the entire congregated fibroblast-like population (Fig. 2G ).A19 expressed mitosis and cell division-associated genes and was closely related transcriptomically to the progenitor cluster E18 in endometrium.Fibroblast-like cells were clustered tightly in adenomyosis, and unlike endometrial tissue, pericytes (A8) and vascular SMCs (A9) were not linked directly to this fibroblast-like population (Figs. 1B, 2A ).A pseudotime analysis starting from pericytes did not show a continuation to fibroblast-like cells in adenomyotic tissue.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 191,
+                        "end": 193,
+                        "text": "2E",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 459,
+                        "end": 461,
+                        "text": "2G",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 626,
+                        "end": 628,
+                        "text": "2G",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 973,
+                        "end": 976,
+                        "text": "1B,",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 977,
+                        "end": 979,
+                        "text": "2A",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Adenomyosis is Dominated by Fibrosis and a Highly Heterogeneous Fibroblast Population",
+                "sec_num": null
+            },
+            {
+                "text": "Overall, there were 20 clusters including 10 cell types in myometrium (Supplemental Fig. 3a , available online).As in endometrium and adenomyosis, the dominant cell type in myometrium comprised 5 closely bundled fibroblast-like cell clusters (40%), followed by SMCs (18%; Supplemental Fig. 3b ).Intriguingly, there were 2 small clusters of epithelial cells (<1%) in myometrium (M17, M20) and 4 clusters of endothelial cells (M2, M12, M14) including a lymphatic endothelial cell cluster (M13).Similar to endometrium and adenomyosis, pericytes (M7) and vascular SMCs (M8, M9) clustered together.T cells made up the dominant immune cell cluster, similar to endometrium, followed by macrophages and monocytes.Relative contributions of clusters by each patient are shown in (Supplemental Fig. 3c ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 89,
+                        "end": 91,
+                        "text": "3a",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 290,
+                        "end": 292,
+                        "text": "3b",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 788,
+                        "end": 790,
+                        "text": "3c",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Myometrium: Fibroblast-Like Clusters Form a Population Distinct From Smooth Muscle Cell Clusters",
+                "sec_num": null
+            },
+            {
+                "text": "The fibroblast-like cells in myometrial tissue were comprised of a close group of 5 clusters (M0, M1, M4, M11, M16).We performed subcluster analysis on these groups, as demonstrated in a heatmap (Supplemental Fig. 3d ).The OGN, CTGF, CYR61, and LUM genes were the top markers in M0; these genes are associated with collagen formation and remodeling (35) (36) (37) .Cluster M0 showed similarity to M11, which uniquely expressed MGP and was designated a ''MGP fibroblast-like'' cluster, similar to A4 (Fig. 2E ).Cluster M11 also showed high expression of matrix-associated proteins, such as gelsolin (GSN), decorin (DCN), and fibulin-1 (FBLN1) (38) .",
+                "cite_spans": [
+                    {
+                        "start": 349,
+                        "end": 353,
+                        "text": "(35)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 354,
+                        "end": 358,
+                        "text": "(36)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 359,
+                        "end": 363,
+                        "text": "(37)",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 642,
+                        "end": 646,
+                        "text": "(38)",
+                        "ref_id": "BIBREF37"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 214,
+                        "end": 216,
+                        "text": "3d",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 505,
+                        "end": 507,
+                        "text": "2E",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Myometrium: Fibroblast-Like Clusters Form a Population Distinct From Smooth Muscle Cell Clusters",
+                "sec_num": null
+            },
+            {
+                "text": "Fibroblast clusters M1 and M4 had high expression of MMP11, SFRP4, CRABP2, and VCAN; however, unlike M1, M4 also showed upregulation of WNT2, ECM1, and COL3A1 as well as retinoic acid metabolism-associated genes, such as ALDH1A2, RORB, and RBP1 (39).The MDK gene, another highly expressed gene in M4, encodes a protein that responds to retinoic acid and promotes cell survival, migration, and tumorigenesis (40) .Cluster M16 was distinct from all other clusters and showed a unique gene expression profile of differentiation and early response genes, such as FOS, JUN, and EGR1 (41) .The PROGENy analysis showed upregulation of hypoxia, TGFB, P53, NFkB, TNF, and JAK-STAT pathways in M11 (MGP fibroblast-like cells), similar to A4 in adenomyosis (Supplemental Fig. 3e and Fig. 2H ).A pseudotime analysis originating from the myometrial fibroblast cluster M4 showed a differentiation map through M1 and M0 that ended in M11 (MGP fibroblast-like cells; Supplemental Fig. 3f ), similar to adenomyosis fibroblasts (Fig. 2G ).Cluster-specific markers and a list of regulatory TFs in fibroblast-like cell clusters in myometrium are shown in a detailed heatmap (Supplemental Figs. 4a, 4b , available online).",
+                "cite_spans": [
+                    {
+                        "start": 407,
+                        "end": 411,
+                        "text": "(40)",
+                        "ref_id": "BIBREF39"
+                    },
+                    {
+                        "start": 578,
+                        "end": 582,
+                        "text": "(41)",
+                        "ref_id": "BIBREF40"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 765,
+                        "end": 767,
+                        "text": "3e",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 777,
+                        "end": 779,
+                        "text": "2H",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 969,
+                        "end": 971,
+                        "text": "3f",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 1016,
+                        "end": 1018,
+                        "text": "2G",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1174,
+                        "end": 1177,
+                        "text": "4a,",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 1178,
+                        "end": 1180,
+                        "text": "4b",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Myometrium: Fibroblast-Like Clusters Form a Population Distinct From Smooth Muscle Cell Clusters",
+                "sec_num": null
+            },
+            {
+                "text": "We also interrogated the similarities and the differences between the 2 SMC clusters M3 and M5 and the SMC cluster (A2) in adenomyosis (Supplemental Fig. 4c ).The transcriptomic profiles of M3 and A2 are quite similar with high expression of SFRP4, a modulator of the WNT pathway (Supplemental Fig. 4c ).These data collectively suggest that in myometrial and adenomyotic tissues, SMCs likely originate from a fibroblast-like cluster.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 154,
+                        "end": 156,
+                        "text": "4c",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 299,
+                        "end": 301,
+                        "text": "4c",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Myometrium: Fibroblast-Like Clusters Form a Population Distinct From Smooth Muscle Cell Clusters",
+                "sec_num": null
+            },
+            {
+                "text": "We next evaluated differential gene expression patterns in fibroblast clusters that distinguish adenomyosis from endometrium and myometrium (Figs. 3A, 3B ).Among the fibroblast-like clusters in adenomyosis and endometrium, the most striking observation was that A0 is very similar to E0 and E1 endometrial fibroblasts (Fig. 3A ).This suggested that A0 fibroblasts represent a population that migrated from endometrium to invade myometrial tissue and contributed to adenomyosis (see Figs. 1B, 2A ).Pseudotime analyses suggested that A0, E0, and E1 all have progenitor-like features, from which more differentiated fibroblasts originate (see Figs. 1H, 2G ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 147,
+                        "end": 150,
+                        "text": "3A,",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 151,
+                        "end": 153,
+                        "text": "3B",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 324,
+                        "end": 326,
+                        "text": "3A",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 488,
+                        "end": 491,
+                        "text": "1B,",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 492,
+                        "end": 494,
+                        "text": "2A",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 646,
+                        "end": 649,
+                        "text": "1H,",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 650,
+                        "end": 652,
+                        "text": "2G",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Comparative Analysis of Fibroblast Populations in Adenomyosis, Endometrium, and Myometrium",
+                "sec_num": null
+            },
+            {
+                "text": "When adenomyotic and myometrial fibroblast clusters were compared (Fig. 3B ), A4 showed striking similarities to M0 and M11, all of which expressed the highest levels of MGP and seemed to represent a terminally differentiated population among the fibroblast-like clusters in each tissue (see Fig. 2G and Supplemental Fig. 3f ).The MGP is a structural extracellular matrix constituent (42) , and our finding resonates with the observed increase in extracellular matrix in adenomyotic tissue.",
+                "cite_spans": [
+                    {
+                        "start": 384,
+                        "end": 388,
+                        "text": "(42)",
+                        "ref_id": "BIBREF41"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 72,
+                        "end": 74,
+                        "text": "3B",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 297,
+                        "end": 299,
+                        "text": "2G",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 322,
+                        "end": 324,
+                        "text": "3f",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Comparative Analysis of Fibroblast Populations in Adenomyosis, Endometrium, and Myometrium",
+                "sec_num": null
+            },
+            {
+                "text": "Intriguingly, the gene family SFRP, which are modulators of the WNT pathway, were expressed prominently in fibroblast-like clusters, showing cross-tissue similarities between the endometrium, adenomyosis, and myometrium (Figs. 3A, 3B ).Therefore, we first determined the differential expression of the members of this gene family across the 3 tissues (Fig. 3C ).Both SFRP1 and SFRP4 levels were higher in adenomyosis than in endometrium or myometrium (Fig. 3C ).Gene SFRP2 was expressed only in adenomyosis and myometrium (A4, M11; Figs. 3A-C ).It has been reported that SFRP2, which is a WNT antagonist, downregulates estrogen-dependent b-catenin activity, inhibits cell growth, and promotes myogenesis (43) .The lack of SFRP2 expression in endometrium might permit epithelial cell growth and invasiveness.Thus, SFRP2 might be a key predictive marker of epithelial cell growth potential in adenomyosis.Interestingly, SFRP1 and SFRP4 are expressed in all fibroblast-like clusters in adenomyosis, whereas SFRP2 is expressed only in A4 (Fig. 3D ).",
+                "cite_spans": [
+                    {
+                        "start": 704,
+                        "end": 708,
+                        "text": "(43)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 227,
+                        "end": 230,
+                        "text": "3A,",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 231,
+                        "end": 233,
+                        "text": "3B",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 357,
+                        "end": 359,
+                        "text": "3C",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 457,
+                        "end": 459,
+                        "text": "3C",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 538,
+                        "end": 542,
+                        "text": "3A-C",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 1040,
+                        "end": 1042,
+                        "text": "3D",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Comparative Analysis of Fibroblast Populations in Adenomyosis, Endometrium, and Myometrium",
+                "sec_num": null
+            },
+            {
+                "text": "The cells in clusters A1, A5, A6, and A12 seemed to be distinct within adenomyotic tissue (Figs. 3A, 3B ); analysis of adenomyotic fibroblast-like cells showed uniquely upregulated genes involved in the WNT pathway, ribosome biogenesis, and protein targeting to endoplasmic reticulum (Supplemental Fig. 5 , available online).Expression of genes in the ribosome biogenesis pathway was strikingly prominent in A12.Ribosome biogenesis is an established pathway that supports tumor cell growth and proliferation (44) .",
+                "cite_spans": [
+                    {
+                        "start": 508,
+                        "end": 512,
+                        "text": "(44)",
+                        "ref_id": "BIBREF43"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 97,
+                        "end": 100,
+                        "text": "3A,",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 101,
+                        "end": 103,
+                        "text": "3B",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 303,
+                        "end": 304,
+                        "text": "5",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Comparative Analysis of Fibroblast Populations in Adenomyosis, Endometrium, and Myometrium",
+                "sec_num": null
+            },
+            {
+                "text": "The epithelium represents the defining cell type in adenomyosis, and adenomyosis is thought to originate from the endometrium.Therefore, we further analyzed differentially expressed genes in epithelial cells between matched adenomyotic tissue and endometrium (5) .First, we used scatter plot analysis to define the ciliated and unciliated epithelial cells in our tissues (Fig. 4A ).As expected, classical markers, such as PAEP and MMP7, were conspicuously higher in unciliated epithelial cells, whereas a much larger number of genes were prominently expressed in ciliated epithelial cells (Fig. 4A ) (27) .Then, we identified differentially expressed genes separately in unciliated and ciliated epithelia in adenomyosis and endometrium (Figs. 4B, 4C ).In general, unciliated and ciliated epithelium in adenomyotic tissue and endometrium showed similar transcriptomic profiles.In unciliated epithelium, however, expression of a number of genes was significantly higher in endometrium, including markers of differentiation, such as PAEP, PLCG2, HSPA1A, and HSP90AA1 (Fig. 4B ).The PAEP marker, also known as glycodelin, is a secretory glycoprotein that is regulated by progesterone and associated with differentiation and healthy implantation (45, 46) .This finding may suggest the presence of progesterone resistance in adenomyotic unciliated epithelium (39, 47) .In unciliated and ciliated epithelial cells, expression of heat shock proteins (HSPA1A, HSP90AA1) was significantly lower in adenomyosis than in endometrium (Figs. 4B, 4C ).Because some heat shock proteins are important for estrogen action, which seems to have a role in adenomyosis (5) , this finding requires further investigation.",
+                "cite_spans": [
+                    {
+                        "start": 259,
+                        "end": 262,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 600,
+                        "end": 604,
+                        "text": "(27)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 1241,
+                        "end": 1245,
+                        "text": "(45,",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 1246,
+                        "end": 1249,
+                        "text": "46)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1353,
+                        "end": 1357,
+                        "text": "(39,",
+                        "ref_id": "BIBREF38"
+                    },
+                    {
+                        "start": 1358,
+                        "end": 1361,
+                        "text": "47)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 1646,
+                        "end": 1649,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 377,
+                        "end": 379,
+                        "text": "4A",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 595,
+                        "end": 597,
+                        "text": "4A",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 743,
+                        "end": 746,
+                        "text": "4B,",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 747,
+                        "end": 749,
+                        "text": "4C",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 1070,
+                        "end": 1072,
+                        "text": "4B",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 1527,
+                        "end": 1530,
+                        "text": "4B,",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 1531,
+                        "end": 1533,
+                        "text": "4C",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Analysis of Ciliated and Unciliated Epithelial Clusters in Endometrium and Adenomyosis",
+                "sec_num": null
+            },
+            {
+                "text": "We also noted that immune function-related genes and pathways are upregulated in unciliated epithelial cells of adenomyosis compared with endometrium (Figs. 4B, 4D ).Expression of genes associated with immune response and macrophage activation, such as HLA-DRA, HLA-DRB1, CD74, NFKBIA, and S100A6, were significantly higher in adenomyotic epithelium (Fig. 4B ).These genes also are related to cell proliferation, inflammation, and cell motility.Among the upregulated pathways in adenomyosis, immune response-related processes were significantly upregulated in adenomyosis in ciliated and unciliated epithelium (Fig. 4D ).Moreover, genes involved in the canonical WNT signaling pathway and regulation of epithelial cell migration pathways were upregulated only in adenomyotic unciliated epithelium.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 157,
+                        "end": 160,
+                        "text": "4B,",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 161,
+                        "end": 163,
+                        "text": "4D",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 356,
+                        "end": 358,
+                        "text": "4B",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 616,
+                        "end": 618,
+                        "text": "4D",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Analysis of Ciliated and Unciliated Epithelial Clusters in Endometrium and Adenomyosis",
+                "sec_num": null
+            },
+            {
+                "text": "In our analysis, WNT signaling emerged as a prominent biological process that was differentially regulated in stromal, epithelial, and SMCs; thus, we performed bioinformatics to further analyze paracrine and intracrine WNT-related interactions between all cell types in adenomyotic tissue (cellcell communication analysis, Fig. 4E ) The WNT signaling network analysis identified multiple signals originating from fibroblast clusters A0, A1, A5, and A12 toward epithelial and endothelial clusters A10, A13, A14, and A18 (Fig. 4E ).The directionality of signals from stromal cells toward endothelial and epithelial cells is supported by the distribution of expression of ligands (WNT) and their receptors (FZD and LRP) in each cluster (Fig. 4F ).In particular, WNT2 and WNT4 were expressed prominently in adenomyosis-specific fibroblastlike clusters, such as A0, A1, A5, and A12 (Fig. 4F ; see Fig. 3 ).The most prominent WNT receptors expressed in endothelial or epithelial cells were FZD6 and LRP6.In summary, our scRNA-seq analysis uncovered significant roles of various fibroblast populations in endometrium and adenomyosis that seem to have central roles in adenomyosis pathophysiology via WNT signaling to endothelial and epithelial cells.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 328,
+                        "end": 330,
+                        "text": "4E",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 525,
+                        "end": 527,
+                        "text": "4E",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 739,
+                        "end": 741,
+                        "text": "4F",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 883,
+                        "end": 885,
+                        "text": "4F",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 897,
+                        "end": 898,
+                        "text": "3",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Analysis of Ciliated and Unciliated Epithelial Clusters in Endometrium and Adenomyosis",
+                "sec_num": null
+            },
+            {
+                "text": "To our knowledge, this is the first detailed characterization of the transcriptomic landscape of the adenomyotic uterus using scRNA-seq to compare gene expression in distinct cell types of matched endometrium, adenomyotic tissue, and myometrium.We identified ciliated and unciliated epithelial cells, fibroblast-like cells, SMCs, endothelial cells, pericytes, vascular SMCs, potential progenitor cells, T cells, NK cells, B cells, macrophages, and monocytes, as well as small clusters including neurons and myeloid progenitors in the adenomyotic uterus.Our analyses revealed a high degree of heterogeneity in fibroblast-like cells in the adenomyotic uterus.This heterogeneity may be due to different transcriptional states driven by inflammation and fibrosis in adenomyosis.We identified fibroblast-like cell clusters that we suspect represent a disease-specific transcriptome (A1, A5, A6, and A12; Figs. 3A, 3B ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 905,
+                        "end": 908,
+                        "text": "3A,",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 909,
+                        "end": 911,
+                        "text": "3B",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The pathophysiology of adenomyosis has been debated; however, current evidence suggests that adenomyosis occurs after the invasion of the myometrium by cellular oligoclones comprised of deep glandular epithelial cells with KRAS mutations together with attached endometrial stromal cells (5, 23) .The lack of a substantial difference between epithelial cells in adenomyotic tissue and endometrium in our study supports this theory.Progesterone resistance has been demonstrated in adenomyotic tissue; Inuoe et al. (23) linked progesterone resistance to autonomously activated KRAS.Overall progesterone receptor (PGR) levels have been reported to be lower in adenomyosis compared to normal endometrium (48) ; however, we here identified higher PGR expression in distinct populations of fibroblast-like cells in adenomyotic tissue than in endometrium and myometrium, suggesting that progesterone resistance at the level of stromal cells is mediated by complex cellular and molecular mechanisms (Supplemental Fig. 6 , available online).On the other hand, epithelial cells in adenomyotic tissue showed downregulation of PAEP compared with epithelial cells in endometrium; PAEP is an important progesterone-responsive gene (45, 46) .This is suggestive that progesterone action in the context of a stromal-epithelial paracrine interaction may be deficient in adenomyosis (5, 39) .",
+                "cite_spans": [
+                    {
+                        "start": 287,
+                        "end": 290,
+                        "text": "(5,",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 291,
+                        "end": 294,
+                        "text": "23)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 512,
+                        "end": 516,
+                        "text": "(23)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 699,
+                        "end": 703,
+                        "text": "(48)",
+                        "ref_id": "BIBREF47"
+                    },
+                    {
+                        "start": 1216,
+                        "end": 1220,
+                        "text": "(45,",
+                        "ref_id": "BIBREF44"
+                    },
+                    {
+                        "start": 1221,
+                        "end": 1224,
+                        "text": "46)",
+                        "ref_id": "BIBREF45"
+                    },
+                    {
+                        "start": 1363,
+                        "end": 1366,
+                        "text": "(5,",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 1367,
+                        "end": 1370,
+                        "text": "39)",
+                        "ref_id": "BIBREF38"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 1009,
+                        "end": 1010,
+                        "text": "6",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The first study comparing eutopic endometrial tissues of women with or without adenomyosis identified differentially expressed genes, which might initiate the disease pathways including eukaryotic initiation factor 2 signaling, oxidative phosphorylation, mitochondrial dysfunction, and estrogen receptor signaling (49) .This study was based on microarray analysis and suggested that these abnormalities might be associated with the invasion of myometrial tissue by endometrial cells (49) .A more recent study used bulk RNA sequencing to identify differentially expressed genes and molecular pathways in the eutopic endometrium from adenomyosis patients (50) .These investigators found that IL-6 and ERK/MAPKrelated pathways were activated in the eutopic endometrium of adenomyotic uterine tissues (50) .A different study also identified the ERK/MAPK signaling pathway in association with the proliferation of uterine SMCs in women with adenomyosis (51) .",
+                "cite_spans": [
+                    {
+                        "start": 314,
+                        "end": 318,
+                        "text": "(49)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 483,
+                        "end": 487,
+                        "text": "(49)",
+                        "ref_id": "BIBREF48"
+                    },
+                    {
+                        "start": 653,
+                        "end": 657,
+                        "text": "(50)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 797,
+                        "end": 801,
+                        "text": "(50)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 948,
+                        "end": 952,
+                        "text": "(51)",
+                        "ref_id": "BIBREF50"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The WNT pathway has been studied in the pathophysiology of adenomyosis (52); however, cell-specific details of its role have not been well understood.Here, we identified an intricate WNT signaling network between fibroblast-like cells and epithelial and endothelial cells in adenomyosis (Fig. 4E ).Differentially expressed gene analysis in fibroblast-like cells from different tissues showed significant differences in expression of SFRP family members, which modulate WNT signaling (Figs. 3A, 3B ).The SFRPs antagonize WNT signaling by competing with WNT proteins for receptor binding (53) .We found that SFRPs are upregulated in fibroblast-like cells of adenomyosis compared with endometrium and normal-appearing myometrium, and that fibroblast-like cells in adenomyotic tissue express significantly higher SFRP1 and SFRP4.Moreover, the WNT pathway is regulated at another level with increased signaling from fibroblast-like cells to epithelial cells (Figs. 4E, 4F ).This is suggestive that WNT activity may be upregulated in epithelial cells and downregulated via SFRPs in fibroblasts in adenomyotic tissue.",
+                "cite_spans": [
+                    {
+                        "start": 586,
+                        "end": 590,
+                        "text": "(53)",
+                        "ref_id": "BIBREF52"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 293,
+                        "end": 295,
+                        "text": "4E",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 490,
+                        "end": 493,
+                        "text": "3A,",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 494,
+                        "end": 496,
+                        "text": "3B",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 960,
+                        "end": 963,
+                        "text": "4E,",
+                        "ref_id": "FIGREF3"
+                    },
+                    {
+                        "start": 964,
+                        "end": 966,
+                        "text": "4F",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Another recent study compared endometrial and myometrial tissues of women with or without diffuse adenomyosis at the transcriptomic level (54) .These investigators found that biological processes, including inflammation, extracellular matrix organization, collagen degradation, hyaluronan synthesis, and cell migration, were upregulated in adenomyosis.In the myometrial compartment, top biological processes in women with adenomyosis were extracellular matrix dysfunction, abnormal sensory pain perception, and g-aminobutyric acid synaptic transmission (54) .We also identified a unique cluster in adenomyosis (A4) that has a strong signature for extracellular matrix-related genes (Fig. 2E ).",
+                "cite_spans": [
+                    {
+                        "start": 138,
+                        "end": 142,
+                        "text": "(54)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 553,
+                        "end": 557,
+                        "text": "(54)",
+                        "ref_id": "BIBREF53"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 688,
+                        "end": 690,
+                        "text": "2E",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "There are some limitations to our study.Despite being a powerful approach to establishing the transcriptomic profile of individual cells in heterogenous cell populations, singlecell sequencing has drawbacks (26) .Single-cell sequencing technology allows assessment of heterogeneity in complex tissues, but low coverage prevents detection of mutations (42) .Thus, a major limitation of our study is a lack of mutation information.Additionally, we did not identify cell surface markers and, thus, could not sort cells to verify the identities or functions of the cell clusters.Because adenomyosis is a disease that develops within the myometrium, we originally expected to see a higher number of SMCs but found a higher complement of fibroblasts compared with SMCs.A potential explanation is that fibroblast-like cells were more easily digested than SMCs, and thus a higher number of fibroblast-like cells than SMCs were prepared and analyzed.Our findings, on the other hand, also may reflect the in vivo nature of myometrial tissue.In fact, a recent scRNA-seq analysis of the myometrium identified fibroblasts as a major component of this tissue (55) .Nevertheless, the comparative transcriptomic analysis of matched endometrium, adjacent myometrium, and adenomyotic tissue within the same uteri obtained from 3 patients via scRNA-seq is a significant strength of our study.The only other study using scRNA-seq to evaluate adenomyosis used a single patient and did not provide any comparative information regarding normal-appearing myometrium of the adenomyotic uterus (56) .",
+                "cite_spans": [
+                    {
+                        "start": 207,
+                        "end": 211,
+                        "text": "(26)",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 351,
+                        "end": 355,
+                        "text": "(42)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 1145,
+                        "end": 1149,
+                        "text": "(55)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 1568,
+                        "end": 1572,
+                        "text": "(56)",
+                        "ref_id": "BIBREF55"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "In conclusion, adenomyosis is a complex pathology associated with elaborate molecular mechanisms characterized by estrogen-dependent chronic inflammation, progesterone resistance, and epithelial KRAS mutations (23) .Recent DNA-based evidence provided irrefutable support that adenomyotic lesions originate from adjacent endometrial tissue; thus, the theory of entrapped endometrium as the origin of adenomyosis pertains (23) .Here, we used a cutting-edge procedure to define gene expression profiles of the individual cell types in adenomyotic tissue and adjacent endometrium and myometrium in an attempt to ascertain the cell-cell interactions and the key signaling pathways involved in the pathophysiology of adenomyosis.The WNT pathway turned out to be a candidate regulator of the critical biological processes in adenomyosis.We anticipate that our findings may facilitate the identification of new therapeutic targets for adenomyosis.",
+                "cite_spans": [
+                    {
+                        "start": 210,
+                        "end": 214,
+                        "text": "(23)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 420,
+                        "end": 424,
+                        "text": "(23)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "Fertility and Sterility\u00ae",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "and M.A.) and Grant TUBITAK-2219 International Postdoctoral Research Fellowship Program (S.Y.).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "funding",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Pathogenesis of uterine adenomyosis: invagination or metaplasia?",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Garcia-Solares",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Donnez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Donnez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Dolmans",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Fertil Steril",
+                "volume": "109",
+                "issue": "",
+                "pages": "371--379",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The elusive adenomyosis of the uterus-revisited",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Bird",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Mcelin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Manalo-Estrella",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1972,
+                "venue": "Am J Obstet Gynecol",
+                "volume": "112",
+                "issue": "",
+                "pages": "583--593",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Adenomyosis: mechanisms and pathogenesis",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Zhai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Vannuccini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Petraglia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Giudice",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Semin Reprod Med",
+                "volume": "38",
+                "issue": "",
+                "pages": "129--143",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Adenomyosis: a clinical review of a challenging gynecologic condition",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Struble",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Reid",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Bedaiwy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "J Minim Invasive Gynecol",
+                "volume": "23",
+                "issue": "",
+                "pages": "164--185",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Adenomyosis pathogenesis: insights from next-generation sequencing",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Bulun",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Yildiz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Adli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Wei",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Hum Reprod Update",
+                "volume": "27",
+                "issue": "",
+                "pages": "1086--1097",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "The pathophysiology of uterine adenomyosis: an update",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Benagiano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Habiba",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Brosens",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Fertil Steril",
+                "volume": "98",
+                "issue": "",
+                "pages": "572--579",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "The pathophysiology of endometriosis and adenomyosis: tissue injury and repair",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Leyendecker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Wildt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Mall",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2009,
+                "venue": "Arch Gynecol Obstet",
+                "volume": "280",
+                "issue": "",
+                "pages": "529--538",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "A new concept of endometriosis and adenomyosis: tissue injury and repair (TIAR)",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Leyendecker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Wildt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Horm Mol Biol Clin Investig",
+                "volume": "5",
+                "issue": "",
+                "pages": "125--142",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Endometriosis: a dysfunction and disease of the archimetra",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Leyendecker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Kunz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Noe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Herbertz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Mall",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1998,
+                "venue": "Hum Reprod Update",
+                "volume": "4",
+                "issue": "",
+                "pages": "752--762",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Genetic or enzymatic disruption of aromatase inhibits the growth of ectopic uterine tissue",
+                "authors": [
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Fang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Yang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Gurates",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Tamura",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Simpson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Evans",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "J Clin Endocrinol Meta",
+                "volume": "87",
+                "issue": "",
+                "pages": "3460--3466",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Diagnosis, evaluation, and treatment of adenomyosis",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Kho",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Halvorson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "JAMA",
+                "volume": "326",
+                "issue": "",
+                "pages": "177--178",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Adenomyosis incidence, prevalence and treatment: United States population-based study 2006-2015",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Yu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Schulze-Rath",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Grafton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hansen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Scholes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Reed",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Am J Obstet Gynecol",
+                "volume": "223",
+                "issue": "",
+                "pages": "94--e95",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Adenomyosis and subfertility: a systematic review of prevalence, diagnosis, treatment and fertility outcomes",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Maheshwari",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gurunath",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Fatima",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Bhattacharya",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Hum Reprod Update",
+                "volume": "18",
+                "issue": "",
+                "pages": "374--392",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Noninvasive diagnosis of adenomyosis: a structured review and meta-analysis of diagnostic accuracy in imaging",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Tellum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Nygaard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Lieng",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "J Minim Invasive Gynecol",
+                "volume": "27",
+                "issue": "",
+                "pages": "408--418",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Diagnosing adenomyosis: an integrated clinical and imaging approach",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Chapron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Vannuccini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Santulli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Abrao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Carmona",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Fraser",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Hum Reprod Update",
+                "volume": "26",
+                "issue": "",
+                "pages": "392--411",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "The impact of adenomyosis on women's fertility",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Harada",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Khine",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Kaponis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Nikellis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Decavalas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Taniguchi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Obstet Gynecol Surv",
+                "volume": "71",
+                "issue": "",
+                "pages": "557--568",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Adenomyosis and female fertility: a critical review of the evidence",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Sunkara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Khan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "J Obstet Gynaecol",
+                "volume": "32",
+                "issue": "",
+                "pages": "113--116",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Uterine polyps, adenomyosis, leiomyomas, and endometrial receptivity",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Munro",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Fertil Steril",
+                "volume": "111",
+                "issue": "",
+                "pages": "629--640",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Adenomyosis and infertility",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Campo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Campo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Benagiano",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Reprod Biomed Online",
+                "volume": "24",
+                "issue": "",
+                "pages": "35--46",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "Immunological changes associated with adenomyosis: a systematic review",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Bourdon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Santulli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Jeljeli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Vannuccini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Marcellin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Doridot",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Hum Reprod Update",
+                "volume": "27",
+                "issue": "",
+                "pages": "108--129",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Adenomyosis does not affect implantation, but is associated with miscarriage in patients undergoing oocyte donation",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Martinez-Conejero",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Morgan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Montesinos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Fortuno",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Meseguer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Simon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Fertil Steril",
+                "volume": "96",
+                "issue": "",
+                "pages": "943--950",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Uterine adenomyosis and in vitro fertilization outcome: a systematic review and meta-analysis",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Vercellini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Consonni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Dridi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Bracco",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Frattaruolo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Somigliana",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Hum Reprod",
+                "volume": "29",
+                "issue": "",
+                "pages": "964--977",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Uterine adenomyosis is an oligoclonal disorder associated with KRAS mutations",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Inoue",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Hirota",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Ueno",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Fukui",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Yoshida",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Hayashi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Nat Commun",
+                "volume": "10",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "KRAS mutation: from undruggable to druggable in cancer",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Huang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Guo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Fu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Signal Transduct Target Ther",
+                "volume": "6",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Cancer-Associated mutations in endometriosis without cancer",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Anglesio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Papadopoulos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Ayhan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Nazeran",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Noe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Horlings",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "N Engl J Med",
+                "volume": "376",
+                "issue": "",
+                "pages": "1835--1848",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "The technology and biology of single-cell RNA sequencing",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Kolodziejczyk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Svensson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Marioni",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Teichmann",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Mol Cell",
+                "volume": "58",
+                "issue": "",
+                "pages": "610--620",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Singlecell transcriptomic atlas of the human endometrium during the menstrual cycle",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Vilella",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Alama",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Moreno",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Mignardi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Isakova",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Nat Med",
+                "volume": "26",
+                "issue": "",
+                "pages": "1644--1653",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Cell atlas of human uterus",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Wu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Jin",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Zhao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "An",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Rxiv",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Integrating single-cell transcriptomic data across different conditions, technologies, and species",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Butler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Hoffman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Smibert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Papalexi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Satija",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Nat Biotechnol",
+                "volume": "36",
+                "issue": "",
+                "pages": "411--420",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Trapnell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Cacchiarelli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Grimsby",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Pokharel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Morse",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Nat Biotechnol",
+                "volume": "32",
+                "issue": "",
+                "pages": "381--386",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Benchmark and integration of resources for the estimation of human transcription factor activities",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Garcia-Alonso",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Holland",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ibrahim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Turei",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Saez-Rodriguez",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Genome Res",
+                "volume": "29",
+                "issue": "",
+                "pages": "1363--1375",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Perturbation-response genes reveal signaling footprints in cancer gene expression",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Schubert",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Klinger",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Klunemann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Sieber",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Uhlitz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Sauer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Nat Commun",
+                "volume": "9",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Endometrial stem/progenitor cells: the first 10 years",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Gargett",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Schwab",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Deane",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Hum Reprod Update",
+                "volume": "22",
+                "issue": "",
+                "pages": "137--163",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Perivascular human endometrial mesenchymal stem cells express pathways relevant to self-renewal, lineage specification, and functional phenotype",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Spitzer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Rojas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Zelenko",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Aghajanova",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Erikson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Barragan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Biol Reprod",
+                "volume": "86",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Roles for CCN2 in normal physiological processes",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Hall-Glenn",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Lyons",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Cell Mol Life Sci",
+                "volume": "68",
+                "issue": "",
+                "pages": "3209--3217",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Matricellular proteins: extracellular modulators of cell function",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Bornstein",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Sage",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Curr Opin Cell Biol",
+                "volume": "14",
+                "issue": "",
+                "pages": "608--616",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Proteoglycan form and function: a comprehensive nomenclature of proteoglycans",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "V"
+                        ],
+                        "last": "Iozzo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Schaefer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Matrix Biol",
+                "volume": "42",
+                "issue": "",
+                "pages": "11--55",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Fibulin is an extracellular matrix and plasma glycoprotein with repeated domain structure",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Argraves",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Tran",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Burgess",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Dickerson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1990,
+                "venue": "J Cell Biol",
+                "volume": "111",
+                "issue": "",
+                "pages": "3155--3164",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Endometriosis",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Bulun",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Yilmaz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Sison",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Miyazaki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Bernardi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Endocr Rev",
+                "volume": "40",
+                "issue": "",
+                "pages": "1048--1079",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Midkine induces epithelial-mesenchymal transition through Notch2/Jak2-Stat3 signaling in human keratinocytes",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Huang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Hoque",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Wu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Trink",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Sidransky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Ratovitski",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Cell Cycle",
+                "volume": "7",
+                "issue": "",
+                "pages": "1613--1622",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Fos and Jun: oncogenic transcription factors",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Curran",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1992,
+                "venue": "Tohoku J Exp Med",
+                "volume": "168",
+                "issue": "",
+                "pages": "169--174",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Cancer genomics: one cell at a time",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Navin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Genome Biol",
+                "volume": "15",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Canonical Wnt signaling is critical to estrogen-mediated uterine growth",
+                "authors": [
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Hou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Tan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Dey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Das",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Mol Endocrinol",
+                "volume": "18",
+                "issue": "",
+                "pages": "3035--3049",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Ribosome biogenesis in cancer: new players and therapeutic avenues",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Pelletier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Thomas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Volarevic",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Nat Rev Cancer",
+                "volume": "18",
+                "issue": "",
+                "pages": "51--63",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Glycodelin in reproduction",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Uchida",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Maruyama",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Nishikawa-Uchida",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Miyazaki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Masuda",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Yoshimura",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Reprod Med Biol",
+                "volume": "12",
+                "issue": "",
+                "pages": "79--84",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Glycodelin: a major lipocalin protein of the reproductive axis with diverse actions in cell recognition and differentiation",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Seppala",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Taylor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Koistinen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Koistinen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Milgrom",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2002,
+                "venue": "Endocr Rev",
+                "volume": "23",
+                "issue": "",
+                "pages": "401--430",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Gene expression analysis of endometrium reveals progesterone resistance and candidate susceptibility genes in women with endometriosis",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Burney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Talbi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Hamilton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Vo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Nyegaard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Nezhat",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "Endocrinology",
+                "volume": "148",
+                "issue": "",
+                "pages": "3814--3826",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Pathogenesis of adenomyosis: an update on molecular mechanisms",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Vannuccini",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Tosti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Carmona",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Huang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Chapron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Guo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Reprod Biomed Online",
+                "volume": "35",
+                "issue": "",
+                "pages": "592--601",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Global transcriptome abnormalities of the eutopic endometrium from women with adenomyosis",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Herndon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Aghajanova",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Balayan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Erikson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Barragan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Goldfien",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Reprod Sci",
+                "volume": "23",
+                "issue": "",
+                "pages": "1289--1303",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Transcriptome sequencing of adenomyosis eutopic endometrium: a new insight into its pathophysiology",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Xiang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Sun",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Yang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Yang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Yu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "J Cell Mol Med",
+                "volume": "23",
+                "issue": "",
+                "pages": "8381--8391",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Activation of the MAPK/ERK cell-signaling pathway in uterine smooth muscle cells of women with adenomyosis",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Streuli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Santulli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Chouzenoux",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Chapron",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Batteux",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Reprod Sci",
+                "volume": "22",
+                "issue": "",
+                "pages": "1549--1560",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "beta-Catenin activation contributes to the pathogenesis of adenomyosis through epithelialmesenchymal transition",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Oh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Shin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Kim",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Yoo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Ahn",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "J Pathol",
+                "volume": "231",
+                "issue": "",
+                "pages": "210--222",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Secreted frizzled related protein 4 (sFRP4) update: a brief review",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Pawar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Rao",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Cell Signal",
+                "volume": "45",
+                "issue": "",
+                "pages": "63--70",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Transcriptomic analysis supports collective endometrial cell migration in the pathogenesis of adenomyosis",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Zhai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Sen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Vallve-Juanico",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Irwin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Vo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Reprod Biomed Online",
+                "volume": "45",
+                "issue": "",
+                "pages": "519--530",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Single-cell sequencing reveals novel cellular heterogeneity in uterine leiomyomas",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Goad",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Rudolph",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Zandigohar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Tae",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Dai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Wei",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Hum Reprod",
+                "volume": "37",
+                "issue": "",
+                "pages": "2334--2349",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Single-cell transcriptomic analysis of eutopic endometrium and ectopic lesions of adenomyosis",
+                "authors": [
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Sun",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Niu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Liang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Cell Biosci",
+                "volume": "11",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Adenomiosis: el an alisis transcript omico unicelular revela una interacci on mesenquimatosa-epitelial paracrina que implica la v\u00eda WNT/SFRP. Objetivo: evaluar el panorama celular y molecular de la adenomiosis",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "An alisis unicelular de la expresi on de ARN mensajero (ARNm) de todo el genoma (secuenciaci on de ARN unicelular) de tejidos emparejados de endometrio, adenomiosis y miometrio utilizando cantidades relativamente grandes de c elulas viables",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Dise\u00f1o",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Entorno",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "de distintos tipos de c elulas en estos tejidos para identificar poblaciones de c elulas espec\u00edficas de la enfermedad, expresi on g enica anormal y la activaci on de la v\u00eda, y las interacciones mesenquimales-epiteliales",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF59": {
+                "ref_id": "b59",
+                "title": "La poblaci on celular m as grande en el endometrio estaba compuesta por grupos de fibroblastos estrechamente agrupados, que comprenden el 36 % de todas las c elulas y parecen originarse a partir de los progenitores de pericitos que se diferencian a c elulas del estroma endometrial que expresan receptores de estr ogeno/progesterona",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Resultado",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 1",
+                "fig_num": "1",
+                "type_str": "figure"
+            },
+            "FIGREF1": {
+                "uris": null,
+                "num": null,
+                "text": "1).Macrophage (MQ)-monocyte clusters seem to compose the most prominent immune cell population in adenomyosis.(C) Bar graph showing the number of cells from each patient (n \u00bc 3) in clusters of integrated data.(D) Dot plot of identified markers of each cell type.(E) Heatmap of highly expressed genes in progenitor cells, fibroblast-like cells, SMCs, and MGP-expressing fibroblasts.MGP-fibroblast-like cluster (A4) prominently expresses ECM-related genes and SFRPs.SMC cluster (A2) expresses SMC markers such as ACTA2.(F) Feature plots showing the distribution of expression of ESR1 and PGR, which concentrated in fibroblast-like cells.(G) Pseudotime trajectory of fibroblast-like cells suggesting that fibroblast-like cells might originate from cluster A0, differentiate through A1/A6/A12/A5, and terminate in 2 endpoints, A2 SMCs and A4 MGP-fibroblast-like cells.(H) Heatmap of the PROGENy-predicted pathway activity scores of selected cell clusters (fibroblast-like cells, MGP-expressing fibroblasts, and SMCs).Estrogen and WNT pathways are coactivated in A1/A5/A12, consistent with high ESR1 expression in these cluster (see Fig 2F).MGP, matrix gla protein; Cil epi, ciliated epithelial cells; CMP, common myeloid progenitor; fibro-like, fibroblast-like; Lymph endothelia, lymphatic endothelial cells; NK, natural killer; PC, Progenitor-like cells; VSMC, vascular SMCs; Uncil epi, unciliated epithelial cells.Yildiz.Adenomyosis and WNT Pathway.Fertil Steril 2023.",
+                "fig_num": null,
+                "type_str": "figure"
+            },
+            "FIGREF2": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 3",
+                "fig_num": "3",
+                "type_str": "figure"
+            },
+            "FIGREF3": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 4",
+                "fig_num": "4",
+                "type_str": "figure"
+            },
+            "FIGREF4": {
+                "uris": null,
+                "num": null,
+                "text": "Yildiz.Adenomyosis and WNT Pathway.Fertil Steril 2023.",
+                "fig_num": null,
+                "type_str": "figure"
+            }
+        }
+    }
+}

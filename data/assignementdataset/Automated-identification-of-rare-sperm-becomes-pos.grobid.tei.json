@@ -1,0 +1,359 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Automated-identification-of-rare-sperm-becomes-pos",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:29.622487Z"
+    },
+    "title": "Automated identification of rare sperm becomes possible: Is sperm selection the next frontier in male infertility?",
+    "authors": [
+        {
+            "first": "Lewin",
+            "middle": [],
+            "last": "Staine",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Johns Hopkins University School of Medicine",
+                "location": {
+                    "settlement": "Baltimore",
+                    "region": "Maryland"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Jaden",
+            "middle": [
+                "R"
+            ],
+            "last": "Kohn",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Johns Hopkins University School of Medicine",
+                "location": {
+                    "settlement": "Baltimore",
+                    "region": "Maryland"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Taylor",
+            "middle": [
+                "P"
+            ],
+            "last": "Kohn",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Automated-identification-of-rare-sperm-becomes-pos",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.05.005",
+        "keywords": [],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "identification of rare sperm becomes possible: Is sperm selection the next frontier in male infertility?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Treatment modalities that help men with infertility achieve their goal of having a healthy child have undergone multiple stepwise advancements over the years-from assisted reproductive technology and intracytoplasmic sperm injection (ICSI) to the use of microscopic sperm extraction techniques to diagnostic technologies such as whole-genome sequencing and sperm function testing (1) .Advancements such as microscopic sperm extraction have allowed physicians to be more efficient in collecting seminiferous tubules that are more likely to contain sperms (2); however, laboratory tissue processing after microscopic collection remains a challenge because the process is currently performed manually; can require 12-14 hours of careful examination; and is dependent on the examiner's level of expertise, fatigue, and ability to visualize sperms (3) .The automation of this tedious process could facilitate greater efficiency of andrology laboratory personnel and supplement their initial searches, which could be especially helpful in cases of nonobstructive azoospermia (NOA).Lee et al. ( 4) demonstrated this automation in their study; the investigators used a machine learning algorithm to detect rare sperm in microscopic testicular sperm extraction samples from men with NOA using bright-field microscopy.The investigators trained their convolutional neural network using bright-field images paired with fluorescenttagged sperm images to establish the ground truth before algorithm validation.Overall, the algorithm had 95.8% sensitivity, with a 91% positive predictive value.Lee et al. ( 4) demonstrated the ingenious use of machine learning technology to provide an additional tool for laboratory personnel while searching for sperms in men with NOA.",
+                "cite_spans": [
+                    {
+                        "start": 380,
+                        "end": 383,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 843,
+                        "end": 846,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Automation to identify sperms in the andrology laboratory could allow more efficient and more effective identification of rare sperms, which would be a substantial advancement in the field of male infertility.However, although sperm identification remains crucial, there are currently no nondestructive technologies or processes that allow the evaluation of the quality of the sperm after it is retrieved.The next breakthrough in sperm collection and processing will be the identification of the most viable sperm for use in ICSI or sperm selection.Embryo selection has undergone significant advancements over the years; the current modalities of embryo assessment rely either on embryo growth over a period of days and subsequent grading based on subjective morphology or destructive testing of nonessential cells in the trophectoderm (preimplantation genetic testing); neither of these options can be applied to sperm selection.As such, novel modalities for sperm selection will need to be developed; the most promising approach may be through nondestructive imaging techniques.Technologies such as Raman spectroscopy and quantitative phase imaging provide the ability to assess cellular contents, including aneuploidy, methylation, and DNA packaging, all of which could help identify sperms that can lead to the most optimal embryonic development (5) .As technologies such as machine learning to automate rare sperm identification become more widespread and potentially allow for the identification of a few rare sperms in men who previously had no sperms identified, the subsequent selection of the most optimal sperm for use in ICSI will become more and more essential.We believe that continued, stepwise advancements and wide implementation of these technologies will further help couples with infertility achieve their goal of a healthy child.",
+                "cite_spans": [
+                    {
+                        "start": 1350,
+                        "end": 1353,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "A schematic overview of the current status of male infertility practice",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Agarwal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Majzoub",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Parekh",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Henkel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "World J Mens Health",
+                "volume": "38",
+                "issue": "",
+                "pages": "308--322",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Comparison of microdissection testicular sperm extraction, conventional testicular sperm extraction, and testicular sperm aspiration for nonobstructive azoospermia: a systematic review and meta-analysis",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bernie",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Mata",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Ramasamy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Schlegel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Fertil Steril",
+                "volume": "104",
+                "issue": "",
+                "pages": "1099--1103",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Duration of microdissection testicular sperm extraction procedures: relationship to sperm retrieval success",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Ramasamy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Fisher",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Ricci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Leung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "N"
+                        ],
+                        "last": "Schlegel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "J Urol",
+                "volume": "185",
+                "issue": "",
+                "pages": "1394--1397",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Automated rare sperm identification from low-magnification microscopy images of dissociated microsurgical testicular sperm extraction samples using deep learning",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Witherspoon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Robinson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Duffy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Flannigan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Fertil Steril",
+                "volume": "118",
+                "issue": "",
+                "pages": "90--99",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Advanced label-free optical methods for spermatozoa quality assessment and selection",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "De Angelis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Ferrara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Coppola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "De",
+                        "middle": [],
+                        "last": "Luca",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Spermatozoa: facts and perspectives",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

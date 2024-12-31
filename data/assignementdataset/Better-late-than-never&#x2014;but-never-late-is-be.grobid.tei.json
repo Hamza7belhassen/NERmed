@@ -1,0 +1,367 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Better-late-than-never&#x2014;but-never-late-is-be",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:29.896897Z"
+    },
+    "title": "Better late than never\u2014but never late is best!",
+    "authors": [
+        {
+            "first": "Tarek",
+            "middle": [],
+            "last": "Khader",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Harry",
+            "middle": [
+                "J"
+            ],
+            "last": "Lieman",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Sangita",
+            "middle": [],
+            "last": "Jindal",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Better-late-than-never&#x2014;but-never-late-is-be",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2023.01.038",
+        "keywords": [],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "We read with great interest the article by Moon et al., entitled ''The developmental competence of human metaphase I oocytes with delayed maturation in vitro'' (1) .In this study, sibling oocytes from 1124 intracytoplasmic sperm injection (ICSI) cycles from 800 patients were collected.The control group oocytes were retrieved at the metaphase II (MII) stage after controlled ovarian hyperstimulation.The study group oocytes were retrieved from the same patients at the metaphase I (MI) stage after controlled ovarian hyperstimulation and required 2-6 hours in culture to mature to MII stage (MI-MII).All MII oocytes were injected on day 0 of culture with a single sperm.Measures of reproductive competence (fertilization rate, blastulation rate, number of euploid blastocysts) were compared between both groups.A subset of these patients underwent a frozen embryo transfer of a single euploid blastocyst and outcome measures (clinical pregnancy, miscarriage and live birth rates) were compared.Fertilization, blastulation rates, and number of euploid embryos were significantly higher in the MII group versus the MI-MII group.However, pregnancy, miscarriage, and live birth rates were similar in both groups after single embryo transfer of a euploid embryo.The investigators concluded that the MI oocytes with delayed maturation in vitro still can be used although the overall reproductive competence is lower than their in vivo matured counterparts.They are to be commended for their novel study design in that oocyte competence was compared for and within each patient; only cycles where MII and MI-MII oocytes were retrieved were included.Efforts were made to include cycles that controlled for confounding variables (intracytoplasmic sperm injection [ICSI] only, euploid embryo only, single embryo transfer only, frozen embryo transfer only).",
+                "cite_spans": [
+                    {
+                        "start": 160,
+                        "end": 163,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Study limitations deserve comment.As part of their standard protocol, the clinic preferentially transferred embryos derived from fully matured MII oocytes over embryos derived from MI-MII ''rescued'' oocytes.The investigators acknowledged that this practice introduced significant selection bias into the retrospective analysis of clinical pregnancy, miscarriage and live birth rates.Additionally, only 27 euploid blastocysts were transferred in total, with only 5 being day 5 transfers.Perhaps a larger sample size would have uncovered a statistically significant difference in the potential of these MI-MII embryos.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "The classical definition of in vitro maturation (IVM) refers to the maturation of immature cumulus-oocyte complexes from germinal vesicles to MII oocytes without exposure to human chorionic gonadotropin (hCG) or luteinizing hormone in vivo (2) .The 4 major types of IVM in clinical practice (truncated IVF without folliclestimulating hormone [FSH], follicle priming with FSH, mild-stimulation IVF/truncated IVF, and rescue IVM) are characterized by differing exposure schedules to exogenous gonadotropin and/or hCG.Truncated IVF without FSH involves hCG administration/priming of intermediate follicles during natural cycles, such as in patients with polycystic ovarian syndrome (2) .Alternatively, follicle priming with FSH uses minimal FSH stimulation for approximately 3-6 days followed by retrieval with no hCG trigger (2).Mild-stimulation IVF/truncated IVF involves minimal FSH stimulation and early hCG administration to prime intermediate follicles (2) .These techniques have been used to minimize the risk of ovarian hyperstimulation syndrome, or to minimize estrogen exposure in women with hormonally responsive cancers.Additionally, they have been used for fertility preservation in patients before gonadotoxic cancer treatment.Finally, rescue IVM, which is the technique used by Moon et al. (1) , is defined as controlled ovarian hyperstimulation followed by the in vitro maturation of immature oocytes at time of retrieval (2) .Rescue IVM does not require any changes in stimulation protocol and can be easily used in any standard IVF cycle.",
+                "cite_spans": [
+                    {
+                        "start": 240,
+                        "end": 243,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 679,
+                        "end": 682,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 956,
+                        "end": 959,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 1302,
+                        "end": 1305,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1435,
+                        "end": 1438,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "For an oocyte to undergo successful fertilization and embryo development, nuclear and cytoplasmic maturation must occur (3).Nuclear maturation is induced by the luteinizing hormone surge, initiating the resumption of meiosis, and can be confirmed by visualizing the extrusion of the first polar body.Unfortunately, a similar biomarker does not exist for cytoplasmic maturity.This desynchrony between nuclear and cytoplasmic maturity is likely a factor in the variability observed in fertilization and blastulation rates in rescued IVM oocytes (4) .",
+                "cite_spans": [
+                    {
+                        "start": 543,
+                        "end": 546,
+                        "text": "(4)",
+                        "ref_id": "BIBREF3"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In their 2004 study, Balakier et al. (5) argued that time may be a critical factor for human oocytes to undergo the essential cytoplasmic changes necessary for successful completion of maturation and preparation for fertilization.Similar to the study by Moon et al. (1) , they compared MII and rescued MI-MII sister oocytes and allowed between 1 and 6 hours for progression to MII stage.They performed ICSI on the MI-MII oocytes at time intervals of 1-1.5 hours, 2-2.5 hours, and 3-6 hours after polar body extrusion.They found that only 25% of oocytes injected 1-1.5 hours after reaching the MII stage fertilized normally; 43% after 2-2.5 hours, 59% after 3-3.5 hours, and 62% after 4-6 hours (5) .Oocytes in the Moon et al. (1) , study were reassessed 2-6 hours after retrieval and underwent ICSI at the time maturity was observed via polar body extrusion.If cytoplasmic maturity indeed lags behind nuclear maturity by several hours, perhaps the single time point of 6 hours after retrieval would be sufficient to optimize nuclear and cytoplasmic maturity of the oocytes, leading to potential increased fertilization and blastulation per oocyte after ICSI.",
+                "cite_spans": [
+                    {
+                        "start": 37,
+                        "end": 40,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 266,
+                        "end": 269,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 694,
+                        "end": 697,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 726,
+                        "end": 729,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Optimizing mature oocyte yield and maximizing euploid embryos for transfer remains a key area of research in our field.With the average age of the reproductive population continuing to rise, novel technologies that make IVF more efficient will become even more critical.Assisting the IVF clinician with improved yield from the laboratory is one such means to that end.We commend Moon et al. (1) , for their important contribution to the literature.",
+                "cite_spans": [
+                    {
+                        "start": 391,
+                        "end": 394,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "The developmental competence of human metaphase I oocytes with delayed maturation in vitro",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Moon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [],
+                        "last": "Zhao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Reddy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Han",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Cheng",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "Fertil Steril",
+                "volume": "119",
+                "issue": "",
+                "pages": "690--696",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Practice Committees of the American Society for Reproductive Medicine, the Society of Reproductive Biologists and Technologists, and the Society for Assisted Reproductive Technology. In vitro maturation: a committee opinion",
+                "authors": [],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "115",
+                "issue": "",
+                "pages": "298--304",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Acquisition of oocyte competence to develop as an embryo: integrated nuclear and cytoplasmic events",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Conti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Franciosi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Hum Reprod Update",
+                "volume": "24",
+                "issue": "",
+                "pages": "245--266",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "In-vitro matured metaphase-I oocytes have a lower fertilization rate but similar embryo quality as mature metaphase-II oocytes after intracytoplasmic sperm injection",
+                "authors": [
+                    {
+                        "first": "De",
+                        "middle": [],
+                        "last": "Vos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Van De Velde",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Joris",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Van",
+                        "middle": [],
+                        "last": "Steirteghem",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "Hum Reprod",
+                "volume": "14",
+                "issue": "",
+                "pages": "1859--1863",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Time-dependent capability of human oocytes for activation and pronuclear formation during metaphase II arrest",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Balakier",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Sojecki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Motamedi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Librach",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "Hum Reprod",
+                "volume": "19",
+                "issue": "",
+                "pages": "982--987",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

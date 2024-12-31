@@ -1,0 +1,2630 @@
+{
+    "paper_id": "xml_output_cochrane\\Abdallah_et_al-2021-Cochrane_Database_of_Systematic_Reviews",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-04-05T17:20:03.781428Z"
+    },
+    "title": "Uterine distension media for outpatient hysteroscopy",
+    "authors": [
+        {
+            "first": "Karim",
+            "middle": [
+                "S"
+            ],
+            "last": "Abdallah",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Assiut University",
+                "location": {
+                    "settlement": "Assiut",
+                    "country": "Egypt"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Moustafa",
+            "middle": [
+                "A"
+            ],
+            "last": "Gadalla",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Assiut University",
+                "location": {
+                    "settlement": "Assiut",
+                    "country": "Egypt"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Maria",
+            "middle": [
+                "C"
+            ],
+            "last": "Breijer",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Admiraal de Ruyter Ziekenhuis",
+                "location": {
+                    "settlement": "Goes",
+                    "country": "Netherlands"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Ben",
+            "middle": [
+                "Willem J"
+            ],
+            "last": "Mol",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Hysteroscopy done in an outpatient setting is the 'gold standard' method for evaluating the uterine cavity.Media used to distend the uterine cavity include gas as carbon dioxide and liquid as saline that can be used at room temperature or warmed to body temperature.Both media o er advantages as well as disadvantages.\nUterine distension media for outpatient hysteroscopy (Review)",
+    "pdf_parse": {
+        "paper_id": "xml_output_cochrane\\Abdallah_et_al-2021-Cochrane_Database_of_Systematic_Reviews",
+        "_pdf_hash": "",
+        "doi": "10.1002/14651858.cd006604.pub2",
+        "keywords": [
+            "Informed decisions",
+            "Better health Informed decisions",
+            "Better health outpatient hysteroscopy clinics Intervention: saline Comparison: carbon dioxide scale Informed decisions",
+            "Better health decisions",
+            "Better health"
+        ],
+        "abstract": [
+            {
+                "text": "Hysteroscopy done in an outpatient setting is the 'gold standard' method for evaluating the uterine cavity.Media used to distend the uterine cavity include gas as carbon dioxide and liquid as saline that can be used at room temperature or warmed to body temperature.Both media o er advantages as well as disadvantages.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "Uterine distension media for outpatient hysteroscopy (Review)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "The objective of this review is to compare the e ectiveness, tolerability, and safety of gas (carbon dioxide) and liquid (normal saline) used for uterine distension during outpatient hysteroscopy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Objectives",
+                "sec_num": null
+            },
+            {
+                "text": "We searched the Cochrane Gynaecology and Fertility (CGF) Group Specialised Register, CENTRAL, MEDLINE, Embase and PsycINFO on 28 April 2021.We checked references of relevant trials and contacted study authors and experts in the field to identify additional studies.CINAHL records and ongoing trials from the trial registries were included in the CENTRAL search.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Search methods",
+                "sec_num": null
+            },
+            {
+                "text": "We included randomised controlled trials (RCTs) comparing saline with carbon dioxide, as well as RCTs comparing saline at di erent temperatures, for uterine distension in outpatient hysteroscopy done for any indication.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selection criteria",
+                "sec_num": null
+            },
+            {
+                "text": "We used standard methodological procedures recommended by Cochrane.Primary review outcomes were patient tolerability and adverse events or complications related to the distending medium.Secondary outcomes were quality of the hysteroscopic view and duration of the procedure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data collection and analysis",
+                "sec_num": null
+            },
+            {
+                "text": "We included 12 RCTs (1946 women) .The quality of evidence ranged from very low to moderate: the main limitations were risk of bias due to absence of blinding due to the nature of the procedure, imprecision, and inconsistency.",
+                "cite_spans": [
+                    {
+                        "start": 20,
+                        "end": 32,
+                        "text": "(1946 women)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Main results",
+                "sec_num": null
+            },
+            {
+                "text": "Analysis ruled out a clinically relevant di erence in pain scores during the procedure between saline and carbon dioxide, but the quality of evidence was low (standardised mean di erence (SMD) -0.07, 95% confidence interval (CI) -0.17 to 0.02; 9 RCTs, N = 1705; I = 86%).This translates to di erences of 0.39 cm (lower) and 0.05 cm (higher) on a 10-cm visual analogue scale (VAS).Evidence was insu icient to show",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Saline versus carbon dioxide",
+                "sec_num": null
+            },
+            {
+                "text": "The womb is a hollow organ.A hysteroscope is an apparatus that is introduced inside the womb to see inside the cavity.If one is to see, the cavity needs to be filled with a clear substance (distension medium).This substance can be liquid (saline solution) or gas (carbon dioxide).Warming liquid to body temperature was suggested to improve patient tolerability.Each substance has benefits and side e ects, which we have compared here.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Background",
+                "sec_num": null
+            },
+            {
+                "text": "We found 12 randomised controlled trials comparing distension media in a total of 1946 women undergoing outpatient hysteroscopy.Evidence is current to April 2021.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study characteristics",
+                "sec_num": null
+            },
+            {
+                "text": "Pain during the procedure may be similar with saline and carbon dioxide.We are uncertain whether saline is as tolerable as carbon dioxide in terms of proportion of procedures abandoned due to intense pain and the need to use painkillers.Saline is probably associated with fewer side e ects than carbon dioxide.Saline may be superior to carbon dioxide in terms of quality of the hysteroscopic view.Evidence is inconclusive for duration of the procedure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Key results",
+                "sec_num": null
+            },
+            {
+                "text": "Compared to room temperature saline, warm saline may reduce pain scores.Evidence is inconclusive for other outcomes in this comparison.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Key results",
+                "sec_num": null
+            },
+            {
+                "text": "Mean (SD) pain score during the procedure was 2.74 (2.3) cm on 10-cm VAS b SMD 0.07 SD lower (0.17 lower to 0.02 higher) 1705 (9 RCTs) \u2295\u2295\u229d\u229d LOW c,d This translates to a difference of 0.16 cm lower on 10-cm VAS with saline (0.39 cm lower to 0.05 cm higher) b",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Key results",
+                "sec_num": null
+            },
+            {
+                "text": "Procedures abandoned due to intense pain 43 *The risk in the intervention group (and its 95% confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and its 95% CI).",
+                "cite_spans": [
+                    {
+                        "start": 41,
+                        "end": 43,
+                        "text": "43",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Key results",
+                "sec_num": null
+            },
+            {
+                "text": "The uterine cavity is a virtual space that is lined by the endometrium.There is a need to assess the uterine cavity and the endometrium in women with abnormal uterine bleeding (AUB), infertility, or suspected genital tract congenital anomalies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "B A C K G R O U N D Description of the condition",
+                "sec_num": null
+            },
+            {
+                "text": "In addition to performing assessment, obtaining an endometrial sample may be required in some cases (Munro 2011).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "B A C K G R O U N D Description of the condition",
+                "sec_num": null
+            },
+            {
+                "text": "Several options are available to assess the inside of the uterus, including two-dimensional ultrasonography, three-dimensional ultrasonography, saline infusion sonohysterography, hysteroscopy, and magnetic resonance imaging (Bingol 2011; Farquhar 2003; Seshadri 2014) .Dilatation and curettage (D&C) was used in the past to investigate the uterine cavity and to obtain an endometrial sample.However, D&C is considered obsolete because it is a blind method with low sensitivity for local and pedunculated intracavitary lesions.Further disadvantages of D&C include the need for hospital admission and general anaesthesia (Bettocchi 2001) .",
+                "cite_spans": [
+                    {
+                        "start": 224,
+                        "end": 237,
+                        "text": "(Bingol 2011;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 238,
+                        "end": 252,
+                        "text": "Farquhar 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 253,
+                        "end": 267,
+                        "text": "Seshadri 2014)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 619,
+                        "end": 635,
+                        "text": "(Bettocchi 2001)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "B A C K G R O U N D Description of the condition",
+                "sec_num": null
+            },
+            {
+                "text": "Hysteroscopy involves the introduction of a lighted scope through the cervix to visualise the uterine cavity.Hysteroscopy has replaced D&C for many cases requiring investigation of the uterine cavity.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "With direct visualisation of the uterine cavity, organic lesions are not missed and directed biopsy can be performed (Bedner 2007; Clark 2018) .Hysteroscopy in an o ice setting was described in 1969 by Leidenheimer (Leidenheimer 1969) .He used an instrument called the Silander hysteroscope, which was originally described by Torsten Silander in 1963 (Silander 1963) .O ice hysteroscopy in general is preferable, as it o ers the advantages of being minimally invasive, can be done without general anaesthesia for diagnostic purposes, and has low cost and quick recovery time.",
+                "cite_spans": [
+                    {
+                        "start": 117,
+                        "end": 130,
+                        "text": "(Bedner 2007;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 131,
+                        "end": 142,
+                        "text": "Clark 2018)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 202,
+                        "end": 234,
+                        "text": "Leidenheimer (Leidenheimer 1969)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 334,
+                        "end": 350,
+                        "text": "Silander in 1963",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 351,
+                        "end": 366,
+                        "text": "(Silander 1963)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "In addition, some surgical interventions can be performed in the same setting -'see and treat' (Robinson 2013).O ice hysteroscopy has a necessary role in the diagnostic workup for heavy menstrual bleeding (NICE guidelines 2018).The 'traditional' approach for hysteroscopy requires introduction of a vaginal speculum to separate vaginal walls and to visualise the cervix, followed by use of a forceps to grasp the cervix.On the other hand, the new 'vaginoscopic' approach is done by guiding the hysteroscope inside the vagina that is distended by the media without the use of vaginal instruments (Cooper 2010; Smith 2019).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "Since this procedure was introduced, several modifications to outpatient hysteroscopy have been proposed, aimed at decreasing the associated pain and improving satisfaction for patients and operators.Decreasing the diameter of the hysteroscope (minihysteroscope < 3.5 mm) and using the no-touch 'vaginoscopic' approach are examples of such modifications that may result in less pain and better tolerability of outpatient hysteroscopy (Evangelista 2011).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "As the uterine cavity is a virtual space, it needs to be distended by a medium under pressure if the whole cavity and the tubal ostia are to be visualised (Rioux 1984) .Currently, the media in use include gas as carbon dioxide and liquid as saline that can be used at room temperature or warmed to body temperature (Brusco 2003) .",
+                "cite_spans": [
+                    {
+                        "start": 155,
+                        "end": 167,
+                        "text": "(Rioux 1984)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 315,
+                        "end": 328,
+                        "text": "(Brusco 2003)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How the intervention might work",
+                "sec_num": null
+            },
+            {
+                "text": "Problems linked to the type of distension media include pelvic pain, shoulder-tip pain, and endometrial bleeding.These problems can negatively influence image quality and patient satisfaction (Evangelista 2011).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How the intervention might work",
+                "sec_num": null
+            },
+            {
+                "text": "The search for the perfect gaseous or liquid distension media continues, as both methods o er advantages and disadvantages (Litta 2003; Nagele 1996; Paschopoulos 2004; Raimondo 2010) .This review aims to summarise the evidence for all distension media in current use.",
+                "cite_spans": [
+                    {
+                        "start": 123,
+                        "end": 135,
+                        "text": "(Litta 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 136,
+                        "end": 148,
+                        "text": "Nagele 1996;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 149,
+                        "end": 167,
+                        "text": "Paschopoulos 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 168,
+                        "end": 182,
+                        "text": "Raimondo 2010)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why it is important to do this review",
+                "sec_num": null
+            },
+            {
+                "text": "The objective of this review is to compare the e ectiveness, tolerability, and safety of gas (carbon dioxide) and liquid (normal saline) used for uterine distension during outpatient hysteroscopy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "O B J E C T I V E S",
+                "sec_num": null
+            },
+            {
+                "text": "Criteria for considering studies for this review",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "M E T H O D S",
+                "sec_num": null
+            },
+            {
+                "text": "Randomised controlled trials (RCTs) comparing any uterine distension medium versus another in outpatient hysteroscopy were eligible.We excluded non-randomised and quasi-randomised trials.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of studies",
+                "sec_num": null
+            },
+            {
+                "text": "Women undergoing outpatient hysteroscopy for all indications were eligible for inclusion.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of participants",
+                "sec_num": null
+            },
+            {
+                "text": "Outpatient hysteroscopy using gas or liquid for uterine distension was eligible.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "We considered studies for inclusion in this review if they were appropriately designed to evaluate outcome measures relevant to patient and operator satisfaction when outpatient hysteroscopy using carbon dioxide or normal saline as a distension medium is performed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of outcome measures",
+                "sec_num": null
+            },
+            {
+                "text": "1. Tolerability of the procedure, assessed as a. pain experienced by women during the procedure, excluding pain during introduction of the hysteroscope, based on pain scores b. proportion of procedures abandoned or terminated owing to patient pain or discomfort c. the need for analgesia 2. Operative and postoperative adverse events and complications, including shoulder-tip pain, vagal symptoms (nausea, vomiting, dizziness, and fainting attack), bleeding from the endometrium, and infection",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Primary outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "1. Quality of the hysteroscopic view, assessed as a. operator's description of the clarity of the view on a specified scale b. proportion of procedures with an unsatisfactory hysteroscopic view 2. Length of time to complete the procedure 3. Cost implications",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Secondary outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "We searched for all published and unpublished RCTs studying distension media in outpatient hysteroscopy in consultation with the Cochrane Gynaecology and Fertility Group (CGF) Information Specialist on 28 April 2021.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Search methods for identification of studies",
+                "sec_num": null
+            },
+            {
+                "text": "We searched the following electronic databases for relevant trials:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Electronic searches",
+                "sec_num": null
+            },
+            {
+                "text": "We handsearched the reference lists of relevant trials and systematic reviews retrieved by the search and contacted experts in the field to obtain additional trials.We also handsearched relevant journals and conference abstracts that are not covered in the CGF Specialised Register, in liaison with the Information Specialist.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Searching other resources",
+                "sec_num": null
+            },
+            {
+                "text": "Ongoing trials from trial registries (clinicaltrials.govand the World Health Organization International Trials Registry Platform search portal) were included in the CENTRAL search.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Searching other resources",
+                "sec_num": null
+            },
+            {
+                "text": "Titles and abstracts of search results were initially screened independently by two review authors (KSA and MB), a er which we retrieved the full texts of potentially eligible studies.Two review authors (KSA and MAG) independently examined all full-text articles and selected studies meeting the Review eligibility criteria for inclusion.When papers contained insu icient information to permit a decision about eligibility, we attempted to contact study investigators to seek further details.We resolved disagreements by discussion with a third review author (BWJM).We documented the selection process by using a PRISMA flow chart.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selection of studies",
+                "sec_num": null
+            },
+            {
+                "text": "Two review authors (KSA and MAG) independently extracted data from eligible studies using a data extraction form.We resolved disagreements by discussion.Extracted data included study characteristics and outcome data (see Characteristics of included studies tables).We collated multiple reports of the same trial under a single study ID with multiple references.We attempted to contact study investigators for further information on methods and/or results, if required.We included studies irrespective of whether outcomes were reported in a usable way.In multi-arm studies, we excluded data from arms that did not meet eligibility criteria.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data extraction and management",
+                "sec_num": null
+            },
+            {
+                "text": "Two review authors (KSA and MAG) independently assessed the included studies for risk of bias using the Cochrane 'Risk of bias' assessment tool (Higgins 2011).We assessed the following domains: selection bias (random sequence generation and allocation concealment); performance bias (blinding of participants and personnel); detection bias (blinding of outcome assessors); attrition bias (incomplete outcome data); reporting bias (selective reporting); and other bias.We assigned judgements as recommended in the Cochrane Handbook for Systematic Reviews of Interventions, Section 8.5 (Higgins 2011).We resolved disagreements by discussion.We described all judgements in detail and presented our conclusions in the 'Risk of bias' table in the Characteristics of included studies section.We incorporated these conclusions into our interpretation of review findings by means of sensitivity analyses (see Sensitivity analysis).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of risk of bias in included studies",
+                "sec_num": null
+            },
+            {
+                "text": "For dichotomous data, we used the numbers of events in both groups of each study to calculate Peto odds ratios (Peto ORs).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures of treatment e ect",
+                "sec_num": null
+            },
+            {
+                "text": "For continuous outcomes, we calculated mean di erences (MDs) between treatment groups when outcomes were reported with the same scale.We calculated standardised mean di erences (SMDs) when outcomes were reported on di erent scales.We reversed the direction of e ect of individual studies, when required, to ensure consistency across trials.We treated ordinal data as continuous data.We presented all outcomes with 95% confidence intervals (CIs).When data to calculate ORs and SMDs were not available, we utilised the most numerical data available (e.g.test statistics, P values).We assessed whether estimates calculated in the review for individual studies were compatible in each case with estimates reported in the study publications.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Measures of treatment e ect",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "The primary analysis was per woman randomised.Data that did not allow valid analysis were briefly summarised in an additional table and were not meta-analysed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Unit of analysis issues",
+                "sec_num": null
+            },
+            {
+                "text": "We analysed data on an intention-to-treat basis as far as possible (i.e.including all randomised participants in analysis, in the groups to which they were randomised).Attempts were made to obtain missing data from the original trialists.We did not undertake imputation, and we analysed only available data.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dealing with missing data",
+                "sec_num": null
+            },
+            {
+                "text": "We considered whether the clinical and methodological characteristics of included studies were su iciently similar for meta-analysis to provide a clinically meaningful summary.We assessed statistical heterogeneity using I .We considered I greater than 50% to indicate substantial heterogeneity (Higgins 2011).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "In view of the di iculty of detecting and correcting for publication bias and other reporting biases, we aimed to minimise their potential impact by ensuring a comprehensive search for eligible studies and by being alert for duplication of data.We planned to use a funnel plot to explore the possibility of small-study e ects (i.e.tendency for estimates of the intervention e ect to be more beneficial in smaller studies) if 10 or more studies were included in the same analysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of reporting biases",
+                "sec_num": null
+            },
+            {
+                "text": "If studies were su iciently similar, we combined the data using a fixed-e ect model in the following comparisons.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data synthesis",
+                "sec_num": null
+            },
+            {
+                "text": "1. Saline versus carbon dioxide.2. Warm saline versus room temperature saline.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data synthesis",
+                "sec_num": null
+            },
+            {
+                "text": "We performed statistical analysis using Review Manager 5.3 (RevMan 2014).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data synthesis",
+                "sec_num": null
+            },
+            {
+                "text": "We included no preplanned subgroup analyses in this review.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup analysis and investigation of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "If we noted substantial heterogeneity (I > 50%), we planned to explore di erences between studies that might account for the heterogeneity.We took any statistical heterogeneity into account when interpreting the results, especially if we noted any variation in the direction of e ect.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup analysis and investigation of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "We conducted sensitivity analyses for the primary outcomes to determine whether conclusions were robust to arbitrary decisions made regarding eligibility and analysis.These analyses included consideration of whether review conclusions would have di ered if:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sensitivity analysis",
+                "sec_num": null
+            },
+            {
+                "text": "1. eligibility had been restricted to studies at low risk of bias, defined as studies at low risk of selection bias; 2. a random-e ects model had been adopted; or 3. risk ratio had been used as the summary e ects measure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sensitivity analysis",
+                "sec_num": null
+            },
+            {
+                "text": "We prepared a 'Summary of findings' table using GRADEpro and Cochrane methods (GRADEpro GDT 2015; Higgins 2011) .This table evaluated the overall quality of the body of evidence for the main comparison (saline versus carbon dioxide) while addressing the review outcomes: patient tolerability (pain during the procedure, procedures abandoned due to intense pain, need for analgesia), adverse events and complications (vasovagal reaction, shoulder-tip pain, endometrial bleeding, infection), quality of the hysteroscopic view (clarity of the view on a scale, procedures with an unsatisfactory view), and duration of the procedure.An additional 'Summary of findings' table was prepared for the main review outcomes for the other comparison (warm saline versus room temperature saline).We assessed the quality of evidence using GRADE criteria: risk of bias, consistency of e ect, imprecision, indirectness, and publication bias.Two review authors working independently (KSA and MAG) made judgements about evidence quality (high, moderate, low, or very low), with disagreements resolved by discussion.We justified, documented, and incorporated judgements into reporting of results for each outcome.We extracted study data, formatted our comparisons in data tables, and prepared 'Summary of findings' tables before writing the results and conclusions of our review.",
+                "cite_spans": [
+                    {
+                        "start": 78,
+                        "end": 97,
+                        "text": "(GRADEpro GDT 2015;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 98,
+                        "end": 111,
+                        "text": "Higgins 2011)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary of findings and assessment of the certainty of the evidence",
+                "sec_num": null
+            },
+            {
+                "text": "The search yielded 730 records, in addition to two records identified through other sources.Twenty-four studies were potentially eligible and were retrieved in full text (Figure 1 ); 12 of these met our inclusion criteria (Characteristics of included studies).We excluded eight studies (Characteristics of excluded studies), and four are awaiting classification (Characteristics of studies awaiting classification).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 178,
+                        "end": 179,
+                        "text": "1",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results of the search",
+                "sec_num": null
+            },
+            {
+                "text": "We included 12 trials in this systematic review.All studies were parallel-designed randomised controlled trials (RCTs).Of theses 12 trials, one was a conference abstract (Garbin 2000) , and the other 11 were published as full articles (Almeida 2008; Diniz 2009; Evangelista 2011; Isaat 2017; Mazzon 2014; Paschopoulos 2004; Pellicano 2003; Pluchino 2010; Raimondo 2010; Shankar 2004; Tawfek 2019) .",
+                "cite_spans": [
+                    {
+                        "start": 170,
+                        "end": 183,
+                        "text": "(Garbin 2000)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 235,
+                        "end": 249,
+                        "text": "(Almeida 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 250,
+                        "end": 261,
+                        "text": "Diniz 2009;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 262,
+                        "end": 279,
+                        "text": "Evangelista 2011;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 280,
+                        "end": 291,
+                        "text": "Isaat 2017;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 292,
+                        "end": 304,
+                        "text": "Mazzon 2014;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 305,
+                        "end": 323,
+                        "text": "Paschopoulos 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 324,
+                        "end": 339,
+                        "text": "Pellicano 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 340,
+                        "end": 354,
+                        "text": "Pluchino 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 355,
+                        "end": 369,
+                        "text": "Raimondo 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 370,
+                        "end": 383,
+                        "text": "Shankar 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 384,
+                        "end": 396,
+                        "text": "Tawfek 2019)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Study design and setting",
+                "sec_num": null
+            },
+            {
+                "text": "The studies included 1946 women who had undergone outpatient hysteroscopy.Mean patient age ranged across studies from 33 to 58 years.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Nine studies compared saline versus carbon dioxide as distension media for outpatient hysteroscopy (Almeida 2008; Diniz 2009; Garbin 2000; Mazzon 2014; Paschopoulos 2004; Pellicano 2003; Pluchino 2010; Raimondo 2010; Shankar 2004) .Three studies compared warm versus room temperature saline (Evangelista 2011; Isaat 2017; Tawfek 2019).",
+                "cite_spans": [
+                    {
+                        "start": 99,
+                        "end": 113,
+                        "text": "(Almeida 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 114,
+                        "end": 125,
+                        "text": "Diniz 2009;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 126,
+                        "end": 138,
+                        "text": "Garbin 2000;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 139,
+                        "end": 151,
+                        "text": "Mazzon 2014;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 152,
+                        "end": 170,
+                        "text": "Paschopoulos 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 171,
+                        "end": 186,
+                        "text": "Pellicano 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 187,
+                        "end": 201,
+                        "text": "Pluchino 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 202,
+                        "end": 216,
+                        "text": "Raimondo 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 217,
+                        "end": 230,
+                        "text": "Shankar 2004)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Interventions",
+                "sec_num": null
+            },
+            {
+                "text": "The vaginoscopic approach for introducing the hysteroscope was used for both arms in eight trials (Evangelista 2011; Isaat 2017; Mazzon 2014; Paschopoulos 2004; Pellicano 2003; Pluchino 2010; Raimondo 2010; Tawfek 2019) , the traditional approach for both arms was used in two studies (Garbin 2000; Shankar 2004) , and two studies used the vaginoscopic approach for the saline group and the traditional approach for the carbon dioxide group (Almeida 2008; Diniz 2009) .Hysteroscopies with di erent outer sheath diameters ranging from 2.8 to 5.1 mm were used across studies.",
+                "cite_spans": [
+                    {
+                        "start": 98,
+                        "end": 116,
+                        "text": "(Evangelista 2011;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 117,
+                        "end": 128,
+                        "text": "Isaat 2017;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 129,
+                        "end": 141,
+                        "text": "Mazzon 2014;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 142,
+                        "end": 160,
+                        "text": "Paschopoulos 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 161,
+                        "end": 176,
+                        "text": "Pellicano 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 177,
+                        "end": 191,
+                        "text": "Pluchino 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 192,
+                        "end": 206,
+                        "text": "Raimondo 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 207,
+                        "end": 219,
+                        "text": "Tawfek 2019)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 285,
+                        "end": 298,
+                        "text": "(Garbin 2000;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 299,
+                        "end": 312,
+                        "text": "Shankar 2004)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 441,
+                        "end": 455,
+                        "text": "(Almeida 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 456,
+                        "end": 467,
+                        "text": "Diniz 2009)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Interventions",
+                "sec_num": null
+            },
+            {
+                "text": "Saline at di erent temperatures was used in studies comparing warm saline with room temperature saline: 37.5\u00b0C in two studies (Evangelista 2011; Tawfek 2019), and 36\u00b0C in one study (Isaat 2017).One of the trials comparing saline with carbon dioxideused warm saline at 36\u00b0C (Almeida 2008).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Interventions",
+                "sec_num": null
+            },
+            {
+                "text": "All 12 studies included in the analysis reported pain during the procedure.A standardised 10-cm visual analogue scale (VAS), with 0 indicating no pain and 10 indicating worst pain, was used to measure pain in 11 studies (Almeida 2008; Diniz 2009; Evangelista 2011; Garbin 2000; Isaat 2017; Mazzon 2014; Pellicano 2003; Pluchino 2010; Raimondo 2010; Shankar 2004; Tawfek 2019) .One study used ranking from 0 to 3 to measure pain experienced during the procedure, with 0 indicating no pain and 3 indicating severe pain not allowing completion of the procedure (Paschopoulos 2004).One study measured pain using another scale (present pain intensity (PPI) scale from 0 to 5), with 0 indicating no pain and 5 indicating excruciating pain, as well as a VAS (Shankar 2004) .",
+                "cite_spans": [
+                    {
+                        "start": 220,
+                        "end": 234,
+                        "text": "(Almeida 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 235,
+                        "end": 246,
+                        "text": "Diniz 2009;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 247,
+                        "end": 264,
+                        "text": "Evangelista 2011;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 265,
+                        "end": 277,
+                        "text": "Garbin 2000;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 278,
+                        "end": 289,
+                        "text": "Isaat 2017;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 290,
+                        "end": 302,
+                        "text": "Mazzon 2014;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 303,
+                        "end": 318,
+                        "text": "Pellicano 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 319,
+                        "end": 333,
+                        "text": "Pluchino 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 334,
+                        "end": 348,
+                        "text": "Raimondo 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 349,
+                        "end": 362,
+                        "text": "Shankar 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 363,
+                        "end": 375,
+                        "text": "Tawfek 2019)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 751,
+                        "end": 765,
+                        "text": "(Shankar 2004)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Two studies reported procedures abandoned due to intense pain (Pellicano 2003; Tawfek 2019) .Two studies reported the need for analgesia (Isaat 2017; Pellicano 2003) .",
+                "cite_spans": [
+                    {
+                        "start": 62,
+                        "end": 78,
+                        "text": "(Pellicano 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 79,
+                        "end": 91,
+                        "text": "Tawfek 2019)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 137,
+                        "end": 149,
+                        "text": "(Isaat 2017;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 150,
+                        "end": 165,
+                        "text": "Pellicano 2003)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Seven studies reported adverse events and complications (Almeida 2008; Isaat 2017; Paschopoulos 2004; Pellicano 2003; Pluchino 2010; Raimondo 2010; Shankar 2004) .Studies did not report the total adverse events per woman randomised.As more than one of these adverse events could have occurred in one woman, we analysed each adverse event individually.These seven studies reported vasovagal reactions; four of them also reported shouldertip pain (Almeida 2008; Paschopoulos 2004; Pluchino 2010; Shankar 2004) , two reported bleeding from the endometrium (Almeida 2008; Pluchino 2010), and one reported infection (Isaat 2017).",
+                "cite_spans": [
+                    {
+                        "start": 56,
+                        "end": 70,
+                        "text": "(Almeida 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 71,
+                        "end": 82,
+                        "text": "Isaat 2017;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 83,
+                        "end": 101,
+                        "text": "Paschopoulos 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 102,
+                        "end": 117,
+                        "text": "Pellicano 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 118,
+                        "end": 132,
+                        "text": "Pluchino 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 133,
+                        "end": 147,
+                        "text": "Raimondo 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 148,
+                        "end": 161,
+                        "text": "Shankar 2004)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 445,
+                        "end": 459,
+                        "text": "(Almeida 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 460,
+                        "end": 478,
+                        "text": "Paschopoulos 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 479,
+                        "end": 493,
+                        "text": "Pluchino 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 494,
+                        "end": 507,
+                        "text": "Shankar 2004)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Quality of the hysteroscopic view was reported in seven trials (Almeida 2008; Diniz 2009; Garbin 2000; Mazzon 2014; Pellicano 2003; Raimondo 2010; Shankar 2004) .Two trials reported the quality of the hysteroscopic view on a scale; one trial used a 4-point scale (0 to 4) to rank the hysteroscopic view, with 0 indicating worst view and 4 indicating best view (Garbin 2000); the other trial used a 10-cm standardised VAS to measure the quality of the hysteroscopic view, with 0 indicating worst view and 10 indicating best view (Raimondo 2010).The other five trials reported the proportions of procedures with an unsatisfactory view (Almeida 2008; Diniz 2009; Mazzon 2014; Pellicano 2003; Shankar 2004) .Seven studies reported the duration of the procedure: four in minutes (Almeida 2008; Evangelista 2011; Pellicano 2003; Tawfek 2019) , and three in seconds (Isaat 2017; Mazzon 2014; Raimondo 2010) .",
+                "cite_spans": [
+                    {
+                        "start": 63,
+                        "end": 77,
+                        "text": "(Almeida 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 78,
+                        "end": 89,
+                        "text": "Diniz 2009;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 90,
+                        "end": 102,
+                        "text": "Garbin 2000;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 103,
+                        "end": 115,
+                        "text": "Mazzon 2014;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 116,
+                        "end": 131,
+                        "text": "Pellicano 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 132,
+                        "end": 146,
+                        "text": "Raimondo 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 147,
+                        "end": 160,
+                        "text": "Shankar 2004)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 633,
+                        "end": 647,
+                        "text": "(Almeida 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 648,
+                        "end": 659,
+                        "text": "Diniz 2009;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 660,
+                        "end": 672,
+                        "text": "Mazzon 2014;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 673,
+                        "end": 688,
+                        "text": "Pellicano 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 689,
+                        "end": 702,
+                        "text": "Shankar 2004)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 774,
+                        "end": 788,
+                        "text": "(Almeida 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 789,
+                        "end": 806,
+                        "text": "Evangelista 2011;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 807,
+                        "end": 822,
+                        "text": "Pellicano 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 823,
+                        "end": 835,
+                        "text": "Tawfek 2019)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 859,
+                        "end": 871,
+                        "text": "(Isaat 2017;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 872,
+                        "end": 884,
+                        "text": "Mazzon 2014;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 885,
+                        "end": 899,
+                        "text": "Raimondo 2010)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "We excluded eight studies from the review for the following reasons (Characteristics of excluded studies).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Excluded studies",
+                "sec_num": null
+            },
+            {
+                "text": "1. 4 of 8 were quasi-randomised trials (Brusco 2003; Kapur 2020; Litta 2003; Nagele 1996) .",
+                "cite_spans": [
+                    {
+                        "start": 39,
+                        "end": 52,
+                        "text": "(Brusco 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 53,
+                        "end": 64,
+                        "text": "Kapur 2020;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 65,
+                        "end": 76,
+                        "text": "Litta 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 77,
+                        "end": 89,
+                        "text": "Nagele 1996)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Excluded studies",
+                "sec_num": null
+            },
+            {
+                "text": "Nagele 1996; Salazar 2019).3. 1 of 8 had protocol breaks and was not published (Santos 2012).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "3 of 8 did not assess the intervention of interest (Campo 2005;",
+                "sec_num": "2."
+            },
+            {
+                "text": "Assessment of risk of bias of included studies can be found in the Characteristics of included studies tables, as well as in Figure 2 and Figure 3 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 132,
+                        "end": 133,
+                        "text": "2",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 145,
+                        "end": 146,
+                        "text": "3",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Risk of bias in included studies",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "We rated nine trials at low risk of bias related to sequence generation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Allocation",
+                "sec_num": null
+            },
+            {
+                "text": "For studies comparing saline with carbon dioxide, the type of intervention could not be blinded from neither patients nor operators.As all outcomes were patient-or operator-reported, unmasking could influence the findings of outcomes, so we rated all studies in this comparison as having high risk of bias for these domains (Almeida 2008; Diniz 2009; Garbin 2000; Mazzon 2014; Paschopoulos 2004; Pellicano 2003; Pluchino 2010; Raimondo 2010; Shankar 2004) .",
+                "cite_spans": [
+                    {
+                        "start": 324,
+                        "end": 338,
+                        "text": "(Almeida 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 339,
+                        "end": 350,
+                        "text": "Diniz 2009;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 351,
+                        "end": 363,
+                        "text": "Garbin 2000;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 364,
+                        "end": 376,
+                        "text": "Mazzon 2014;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 377,
+                        "end": 395,
+                        "text": "Paschopoulos 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 396,
+                        "end": 411,
+                        "text": "Pellicano 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 412,
+                        "end": 426,
+                        "text": "Pluchino 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 427,
+                        "end": 441,
+                        "text": "Raimondo 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 442,
+                        "end": 455,
+                        "text": "Shankar 2004)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Blinding",
+                "sec_num": null
+            },
+            {
+                "text": "Among the three studies comparing warm saline with room temperature saline, one study was patient-blinded (Evangelista 2011); we rated this study as having low risk of performance and detection bias, as primary outcomes were patient-reported and operators' knowing of the intervention is hardly likely to influence the results.The two other studies did not mention blinding of patients nor operators, and we rated them as having unclear risk of bias for these domains (Isaat 2017; Tawfek 2019).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Blinding",
+                "sec_num": null
+            },
+            {
+                "text": "Eleven studies included all or most of the randomised women, and reasons for dropouts were explained and accounted for.We rated these studies as having low risk of attrition bias (Almeida 2008; Diniz 2009; Evangelista 2011; Garbin 2000; Isaat 2017; Mazzon 2014; Pellicano 2003; Pluchino 2010; Raimondo 2010; Shankar 2004; Tawfek 2019) .We assessed one study as having high risk of attrition bias because 5 of 79 women were excluded a er they were randomised and had received the intervention (Paschopoulos 2004); two exclusions were due to adverse events, and adverse events were unequally distributed between groups.",
+                "cite_spans": [
+                    {
+                        "start": 179,
+                        "end": 193,
+                        "text": "(Almeida 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 194,
+                        "end": 205,
+                        "text": "Diniz 2009;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 206,
+                        "end": 223,
+                        "text": "Evangelista 2011;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 224,
+                        "end": 236,
+                        "text": "Garbin 2000;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 237,
+                        "end": 248,
+                        "text": "Isaat 2017;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 249,
+                        "end": 261,
+                        "text": "Mazzon 2014;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 262,
+                        "end": 277,
+                        "text": "Pellicano 2003;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 278,
+                        "end": 292,
+                        "text": "Pluchino 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 293,
+                        "end": 307,
+                        "text": "Raimondo 2010;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 308,
+                        "end": 321,
+                        "text": "Shankar 2004;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 322,
+                        "end": 334,
+                        "text": "Tawfek 2019)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Incomplete outcome data",
+                "sec_num": null
+            },
+            {
+                "text": "We We rated one study as having unclear risk of bias in this domain, as its protocol was not available and study authors did not provide information on complications and adverse events (Diniz 2009).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selective reporting",
+                "sec_num": null
+            },
+            {
+                "text": "We rated two studies as having high risk of other bias due to unusually low standard deviations of means for pain during the procedure (Pellicano 2003; Pluchino 2010).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Other potential sources of bias",
+                "sec_num": null
+            },
+            {
+                "text": "See: Summary of findings 1 Saline vs carbon dioxide for uterine distension in outpatient hysteroscopy; Summary of findings 2 Warm saline vs room temperature saline for uterine distension in outpatient hysteroscopy See Summary of findings 1 and Summary of findings 2.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "E ects of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "1. Tolerability of the procedure (Analysis 1.1; Analysis 1.2; Analysis 1.3; Figure 4 )",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 83,
+                        "end": 84,
+                        "text": "4",
+                        "ref_id": "FIGREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Primary outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Database of Systematic Reviews",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "(1) Pain was reported as an ordinal outcome, so we converted it into a continuous outcome (2) Means and SDs were calculated by adding the data of two groups using the same distension media Analysis ruled out a clinically relevant di erence between both media in pain scores, but the quality of evidence was low (standardised mean di erence (SMD) -0.07, 95% confidence interval (CI) -0.17 to 0.02; 9 randomised controlled trials (RCTs), N = 1705; I = 86%; Analysis 1.1; Figure 4 ).This translates to a di erence of 0.39 cm (lower) and 0.05 cm (higher) on a 10-cm visual analogue scale (VAS).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 476,
+                        "end": 477,
+                        "text": "4",
+                        "ref_id": "FIGREF4"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Footnotes",
+                "sec_num": null
+            },
+            {
+                "text": "Evidence was insu icient to show di erences between groups in the proportion of procedures abandoned due to intense pain (Peto odds ratio (OR) 0.48, 95% CI 0.09 to 2.42; 1 RCT, N = 189; very lowquality evidence; Analysis 1.2): 2 of 97 (2%) in the saline group and 4 of 92 (4%) in the carbon dioxide group.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Proportion of procedures abandoned due to intense pain",
+                "sec_num": "1.2."
+            },
+            {
+                "text": "We are uncertain whether saline lowers the need for analgesia when compared to carbon dioxide (Peto OR 0.34, 95% CI 0.12 to 0.99; 1 RCT, N = 189; very low-quality evidence; Analysis 1.3): 4 of 97 (4%) in the saline group and 11 of 92 (12%) in the carbon dioxide group.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The need for analgesia",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "(Analysis 1.4)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Adverse events and complications",
+                "sec_num": "2."
+            },
+            {
+                "text": "Saline is probably associated with fewer vasovagal reaction events than carbon dioxide when used as distension media for outpatient hysteroscopy (Peto OR 0.53, 95% CI 0.32 to 0.86; 6 RCTs, N = 1076; I = 0%; moderate-quality evidence).This suggests that if the chance for a vasovagal reaction with carbon dioxide is 10%, the chance with saline would be between 3% and 9%.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Vasovagal reaction",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "Saline probably causes fewer shoulder-tip pain events than carbon dioxide when used as distension media for outpatient hysteroscopy (Peto OR 0.28, 95% CI 0.14 to 0.54; 4 RCTs, N = 623; I = 0%; moderatequality evidence).This suggests that if the chance for occurrence of shoulder-tip pain with carbon dioxide is 9%, the chance with saline would be between 1% and 5%.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Shoulder-tip pain",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "We are uncertain whether saline is similar to carbon dioxide in terms of endometrial bleeding events (Peto OR 0.83, 95% CI 0.25 to 2.75; 2 RCTs, N = 384; I = 0%): 5 of 174 events (3%) with saline and 6 of 175 events (3%) with carbon dioxide among participants.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Endometrial bleeding",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "This outcome was not reported by any study in this comparison.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Infection",
+                "sec_num": "2.4."
+            },
+            {
+                "text": "(Analysis 1.5; Analysis 1.6; Analysis 1.7)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Quality of the hysteroscopic view",
+                "sec_num": "3."
+            },
+            {
+                "text": "Two RCTs measured this outcome, but each used a di erent scale (Results; Included studies).The two studies reported di erent directions of the treatment e ect; Garbin 2000 reported better clarity of the view with use of saline (3 \u00b1 1.07) than with carbon dioxide (2.47 \u00b1 1.24) on a 5-point scale (P = 0.003); Raimondo 2010 reported that carbon dioxide (8.9 \u00b1 1.85) was better than saline (7 \u00b1 0.7) on a 10-cm VAS (P < 0.001).Consequently, we did not pool the data in this analysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Clarity of the hysteroscopic view on a scale",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Database of Systematic Reviews",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Saline may be associated with fewer procedures with an unsatisfactory hysteroscopic view than carbon dioxide (Peto OR 0.51, 95% CI 0.32 to 0.82; 5 RCTs, N = 1082; I = 67%; low-quality evidence; Analysis 1.6).This suggests that if the chance of an unsatisfactory hysteroscopic view with carbon dioxide is 9%, this chance would be between 3% and 8% with saline.Four studies reported duration of the procedure in this comparison; two studies reported the duration in minutes (Almeida 2008; Pellicano 2003) , and two other studies reported the duration in seconds (Mazzon 2014; Raimondo 2010).Due to marked heterogeneity in reported results (I = 95%), we did not pool the results in this analysis.The procedure was shorter with saline in three studies: Almeida 2008 (MD -55.80 seconds, 95% CI -99.15 to -12.45; N = 64), Mazzon 2014 (MD -26.50 seconds, 95% CI -33.17 to -19.83; N = 392), and Pellicano 2003 (MD -120.00 seconds, 95% CI -178.28 to -61.72; N = 189], and the duration was similar in both arms in the fourth study (Raimondo 2010) (MD -3.00 seconds, 95% CI -6.15 to 0.15; N = 264).",
+                "cite_spans": [
+                    {
+                        "start": 472,
+                        "end": 486,
+                        "text": "(Almeida 2008;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 487,
+                        "end": 502,
+                        "text": "Pellicano 2003)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Proportion of procedures with an unsatisfactory view",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "None of the studies in this comparison reported any cost implications.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cost implications",
+                "sec_num": "5."
+            },
+            {
+                "text": "No pre-specified subgroup analyses were conducted for this comparison.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup and sensitivity analyses for comparison 1 (saline versus carbon dioxide)",
+                "sec_num": null
+            },
+            {
+                "text": "When analysis of primary outcomes was restricted to studies with low risk of selection bias, the rate of vasovagal reaction for both interventions (Analysis 1.4), but other primary outcomes did not substantially change (Analysis 1.1; Analysis 1.2; Analysis 1.3).Therefore, our conclusions for this comparison have not changed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sensitivity analyses",
+                "sec_num": null
+            },
+            {
+                "text": "When the random-e ects model was used for Analysis 1.1, the results did not substantially change.We could not use the randome ects model for analyses of other primary outcomes because these analyses were done by the Peto method.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sensitivity analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Use of the Mantel-Haenszel method to calculate risk ratios for dichotomous primary outcomes showed results similar to those obtained by the Peto method for primary analyses (Analysis 1.2; Analysis 1.3; Analysis 1.4).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sensitivity analyses",
+                "sec_num": null
+            },
+            {
+                "text": "1. Tolerability of the procedure 1.1.Pain during the procedure (Analysis 2.1; Analysis 2.2) Use of warm saline for uterine distension during o ice hysteroscopy may reduce pain scores when compared with room temperature saline (MD -1.14, 95% CI -1.57 to -0.73; 3 RCTs, N = 241; I = 77%; low-quality evidence; Analysis 2.1).However, this result should be interpreted with caution because the sensitivity analysis restricted to studies with low risk of selection bias failed to show a di erence between groups.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Primary outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Evidence was insu icient to show a di erence between groups in the proportion of procedures abandoned due to intense pain (Peto OR 0.97, 95% CI 0.06 to 15.87; 1 RCT, N = 77; very low-quality evidence; Analysis 2.2): 1 of 39 (3%) in the warm saline group and 1 of 38 (3%) in the room temperature saline group.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Proportion of procedures abandoned due to intense pain",
+                "sec_num": "1.2."
+            },
+            {
+                "text": "Evidence was insu icient to show a di erence between groups in the need for analgesia (Peto OR 1.00, 95% CI 0.14 to 7.32; 1 RCT, N = 100; very low-quality evidence): 2 of 50 (4%) in the warm saline group and 2 of 50 (4%) in the room temperature saline group.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The need for analgesia",
+                "sec_num": "1.3."
+            },
+            {
+                "text": "Only one study reported this outcome (Isaat 2017).No cases of vasovagal reaction were observed in either group; therefore data were not pooled in this analysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Vasovagal reaction",
+                "sec_num": "2.1."
+            },
+            {
+                "text": "This outcome was not reported by any study for this comparison.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Shoulder-tip pain",
+                "sec_num": "2.2."
+            },
+            {
+                "text": "This outcome was not reported by any study for this comparison.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Endometrial bleeding",
+                "sec_num": "2.3."
+            },
+            {
+                "text": "Only one study reported this outcome (Isaat 2017).No cases of infection were observed in either group; therefore data were not pooled in this analysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Infection",
+                "sec_num": "2.4."
+            },
+            {
+                "text": "This outcome was not reported by any study for this comparison.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Clarity of the hysteroscopic view on a scale",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "This outcome was not reported by any study for this comparison.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Proportion of procedures with an unsatisfactory view",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "(Analysis 2.4) Analysis ruled out a clinically relevant di erence in procedural duration between warm and room temperature saline, but the quality of evidence was low (MD 13.17 seconds, 95% CI -12.96 to 39.29; 2 RCTs, N = 141; I = 21%; Analysis 2.4).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Duration of the procedure",
+                "sec_num": "4."
+            },
+            {
+                "text": "None of the studies for this comparison reported any cost implications.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cost implications",
+                "sec_num": "5."
+            },
+            {
+                "text": "No pre-specified subgroup analyses were conducted for this comparison.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup and sensitivity analyses for comparison 2 (warm saline versus room temperature saline)",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "When the analysis of primary outcomes was restricted to studies with low risk of selection bias, pain during the procedure di ered substantially and became similar in both interventions (Analysis 2.1).This sensitivity analysis could not be performed for other primary outcomes because the analyses included only one study (Analysis 2.2; Analysis 2.3).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sensitivity analyses",
+                "sec_num": null
+            },
+            {
+                "text": "When the random-e ects model was used for Analysis 2.1, the results did not change substantially.We could not use the randome ects model for analyses of other primary outcomes because these analyses were done by the Peto method (Analysis 2.2; Analysis 2.3).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sensitivity analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Use of the Mantel-Haenszel method to calculate risk ratios for dichotomous primary outcomes showed results similar to those obtained by the Peto method for primary analyses (Analysis 2.2; Analysis 2.3).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sensitivity analyses",
+                "sec_num": null
+            },
+            {
+                "text": "Heterogeneity was high in analyses for some outcomes (Analysis 1.1, I = 86%; Analysis 1.6, I = 67%; Analysis 1.7,I = 95%; Analysis 2.1, I = 77%).Pain during the procedure is a subjective outcome that is greatly influenced by many clinical variables (clinical heterogeneity) that varied across studies (e.g.age and parity of participants, operator experience, size of the hysteroscope, hysteroscopic approach, additional interventional techniques along with endometrial biopsy) (Analysis 1.1; Analysis 2.1), and data were insu icient for subgroup analyses to be performed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "No explanation for the high heterogeneity was discovered in analyses of the quality of the hysteroscopic view (Analysis 1.6).The high heterogeneity in analysis of duration of the procedure may be related to the di erence in operator experience (clinical heterogeneity) (Analysis 1.7), but because of marked heterogeneity and non-overlap of confidence intervals, we did not perform the meta-analysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "We did not construct a funnel plot for any analysis because all analyses included fewer than 10 studies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of publication bias",
+                "sec_num": null
+            },
+            {
+                "text": "We are uncertain whether saline and carbon dioxide are similarly tolerable among patients undergoing outpatient hysteroscopy because the quality of evidence is very low to low.However, carbon dioxide probably causes more adverse events (vasovagal reaction and shoulder-tip pain) than saline (moderate-quality evidence).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Saline versus carbon dioxide for uterine distension in women undergoing outpatient hysteroscopy",
+                "sec_num": null
+            },
+            {
+                "text": "Saline may provide a better hysteroscopic view than carbon dioxide (low-quality evidence).Evidence on duration of the procedure is insu icient.No studies have reported any cost implications.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Saline versus carbon dioxide for uterine distension in women undergoing outpatient hysteroscopy",
+                "sec_num": null
+            },
+            {
+                "text": "Pain scores during the procedure using warm saline might be lower than those when room temperature saline is used (low-quality evidence).However, studies with low risk of selection bias failed to show a di erence in pain scores between the two interventions.Therefore, extreme caution should be taken when results for this outcome are interpreted.We are uncertain of the e ects of warm saline on the proportion of procedures abandoned due to intense pain and on the need for analgesia because the quality of evidence is very low.Infection, the only adverse event reported for this comparison, did not occur with either medium.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Warm saline versus room temperature saline for uterine distension in women undergoing outpatient hysteroscopy",
+                "sec_num": null
+            },
+            {
+                "text": "Procedural duration may be similar with warm and room temperature saline (low-quality evidence).No studies for this comparison reported on quality of the hysteroscopic view nor on cost implications.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Warm saline versus room temperature saline for uterine distension in women undergoing outpatient hysteroscopy",
+                "sec_num": null
+            },
+            {
+                "text": "Outpatient hysteroscopy is a widely used tool that allows diagnosis and a few therapeutic interventions.It provides the benefit of visualisation of intrauterine lesions.Moreover, it is done in an outpatient setting without general anaesthesia.As a result, the patient is aware of what is happening, and this makes it more di icult for both the patient and the operator to perform than other procedures done under general anaesthesia.Searching for the best uterine distension medium that is most tolerable, has the fewest side e ects, and at the same time gives the best hysteroscopic view is challenging.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Overall completeness and applicability of evidence",
+                "sec_num": null
+            },
+            {
+                "text": "Randomised controlled trials (RCTs) investigating the uterine distension media identified in this review are few.Most of these trials have investigated saline versus carbon dioxide.Studies included participants with di erent characteristics (nullipara and multipara, reproductive age and menopausal women) undergoing hysteroscopy for any indication (infertility or abnormal uterine bleeding (AUB)) without analgesia or anaesthesia in an outpatient setting.This variation gives results the advantage of generalisability, along with clinical heterogeneity, as most outcomes are dependent on these factors.Hysteroscopes used across studies varied in the diameter of their outer sheaths.These di erences, as well as variation in operator experience, can a ect patient tolerability (Pluchino 2010).The approach of the introduction of the hysteroscope into the vagina and the cervix also varied across studies.Some studies used di erent approaches in di erent study groups.In other studies, patients underwent surgical procedures or endometrial biopsies in the same setting when necessary.All these clinical di erences might have given rise to di erent treatment e ects and could have accounted for the high statistical heterogeneity noted in subjective outcomes.None of the studies reported cost implications of both media, which might be important in considering the best medium, especially if other outcomes show similar results.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Overall completeness and applicability of evidence",
+                "sec_num": null
+            },
+            {
+                "text": "We used the GRADE approach to assess the overall evidence in this review, which ranged from very low to moderate quality (see Figure 2 ; Summary of findings 1; Summary of findings 2).We downgraded the quality of evidence mainly due to risk of bias, imprecision, and inconsistency.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 133,
+                        "end": 134,
+                        "text": "2",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Quality of the evidence",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "The major limitation of this review is the small number of identified studies, preventing us from giving robust conclusions.Another limitation is the high risk of performance and selection biases because the main outcomes are subjective and are patient-or operator-reported, and blinding to the allocated intervention was not possible, especially when the media studied were gas versus liquid.Therefore, this might have influenced the results of individual studies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "We ran a thorough search of databases using comprehensive strategies with the help of the Information Specialist in the CGF Group, to ensure inclusion of all eligible studies.We handsearched references of included studies as well as similar systematic reviews on the same intervention.We could not construct funnel plots to detect publication bias because each comparison included fewer than 10 studies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Potential biases in the review process",
+                "sec_num": null
+            },
+            {
+                "text": "We tried to contact all authors of included and excluded studies, as well as authors of trial registrations, to confirm eligibility, but most authors did not respond to our emails.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Potential biases in the review process",
+                "sec_num": null
+            },
+            {
+                "text": "We identified two previous systematic reviews that compared only saline to carbon dioxide (Cooper 2011; Craciunas 2013).We intended to include any RCT comparing any two or more distension media, to make the review more comprehensive and to draw conclusions on the best distension medium in outpatient hysteroscopy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Agreements and disagreements with other studies or reviews",
+                "sec_num": null
+            },
+            {
+                "text": "This review found insu icient evidence that saline might be associated with the same pain scores as carbon dioxide, in keeping with the results of Cooper 2011, but not with the findings of Craciunas 2013, which concluded that pain scores were lower with the use of saline.Both reviews, however, included quasi-randomised trials that were excluded from this review to prevent selection bias.Nevertheless, the results of this review are consistent with those of both reviews that saline is associated with fewer side e ects (shoulder-tip pain and vasovagal reaction).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Agreements and disagreements with other studies or reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Evidence is insu icient to conclude that there are di erences between di erent distension media used for uterine distension in outpatient hysteroscopy in terms of patient tolerability, operator satisfaction, and duration of the procedure.However, saline was superior to carbon dioxide in producing fewer adverse events (shoulder-tip pain and vasovagal reaction).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for practice",
+                "sec_num": null
+            },
+            {
+                "text": "More high-quality well-designed RCTs comparing gaseous and liquid distension media or liquid media at di erent temperatures are needed.These studies should standardise -or include in a powered subgroup analysis -the patient's menopausal state (reproductive age versus post menopause), parity (nullipara versus multipara), indication of hysteroscopy, size of the hysteroscope, hysteroscopic approach, and operator experience, with avoidance of any surgical manoeuvres in the same setting.Also, future studies should consider performing cost-e ectiveness analyses in comparing di erent media.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for research",
+                "sec_num": null
+            },
+            {
+                "text": "The authors thank the Cochrane Gynaecology and Fertility Group (CGF).We wish to thank Helen Nagels, CGF Managing Editor, for her assistance with methodological aspects of the review, and Marian Showell, CGF Information Specialist, for help with the search strategies and the search process.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A C K N O W L E D G E M E N T S",
+                "sec_num": null
+            },
+            {
+                "text": "Many thanks to Dr. Menem Yossry, Dr. Anne Timmermans, Dr. Peggy Geomini, and Ms. Mei-An Middelkoop for their contributions to the protocol and/or to early dra s of this review.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A C K N O W L E D G E M E N T S",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Random sequence generation (selection bias)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Bias Authors' judgement Support for judgement",
+                "sec_num": null
+            },
+            {
+                "text": "Low risk Quote: \"randomization was performed by a statistical consultant using computer-generated numbers\"",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Bias Authors' judgement Support for judgement",
+                "sec_num": null
+            },
+            {
+                "text": "Low risk Quote: \"the distension medium was assigned before starting the diagnostic procedure by opening a sealed, opaque envelope containing the group allotment\"",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Allocation concealment (selection bias)",
+                "sec_num": null
+            },
+            {
+                "text": "Blinding of participants and personnel (performance bias) All outcomes",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Allocation concealment (selection bias)",
+                "sec_num": null
+            },
+            {
+                "text": "Although study authors mentioned, \"Patients were not allowed to follow the procedure on a monitor\", blinding was not possible in this type of intervention for neither patients nor operators, which might induce performance bias Blinding of outcome assessment (detection bias) All outcomes",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "High risk",
+                "sec_num": null
+            },
+            {
+                "text": "Blinding was not possible in this type of intervention, and as outcomes were either patient-assessed or operator-assessed, we judged risk of detection bias as high",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "High risk",
+                "sec_num": null
+            },
+            {
+                "text": "Low risk Although there were randomised participants who were excluded from analysis due to the need for endometrial biopsy, this was unlikely to cause bias, as the number of excluded participants was nearly similar in both groups (10 in carbon dioxide group vs 12 in saline group)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Incomplete outcome data (attrition bias) All outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Selective reporting (reporting bias)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Incomplete outcome data (attrition bias) All outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Low risk All outcomes mentioned in the protocol were reported in the publication",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Incomplete outcome data (attrition bias) All outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Financial support from the hysteroscopy manufacturer received by one study author was unlikely to have had an influence, as the same hysteroscope was used in both groups",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Other bias Low risk",
+                "sec_num": null
+            },
+            {
+                "text": "Random sequence generation (selection bias)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Bias Authors' judgement Support for judgement",
+                "sec_num": null
+            },
+            {
+                "text": "Low risk Quote: \"all women were asked to choose between two identical, sealed envelopes.One of the envelopes contained the indication 1, which corresponded to CO 2 , and the other the indication 2, which corresponded to normal saline\" Comment: this was based on chance process, and there was a 50% chance for every patient on either indication",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Bias Authors' judgement Support for judgement",
+                "sec_num": null
+            },
+            {
+                "text": "In one group, hysteroscopy will be performed in the clinic using room temperature saline to distend the uterine cavity (the existing method in use) In the second group, saline warmed to body temperature will be used Outcomes Discomfort levels are assessed in the 2 groups using pain scores Notes A full text was not found, and the abstract could not be retrieved",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "No email could be found to contact the study author",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "(1) Pain was reported as an ordinal outcome, so we converted it into a continuous outcome (2) Means and SDs were calculated by adding the data of two groups using the same distension media -55.80 [-99.15 , -12.45] -26.50 [-33.17 , -19 .83] -120.00 [-178.28 , -61. Total (95% CI) Heterogeneity: Chi\u00b2 = 2.53, df = 2 (P = 0.28); I\u00b2 = 21% Test for overall effect: Z = 0.99 (P = 0.32) Test for subgroup differences: Not applicable 3.00 [-32.59 , 38.59] 6.00 [-41.25 , 53.25] 62.40 [-3.80 , 128.60] 13.17",
+                "cite_spans": [
+                    {
+                        "start": 189,
+                        "end": 234,
+                        "text": "-55.80 [-99.15 , -12.45] -26.50 [-33.17 , -19",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 248,
+                        "end": 263,
+                        "text": "[-178.28 , -61.",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 426,
+                        "end": 447,
+                        "text": "3.00 [-32.59 , 38.59]",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 453,
+                        "end": 492,
+                        "text": "[-41.25 , 53.25] 62.40 [-3.80 , 128.60]",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Footnotes",
+                "sec_num": null
+            },
+            {
+                "text": "Since the protocol was published in 2007, numerous methodological advances have been made.The review now reflects current methods according to Cochrane guidance.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D I F F E R E N C E S B E T W E E N P R O T O C O L A N D R E V I E W",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 The objective of the review was changed to include the comparison of warm versus room temperature saline as distension media for outpatient hysteroscopy.The protocol was planned to compare only liquid versus gaseous media.\u2022 The outcome 'quality of hysteroscopic view' was considered as a secondary outcome in the full review, instead of as a primary outcome as in the protocol, as three primary outcomes were planned in the protocol.\u2022 The outcome operative and postoperative complications in the protocol was further clarified in the full review as including shouldertip pain, vagal symptoms (nausea, vomiting, dizziness, and fainting attack), bleeding from the endometrium, and infection.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D I F F E R E N C E S B E T W E E N P R O T O C O L A N D R E V I E W",
+                "sec_num": null
+            },
+            {
+                "text": "Uterine distension media for outpatient hysteroscopy (Review)Copyright \u00a9 2021 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Farquhar C, Ekeroma A, Furness S, Arroll B. A systematic review of transvaginal ultrasonography, sonohysterography and hysteroscopy for the investigation of abnormal uterine bleeding in premenopausal women.Acta Obstetricia et Gynecologica Scandinavica 2003;82(6):493-504.GRADEpro GDT 2015 [Computer program] Hamilton (ON): GRADE Working Group, McMaster University GRADEpro GDT.Hamilton (ON): GRADE Working Group, McMaster University, 2015.Available at gradepro.org.Higgins 2011 Higgins JP, Green S, editor(s).Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0(updated March 2011).The Cochrane Collaboration, 2011.Available from handbook.cochrane.org.Leidenheimer 1969 Leidenheimer H Jr. O ice gynaecology hysteroscopy.Journal of Louisiana State Medical Society 1969;121(10):319-21. Munro 2011 Munro MG, Critchley HO, Broder MS, Fraser IS.FIGO classification system (PALM-COEIN) for causes of abnormal uterine bleeding in nongravid women of reproductive age.International Journal of Gynecology & Obstetrics 2011;113(1):3-13.NICE guidelines 2018 National Institute for Health and Care Excellence (NICE).Heavy menstrual bleeding: assessment and management.NICE Guidelines 2018;Vol.Ref No NG88.RevMan 2014 [Computer program] Nordic Cochrane Centre, The Cochrane Collaboration Review Manager 5 (RevMan 5).Version 5.3.Copenhagen: Nordic Cochrane Centre, The Cochrane Collaboration, 2014.Rioux 1984 Rioux JE.Methods of uterine distension.In: Siegler AM, Lindemann HJ, editors(s).Hysteroscopy: Principles and Practice.Philadelphia: JB Lippincott, 1984:37-40.Robinson 2013 Robinson LL, Cooper NA, Clark TJ.The role of ambulatory hysteroscopy in reproduction.Journal of Family Planning and Reproductive Health Care 2013;39(2):127-35.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Farquhar 2003",
+                "sec_num": null
+            },
+            {
+                "text": "Seshadri S, El-Toukhy T, Douiri A, Jayaprakasan K, Khalaf Y.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Seshadri 2014",
+                "sec_num": null
+            },
+            {
+                "text": "Evidence was insu icient to show di erences between di erent distension media used for uterine distension in outpatient hysteroscopy in terms of patient tolerability, operator satisfaction, or duration of the procedure.However, saline was superior to carbon dioxide in producing fewer adverse events (shoulder-tip pain and vasovagal reaction).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Authors' conclusions",
+                "sec_num": null
+            },
+            {
+                "text": "Bedner R, Rzepka-G\u00f3rska I. Hysteroscopy with directed biopsy versus dilatation and curettage for the diagnosis of endometrial hyperplasia and cancer in perimenopausal women.European Journal of Gynaecological Oncology 2007;28(5):400-2.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Additional references Bedner 2007",
+                "sec_num": null
+            },
+            {
+                "text": "Blinding of outcome assessment (detection bias) All outcomes",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Blinding was not possible in this type of intervention, and as outcomes were either patient-assessed or operator-assessed, we judged risk of detection bias as highIncomplete outcome data (attrition bias) All outcomes Low risk Data were reported for all randomised womenSelective reporting (reporting bias)Low risk Protocol was not available.However, all primary outcomes of interest were mentioned, including complications, and all outcomes mentioned in methods section were fully reported in the results",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "High risk",
+                "sec_num": null
+            },
+            {
+                "text": "We found no other sources of bias",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Other bias Low risk",
+                "sec_num": null
+            },
+            {
+                "text": "Postmenopausal women on tamoxifen treatment with abnormal endometrial bleeding and endometrial thickening on ultrasound Interventions Diagnostic hysteroscopy with carbon dioxide or saline as distension medium Outcomes Quality of vision of uterine cavity, procedure time, complications, patient discomfort, satisfaction rate",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "This was a conference abstract with insufficient information.We attempted to contact study authors to confirm eligibility of the study and to obtain more information, but we did not get a response",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Notes",
+                "sec_num": null
+            },
+            {
+                "text": "Gas medium: carbon dioxide (n = 995), vaginoscopic approach for introduction of the hysteroscope Liquid medium: normal saline (n = 987), vaginoscopic approach for introduction of the hysteroscopeHysterscope: both groups were further subdivided into 2 other groups (Fig. 1 ).In particular, 485 patients in the carbon dioxide group and 455 patients in the saline group underwent the procedure with the conventional hysteroscopy set composed of a rigid optic (rod lens, 4.0 mm; 30\u00b0 oblique vision) and a 5-mm single-flow sheath (Karl Storz, Tuttlingen, Germany); 510 patients in the carbon dioxide group and 532 patients in the saline group underwent the procedure with the mini-hysteroscopy set including a rigid optic (rod lens, 2.9 mm; 30\u00b0 for oblique vision) and a 3. Searched 28 April 2021",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 270,
+                        "end": 271,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Interventions",
+                "sec_num": null
+            },
+            {
+                "text": "Keywords CONTAINS \"hysteroscopic \"or \"hysteroscopy\" or \"hysteroscopy pain\" or \"hysteroscopy, techniques\" or \"hysterosonography\" or \"hysterscope\" or \"endoscopy\" AND Keywords CONTAINS \"uterine distension\" or \"distension\" or \"distention fluid volume\" or \"distention medium\" or\"CO2\" or\" carbon dioxide\" or \"carbon dioxide distention\" or \"gas\" or \"gasless \"or \"saline\" or \"saline contrast \"or \"saline contrast hysterosonography\" or \"saline infusion sonography\" or \"saline salpingosonography\" or Title CONTAINS \"uterine distension\" or \"distension\" or \"distention fluid volume\" or \"distention medium\" or\"CO2\" or \"carbon dioxide\" or \"carbon dioxide distention\" or \"gas\" or \"gasless \"or \"saline\" or \"saline contrast \"or \"saline contrast hysterosonography\" or \"saline infusion sonography\" or \"saline salpingosonography\" (131 records) Searched 28 April 2021 using the following words:\"hysteroscopy\" \"media\" \"saline\" \"carbon dioxide\"No additional studies were identified.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "ProCite platform",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Hysteroscopy in suspected endometrial carcinoma: a comparison among cavity-distention media [Isteroscopia nel sospetto carcinoma endometriale: confronto tra mezzi di distensione cavitaria",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Guida",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Bramante",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Lavitola",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Sparice",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Cirillo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Nappi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Tumori",
+                "volume": "89",
+                "issue": "4",
+                "pages": "251--252",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Comparison between two di erent distention media in diagnostic hysteroscopy",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Tagliaferri",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Carbon dioxide in o ice diagnostic hysteroscopy: an open question. A multicenter randomized trial on 1982 procedures",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Tagliaferri",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Ricciardi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Ricciardi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Pinto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Lanzone",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Scambia",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "European Journal of Obstetrics & Gynecology and Reproductive Biology",
+                "volume": "235",
+                "issue": "",
+                "pages": "97--101",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Prospective randomised controlled trial of room temperature versus body temperature saline in outpatients hysteroscopy and pain scores",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Tandon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Prospective randomised controlled trial comparing pain scores in patients undergoing OPD hysteroscopy with room temperature versus body temperature saline",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Tandon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2004,
+                "venue": "th British Congress of Obstetrics and Gyanecology",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": ") 2 uterine endoscop$.tw. (5) (",
+                "authors": [],
+                "year": null,
+                "venue": "1 Hysteroscopy",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "crossover or cross-over or cross over).tw. (88784)",
+                "authors": [],
+                "year": null,
+                "venue": "Cochrane Database of Systematic Reviews Carbon Dioxide",
+                "volume": "",
+                "issue": "",
+                "pages": "26--44",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "Sodium Chloride/ (189808) Sodium Chloride.ti,ab,sh. (197537) saline",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Co2",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Tw",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Crossover Procedure/ (67276) Placebo/ (356331",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Double blind",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "................................................................................................................................................................................................... PLAIN LANGUAGE SUMMARY....................................................................................................................................................................... SUMMARY OF FINDINGS.............................................................................................................................................................................. BACKGROUND.............................................................................................................................................................................................. OBJECTIVES.................................................................................................................................................................................................. METHODS..................................................................................................................................................................................................... RESULTS........................................................................................................................................................................................................ Figure 1.................................................................................................................................................................................................. Figure 2.................................................................................................................................................................................................. Figure 3.................................................................................................................................................................................................. Figure 4.................................................................................................................................................................................................. DISCUSSION.................................................................................................................................................................................................. AUTHORS' CONCLUSIONS........................................................................................................................................................................... ACKNOWLEDGEMENTS................................................................................................................................................................................ REFERENCES................................................................................................................................................................................................",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF1": {
+                "text": "Figure 1.Study flow diagram.",
+                "fig_num": "1",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF2": {
+                "text": "Three were multi-centre trials (Pellicano 2003; Pluchino 2010; Raimondo 2010), and nine trials were conducted in single centres (Almeida 2008; Diniz 2009; Evangelista 2011; Garbin 2000; Isaat 2017; Mazzon 2014; Paschopoulos 2004; Shankar 2004; Tawfek 2019).Four trials were conducted in Italy (Mazzon 2014; Pellicano 2003; Pluchino 2010; Raimondo 2010), three in Brazil (Almeida 2008; Diniz 2009; Evangelista 2011), one in Egypt (Tawfek 2019), one in France (Garbin 2000), one in Greece (Paschopoulos 2004), one in Poland (Isaat 2017), and one in United Kingdom (Shankar 2004).",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF3": {
+                "text": "Figure 2. Risk of bias graph: review authors' judgements about each risk of bias item presented as percentages across all included studies.",
+                "fig_num": "23",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF4": {
+                "text": "Figure 4. Forest plot of comparison: 1 Saline versus carbon dioxide, outcome: 1.1 Tolerability of the procedure -Pain during the procedure.",
+                "fig_num": "4",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF5": {
+                "text": "(A) Random sequence generation (selection bias) (B) Allocation concealment (selection bias) (C) Blinding of participants and personnel (performance bias) (D) Blinding of outcome assessment (detection bias) (E) Incomplete outcome data (attrition bias) (F) Selective reporting (reporting bias) (G) Other bias 1.1.Pain during the procedure",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF7": {
+                "text": "Almeida 2008 {published data only}Almeida ZM, Pontes R, Costa HL.Evaluation of pain in diagnostic hysteroscopy by vaginoscopy using normal saline at body temperature as distension medium: a randomized controlled trial [Avalia \u0327c \u0303ao da dor na histeroscopia diagn \u0301ostica por vaginoscopia utilizandose, como meio de distens \u0303ao, solu \u0327c \u0303ao salina \u0300a temperatura corporal.Ensaio  cl \u0301inico randomizado].Revista Brasileira de Ginecologia e Obstetr\u00edcia 2008;30(1):25-30.Diniz 2009 {published data only} Diniz DB, de Batista Depes D, Pereira AM, David SD, Lippi UG, Baracat FF, Lopes RG.Pain evaluation in o ice hysteroscopy: comparison of two techniques [Avalia \u0327c \u0303ao da dor em histeroscopia ambulatorial: compara \u0327c \u0303ao entre duas t \u0301ecnicas].Revista Brasileira de Ginecologia e Obstetr\u00edcia 2010;32(1):26-32.Evangelista 2011 {published and unpublished data} Evangelista A, Oliveira MA, Crispi CP, Lamblet MF, Raymundo TS, Santos LC.Diagnostic hysteroscopy using liquid distention medium: comparison of pain with warmed saline solution vs room-temperature saline solution.Journal of Minimally Invasive Gynecology 2011;18(1):104-7.Garbin 2000 {published and unpublished data} Garbin O, Pirello O, Favre R, Nisand I. Carbon dioxide or saline serum for o ice hysteroscopy?A randomized study.Gynaecological Endoscopy 2000;Suppl:45.Isaat 2017 {published data only} ISRCTN56764412.Pain assessment during outpatient hysteroscopy using room temperature versus warm normal saline as distention medium.www.isrctn.com/ISRCTN56764412(first received 22 June 2015).* Issat T, Beta J, Nowicka MA, Durczynski A, Jakimiuk AJ.Pain assessment during outpatient hysteroscopy using room temperature versus warm normal saline solution as a distention medium -a prospective randomized study.Clinical and Experimental Obstetrics & Gynecology 2017;44(3):359-63.Mazzon 2014 {published data only} Mazzon I, Favilli A, Grasso M, Horvath S, Bini V, di Renzo GC, et al.Pain in diagnostic hysteroscopy: a multivariate analysis a er a randomized, controlled trial.Fertility and Sterility 2014;102(5):1398-403. Paschopoulos 2004 {published data only} Kaponis A, Meridis E, Lavasidis L, Paschopoulos E, Dequesne J, Pados G, et al.Selecting distending media for outpatient hysteroscopy -Does it really matter?In: Proceedings of the 14th Annual Congress of the European Society for Gynaecological Endoscopy.Athens, Greece, 2005:51-4.* Paschopoulos M, Kaponis A, Makrydimas G, Zikopoulos K, Alamanos Y, O'Donovan P, et al.Selecting distending medium for out-patient hysteroscopy.Does it really matter?Human Reproduction 2004;19(11):2619-25.Paschopoulos M, Vrekoussis T, Lavasidis LG, Kaponis A, Meridis EN, Navrozoglou I, et al.Outpatient hysteroscopy: selection of technique and distension medium.In: Proceedings of the 14th Annual Congress of the European Society for Gynaecological Endoscopy.Athens, Greece, 2005:47-50.Pellicano 2003 {published data only} Lavitola G, Guida M, Pellicano M, Acunzo G, Cirillo D, Nappi C. Option for uterine distension during hysteroscopy [Alternative nella distensione cavitaria in corso di isteroscopia].Minerva Ginecologica 2002;54(6):461-5.* Pellicano M, Guida M, Zullo F, Lavitola G, Cirillo D, Nappi C. Carbon dioxide versus normal saline as a uterine distension medium for diagnostic vaginoscopic hysteroscopy in infertile patients: a prospective, randomized, multicenter study.Fertility and Sterility 2003;79(2):418-21.Sparice S, Mandato VD, Greco E, Cirillo P, Limone A, Galdieri A, et al.Carbon dioxide versus normal saline as uterine distension medium in infertile patients: a prospective, randomized study.In: World Meeting on Minimally Invasive Surgery in Gynecology.24-28 June 2003; Rome, Italy.Pluchino 2010 {published data only} Pluchino N, Ninni F, Angioni S, Artini P, Araujo VG, Massimetti G, et al.O ice vaginoscopic hysteroscopy in infertile women: e ects of gynecologist experience, instrument size, and distention medium on patient discomfort.Journal of Minimally Invasive Gynecology 2010;17(3):344-50.Raimondo 2010 {published data only} Raimondo G, Raimondo D, D'Aniello G, Russo C, Ronga A, Gabbanini M, et al.A randomized controlled study comparing carbon dioxide versus normal saline as distension media in diagnostic o ice hysteroscopy: is the distension with carbon dioxide a problem?Fertility and Sterility 2010;94(6):2319-22.Shankar 2004 {published data only} Shankar M, Davidson A, Taub N, Habiba M, Pellicano M. Saline as distension medium for diagnostic hysteroscopy resulted in better visualization than carbon dioxide.Evidence-based Obstetrics & Gynecology 2004;6(4):186-7.* Shankar M, Davidson A, Taub N, Habiba M. Randomised comparison of distension media for outpatient hysteroscopy.BJOG 2004;111(1):57-62.Tawfek 2019 {published data only} NCT03111563.E ectiveness of warm saline distension media on relieving pain in o ice hysteroscopy.clinicaltrials.gov/ct2/show/NCT03111563 (first posted 13 April 2017).* Tawfek ME, Hemeda HM, Ibrahim MA.E ectiveness of warm saline distension media on relieving pain in outpatient o ice hysteroscopy: a randomized controlled clinical trial.Journal of Gynecology & Reproductive Medicine 2019;3(1):1-7.",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF8": {
+                "text": "5 (4 in carbon dioxide group and 1 in saline group due to inability to perform hysteroscopy) Inclusion criteria: women admitted to undergo total abdominal hysterectomy Exclusion criteria: suspicion of endometrial cancer Age: mean in carbon dioxide group 52.3 years vs mean in saline group 53.5 years Parity: mean in carbon dioxide group 2.05 vs mean in saline group 1.97 Interventions Study group: saline solution (n = 35), vaginoscopic approach Control group: carbon dioxide (n = 39), vaginoscopic approach Hysteroscope: Bettochi hysteroscope (Karl Storz, Tuttlingen, Germany) with a diagnostic sheath with diameter 2.8 mm and lances with an inclination of 30\u00b0 was used Outcomes Pain during the procedure on a 4-point scale Proportion of procedures abandoned due to intense pain Adverse events and complications Notes Trial registration: no",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF9": {
+                "text": "(A) Random sequence generation (selection bias) (B) Allocation concealment (selection bias) (C) Blinding of participants and personnel (performance bias) (D) Blinding of outcome assessment (detection bias) (E) Incomplete outcome data (attrition bias) (F) Selective reporting (reporting bias) (Random sequence generation (selection bias) (B) Allocation concealment (selection bias) (C) Blinding of participants and personnel (performance bias) (D) Blinding of outcome assessment (detection bias) (E) Incomplete outcome data (attrition bias) (F) Selective reporting (reporting bias) (Random sequence generation (selection bias) (B) Allocation concealment (selection bias) (C) Blinding of participants and personnel (performance bias) (D) Blinding of outcome assessment (detection bias) (E) Incomplete outcome data (attrition bias) (F) Selective reporting (reporting bias) (G) Other bias Analysis 1.4.Comparison 1: Saline vs carbon dioxide, Outcome 4: Adverse events and complications = 2.48, df = 3 (P = 0.48); I\u00b2 = 0% Test for overall effect: Z = 3.74 (P = 0.0002)",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF10": {
+                "text": "Random sequence generation (selection bias) (B) Allocation concealment (selection bias) (C) Blinding of participants and personnel (performance bias) (D) Blinding of outcome assessment (detection bias) (E) Incomplete outcome data (attrition bias) (F) Selective reporting (reporting bias) (G) Other bias scale, high score better (2) 10cm VAS, 10 is best image Risk of bias legend (A) Random sequence generation (selection bias) (B) Allocation concealment (selection bias) (C) Blinding of participants and personnel (performance bias) (D) Blinding of outcome assessment (detection bias) (E) Incomplete outcome data (attrition bias) (F) Selective reporting (reporting bias) (G) Other bias Analysis 1.6.Comparison 1: Saline vs carbon dioxide, Outcome 6: Quality of hysteroscopic view -Procedures with unsatisfactory view Random sequence generation (selection bias) (B) Allocation concealment (selection bias) (C) Blinding of participants and personnel (performance bias) (D) Blinding of outcome assessment (detection bias) (E) Incomplete outcome data (attrition bias) (F) Selective reporting (reporting bias) (",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF11": {
+                "text": "SDs of both groups were calculated from the reported p value Risk of bias legend (A) Random sequence generation (selection bias) (B) Allocation concealment (selection bias) (C) Blinding of participants and personnel (performance bias) (D) Blinding of outcome assessment (detection bias) (E) Incomplete outcome data (attrition bias) (F) Selective reporting (reporting bias) (Estimated means and SDs were calculated from the reported medians and 1 st and 3 rd quartiles Risk of bias legend (A) Random sequence generation (selection bias) (B) Allocation concealment (selection bias) (C) Blinding of participants and personnel (performance bias) (D) Blinding of outcome assessment (detection bias) (E) Incomplete outcome data (attrition bias) (F) Selective reporting (reporting bias) (G) Other bias Analysis 2.2.Comparison 2: Warm saline vs room temperature saline, Outcome 2: Tolerability of the procedure -Procedures abandoned due to intense pain Random sequence generation (selection bias) (B) Allocation concealment (selection bias) (C) Blinding of participants and personnel (performance bias) (D) Blinding of outcome assessment (detection bias) (E) Incomplete outcome data (attrition bias) (F) Selective reporting (reporting bias) (G) Other bias Analysis 2.3.Comparison 2: Warm saline vs room temperature saline, Outcome 3: Tolerability of the procedure -Need for analgesia Random sequence generation (selection bias) (B) Allocation concealment (selection bias) (C) Blinding of participants and personnel (performance bias) (D) Blinding of outcome assessment (detection bias) (E) Incomplete outcome data (attrition bias) (F) Selective reporting (reporting bias) (G) Other bias",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF12": {
+                "text": "Estimated means and SDs were calculated from the reported medians and 1 st and 3 rd quartiles Risk of bias legend (A) Random sequence generation (selection bias) (B) Allocation concealment (selection bias) (C) Blinding of participants and personnel (performance bias) (D) Blinding of outcome assessment (detection bias) (E) Incomplete outcome data (attrition bias) (F) Selective reporting (reporting bias) (",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "TABREF2": {
+                "text": "Seven studies used computer randomisation(Almeida  2008; Evangelista 2011; Isaat 2017; Mazzon 2014; Pellicano 2003;  Pluchino 2010; Raimondo 2010), one used a random number table(Shankar 2004), and one randomised by choosing from two identical sealed envelopes containing either of the interventions(Paschopoulos 2004).On the other hand, three trials did not describe the method used and were considered to have unclear risk of this bias(Diniz 2009; Garbin 2000; Tawfek 2019).",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>We assessed seven studies as having low risk of bias related to</td></tr><tr><td>allocation concealment, as they used sealed opaque envelopes</td></tr><tr><td>(Almeida 2008; Evangelista 2011; Isaat 2017; Mazzon 2014;</td></tr><tr><td>Paschopoulos 2004; Raimondo 2010; Shankar 2004). The other five</td></tr><tr><td>studies did not mention how allocation concealment was ensured;</td></tr><tr><td>therefore we rated them as having unclear risk of bias for this</td></tr><tr><td>domain (Diniz 2009; Garbin 2000; Pellicano 2003; Pluchino 2010;</td></tr><tr><td>Tawfek 2019).</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF5": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td/><td>Cochrane Database of Systematic Reviews</td></tr><tr><td/><td>Timing: between May and December 2006</td></tr><tr><td/><td>Source of funding: not reported</td></tr><tr><td/><td>Conflict of interest: not reported</td></tr><tr><td/><td>Power calculation: yes</td></tr><tr><td>Participants</td><td>Number randomised: 184</td></tr><tr><td/><td>Number analysed: 184</td></tr><tr><td/><td>Number excluded: none</td></tr><tr><td/><td>Inclusion criteria: women over 18 years of age, referred to undergo diagnostic hysteroscopy for vari-</td></tr><tr><td/><td>ous indications</td></tr><tr><td/><td>Exclusion criteria: acute pelvic inflammatory disease, pregnancy, uterine perforation in the last 30</td></tr><tr><td/><td>days, active uterine bleeding, using hormone-based vaginal cream</td></tr><tr><td/><td>Age: mean in carbon dioxide group 45.0 years vs mean in saline group 46.7 years</td></tr><tr><td/><td>Parity: mean in carbon dioxide group 3.23 vs mean in saline group 3.95</td></tr><tr><td>Interventions</td><td>Study group: saline solution (n = 91) warmed at 36\u00b0C, vaginoscopic approach</td></tr><tr><td/><td>Control group: carbon dioxide (n = 93), traditional approach</td></tr><tr><td/><td>Hysteroscope: 2.7-mm hysteroscope and 3.7-mm cannula (Endoview, Bingen, Germany)</td></tr><tr><td>Outcomes</td><td>Pain during procedure on VAS</td></tr><tr><td/><td>Adverse events and complications</td></tr><tr><td/><td>Duration of the procedure in minutes</td></tr><tr><td>Notes</td><td>Trial registration: no</td></tr><tr><td/><td>We attempted to contact the corresponding author for further details on methods and outcomes, but</td></tr><tr><td/><td>we got no response</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF6": {
+                "text": "Inclusion criteria: women referred to undergo diagnostic hysteroscopy for any indication Exclusion criteria: pregnancy, uterine perforation that occurred less than 1 month previously, profuse uterine bleeding, acute pelvic inflammatory disease, uncompensated clinical conditions such as diabetes mellitus and arterial hypertension Age: mean in warm saline group 41.5 years vs mean in room temperature saline group 44.1 years Cochrane Database of Systematic ReviewsWe attempted to contact the corresponding author for further details on methods and outcomes, but we got no response Italian-speaking patients undergoing diagnostic hysteroscopy.Indications for hysteroscopy were abnormal uterine bleeding, infertility, recurrent miscarriage, fibroids, polyps, uterine malformation, and endometrial thickening Exclusion criteria: ongoing pregnancy, cervical carcinoma, pelvic inflammatory disease, previous cervical surgery, previous diagnostic hysteroscopy.During the procedure, women were excluded in cases of excessive bleeding or if endometrial biopsy was taken Age: mean in carbon dioxide group 43.83 years vs mean in saline group 44.03 years",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library Cochrane Library Cochrane Library Cochrane Library</td><td colspan=\"2\">Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health.</td><td>Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews</td></tr><tr><td>Almeida 2008 (Continued) Diniz 2009 (Continued) Evangelista 2011 (Continued) Isaat 2017 (Continued)</td><td/><td/></tr><tr><td colspan=\"2\">Notes Risk of bias Bias Random sequence genera-tion (selection bias) Interventions Risk of bias Bias Random sequence genera-tion (selection bias) Allocation concealment (selection bias) Interventions</td><td colspan=\"2\">Trial registration: no We attempted to contact the corresponding author for further details on methods and outcomes, but we got no response Authors' judgement Support for judgement Unclear risk Parity: mean in warm saline group 2.17 deliveries vs mean in room temperature saline group 1.80 de-liveries Authors' judgement Support for judgement Low risk Quote: \"randomization ... was generated automatically in an allocation ratio of Inclusion criteria: Parity: percentage of nulliparous was 59.89% in carbon dioxide group and 61.02% in saline group; per-1:1\" centages of multiparous were 40.01% and 38.97%, respectively Study group: saline solution (n = 34) warmed at 37.5\u00b0C, vaginoscopic approach It was mentioned that allocation was random, but method of randomisation was unclear Control group: saline solution (n = 30) at room temperature, vaginoscopic approach Low risk Quote: \"the randomization envelopes were opaque and were kept in an outpa-tient hysteroscopy room in a closed study box\" Study group: saline solution (n = 195), vaginoscopic approach</td></tr><tr><td>Allocation concealment Blinding of participants (selection bias) Outcomes and personnel (perfor-</td><td/><td colspan=\"2\">Unclear risk Hysteroscope: Bettochi system with 2.9-mm diameter for both groups Control group: carbon dioxide (n = 197), vaginoscopic approach Not mentioned Unclear risk Not mentioned Pain during procedure on VAS Hysteroscope: rigid telescope with a diameter of 4 mm and a 30\u00b0 fore-oblique covered with a sin-</td></tr><tr><td>Blinding of participants and personnel (perfor-mance bias) All outcomes mance bias) All outcomes Blinding of outcome as-Outcomes Notes Blinding of outcome as-sessment (detection bias) All outcomes</td><td/><td colspan=\"2\">High risk gle-flow examination sheath with diameter of 5.1 mm (Hamou II; Karl Storz) for both groups Blinding was not possible in this type of intervention, which might induce per-Duration of the procedure in minutes formance bias High risk Blinding was not possible in this type of intervention, and as outcomes were Pain during procedure on VAS Adverse events and complications Unclear risk Not mentioned Quality of hysteroscopic view (satisfactory vs unsatisfactory) Trial registration: no Duration of the procedure in seconds</td></tr><tr><td>sessment (detection bias) All outcomes Risk of bias Incomplete outcome data Incomplete outcome data Bias (attrition bias) All outcomes Notes</td><td/><td colspan=\"2\">either patient-assessed or operator-assessed, we judged risk of detection bias 3 patients were excluded after randomisation due to failure of the hystero-Adverse events and complications Low risk as high Low risk Data were reported for all randomised women scope to pass the cervical os (1 in study group and 2 in control group) Authors' judgement Support for judgement Trial registration: yes (NCT01873391)</td></tr><tr><td colspan=\"2\">(attrition bias) All outcomes Random sequence genera-tion (selection bias) porting bias) Selective reporting (re-</td><td>Low risk Low risk</td><td>Quote: \"patients were allocated to 1 of 2 groups... The randomization was computer-generated\" All pre-specified outcomes in the protocol were reported.</td></tr><tr><td>Selective reporting (re-porting bias) Allocation concealment (selection bias) Other bias</td><td/><td>Unclear risk Low risk Low risk</td><td>Protocol was not available. All outcomes mentioned in methods section were fully reported in the results. Complications and adverse effects were not re-ported, and it is unclear whether they were assessed and not reported or were Quote: \"the numbers were placed in opaque envelopes that were sealed and numbered. These were opened only at the time of the examination\" We did not find other sources of bias</td></tr><tr><td>Blinding of participants</td><td/><td>Low risk</td><td>not assessed at all The study was single-blinded (patient -blinded)</td></tr><tr><td>Other bias and personnel (perfor-mance bias) Mazzon 2014</td><td/><td>Low risk</td><td>We did not find other sources of bias</td></tr><tr><td>All outcomes Study characteristics</td><td/><td/></tr><tr><td>Blinding of outcome as-sessment (detection bias) Methods</td><td/><td colspan=\"2\">Low risk Design: randomised controlled trial Outcomes were either patient-reported or objective</td></tr><tr><td colspan=\"2\">Random sequence genera-Study characteristics All outcomes</td><td>Low risk Country: Italy</td><td>Quote: \"as participants eram alocadas em cada grupo por randomiza\u00e7\u00e3o por</td></tr><tr><td>tion (selection bias) Methods Incomplete outcome data (attrition bias)</td><td/><td colspan=\"2\">meio da gera\u00e7\u00e3o de uma seq\u00fc\u00eancia de n\u00fameros aleat\u00f3rios no aplicativo de dom\u00ednio p\u00fablico Epi-Info 6.04\" Three women were excluded after randomisation (2 in study group and 1 in Setting: single centre, Arbor Vitae Center for Endoscopic Gynecology (Clinica Nuova Villa Claudia, Low risk Design: randomised controlled trial control group) Rome, Italy)</td></tr><tr><td>All outcomes</td><td/><td colspan=\"2\">English translation: \"participants were allocated in each group by randomiza-Timing: between June 2013 and January 2014 Country: Brazil</td></tr><tr><td>Selective reporting (re-porting bias)</td><td/><td colspan=\"2\">tion by generating a sequence of random numbers in the public domain appli-cation Epi-Info 6.04\" Setting: single centre, hysteroscopy outpatient clinic at Fernandes Figueira Institute, Rio de Janeiro Low risk Protocol was not available. However, all primary outcomes of interest were mentioned including complications, and all outcomes mentioned in methods Source of funding: not mentioned</td></tr><tr><td>Allocation concealment (selection bias) Other bias</td><td/><td colspan=\"2\">Low risk Timing: second half of 2008 section were fully reported in the results Conflict of interest: one study author received non-financial support from Karl STORZ Endoscopy Quote: \"endo a t\u00e9cnica alocada mascarada por envelopes opacos e lacrados, somente abertos ap\u00f3s a sele\u00e7\u00e3o da participante\" Source of funding: not reported Low risk We did not find other sources of bias GmbH STORZ, Tuttlingen, Germany. Other study authors declared no conflicts of interest</td></tr><tr><td/><td/><td>Power calculation: yes</td><td>English translation: \"allocated technique was masked by opaque and sealed</td></tr><tr><td>Participants</td><td/><td colspan=\"2\">envelopes, which were opened only after participant selection\" Number randomised: 414</td></tr><tr><td>Blinding of participants and personnel (perfor-mance bias) Garbin 2000 Study characteristics</td><td/><td colspan=\"2\">High risk Number analysed: 392 Number excluded: 22 (had endometrial biopsy) Blinding was not possible in this type of intervention, which might induce per-formance bias</td></tr><tr><td>All outcomes</td><td/><td/></tr><tr><td>Methods</td><td/><td>Design: random study</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF7": {
+                "text": "We contacted the corresponding author for additional clarification regarding methods and outcome data (failure rate and procedures needed to be stopped due to poor vision), but we received no response",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library Cochrane Library Cochrane Library Cochrane Library Cochrane Library</td><td colspan=\"2\">Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health. Trusted evidence. Informed decisions. Better health.</td><td>Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews Cochrane Database of Systematic Reviews</td></tr><tr><td>Pellicano 2003 (Continued) Pluchino 2010 (Continued) Raimondo 2010 (Continued) Tawfek 2019 (Continued)</td><td/><td/></tr><tr><td/><td/><td colspan=\"2\">Proportion of procedures abandoned due to intense pain Source of funding: not mentioned used. In group B (normal saline solution), a forward-oblique 30\u00b0 telescope, 2.9-mm diameter, 30-cm Hysteroscope: a rigid hysteroscope (continuous flow, 30\u00b0 forward oblique view) assembled in a 4-mm</td></tr><tr><td>Paschopoulos 2004</td><td/><td colspan=\"2\">Need for analgesia Conflict of interest: study authors declared no conflicts of interest length (Karl Storz) with a 5.1-mm diameter continuous-flow sheath (Bettocchi, Karl Storz) was used diameter diagnostic sheath with an atraumatic tip (Karl Storz Endoscopy, Tuttlingen, Germany)</td></tr><tr><td>Outcomes Outcomes</td><td/><td>Quality of hysteroscopic view (satisfactory vs unsatisfactory) Power calculation: yes Pain during procedure on VAS Pain during the procedure on VAS</td></tr><tr><td>Participants</td><td/><td>Duration of the procedure in minutes Number randomised: 184 Quality of hysteroscopic view on VAS Duration of the procedure in minutes</td></tr><tr><td>Notes</td><td/><td>Adverse events and complications Number analysed: 165 Adverse events and complications Trial registration: no</td></tr><tr><td>Notes Notes</td><td/><td colspan=\"2\">Trial registration: no Duration of the procedure in seconds We attempted to contact the corresponding author for further details on methods and outcomes, but Number excluded: 19 were excluded after receiving the intervention when an additional surgical pro-cedure was performed Trial registration: no we got no response</td></tr><tr><td>Risk of bias Bias</td><td/><td colspan=\"2\">Inclusion criteria: the only indication for performing a diagnostic hysteroscopy was primary infertility We attempted to contact the corresponding author for further details on methods and outcomes, but Exclusion criteria: women with acute infection, active bleeding, viable pregnancy, or previous hys-teroscopy were excluded. Additional exclusion criteria included a history of cervical or pelvic surgery we got no response Authors' judgement Support for judgement</td></tr><tr><td colspan=\"2\">Risk of bias Bias Risk of bias Random sequence genera-Bias tion (selection bias)</td><td colspan=\"2\">Authors' judgement Support for judgement and a diagnosis of chronic pelvic pain or endometriosis Unclear risk Quote: \"cases fulfilling the inclusive research criteria were randomised to two Age: mean in carbon dioxide O group 33.6 years vs mean in saline group 33.3 years Authors' judgement Support for judgement research groups\"</td></tr><tr><td colspan=\"2\">Random sequence genera-tion (selection bias) Random sequence genera-Allocation concealment Interventions tion (selection bias) Allocation concealment Allocation concealment (selection bias) (selection bias) Blinding of participants and personnel (perfor-mance bias) (selection bias) Blinding of participants Blinding of participants and personnel (perfor-and personnel (perfor-mance bias) All outcomes mance bias) All outcomes Blinding of outcome as-sessment (detection bias) All outcomes All outcomes Blinding of outcome as-Blinding of outcome as-sessment (detection bias) sessment (detection bias) All outcomes Outcomes All outcomes Incomplete outcome data</td><td colspan=\"2\">Low risk Parity: not mentioned Low risk Unclear risk Participants were divided according to the diameter of the hysteroscopy into 2 groups, then were fur-Quote: \"patients were prospectively randomised and divided into two groups Comment: method of randomisation was not mentioned \"Randomization was achieved [...] containing computer-generated block ran-according to a computer-generated random assignment\" Not mentioned domization numbers\" Unclear risk Not mentioned ther divided into 2 groups according to the distension media, and finally they were divided again into 2 groups according to the experience of the operator Low risk \"Randomization was achieved using sealed, opaque envelopes...\" High risk Blinding was not possible in this type of intervention, which might induce per-formance bias Unclear risk Not mentioned Study group: saline solution (n = 92), vaginoscopic approach Control group: carbon dioxide (n = 92), vaginoscopic approach Hysteroscope: the conventional hysteroscopy set (Karl Storz GmbH &amp; Co. KG, Tuttlingen, Germany) High risk Blinding was not possible in this type of intervention, which might induce per-formance bias High risk Blinding was not possible in this type of intervention, and as outcomes were either patient-assessed or operator-assessed, we judged risk of detection bias included a rigid optic (rod lens, 4.0 mm; 30\u00b0 oblique vision) with a 5.0-mm single-flow sheath. The mi-Unclear risk Not mentioned ni-hysteroscopy set (Karl Storz GmbH) included a rigid optic (rod lens, 2.9 mm; 30\u00b0 for oblique vision) with a 3.5-mm single-flow sheath High risk Blinding was not possible in this type of intervention, and as outcomes were either patient-assessed or operator-assessed, we judged risk of detection bias as high Pain during procedure on VAS as high Low risk Although 5 women were randomised but were excluded from analysis, the</td></tr><tr><td>Incomplete outcome data (attrition bias) All outcomes Incomplete outcome data (attrition bias) All outcomes (attrition bias) All outcomes Selective reporting (re-</td><td/><td colspan=\"2\">Low risk Proportion of procedures abandoned due to intense pain All randomised women were included in the analysis, and there were no losses to follow-up Low risk number was too small to induce bias and was matching in both groups (2 in No losses to follow-up or exclusions from analysis after randomisation warmed saline group vs 3 in room temperature saline group) Need for analgesia Low risk All planned outcomes in the protocol registration were reported</td></tr><tr><td>Selective reporting (re-porting bias) Selective reporting (re-porting bias) Notes porting bias) Other bias</td><td/><td colspan=\"2\">Low risk Adverse events and complications Protocol was not available. However, all primary outcomes of interest were Low risk Protocol was not available. However, all primary outcomes of interest were mentioned, including complications, and all outcomes mentioned in methods section were fully reported in the results Trial registration: no mentioned, including complications, and all outcomes mentioned in methods section were fully reported in the results Low risk We did not find other sources of bias</td></tr><tr><td>Other bias Other bias PPI: present pain intensity. Risk of bias VAS: visual analogue scale.</td><td/><td colspan=\"2\">High risk We attempted to contact the corresponding author for further details on methods and outcomes, but Standard deviations of the means of the outcome 'pain during the procedure' we got no response Low risk We did not find other sources of bias were noticed to be unusually low. We tried to contact study authors for clarifi-cation, but we got no reply</td></tr><tr><td colspan=\"3\">Characteristics of excluded studies [ordered by study ID]</td></tr><tr><td>Bias Shankar 2004</td><td/><td>Authors' judgement Support for judgement</td></tr><tr><td colspan=\"2\">Random sequence genera-Study characteristics Study Pluchino 2010 tion (selection bias) Study characteristics Methods Brusco 2003</td><td colspan=\"2\">Low risk Reason for exclusion Quote: \"randomization was based on a computer-generated randomization table\" Design: randomised controlled trial Quasi-randomised trial</td></tr><tr><td>Methods Allocation concealment (selection bias)</td><td/><td colspan=\"2\">Design: randomised controlled trial Unclear risk Not mentioned Country: UK Quote: \"the midwife administered normal saline or CO on a daily basis\"</td></tr><tr><td>Allocation concealment (selection bias) Blinding of participants and personnel (perfor-Campo 2005 mance bias) All outcomes Kapur 2020</td><td/><td colspan=\"2\">Low risk Country: Italy High risk Setting: single centre, 1-stop menstrual clinic and 1-stop postmenopausal bleeding clinic at a large It was mentioned that allocations were kept in sealed envelopes \"The patient, who was blinded to group assignment....\" as mentioned by study authors. However, blinding to distension media is not possible, and it may be Trial is comparing the size of the hysteroscope using room temperature saline solution in both teaching hospital, Department of Obstetrics and Gynaecology, University of Leicester, United Kingdom groups Setting: multi-centre, University medical centres in Pisa and Cagliari Timing: between November 2006 and June 2008 that the patient was blinded to the experience of the operator and to the di-ameter of the hysteroscope Timing: between April 2000 and November 2001 Quasi-randomised trial</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF8": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library</td><td colspan=\"3\">Trusted evidence. Informed decisions. Better health.</td><td/><td/><td/><td/><td/><td/><td/><td/><td colspan=\"5\">Cochrane Database of Systematic Reviews</td></tr><tr><td colspan=\"7\">Tandon 2004 (Continued) Mean Analysis 1.1. Almeida 2008 Saline SD Total Mean Carbon dioxide SD Total 1.6 2.19 91 3.39 2.82</td><td>93</td><td>Weight 10.3%</td><td colspan=\"2\">Std. Mean Difference IV, Fixed, 95% CI -0.71 [-1.00 , -0.41]</td><td colspan=\"3\">Std. Mean Difference IV, Fixed, 95% CI</td><td>A +</td><td>B +</td><td>Risk of Bias C D E --+</td><td>F +</td><td>G +</td></tr><tr><td>Diniz 2009</td><td>4.8</td><td>2.9</td><td>59</td><td>6.1</td><td>2.9</td><td/><td>58</td><td>6.8%</td><td colspan=\"2\">-0.45 [-0.81 , -0.08]</td><td/><td/><td/><td>?</td><td>?</td><td>-</td><td>-</td><td>+</td><td>?</td><td>+</td></tr><tr><td>Garbin 2000</td><td>1.45</td><td>1.52</td><td>60</td><td>1.86</td><td>1.88</td><td/><td>60</td><td>7.1%</td><td colspan=\"2\">-0.24 [-0.60 , 0.12]</td><td/><td/><td/><td>?</td><td>?</td><td>-</td><td>-</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Mazzon 2014</td><td>3.71</td><td>2.81</td><td>195</td><td>2.74</td><td>2.3</td><td colspan=\"2\">197</td><td>23.0%</td><td colspan=\"2\">0.38 [0.18 , 0.58]</td><td/><td/><td/><td>+</td><td>+</td><td>-</td><td>-</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Paschopoulos 2004 (1)</td><td>1.49</td><td>0.61</td><td>35</td><td>1.72</td><td>0.65</td><td/><td>39</td><td>4.3%</td><td colspan=\"2\">-0.36 [-0.82 , 0.10]</td><td/><td/><td/><td>+</td><td>+</td><td>-</td><td>-</td><td>-</td><td>+</td><td>+</td></tr><tr><td>Pellicano 2003</td><td>1.7</td><td>0.6</td><td>97</td><td>1.6</td><td>0.8</td><td/><td>92</td><td>11.2%</td><td colspan=\"2\">0.14 [-0.14 , 0.43]</td><td/><td/><td/><td>+</td><td>?</td><td>-</td><td>-</td><td>+</td><td>+</td><td>-</td></tr><tr><td>Pluchino 2010 (2)</td><td>2.68</td><td>1</td><td>83</td><td>3.26</td><td>1.14</td><td/><td>82</td><td>9.5%</td><td colspan=\"2\">-0.54 [-0.85 , -0.23]</td><td/><td/><td/><td>+</td><td>?</td><td>-</td><td>-</td><td>+</td><td>+</td><td>-</td></tr><tr><td>Raimondo 2010</td><td>4.1</td><td>2.2</td><td>132</td><td>4.1</td><td>2.27</td><td colspan=\"2\">132</td><td>15.8%</td><td colspan=\"2\">0.00 [-0.24 , 0.24]</td><td/><td/><td/><td>+</td><td>+</td><td>-</td><td>-</td><td>+</td><td>+</td><td>+</td></tr><tr><td colspan=\"2\">VAS: visual analogue scale. Shankar 2004 3.1</td><td>2.6</td><td>100</td><td>2.9</td><td>2.3</td><td colspan=\"2\">100</td><td>11.9%</td><td colspan=\"2\">0.08 [-0.20 , 0.36]</td><td/><td/><td/><td>+</td><td>+</td><td>-</td><td>-</td><td>+</td><td>+</td><td>+</td></tr><tr><td>Total (95% CI)</td><td/><td/><td>852</td><td/><td/><td colspan=\"2\">853</td><td>100.0%</td><td colspan=\"2\">-0.07 [-0.17 , 0.02]</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"4\">Heterogeneity: Chi\u00b2 = 55.39, df = 8 (P &lt; 0.00001); I\u00b2 = 86%</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td colspan=\"3\">Test for overall effect: Z = 1.53 (P = 0.13)</td><td/><td/><td/><td/><td/><td/><td/><td>-1</td><td>-0.5</td><td>0</td><td>0.5</td><td>1</td><td/></tr><tr><td colspan=\"3\">D A T A A N D A N A L Y S E S Test for subgroup differences: Not applicable</td><td/><td/><td/><td/><td/><td/><td/><td colspan=\"2\">Favours saline</td><td colspan=\"3\">Favours carbon dioxide</td><td/></tr><tr><td colspan=\"5\">Comparison 1. Saline vs carbon dioxide</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">Outcome or subgroup title</td><td/><td colspan=\"3\">No. of studies</td><td/><td/><td colspan=\"2\">No. of partici-</td><td colspan=\"3\">Statistical method</td><td/><td/><td colspan=\"2\">Effect size</td></tr><tr><td/><td/><td/><td/><td/><td/><td/><td/><td>pants</td><td/><td/><td/><td/><td/><td/><td/></tr><tr><td colspan=\"3\">1.1 Tolerability of the procedure -</td><td>9</td><td/><td/><td/><td/><td>1705</td><td/><td colspan=\"5\">Std. Mean Difference (IV, Fixed,</td><td colspan=\"2\">-0.07 [-0.17, 0.02]</td></tr><tr><td colspan=\"2\">Pain during the procedure</td><td/><td/><td/><td/><td/><td/><td/><td/><td>95% CI)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"3\">1.2 Tolerability of the procedure -</td><td>1</td><td/><td/><td/><td/><td/><td/><td colspan=\"5\">Peto Odds Ratio (Peto, Fixed,</td><td colspan=\"2\">Subtotals only</td></tr><tr><td colspan=\"3\">Procedures abandoned due to in-</td><td/><td/><td/><td/><td/><td/><td/><td>95% CI)</td><td/><td/><td/><td/><td/></tr><tr><td>tense pain</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/></tr><tr><td colspan=\"3\">1.3 Tolerability of the procedure -</td><td>1</td><td/><td/><td/><td/><td/><td/><td colspan=\"5\">Peto Odds Ratio (Peto, Fixed,</td><td colspan=\"2\">Subtotals only</td></tr><tr><td>Need for analgesia</td><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>95% CI)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"4\">1.4 Adverse events and complications 6</td><td/><td/><td/><td/><td/><td/><td colspan=\"5\">Peto Odds Ratio (Peto, Fixed,</td><td colspan=\"2\">Subtotals only</td></tr><tr><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>95% CI)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">1.4.1 Vasovagal reaction</td><td/><td>6</td><td/><td/><td/><td/><td>1076</td><td/><td colspan=\"5\">Peto Odds Ratio (Peto, Fixed,</td><td colspan=\"2\">0.53 [0.32, 0.86]</td></tr><tr><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>95% CI)</td><td/><td/><td/><td/><td/></tr><tr><td>1.4.2 Shoulder-tip pain</td><td/><td/><td>4</td><td/><td/><td/><td/><td>623</td><td/><td colspan=\"5\">Peto Odds Ratio (Peto, Fixed,</td><td colspan=\"2\">0.28 [0.14, 0.54]</td></tr><tr><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>95% CI)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">1.4.3 Endometrial bleeding</td><td/><td>2</td><td/><td/><td/><td/><td>349</td><td/><td colspan=\"5\">Peto Odds Ratio (Peto, Fixed,</td><td colspan=\"2\">0.83 [0.25, 2.75]</td></tr><tr><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>95% CI)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"3\">1.5 Quality of hysteroscopic view -</td><td>2</td><td/><td/><td/><td/><td/><td/><td colspan=\"5\">Std. Mean Difference (IV, Fixed,</td><td colspan=\"2\">Subtotals only</td></tr><tr><td colspan=\"2\">Clarity of the view on a scale</td><td/><td/><td/><td/><td/><td/><td/><td/><td>95% CI)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"3\">1.6 Quality of hysteroscopic view -</td><td>5</td><td/><td/><td/><td/><td>1082</td><td/><td colspan=\"5\">Peto Odds Ratio (Peto, Fixed,</td><td colspan=\"2\">0.51 [0.32, 0.82]</td></tr><tr><td colspan=\"3\">Procedures with unsatisfactory view</td><td/><td/><td/><td/><td/><td/><td/><td>95% CI)</td><td/><td/><td/><td/><td/></tr><tr><td colspan=\"2\">1.7 Duration of the procedure</td><td/><td>4</td><td/><td/><td/><td/><td/><td/><td colspan=\"5\">Mean Difference (IV, Fixed, 95%</td><td colspan=\"2\">Totals not select-</td></tr><tr><td/><td/><td/><td/><td/><td/><td/><td/><td/><td/><td>CI)</td><td/><td/><td/><td/><td colspan=\"2\">ed</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF9": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td/><td colspan=\"2\">Carbon dioxide</td><td/><td>Peto Odds Ratio</td><td colspan=\"3\">Peto Odds Ratio</td><td>Risk of Bias</td></tr><tr><td>Total</td><td>Events</td><td>Total</td><td>Weight</td><td>Peto, Fixed, 95% CI</td><td colspan=\"3\">Peto, Fixed, 95% CI</td><td>A</td><td>B</td></tr><tr><td>91</td><td>3</td><td>93</td><td>9.1%</td><td>1.02 [0.20 , 5.18]</td><td/><td/><td/><td>+</td><td>+</td></tr><tr><td>35</td><td>21</td><td>39</td><td>29.2%</td><td>0.73 [0.29 , 1.80]</td><td/><td/><td/><td>+</td><td>+</td></tr><tr><td>97</td><td>12</td><td>92</td><td>24.3%</td><td>0.38 [0.14 , 1.04]</td><td/><td/><td/><td>+</td><td>?</td></tr><tr><td>83</td><td>5</td><td>82</td><td>7.6%</td><td>0.13 [0.02 , 0.75]</td><td/><td/><td/><td>+</td><td>?</td></tr><tr><td>132</td><td>1</td><td>132</td><td>1.6%</td><td>0.14 [0.00 , 6.82]</td><td/><td/><td/><td>+</td><td>+</td></tr><tr><td>100</td><td>12</td><td>100</td><td>28.2%</td><td>0.64 [0.26 , 1.62]</td><td/><td/><td/><td>+</td><td>+</td></tr><tr><td>538</td><td/><td>538</td><td>100.0%</td><td>0.53 [0.32 , 0.86]</td><td/><td/><td/></tr><tr><td/><td>54</td><td/><td/><td/><td/><td/><td/></tr><tr><td>91</td><td>5</td><td>93</td><td>14.6%</td><td>0.13 [0.02 , 0.78]</td><td/><td/><td/><td>+</td><td>+</td></tr><tr><td>35</td><td>4</td><td>39</td><td>16.6%</td><td>0.55 [0.10 , 2.88]</td><td/><td/><td/><td>+</td><td>+</td></tr><tr><td>83</td><td>6</td><td>82</td><td>17.3%</td><td>0.13 [0.02 , 0.64]</td><td/><td/><td/><td>+</td><td>?</td></tr><tr><td>100</td><td>14</td><td>100</td><td>51.5%</td><td>0.35 [0.14 , 0.91]</td><td/><td/><td/><td>+</td><td>+</td></tr><tr><td>309 91</td><td>29 2</td><td>314 93</td><td>100.0% 27.9%</td><td>00.52 [0.05 , 5.07]</td><td/><td/><td/><td>+</td><td>+</td></tr><tr><td>83</td><td>4</td><td>82</td><td>72.1%</td><td>0.99 [0.24 , 4.07]</td><td/><td/><td/><td>+</td><td>?</td></tr><tr><td>174</td><td/><td>175</td><td>100.0%</td><td>0.83 [0.25 , 2.75]</td><td/><td/><td/></tr><tr><td/><td>6</td><td/><td/><td/><td/><td/><td/></tr><tr><td/><td/><td/><td/><td>0.005</td><td>0.1</td><td>1</td><td>10</td><td>200</td></tr><tr><td/><td/><td/><td/><td colspan=\"2\">Favours saline</td><td/><td colspan=\"2\">Favours carbon dioxide</td></tr></table>",
+                "type_str": "table"
+            }
+        }
+    }
+}

@@ -1,0 +1,537 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\A-novel-approach-using-vaginal-natural-orifice-tra",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:28.622047Z"
+    },
+    "title": "A novel approach using vaginal natural orifice transluminal endoscopic surgery to repair a symptomatic uterine isthmocele",
+    "authors": [
+        {
+            "first": "Jan",
+            "middle": [
+                "F"
+            ],
+            "last": "Baekelandt",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Imelda Hospital",
+                "location": {
+                    "settlement": "Bonheiden",
+                    "country": "Belgium"
+                }
+            },
+            "email": "jan.baekelandt@imelda.be"
+        },
+        {
+            "first": "Supuni",
+            "middle": [],
+            "last": "Kapurubandara",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Westmead Hospital",
+                "location": {
+                    "settlement": "New South Wales",
+                    "country": "Australia"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objective: To describe the first case of using a vaginal natural orifice transluminal endoscopic surgery approach to repair a uterine isthmocele.Design: Stepwise explanation of the surgical technique using original video footage.This study was exempted from requiring hospital Institutional Review Board approval.Setting: Hospital.Patient(s): A 30-year-old (gravida 2, para 2) patient presented with symptoms of intermenstrual bleeding and secondary subfertility following 2 uncomplicated cesarean section deliveries (elective for breech and repeat).The patient had a transvaginal ultrasound (US) demonstrating an isthmocele with a defect of 8.1 \u00c2 7.0 mm with a myometrial thickness of 2 mm over the defect and proceeded to undergo surgery because of persistent symptoms.Intervention(s): An anterior vaginal incision is made on the cervix from the 3 o'clock to 9 o'clock position after local anesthetic and adrenaline infiltration of the tissue.The vaginal epithelium was carefully dissected cephalad, although an attempt was made to maintain the uterovesical space and fold.A small (7 cm) V-path gel port was inserted into this uterovesical space and the gel port was affixed with a port connected to an insufflation stabilization bag to minimize the pressure fluctuations within the confines of a small operative space and help maintain visualization throughout.Under endoscopic view, the site of the isthmocele was identified using an endoscopic US probe and confirmed on 2 dimensional imaging.A monopolar hook with an inbuilt aspirator and suction function was used to incise over the isthmocele with a grasper used to dissect into this space.A Hegar dilator was used to delineate the cervical canal.Once the isthmocele was excised, the defect was reinforced and obliterated with a barbed suture whereas the Hegar dilator was in place to prevent inadvertent canal occlusion during suturing.Continuous suturing took place from the cephalad to the caudal directions in 2 layers.Once hemostasis was confirmed, the gel port was removed, and the vaginal epithelium was closed with interrupted sutures using a braided absorbable suture.The perioperative course and care were uneventful with the Foley catheter being removed 3 hours after surgery.The patient was discharged within 24 hours.A follow-up organized 6 weeks after surgery demonstrated obliteration and repair of the previously detected uterine isthmocele on the pelvic US scan.The patient also reported a resolution of symptoms at this postoperative visit.Main Outcome Measure(s): N/A.Result(s): N/A.Conclusion(s): Uterine-conserving surgical approaches to an isthmocele have been described, including vaginal, hysteroscopic, and laparoscopic (with and without robotic assistance) approches and laparotomy, with no single approach deemed to be superior to the others.The",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\A-novel-approach-using-vaginal-natural-orifice-tra",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.11.016",
+        "keywords": [
+            "Cesarean scar defect",
+            "gynecology",
+            "isthmocele",
+            "natural orifice transluminal endoscopic surgery",
+            "niche",
+            "vNOTES"
+        ],
+        "abstract": [
+            {
+                "text": "Objective: To describe the first case of using a vaginal natural orifice transluminal endoscopic surgery approach to repair a uterine isthmocele.Design: Stepwise explanation of the surgical technique using original video footage.This study was exempted from requiring hospital Institutional Review Board approval.Setting: Hospital.Patient(s): A 30-year-old (gravida 2, para 2) patient presented with symptoms of intermenstrual bleeding and secondary subfertility following 2 uncomplicated cesarean section deliveries (elective for breech and repeat).The patient had a transvaginal ultrasound (US) demonstrating an isthmocele with a defect of 8.1 \u00c2 7.0 mm with a myometrial thickness of 2 mm over the defect and proceeded to undergo surgery because of persistent symptoms.Intervention(s): An anterior vaginal incision is made on the cervix from the 3 o'clock to 9 o'clock position after local anesthetic and adrenaline infiltration of the tissue.The vaginal epithelium was carefully dissected cephalad, although an attempt was made to maintain the uterovesical space and fold.A small (7 cm) V-path gel port was inserted into this uterovesical space and the gel port was affixed with a port connected to an insufflation stabilization bag to minimize the pressure fluctuations within the confines of a small operative space and help maintain visualization throughout.Under endoscopic view, the site of the isthmocele was identified using an endoscopic US probe and confirmed on 2 dimensional imaging.A monopolar hook with an inbuilt aspirator and suction function was used to incise over the isthmocele with a grasper used to dissect into this space.A Hegar dilator was used to delineate the cervical canal.Once the isthmocele was excised, the defect was reinforced and obliterated with a barbed suture whereas the Hegar dilator was in place to prevent inadvertent canal occlusion during suturing.Continuous suturing took place from the cephalad to the caudal directions in 2 layers.Once hemostasis was confirmed, the gel port was removed, and the vaginal epithelium was closed with interrupted sutures using a braided absorbable suture.The perioperative course and care were uneventful with the Foley catheter being removed 3 hours after surgery.The patient was discharged within 24 hours.A follow-up organized 6 weeks after surgery demonstrated obliteration and repair of the previously detected uterine isthmocele on the pelvic US scan.The patient also reported a resolution of symptoms at this postoperative visit.Main Outcome Measure(s): N/A.Result(s): N/A.Conclusion(s): Uterine-conserving surgical approaches to an isthmocele have been described, including vaginal, hysteroscopic, and laparoscopic (with and without robotic assistance) approches and laparotomy, with no single approach deemed to be superior to the others.The",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Un nuevo enfoque vaginal mediante cirug\u00eda endosc opica transluminal por orificio natural para reparar un istmocele uterino sintom atico.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility and Sterility\u00ae",
+                "sec_num": null
+            },
+            {
+                "text": "Objetivo: Describir el primero caso de uso de un enfoque vaginal mediante cirug\u00eda endosc opica transluminal por orificio natural para reparar un istmocele uterino.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility and Sterility\u00ae",
+                "sec_num": null
+            },
+            {
+                "text": "Dise\u00f1o: Explicaci on paso a paso de la t ecnica quir urgica utilizando el v\u00eddeo original.Este estudio est a exento de requerir aprobaci on por el comit e de investigaci on institucional (IRB).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility and Sterility\u00ae",
+                "sec_num": null
+            },
+            {
+                "text": "Paciente: Paciente de 30 a\u00f1os (gravida 2, para 2) que present o s\u00edntomas de sangrado intermenstrual y subfertilidad secundaria tras 2 ces areas sin complicaciones (una electiva por presentaci on de nalgas y una de repetici on).La paciente tuvo una ecograf\u00eda transvaginal (US) demostrando un istmocele con un defecto de 8,1 x 7,0 mm con un grosor endometrial de 2 mm sobre el defecto y procedi o con la cirug\u00eda por s\u00edntomas persistentes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Marco: Hospital.",
+                "sec_num": null
+            },
+            {
+                "text": "Intervenci on: Se realiza incisi on vaginal anterior en el cuello desde las posiciones 3 a 9 horas, tras infiltrar el tejido con anest esico local y adrenalina.El epitelio vaginal se disec o cuidadosamente en direcci on cef alica, aunque se procur o mantener el espacio uterovesical.Un puerto de gel V-path peque\u00f1o (7 cm) se insert o en este espacio uterovesical y el puerto de gel se fij o con un puerto conectado a una bolsa de estabilizaci on por insuiflaci on para minimizar las fluctuaciones de la presi on dentro de un espacio operatorio peque\u00f1o y ayudar a mantener la visualizaci on durante el proceso.Bajo visi on endosc opica, el area del istmocele se identific o utilizando una sonda ecogr afica endosc opica y se confirm o en imagen bidimensional.Se utiliz o un gancho monopolar con aspirador incluido y funci on de succi on para realizar una incisi on sobre el istmocele, empleando una pinza para disecar este espacio.Un dilatador de Hegar se utiliz o para delinear el canal cervical.Una vez el istmocele hab\u00eda sido extirpado, se reforz o y obliter o el defecto con sutura barbada, mientras el dilatador de Hegar segu\u00eda in situ para prevenir una oclusi on accidental del canal durante la sutura.Se coloc o una sutura continua desde la posici on cef alica hacia la caudal en 2 capas.Con la hemostasia confirmada, se quit o el puerto de gel y se cerr o el epitelio vaginal con suturas interrumpidas con una sutura absorbible trenzada.El periodo perioperatorio se dio sin incidentes, quitando el cat eter Foley 3 horas despu es de la cirug\u00eda.La paciente fue dada de alta en las primeras 24 horas.En la visita de seguimiento 6 semanas despu es se demostr o obliteraci on y reparaci on del istmocele mediante ecograf\u00eda p elvica.La paciente tambi en inform o de resoluci on de sus s\u00edntomas en esta visita posoperatoria.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Marco: Hospital.",
+                "sec_num": null
+            },
+            {
+                "text": "Conclusi on: Se han descrito enfoques quir urgicos para tratar un istmocele conservando el utero, incluyendo vaginal, histerosc opico y laparosc opico (con y sin asistencia rob otica), as\u00ed como laparotom\u00eda, sin que ning un enfoque haya sido determinado como superior al resto.La evidencia disponible est a limitada por la falta de uniformidad en la definici on y el diagn ostico del istmocele uterino, as\u00ed como en la consistencia en la indicaci on de cirug\u00eda, y por los bajos n umeros de casos en las series quir urgicas publicadas.La cirug\u00eda vaginal endosc opica transluminal por orificio natural proporciona un nuevo enfoque a este tipo de cirug\u00eda, que puede ser potencialmente menos invasivo puesto que la operaci on sea realiza fuera de la cavidad peritoneal y combina el mejor enfoque vaginal con el aumento endosc opico y la capacidad de disecci on microsc opica.Este enfoque deber\u00eda ser considerado nuevo y realizarse s olo en pacientes cl\u00ednicamente apropiadas y correctamente aconsejadas.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Marco: Hospital.",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Surgical repair of a cesarean scar defect using a vaginal approach",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Mancuso",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Maetzold",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Kowalski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Van",
+                        "middle": [],
+                        "last": "Voorhis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "116",
+                "issue": "",
+                "pages": "597--598",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Vaginal repair of cesarean section scar diverticula diagnosed in non-pregnant women",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Zhou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Xiong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "J Minim Invasive Gynecol",
+                "volume": "26",
+                "issue": "",
+                "pages": "526--534",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Hysteroscopic repair of cesarean scar isthmocele",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Sanders",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Murji",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Fertil Steril",
+                "volume": "110",
+                "issue": "",
+                "pages": "555--556",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Hysteroscopic treatment of symptomatic cesarean-induced isthmocele: a prospective study",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Raimondo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Grifone",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Raimondo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Seracchioli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Scambia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Masciullo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "J Minim Invasive Gynecol",
+                "volume": "22",
+                "issue": "",
+                "pages": "297--301",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Gynecological and obstetrical outcomes after laparoscopic repair of a cesarean scar defect in a series of 38 women",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Donnez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Donnez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Orellana",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Dolmans",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Fertil Steril",
+                "volume": "107",
+                "issue": "2",
+                "pages": "289--296",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Cesarean scar pregnancy: reproductive outcome after robotic laparoscopic removal with simultaneous repair of the uterine defect",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Hofgaard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Westman",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Brunes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Bossmar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Persson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Eur J Obstet Gynecol Reprod Biol",
+                "volume": "262",
+                "issue": "",
+                "pages": "40--44",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Sonographic evaluation of surgical repair of uterine cesarean scar defects",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Pomorski",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Fuchs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Rosner-Tenerowicz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Zimmer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "J Clin Ultrasound",
+                "volume": "45",
+                "issue": "",
+                "pages": "455--460",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "From hysteroscopy to laparoendoscopic surgery: what is the best surgical approach for symptomatic isthmocele? A systematic review and meta-analysis",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Vitale",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Ludwin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Vilos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Torok",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Tesarik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Vitagliano",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Arch Gynecol Obstet",
+                "volume": "301",
+                "issue": "",
+                "pages": "33--52",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Treatment for uterine isthmocele, a pouchlike defect at the site of a cesarean section scar",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Setubal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Alves",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Os Orio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Guerra",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Fernandes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Albornoz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "J Minim Invasive Gynecol",
+                "volume": "25",
+                "issue": "",
+                "pages": "38--46",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Blind-physicians-and-the-elephant--&#x201c;Reality",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:30.107931Z"
+    },
+    "title": "Blind physicians and the elephant: \u201cReality is one, although wise physicians speak of it variously\u201d",
+    "authors": [
+        {
+            "first": "Victoria",
+            "middle": [],
+            "last": "Fitz",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Massachusetts General Hospital",
+                "location": {}
+            },
+            "email": ""
+        },
+        {
+            "first": "Bala",
+            "middle": [],
+            "last": "Bhagavath",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of Wisconsin",
+                "location": {
+                    "settlement": "Madison",
+                    "region": "Wisconsin"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Steven",
+            "middle": [
+                "R"
+            ],
+            "last": "Lindheim",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Wright State University",
+                "location": {
+                    "settlement": "Dayton",
+                    "region": "Ohio"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "John",
+            "middle": [],
+            "last": "Petrozza",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Massachusetts General Hospital",
+                "location": {}
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Blind-physicians-and-the-elephant--&#x201c;Reality",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.12.031",
+        "keywords": [],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "Multiple viewpoints are often expressed regarding clinical care in reproductive surgery when it comes to pelvic pathology.Given this diversity, we invited 3 different gynecologic surgical groups to provide their perspectives regarding the management and treatment in 4 relatively common clinical scenarios.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "In this open format, we reflect on the old parable, Six Blind Men and An Elephant, which has its origins in the Rigveda, an ancient Indian collection of hymns from 1500 to 1000 BCE (1) .In a later Buddhist translation, Buddha's disciples asked for guidance regarding ''those who indulged in constant dispute.''Buddha answered, ''Once upon a time there was a Raja (king) who asked his followers to show an elephant to six men who were born blind.''To one, he presented the trunk of the elephant, to another its tusk, ears, side, leg, and tail, saying to each one that was the elephant.When finally each man was asked to describe the elephant, each adamantly replied, with the first blind man arguing that: ''An elephant is like a giant snake''; the second, after feeling the elephant's pointed tusk said: ''You are wrong, this creature is as sharp and deadly as a spear.''; the third, touching one of the elephant's ears said: ''What we have here is a fan.'';The fourth, touching one of the elephant's legs said: ''What we have here is an animal like a tree.''The fifth, feeling the elephant's side said: ''I believe an elephant is like a wall.''Although the sixth blind men scoffed after tugging on the elephant's coarse tail: ''Why, this is nothing more than a piece of old rope.''The Raja asked the blind men, ''How can each of you be so certain you are right?''As the 6 blind men considered, but remained silent, the Raja replied, ''Since each man touched only one part, if you put the parts together, you will see the truth,'' and the blind men agreed and said: ''To learn the truth (facts), we must put all the parts together. '' In the last 20 years, the landscape of reproductive endocrine infertility (REI) has undergone an enormous transition.Assisted reproductive technologies (ARTs) have become the mainstay of many practices, and there are those within the specialty that question the role of reproductive surgery given the success rates of ART (2) .Conversely, there are many others in the field who argue that reproductive surgery continues to be innovative and remains an important component of treating the infertile couple and women of childbearing age, especially those with fibroids, symptomatic endometriosis, hydrosalpinges, ovarian cysts, intrauterine adhesions, and m\u20ac ullerian anomalies (3).",
+                "cite_spans": [
+                    {
+                        "start": 181,
+                        "end": 184,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1632,
+                        "end": 1634,
+                        "text": "''",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1957,
+                        "end": 1960,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Furthermore, REI surgeons have been the pioneers of microsurgery and minimally invasive surgery, founding the Society of Reproductive Surgeons in 1984, and serving as a forum for those members of the American Society of Reproductive Medicine with special interest and competency in reproductive surgery.However, as the specialty has progressed, which gynecologic subspecialty is best suited to manage women with reproductive pathology requiring fertility-preserving surgery has been raised.This shift can be attributed to a variety of factors, including the advancement in ART and robot-assisted surgery, a dearth of dedicated REI surgeons, and a continued need to manage reproductive pathologies.Over the last 15-20 years, along with the development of a gynecologic fellowship and certification in minimally invasive surgery, there has been an increase in minimally invasive gynecologic surgeons (MIGS) and gynecologic oncologists (GOs) performing ''fertility-sparing surgery,'' which was historically performed only by the REI surgeons.Additionally, in the setting of complex or advanced pathology, many benign reproductive pathologies may be referred to the gynecologic oncologist for management.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "We find the REI-MIGS-GO approach toward ''fertilitysparing surgery'' like the blind men and elephant parable.Each is a distinct discipline looking at the same subject.Similar to touching different parts of the elephant, MIGS, GO, and REI have experience, and perspectives that are unique and different.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Although there are clear similarities between the surgical disciplines, we often are at odds, trying to convince others of the superior aspects of a particular diagnostic and treatment approach.We forget the ultimate goal for many women of reproductive age, which requires consideration of the potential impact on fertility and using techniques to minimize any reduction in fecundity.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "We hear the Raja in our heads speak to each of us: ''Since each of us comes with a different perspective, if we put our heads (parts) together, we will together see the way (truth).''",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "As providers coming from diverse paths with training focused on different outcomes and pathophysiology, the nuances on clinical management regarding ''fertility-sparing surgery'' may be unique between subspecialists.In this month's issue of Fertility & Sterility, Fertile Discussion, we review how each gynecologic surgical specialty may view frequently encountered clinical scenarios from a pre, intra, and postoperative management perspective and the roles that each play in women's future fertility needs.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "The Ud ana: inspired utterances of the Buddha",
+                "authors": [
+                    {
+                        "first": "Decourcy",
+                        "middle": [],
+                        "last": "Ireland",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Infertility surgery is dead: only the obituary remains?",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Feinberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Levens",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Decherney",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Fertil Steril",
+                "volume": "89",
+                "issue": "",
+                "pages": "232--236",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Reproductive surgery and in vitro fertilization: the future reevaluated",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Raff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Decherney",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Fertil Steril",
+                "volume": "112",
+                "issue": "",
+                "pages": "197--202",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

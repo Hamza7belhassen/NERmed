@@ -1,0 +1,434 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Apples,-oranges,-and-ectopic-pregnancies_2023_fns",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:29.212719Z"
+    },
+    "title": "Apples, oranges, and ectopic pregnancies",
+    "authors": [
+        {
+            "first": "Jessica",
+            "middle": [
+                "A"
+            ],
+            "last": "Meyer",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "NYU Langone Health",
+                "location": {
+                    "settlement": "New York"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Gwendolyn",
+            "middle": [
+                "P"
+            ],
+            "last": "Quinn",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "NYU Langone Health",
+                "location": {
+                    "settlement": "New York"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Christina",
+            "middle": [
+                "A"
+            ],
+            "last": "Penfield",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "NYU Langone Health",
+                "location": {
+                    "settlement": "New York"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Apples,-oranges,-and-ectopic-pregnancies_2023_fns",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2023.02.032",
+        "keywords": [],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "Consumption of research is an important component of a well-balanced diet for medical providers, researchers, and laypeople alike.Practicing evidence-based medicine relies on integrating the best available science into clinical practice, thereby aiming to improve outcomes by providing the highest quality of care.Similarly, conducting meaningful research relies on a thorough inventory of what is currently known in the literature, quality assessment of methods, and the ability to design new studies that fill knowledge gaps and answer relevant questions.Patients may more heavily value study conclusions and how these findings apply to their lifestyles, behavioral habits, and even their readiness to interface with healthcare.Comparing and contrasting studies through systematic reviews and meta-analyses can help readers digest a large buffet of publications to formulate conclusions that may guide clinical decisions and highlight targets for future research.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Such literature reviews are not perfect because they can be subject to several biases and are inherently dependent on the original study's data quality.Yet, an even bigger hindrance to the pooling of results and synthesis of actionable conclusions is heterogeneity-comparing apples with oranges.Some degree of heterogeneity is inevitable, with variations in methodology, clinical practice, and patient populations; however, when possible, standardization with core outcome sets (COSs) can be a readily modifiable source of heterogeneity.Developed with validated methods that aim to honor the diverse interests of multiple stakeholders, structured COSs can facilitate more efficient research, greater consistency in the collection of meaningful endpoints, and more effective quality assessments of both the literature and healthcare.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Enhanced structure may be particularly important for conditions with variable presentation and management, such as ectopic pregnancy.Chong et al. (1) have highlighted the variance in the defining and reporting of outcomes for ectopic pregnancy research.This is compounded by the fact that there can be ambiguity in its clinical presentation and management.Classically, an ectopic pregnancy could be diagnosed by a positive b-human chorionic gonadotropin level and a transvaginal ultrasound (TVUS) showing a round anechoic adnexal structure outlined by an echogenic ringthe ''bagel sign.''What about the patient with vaginal spotting and an early positive home pregnancy test result who has been trying to conceive for nearly a year and now has a TVUS with not only no bagel sign but also no evidence of an intrauterine pregnancy (IUP)?A pregnancy of unknown location puts the patient at a crossroad in terms of management because the underlying diagnosis could be one of several things: an early normal intrauterine pregnancy (that could be interrupted by ectopic pregnancy treatment), a resolving miscarriage, or a small ectopic pregnancy that is yet to become visible (but could still cause life-threatening hemorrhage at any size); plateauing values over several days of serial b-human chorionic gonadotropin monitoring may lead a provider to presumptively treat a pregnancy as an ectopic pregnancy, even in the absence of definitive TVUS findings.The significant variation in the presentation of these ectopic pregnancy examples underscores some of the difficulties in treating and studying such abnormal pregnancies; nevertheless what is very clearly known is the potential for high morbidity and even mortality in ectopic pregnancy cases.Thus, Chong et al. (1) emphasized an aim of generating a core set of universal outcome measures that can be used regardless of the scenario in which the ectopic pregnancy is diagnosed.In an uncertain clinical scenario, COSs facilitate reflection on the effectiveness of treatment outcomes in a more structured way to better inform individualized, risk-minimizing patient care and future studies.",
+                "cite_spans": [
+                    {
+                        "start": 146,
+                        "end": 149,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 1763,
+                        "end": 1766,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Yet, the harmonization of COSs requires thoughtful optimizing because they are only as good as their ability to be implemented and the appropriateness of their measures.The study by Chong et al. (1) reflects some of these limitations.Their final COS excludes variables pertaining to the psychological and economic impact of ectopic pregnancy (domains 5 and 6) because these did not meet consensus, although individuals with lived experience assigned a higher value to these domains (a mean score of 7.5, compared with 6.7 and 5.5 among healthcare professionals and researchers, respectively) (1) .Additionally, although the study recruited stakeholders worldwide, there was suboptimal representation from African (1%) and South American (<1%) developing countries compared with that from developed European (58%) countries and no variables examining access to care (1) .Pregnancy is an intimate condition, and patients' lives, feelings, and circumstances outside of the doctor's office or the trial setting may heavily influence their outcomes.",
+                "cite_spans": [
+                    {
+                        "start": 195,
+                        "end": 198,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 592,
+                        "end": 595,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 865,
+                        "end": 868,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "These more qualitative variables provide important context.For instance, it is difficult to accurately compare treatment failures, resolution times, or adverse events without examining treatment availability and compliance.Consider a variety of patients who fail methotrexate treatment and represent with ectopic rupture requiring emergent surgery.One patient received therapy but missed a necessary second dose because of a prohibitive travel distance to the clinic and the inability to procure childcare.Another patient lived in a state with vaguely worded abortion laws and was subject to a critical delay in medication due to challenges in interpreting legislative exceptions.A third patient presented late to care because of significant healthcare anxiety and despite being a less-than-ideal candidate, opted for medical management hoping to avoid costly surgery.There are endless variations to these scenarios, demonstrating that differences in ectopic pregnancy treatment failure, resolution time, and complications may depend on the context in which treatment was provided, rather than purely reflecting on the treatment itself.Attention to such healthcare disparities is critical because racial/ethnic and economic minorities are disproportionately affected by ectopic pregnancy and are at greater risk for associated complications (2) .The important work by Chong et al. ( 1) is an excellent foundation upon which future efforts can be made to identify and reconcile the values of even more diverse stakeholders.However, to be effective, even a perfectly curated COS must overcome the challenge of implementation.The study by Chong et al. ( 1) is strengthened by the investigators' rigorously structured consensus methodology and careful attention to defining the final core outcomes to help reproducibility and optimize application; they also made efforts to diversify their steering committees and stakeholders to yield generalizable, meaningful outcomes.Their results are publicly available in the expanding Core Outcome Measures in Effectiveness Trials Initiative database.In certain fields, uptake of COSs has been very successful; for instance, a study using the clinical trials registry showed that uptake of the rheumatoid arthritis COS has increased over time, now with more than 80% of trials in this field reporting data on the full set (3).Yet, despite readily available COSs in a growing range of health areas, several studies have demonstrated that there is still wide variation in uptake, particularly for patientreported outcomes (4, 5) .One study surveyed trialists, revealing that few had ever received education about COSs or been involved in COS development; most of them cited a lack of awareness of existing COSs, preference for trialspecific outcomes, or concerns about executing COS measurement as barriers to their inclusion in trials (4) .A study of patient-reported outcomes highlighted the impracticality of some lengthy patient questionnaires and the limited scope of disease-specific variables as obstacles to uptake (5) .Perhaps by standardizing variables that can be readily collected within the usual clinical workflow, COS uptake can be made more practical to guide clinical decision making in real time and reduce the collection burden on trialists.",
+                "cite_spans": [
+                    {
+                        "start": 1341,
+                        "end": 1344,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 2556,
+                        "end": 2559,
+                        "text": "(4,",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 2560,
+                        "end": 2562,
+                        "text": "5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 2870,
+                        "end": 2873,
+                        "text": "(4)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 3057,
+                        "end": 3060,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Ultimately, whether studying any aspect of reproductive health or medicine, it is clear that COSs are an important part of modern healthcare and research; however, there is room for growth in the development, distribution, and implementation of COSs to maximize their use and benefits.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "VOL. 119 NO. 5 / MAY 2023",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "A core outcome set for future research in ectopic pregnancy-an international consensus development study",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Chong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Solangon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Barnhart",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Causa-Andrieu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Capmas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Condous",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "Fertil Steril",
+                "volume": "119",
+                "issue": "",
+                "pages": "804--812",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Ectopic pregnancy morbidity and mortality in low-income women, 2004-2008",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Stulberg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Cain",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Dahlquist",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Lauderdale",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Hum Reprod",
+                "volume": "31",
+                "issue": "",
+                "pages": "666--671",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "A methodological approach for assessing the uptake of core outcome sets using ClinicalTrials.gov: findings from a review of randomised controlled trials of rheumatoid arthritis",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Kirkham",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Clarke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Williamson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "BMJ",
+                "volume": "357",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "A survey of knowledge, perceptions and use of core outcome sets among clinical trialists",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Bellucci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hughes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Toomey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "R"
+                        ],
+                        "last": "Williamson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Matvienko-Sikar",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Trials",
+                "volume": "22",
+                "issue": "",
+                "pages": "1--13",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Patient-reported outcome measures in core outcome sets targeted overlapping domains but through different instruments",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Ciani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Salcher-Konrad",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Meregaglia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Smith",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Gorst",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Dodd",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "J Clin Epidemiol",
+                "volume": "136",
+                "issue": "",
+                "pages": "26--36",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

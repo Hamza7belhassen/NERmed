@@ -1,0 +1,2949 @@
+{
+    "paper_id": "xml_output_cochrane\\Andrewartha_et_al-2022-Cochrane_Database_of_Systematic_Reviews",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-04-05T17:20:04.977773Z"
+    },
+    "title": "Perioperative pharmacological interventions for fetal immobilisation during fetal surgery and invasive procedures",
+    "authors": [
+        {
+            "first": "Kate",
+            "middle": [],
+            "last": "Andrewartha",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Women's and Children's Hospital",
+                "location": {
+                    "settlement": "Adelaide",
+                    "country": "Australia"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Rosalie",
+            "middle": [
+                "M"
+            ],
+            "last": "Grivell",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Flinders University and Flinders Medical Centre",
+                "location": {
+                    "settlement": "Bedford Park",
+                    "country": "Australia"
+                }
+            },
+            "email": "rosalie.grivell@flinders.edu.au"
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "a We downgraded (2",
+    "pdf_parse": {
+        "paper_id": "xml_output_cochrane\\Andrewartha_et_al-2022-Cochrane_Database_of_Systematic_Reviews",
+        "_pdf_hash": "",
+        "doi": "10.1002/14651858.cd011068.pub2",
+        "keywords": [],
+        "abstract": [
+            {
+                "text": "a We downgraded (2",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Developments in ultrasound assessment of pregnancy has resulted in the increasing diagnosis of antenatal fetal issues.Many structural fetal conditions as well as complications associated with multiple pregnancies have the potential for in-utero treatment to improve both pregnancy and neonatal outcomes.Procedures such as laser ablation for twin-twin syndrome or cord occlusion for selective fetal termination require fetal immobilisation.Immobilisation of the fetus can occur through administration of medication to the mother or directly to the fetus.This improves procedural success and reduces the ongoing risk to the pregnancy.Evidence regarding the best medication and mode of delivery helps to ensure the optimal decision is made for both the mother and the fetus.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Background",
+                "sec_num": null
+            },
+            {
+                "text": "To assess the e ects of perioperative pharmacological interventions for fetal immobilisation during fetal surgery and invasive procedures on fetal, neonatal, and maternal outcomes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Objectives",
+                "sec_num": null
+            },
+            {
+                "text": "We searched Cochrane Pregnancy and Childbirth's Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (10 May 2021), and reference lists of retrieved studies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Search methods",
+                "sec_num": null
+            },
+            {
+                "text": "We included randomised controlled trials (RCTs) and quasi-RCTs (including published abstracts) which compared di erent classes of medication administered to the mother or fetus to allow in-utero procedures to be performed.We also included cluster-randomised trials but excluded cross-over trials.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selection criteria",
+                "sec_num": null
+            },
+            {
+                "text": "We used the standard Cochrane Pregnancy and Childbirth methods for data collection and analysis.Two review authors independently assessed trials for inclusion and risk of bias, extracted data, and checked them for accuracy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data collection and analysis",
+                "sec_num": null
+            },
+            {
+                "text": "One study with three trial reports met the inclusion criteria.This involved 54 women with a multiple pregnancy.The study was conducted in a tertiary European hospital maternal-fetal medicine unit and compared remifentanil to diazepam for fetal immobilisation and maternal sedation during fetoscopic surgery.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Main results",
+                "sec_num": null
+            },
+            {
+                "text": "Low-certainty evidence suggested that remifentanil may reduce fetal movement more than diazepam for two outcomes of fetal movement, one of fetal immobilisation at 40 minutes using a visual analogue score (VAS) (where 0 = immobile and 100 = baseline mobility), and one of gross body and limb movements (score was absolute number of movements), both assessed by a sonographer evaluating a taped ultrasound sequence (mean di erence (MD) -65.00, 95% confidence interval (CI) -69.38 to -60.62 and MD -10.00, 95% 1 study, 50 women) .",
+                "cite_spans": [
+                    {
+                        "start": 507,
+                        "end": 515,
+                        "text": "1 study,",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 516,
+                        "end": 525,
+                        "text": "50 women)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Main results",
+                "sec_num": null
+            },
+            {
+                "text": "Surgeons may also report being more satisfied with the procedure when using remifentanil rather than diazepam (risk ratio (RR) 2.88, 95% CI 1.60 to 5.15; 1 study, 50 women; low-certainty evidence).However, maternal respiratory rate may decrease more during the surgical procedure with remifentanil compared with diazepam (MD -6.00, 95% CI -8.29 to -3.71; 1 study, 50 women; low-certainty evidence).Maternal sedation may also be worse with remifentanil compared with diazepam (RR 0.09, 95% CI 0.01 to 0.65; 1 study, 50 women; low-certainty evidence) measured using an observer assessment of alertness/sedation (where a score of < 4 equates to profound sedation and > 4 equates to insu icient sedation).Perinatal mortality and time taken to perform the procedure were not reported in the trial.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Main results",
+                "sec_num": null
+            },
+            {
+                "text": "We prespecified 20 outcomes and planned to use GRADE for 6 of them, all other outcomes were not able to be reported against for the purpose of meta-analysis due to data not being provided or unable to be interpreted.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Main results",
+                "sec_num": null
+            },
+            {
+                "text": "We assessed the included study at low risk of selection bias (appropriate random sequence generation and allocation concealment), performance bias (blinding of participants and personnel), detection bias (outcome assessors were blinded), attrition bias (incomplete outcome data minimal), and reporting bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Main results",
+                "sec_num": null
+            },
+            {
+                "text": "Our GRADE assessment for certainty of the evidence indicates that there is low certainty of the evidence.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Main results",
+                "sec_num": null
+            },
+            {
+                "text": "We were only able to include one study with a small number of women, from a single centre, a European tertiary hospital.This study was published in 2005 with an abstract of this trial published in 2004.This study evaluated two intravenous medications administered to the mother -remifentanil and diazepam.This study reported our prespecified primary outcome but only evaluated several of our secondary outcomes, which limited further assessment.Low-certainty evidence suggested that remifentanil may be better at reducing fetal movements and surgeons were more satisfied with the procedure.However, maternal sedation and depression of breathing may be worse with remifentanil.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Authors' conclusions",
+                "sec_num": null
+            },
+            {
+                "text": "Further high-quality RCTs assessing both fetal and maternal medications are required to evaluate their e icacy for fetal immobilisation as well as safety for both mother and fetus.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Authors' conclusions",
+                "sec_num": null
+            },
+            {
+                "text": "We looked for evidence from randomised controlled trials on the e ectiveness of anaesthetic and pain relief medication for preventing fetal movements (fetal immobilisation) to allow surgical and other invasive procedures to be performed safely on the unborn fetus whilst still in the mother's uterus.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Drugs given to pregnant women and their babies to keep them still during fetal surgery and other invasive procedures on the baby",
+                "sec_num": null
+            },
+            {
+                "text": "Use of ultrasound during pregnancy has made great advances resulting in increased diagnosis of problems with the development of unborn babies.Many structural fetal problems as well as complications associated with multiple pregnancies can be treated while babies are still in the mother's uterus.Many problems generally require treatment before birth, for example a blockage in the airways.We set out to determine which medications are e ective at providing fetal immobilisation for in-utero procedures to be performed, as well as looking at the e ect on the mother in terms of sedation and pain relief.For these procedures to be performed safely, fetal movements may need to be reduced.This can be done by giving medication either to the mother (usually by injection into a vein) or directly to the fetus (by injecting into fetal muscle).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "What is the issue?",
+                "sec_num": null
+            },
+            {
+                "text": "Treatment of structural issues such as lung or heart problems can greatly improve pregnancy and newborn outcomes.Similarly, with multiple pregnancy complications such as twin-twin transfusion syndrome, where there is unequal sharing of the one placenta between the twins.Providing the best surgical conditions with reduced fetal movements means that the procedure can be performed safely and reduces complications such as preterm birth.It is also important to provide a safe environment for the mother without side e ects such as oversedation or lack of pain relief during the procedure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why is this important?",
+                "sec_num": null
+            },
+            {
+                "text": "What evidence did we find?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why is this important?",
+                "sec_num": null
+            },
+            {
+                "text": "We searched for evidence from randomised controlled trials to May 2021 and identified one eligible trial involving 54 pregnant women.All were women with a multiple pregnancy in their second trimester attending a European hospital for specialist care.The women received intravenous injection of either remifentanil or diazepam to immobilise the fetus and to sedate the mother during fetoscopic surgery.This is where a small instrument (laparoscope) is inserted through the mother's abdominal wall and into the uterus to see the fetus and placenta.The trial gave low-certainty evidence.The main outcome looked at was how much the baby moved via assessment of body and limb movements.Maternal outcomes were the amount of sedation and depression of breathing.The time for surgery and surgical satisfaction with the procedural conditions were also measured.Low-certainty evidence suggested that remifentanil may be better at reducing fetal movements when compared to diazepam and surgeons were more satisfied with the procedure when using remifentanil.However, the amount of maternal sedation and depression of breathing were worse with remifentanil.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why is this important?",
+                "sec_num": null
+            },
+            {
+                "text": "Low-certainty evidence from one small trial means that we cannot be confident in the results.The information available on maternal, fetal, and newborn outcomes was limited.More high-quality trials are needed to increase our certainty about the longer term fetal and newborn impact of the medication used for fetal immobilisation for in-utero procedures, as well as other medications which may be suitable for use.Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect.Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of effect.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "What does this mean?",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Database of Systematic Reviews",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "B A C K G R O U N D",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "The increasing use of advanced ultrasound technologies, in combination with increased multiple pregnancy rates globally and the development of novel procedures to address fetal problems in utero has resulted in more invasive fetal procedures and surgeries being performed during pregnancy.Fetal conditions that may be suitable for in-utero interventions include fetal tumours, lung and airway lesions, cardiac abnormalities, urinary tract abnormalities, and complications associated with monochorionic twin pregnancies.Increasing diagnosis of severe and lifethreatening fetal conditions has also resulted in more frequent termination of pregnancy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the condition",
+                "sec_num": null
+            },
+            {
+                "text": "Congenital abnormalities of the urinary tract are relatively common (1/250 to 1000 pregnancies) (Ruano 2011) .Bilateral ureteric or bladder outflow obstruction carries a particularly poor prognosis.Without intervention, LUTO has a perinatal mortality rate of 90% and more than 50% of survivors require renal dialysis or transplantation (Ruano 2011) .Therapeutic interventions include vesicocentesis (draining the fetal bladder with a needle), vesicoamniotic shunting (placing a tube from the bladder into the amniotic cavity) (Kilby 2013) , and fetal cystoscopy (looking at the fetal bladder with a small camera), which can both diagnose and treat posterior urethral valves.Fetal cystoscopy requires maternal epidural or local anaesthesia combined with direct fetal administration of anaesthetic agents (Ruano 2011) .Despite inutero treatment of these conditions, there is ongoing concern regarding the long-term renal function for children with the above conditions (Cheung 2019).",
+                "cite_spans": [
+                    {
+                        "start": 96,
+                        "end": 108,
+                        "text": "(Ruano 2011)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 336,
+                        "end": 348,
+                        "text": "(Ruano 2011)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 526,
+                        "end": 538,
+                        "text": "(Kilby 2013)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 803,
+                        "end": 815,
+                        "text": "(Ruano 2011)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Lower urinary tract obstruction (LUTO)",
+                "sec_num": null
+            },
+            {
+                "text": "Fetal lung lesions, most commonly congenital cystic adenomatous malformations, bronchopulmonary sequestration (CPAM) or 'hybrid' lesions, occur in 1/10,000 to 35,000 pregnancies (Witlox 2011) .CPAM account for 30% to 40% of all diagnosed congenital lung malformations (Zobel 2019) .While many of these may regress over the course of pregnancy, they may be associated with severe fetal compromise leading to the need for in-utero procedures.These procedures include thoracocentesis (ultrasound-guided needle drainage), thoraco-amniotic shunting (placing a tube from the cyst cavity inside the chest to the amniotic cavity), ultrasoundguided laser coagulation of the arteries that supply the lesion, and open surgical resection of severe lesions (Witlox 2011) .Advances in fetal treatment options have improved survival rates to around 95% (Zobel 2019) .Fetoscopic tracheal occlusion procedures (plugging of the fetal trachea) have been advocated to induce growth and expansion of the hypoplastic (underdeveloped) lung (Van de Velde 2012).",
+                "cite_spans": [
+                    {
+                        "start": 178,
+                        "end": 191,
+                        "text": "(Witlox 2011)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 268,
+                        "end": 280,
+                        "text": "(Zobel 2019)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 744,
+                        "end": 757,
+                        "text": "(Witlox 2011)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 838,
+                        "end": 850,
+                        "text": "(Zobel 2019)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetal lung lesions",
+                "sec_num": null
+            },
+            {
+                "text": "Congenital diaphragmatic hernias occur in approximately 1:4000 pregnancies with le -sided defects more common than right (Dolk 2010) .These defects o en result in abdominal contents herniating into the thoracic cavity causing fetal lung hypoplasia and resultant neonatal respiratory failure, pulmonary hypertension with a significant risk of mortality.In-utero fetoscopic endoluminal tracheal occlusion (FETO) performed early in the third trimester has shown to significantly improve survival and neonatal outcomes (Deprest 2021) .",
+                "cite_spans": [
+                    {
+                        "start": 121,
+                        "end": 132,
+                        "text": "(Dolk 2010)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 515,
+                        "end": 529,
+                        "text": "(Deprest 2021)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Diaphragmatic hernias",
+                "sec_num": null
+            },
+            {
+                "text": "Fetal heart lesions that may be suitable for intracardiac intervention during pregnancy include stenotic valvular lesions (where there is a critical narrowing of the heart valve), in addition to some other more complicated structural anomalies.In-utero interventions aim to facilitate both the growth and functioning of the heart (Artz 2011) .However, due to the complexity of fetal cardiac abnormalities only approximately 5% of those with major congenital heart disease (CHD) are likely to benefit from in-utero treatment (Gardiner 2019).",
+                "cite_spans": [
+                    {
+                        "start": 330,
+                        "end": 341,
+                        "text": "(Artz 2011)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cardiac lesions",
+                "sec_num": null
+            },
+            {
+                "text": "A range of spinal lesions can be detected by perinatal ultrasound.Myelomeningocele, the most severe form of spina bifida, may be associated with significant complications including hindbrain herniation, hydrocephalus, as well as both sensory, motor, and bowel/urinary dysfunction (Kabagambe 2018) .In-utero treatment with closure of the spinal defect reduces the duration of time the spinal cord is exposed to amniotic fluid.This is superior to neonatal treatment with improved outcomes, including mental development and motor function, for those who receive in-utero correction (Adzick 2011) .",
+                "cite_spans": [
+                    {
+                        "start": 280,
+                        "end": 296,
+                        "text": "(Kabagambe 2018)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 579,
+                        "end": 592,
+                        "text": "(Adzick 2011)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Spinal lesions",
+                "sec_num": null
+            },
+            {
+                "text": "Sampling of fetal blood via cordocentesis, also known as percutaneous umbilical blood sampling, allows increased diagnostic accuracy for many fetal conditions including fetal anaemia, hydrops, neonatal alloimmune thrombocytopenia, and fetal genetic disorders.The ability to access fetal vasculature in utero may enable timely treatment during pregnancy, most commonly fetal red blood cell or platelet transfusions (Fox 2012) .",
+                "cite_spans": [
+                    {
+                        "start": 414,
+                        "end": 424,
+                        "text": "(Fox 2012)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetal anaemia requiring fetal transfusion",
+                "sec_num": null
+            },
+            {
+                "text": "Monochorionic twin pregnancies share the same placental mass and due to vascular connections there may be discordance in blood supply to each twin, which can result in twin-to-twin transfusion syndrome (TTTS).TTTS occurs in up to 15% of monochorionic twin pregnancies, and untreated has a mortality rate of 90% (Chalouhi 2011) .Treatment may involve selective laser coagulation of placental vessels, which involves performing an in-utero procedure (Roberts 2008) .",
+                "cite_spans": [
+                    {
+                        "start": 311,
+                        "end": 326,
+                        "text": "(Chalouhi 2011)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 448,
+                        "end": 462,
+                        "text": "(Roberts 2008)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Complications of monochorionic twin pregnancies",
+                "sec_num": null
+            },
+            {
+                "text": "All types of multiple pregnancy are at risk for 'selective' structural and chromosomal anomalies.As mentioned, monochorionic twin pairs are at particular risk for TTTS and also selective growth restriction.In some of these situations one option for management might be to selectively 'reduce' the fetus with the poor or poorest prognosis in order to prolong pregnancy or to improve outcomes for the remaining fetus/es.Selective reduction procedures all require a fetal intervention and thus fetal immobilisation is an important part of such a procedure.In some settings, for example, late termination of pregnancy with a singleton fetus, feticide prior to induction of labour may be o ered/performed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetal reduction and feticide for fetal anomalies and other fetal conditions",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Fetal interventions performed during pregnancy may involve open fetal surgery with maternal laparotomy, obstetric endoscopy (fetoscopy), and ultrasound-guided needling techniques.During these procedures described above, movement of the fetus increases the technical di iculty of the procedure and may contribute to trauma, as well as increasing the required operating time.Whilst there is much debate surrounding the perception of pain in the fetus, pain transmission can be demonstrated in controlled settings from approximately 16 weeks' gestation, and these pathways are completely developed from 26 weeks.With the recognition of a fetal stress response in response to procedures and in particular to noxious stimuli, e ective fetal anaesthesia and analgesia may modify the fetal response, improve fetal outcome and possibly limit preterm labour (Anand 2001; Brusseau 2013) .",
+                "cite_spans": [
+                    {
+                        "start": 849,
+                        "end": 861,
+                        "text": "(Anand 2001;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 862,
+                        "end": 876,
+                        "text": "Brusseau 2013)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "Various methods and routes of administration have been utilised to aid in fetal immobilisation and provide both anaesthesia and analgesia.These include transplacental routes (maternal general anaesthesia and other maternal medications), and combined spinal epidural and local anaesthesia with direct fetal administration of analgesic/anaesthetic medications (intravenous (IV), intramuscular (IM), or intra-amniotic) (Fink 2011 ).",
+                "cite_spans": [
+                    {
+                        "start": 416,
+                        "end": 426,
+                        "text": "(Fink 2011",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "To date, although the literature describes various routes of administration, their relative advantages and disadvantages and commonly used doses of medication, little is known about shortand long-term safety for the fetus a er such medications are given (Brusseau 2013) .Even simple pharmacokinetic profiles are poorly described for most agents, with the volatile agents best described, for example, isoflurane levels in the fetus reach 70% of maternal levels a er 60 minutes of administration (Brusseau 2013) .",
+                "cite_spans": [
+                    {
+                        "start": 254,
+                        "end": 269,
+                        "text": "(Brusseau 2013)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 494,
+                        "end": 509,
+                        "text": "(Brusseau 2013)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "At this time in clinical practice, the choice of anaesthetic and analgesic agents, their dose, and the mode of administration are ultimately determined by the procedure performed, clinical experience, and the medical condition of the fetus.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Description of the intervention",
+                "sec_num": null
+            },
+            {
+                "text": "Open fetal surgery is used for repair of severe fetal lung lesions, and severe spine and spinal cord lesions (such as myelomeningocoele (Adzick 2011 ) and sacral teratomas) (Schwarz 2003) .It requires maternal general anaesthesia (with or without epidural anaesthesia), and fetal anaesthesia, which can be achieved by placental transfer of anaesthetic agents administered to the mother, or additional administration of fetal opioids and muscle relaxants (Van de Velde 2012).There appears to be little consensus on the most appropriate agents for maternal general anaesthesia.Epidural anaesthesia and IV induction agents (thiopental, propofol, etomidate, and ketamine), as well as volatile anaesthetics (inhaled gases, e.g.halothane and isoflurane) have all been used in pregnancy.Newer volatile agents (desflurane, seroflurane) have not yet been studied, but it has been hypothesised that they will undergo rapid placental transfer to the fetus (Tran 2010) .Other agents that are used for their ability to induce both maternal and fetal anaesthesia include thiopental, propofol, diazepam, morphine, remifentanil, and midazolam (Tran 2010) .",
+                "cite_spans": [
+                    {
+                        "start": 136,
+                        "end": 148,
+                        "text": "(Adzick 2011",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 173,
+                        "end": 187,
+                        "text": "(Schwarz 2003)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 945,
+                        "end": 956,
+                        "text": "(Tran 2010)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1127,
+                        "end": 1138,
+                        "text": "(Tran 2010)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Open fetal surgery",
+                "sec_num": null
+            },
+            {
+                "text": "Most fetoscopic surgery is well tolerated under maternal local anaesthesia, although maternal regional anaesthesia (spinal, epidural, or combined spinal epidural) is o en used for complex procedures.Combined spinal and epidural anaesthesia provide neither fetal immobilisation or anaesthesia, so additional agents are required (IV maternal agents, or fetal IM/IV opioids and muscle relaxants) (Van de Velde 2012).Agents that have been studied in this setting include remifentanil (a short-acting potent opioid), diazepam, or propofol administered to the woman.Alternative strategies to immobilise the fetus involve the direct administration of anaesthetic agents to the fetus, including fentanyl and pancuronium (either IM or IV into the umbilical vein) (Ruano 2011) .For situations that require complete fetal immobilisation, direct fetal administration of fentanyl, vecuronium, and atropine is o en required.",
+                "cite_spans": [
+                    {
+                        "start": 754,
+                        "end": 766,
+                        "text": "(Ruano 2011)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetoscopic surgery and ultrasound-guided procedures",
+                "sec_num": null
+            },
+            {
+                "text": "To ensure an in-utero procedure is successful a medication must be chosen that provides a combination of three pharmacological aspects -analgesia, anaesthesia, and paralysis.The type and level of complexity of the procedure being performed and the degree of immobilisation required contributes to which medication may be chosen.For example, complete immobilisation is required as well as providing analgesia/anaesthesia for the fetus during fetal blood sampling.However, some movement may in fact be advantageous to gain access to the placental vessels when performing laser procedures for the treatment of twin-twin syndrome.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How the intervention might work",
+                "sec_num": null
+            },
+            {
+                "text": "Successful fetal anaesthesia and analgesia reduce fetal movements, which in turn may result in a reduction in fetal trauma during surgery, reduced surgical technical di iculty with increased surgical success, and shorter operating times.Furthermore, fetal anaesthesia and analgesia may reduce the fetal stress response to painful stimuli, and may prevent long-term adverse neurodevelopmental and behavioural responses to pain (Fink 2011) .",
+                "cite_spans": [
+                    {
+                        "start": 426,
+                        "end": 437,
+                        "text": "(Fink 2011)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How the intervention might work",
+                "sec_num": null
+            },
+            {
+                "text": "It is also important to consider how a medication may a ect the woman with evaluation of maternal sedation versus no sedation as well as maternal analgesia/anaesthesia versus none.A safe maternal environment is required to ensure there is no subsequent fetal harm.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "How the intervention might work",
+                "sec_num": null
+            },
+            {
+                "text": "The increasing frequency of fetal surgery and other interventions during pregnancy requires the assessment of perioperative pharmacological interventions during fetal surgery and invasive procedures.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Why it is important to do this review",
+                "sec_num": null
+            },
+            {
+                "text": "To assess the e ects of perioperative pharmacological interventions for fetal immobilisation during fetal surgery and invasive procedures on fetal, neonatal, and maternal outcomes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "O B J E C T I V E S",
+                "sec_num": null
+            },
+            {
+                "text": "Randomised and quasi-randomised controlled trials that compared the following interventions: maternal sedation versus no sedation, maternal analgesia/anaesthesia versus nothing, fetal paralysis versus nothing, combinations versus nothing, one intervention versus another.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of studies",
+                "sec_num": null
+            },
+            {
+                "text": "Trials using a cross-over design or cluster-randomised trials were not included.We included studies presented as abstracts if enough information was presented for us to make an assessment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of studies",
+                "sec_num": null
+            },
+            {
+                "text": "Women with fetal conditions undergoing invasive fetal interventions or fetal surgery including fetal blood sampling and transfusion, fetal bladder drainage and stenting, fetal pleural e usion drainage and stenting, fetoscopy for laser ablation to treat twin-to-twin transfusion syndrome, fetal tracheal occlusion, fetal spina bifida repair and EXIT procedure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of participants",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Maternal sedation versus no sedation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Maternal analgesia/anaesthesia versus no analgesia/ anaesthesia.\u2022 Fetal paralysis versus no fetal paralysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Combinations versus nothing.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 One intervention versus another.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "Medications might be given to the mother or the fetus with the following intentions: maternal sedation, maternal analgesia or anaesthesia, and fetal paralysis.Examples of medication given to the mother included remifentanil or diazepam.Examples of medication given to the fetus included opioids such as intramuscular fentanyl, or muscle relaxants administered intramuscularly such as pancuronium.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "We prespecified both maternal and fetal outcomes of importance.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of outcome measures",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Degree of fetal immobilisation as defined by trial authors.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Primary outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Technically successful procedure as defined by trial authors.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure-related outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Clinically e ective procedure as defined by trial authors.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure-related outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Time taken to perform the planned procedure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedure-related outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Fetal bradycardia or significant heart rate changes during or immediately a er the procedure.\u2022 Preterm birth at less than 28 completed weeks of gestation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Preterm birth at less than 34 completed weeks of gestation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Preterm birth at less than 37 completed weeks of gestation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Preterm prelabour ruptured membranes (defined as less than 37 weeks' gestation).\u2022 Fetal growth restriction.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Perinatal mortality defined as stillbirth (death prior to birth of a fetus of at least 20 weeks' gestation or at least 400 g) and neonatal death (death of a live born child up to 28 days a er delivery).\u2022 Any death of a fetus a er the procedure and less than 20 weeks or less than 400 g (i.e.those deaths that do not meet the criteria for stillbirth).\u2022 Death of a fetus during the procedure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Death of a fetus within 48 hours of the procedure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Death of a fetus within 4 weeks of the procedure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Death of a fetus more than 4 weeks a er the procedure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Maternal respiratory depression as defined by trial authors or measured using intraoperative maternal arterial oxygen saturation and maternal respiratory rate.\u2022 Maternal sedation measured using sedation scores as defined by trial authors.\u2022 Maternal blood loss (defined as mean maternal blood loss measured in mL, and occurrence of postpartum haemorrhage defined by blood loss 600 mL or greater than 1500 mL, with and without treatment).\u2022 Maternal pain scores as defined by trial authors.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Maternal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Maternal psychological well-being and anxiety as defined by trial author.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Maternal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "We searched Cochrane Pregnancy and Childbirth's Trials Register by contacting their Information Specialist (10 May 2021).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Electronic searches",
+                "sec_num": null
+            },
+            {
+                "text": "The Register is a database containing over 25,000 reports of controlled trials in the field of pregnancy and childbirth.It represents over 30 years of searching.For full current search methods used to populate Pregnancy and Childbirth's Trials Register including the detailed search strategies for CENTRAL, MEDLINE, Embase, and CINAHL; the list of handsearched journals and conference proceedings, and the list of journals reviewed via the current awareness service, please follow this link.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Electronic searches",
+                "sec_num": null
+            },
+            {
+                "text": "Briefly, Cochrane Pregnancy and Childbirth's Trials Register is maintained by their Information Specialist and contains trials identified from:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Electronic searches",
+                "sec_num": null
+            },
+            {
+                "text": "1. monthly searches of the Cochrane Central Register of Controlled Trials (CENTRAL); 2. weekly searches of MEDLINE (Ovid); 3. weekly searches of Embase (Ovid); 4. monthly searches of CINAHL (EBSCO); 5. handsearches of 30 journals and the proceedings of major conferences; 6. weekly current awareness alerts for a further 44 journals plus monthly BioMed Central email alerts.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Electronic searches",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Database of Systematic Reviews",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Electronic searches",
+                "sec_num": null
+            },
+            {
+                "text": "Search results are screened by two people and the full text of all relevant trial reports identified through the searching activities described above is reviewed.Based on the intervention described, each trial report is assigned a number that corresponds to a specific Pregnancy and Childbirth review topic (or topics), and is then added to the Register.The Information Specialist searches the Register for each review using this topic number rather than keywords.This results in a more specific search set that has been fully accounted for in the relevant review sections (Included studies; Excluded studies; Studies awaiting classification; Ongoing studies).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Electronic searches",
+                "sec_num": null
+            },
+            {
+                "text": "In addition, we searched ClinicalTrials.govand the WHO International Clinical Trials Registry Platform (ICTRP) for unpublished, planned, and ongoing trial reports (10 May 2021) using the search methods detailed in Appendix 1.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Electronic searches",
+                "sec_num": null
+            },
+            {
+                "text": "We searched reference lists of retrieved studies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Searching other resources",
+                "sec_num": null
+            },
+            {
+                "text": "We have not applied any language restrictions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Searching other resources",
+                "sec_num": null
+            },
+            {
+                "text": "The following methods section is based on a standard template used by Cochrane Pregnancy and Childbirth.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data collection and analysis",
+                "sec_num": null
+            },
+            {
+                "text": "Two review authors have independently assessed for inclusion all the potential studies we identified as a result of the search strategy.We resolved any disagreement through discussion or, if required, we consulted a third person.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selection of studies",
+                "sec_num": null
+            },
+            {
+                "text": "We created a study flow diagram to map out the number of records identified, included, excluded, or awaiting classification.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selection of studies",
+                "sec_num": null
+            },
+            {
+                "text": "All studies meeting our inclusion criteria have been evaluated by two review authors against predefined criteria to select studies that, based on available information, are deemed to be su iciently trustworthy to be included in the analysis.The criteria areas follow.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Screening eligible studies for scientific integrity/trustworthiness",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Are there any retraction notices or expressions of concern listed on the Retraction Watch Database relating to this study?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Research governance",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Was the study prospectively registered (for those studies published a er 2010)?If not, have the authors provided a plausible reason?\u2022 When requested, did the trial authors provide/share the protocol or ethics approval letter or both?\u2022 Did the trial authors engage in communication with Cochrane Pregnancy and Childbirth within the agreed timelines?\u2022 Did the trial authors provide individual participant data (IPD) upon request?If not, was there a plausible reason?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Research governance",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Is the study free from characteristics of the study participants that appear too similar (e.g.distribution of the mean (standard deviation (SD)) excessively narrow or excessively wide, as noted by Carlisle 2017)?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Baseline characteristics",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Is the study free from characteristics that could be implausible (e.g.large numbers of women with a rare condition recruited from a single centre within 12 months)?\u2022 In cases with (close to) zero losses to follow-up, is there a plausible explanation?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Feasibility",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Is the study free from results that could be implausible (e.g.massive risk reduction for main outcomes with small sample size)?\u2022 Do the numbers randomised to each group suggest that adequate randomisation methods were used (e.g. is the study free from issues such as unexpectedly even numbers of women 'randomised', including a mismatch between the numbers and the methods, equal number of randomised participants when 'no blocking was used', or if the authors say they used 'blocks of 4' but the final numbers di er by 6)? \u2022 Studies assessed as being potentially 'high risk' have not been included in the review.Where a study was classified as 'high risk' for one or more of the above criteria, we attempted to contact the study authors to address any possible lack of information/ concerns.If adequate information remained unavailable, the study would remain in 'awaiting classification' and the reasons and communications with the author (or lack of) described in detail.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "The process is described in Figure 1 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 35,
+                        "end": 36,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results",
+                "sec_num": null
+            },
+            {
+                "text": "We have designed a form to extract data.For eligible studies, at least two review authors have extracted the data using the agreed form.We have resolved discrepancies through discussion, or, as required, through consultation with a third person.We entered data into Review Manager 5 so ware (RevMan 5) and checked for accuracy (Review Manager 2020).When information regarding any of the above was unclear, we attempted to contact authors of the original reports to provide further details.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data extraction and management",
+                "sec_num": null
+            },
+            {
+                "text": "Two review authors have independently assessed risk of bias for each study using the criteria outlined in the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011) .We resolved any disagreement by discussion or by involving a third assessor.",
+                "cite_spans": [
+                    {
+                        "start": 168,
+                        "end": 182,
+                        "text": "(Higgins 2011)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of risk of bias in included studies",
+                "sec_num": null
+            },
+            {
+                "text": "We described for each included study the method used to generate the allocation sequence in su icient detail to allow an assessment of whether it should produce comparable groups.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Random sequence generation (checking for possible selection bias)",
+                "sec_num": "1."
+            },
+            {
+                "text": "We assessed the method as:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Random sequence generation (checking for possible selection bias)",
+                "sec_num": "1."
+            },
+            {
+                "text": "\u2022 low risk of bias (any truly random process, e.g.random number table, computer random number generator); \u2022 high risk of bias (any non-random process, e.g.odd or even date of birth, hospital or clinic record number); \u2022 unclear risk of bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Random sequence generation (checking for possible selection bias)",
+                "sec_num": "1."
+            },
+            {
+                "text": "We described for each included study the method used to conceal allocation to interventions prior to assignment and assessed whether intervention allocation could have been foreseen in advance of, or during recruitment, or changed a er assignment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Allocation concealment (checking for possible selection bias)",
+                "sec_num": "2."
+            },
+            {
+                "text": "We assessed the methods as:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Allocation concealment (checking for possible selection bias)",
+                "sec_num": "2."
+            },
+            {
+                "text": "\u2022 low risk of bias (e.g.telephone or central randomisation, consecutively numbered sealed opaque envelopes); \u2022 high risk of bias (open random allocation, unsealed or nonopaque envelopes, alternation, date of birth); \u2022 unclear risk of bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Allocation concealment (checking for possible selection bias)",
+                "sec_num": "2."
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "We described for each included study the methods used, if any, to blind study participants and personnel from knowledge of which intervention a participant received.We considered that studies were at low risk of bias if they were blinded, or if we judged that the lack of blinding would be unlikely to a ect results.We assessed blinding separately for di erent outcomes or classes of outcomes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Blinding of participants and personnel (checking for possible performance bias)",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "We assessed the methods as:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Blinding of participants and personnel (checking for possible performance bias)",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "\u2022 low, high, or unclear risk of bias for participants; \u2022 low, high, or unclear risk of bias for personnel.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Blinding of participants and personnel (checking for possible performance bias)",
+                "sec_num": "3.1."
+            },
+            {
+                "text": "We described for each included study the methods used, if any, to blind outcome assessors from knowledge of which intervention a participant received.We assessed blinding separately for di erent outcomes or classes of outcomes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Blinding of outcome assessment (checking for possible detection bias)",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "We assessed methods used to blind outcome assessment as:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Blinding of outcome assessment (checking for possible detection bias)",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "\u2022 low, high, or unclear risk of bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Blinding of outcome assessment (checking for possible detection bias)",
+                "sec_num": "3.2."
+            },
+            {
+                "text": "We described for each included study, and for each outcome or class of outcomes, the completeness of data including attrition and exclusions from the analysis.We stated whether attrition and exclusions were reported and the numbers included in the analysis at each stage (compared with the total randomised participants), reasons for attrition or exclusion where reported, and whether missing data were balanced across groups or were related to outcomes.Where su icient information was reported, or could be supplied by the trial authors, we have re-included missing data in the analyses which we undertook.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Incomplete outcome data (checking for possible attrition bias due to the amount, nature, and handling of incomplete outcome data)",
+                "sec_num": "4."
+            },
+            {
+                "text": "We assessed methods as:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Incomplete outcome data (checking for possible attrition bias due to the amount, nature, and handling of incomplete outcome data)",
+                "sec_num": "4."
+            },
+            {
+                "text": "\u2022 low risk of bias (e.g.no missing outcome data, missing outcome data balanced across groups); \u2022 high risk of bias (e.g.numbers or reasons for missing data imbalanced across groups, 'as treated' analysis done with substantial departure of intervention received from that assigned at randomisation); \u2022 unclear risk of bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Incomplete outcome data (checking for possible attrition bias due to the amount, nature, and handling of incomplete outcome data)",
+                "sec_num": "4."
+            },
+            {
+                "text": "We have described for each included study how we investigated the possibility of selective outcome reporting bias and what we found.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selective reporting (checking for reporting bias)",
+                "sec_num": "5."
+            },
+            {
+                "text": "We have assessed the methods as:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selective reporting (checking for reporting bias)",
+                "sec_num": "5."
+            },
+            {
+                "text": "\u2022 low risk of bias (where it was clear that all of the study's prespecified outcomes and all expected outcomes of interest to the review have been reported); \u2022 high risk of bias (where not all the study's pre-specified outcomes have been reported, one or more reported primary outcomes were not pre-specified, outcomes of interest were reported incompletely and so could not be used, study failed to include results of a key outcome that would have been expected to have been reported); \u2022 unclear risk of bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selective reporting (checking for reporting bias)",
+                "sec_num": "5."
+            },
+            {
+                "text": "We have described for each included study any important concerns we had about other possible sources of bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Other bias (checking for bias due to problems not covered by 1. to 5. above)",
+                "sec_num": "6."
+            },
+            {
+                "text": "We have assessed whether each study was free of other problems that could put it at risk of bias:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Other bias (checking for bias due to problems not covered by 1. to 5. above)",
+                "sec_num": "6."
+            },
+            {
+                "text": "\u2022 low risk of other bias;",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Other bias (checking for bias due to problems not covered by 1. to 5. above)",
+                "sec_num": "6."
+            },
+            {
+                "text": "\u2022 high risk of other bias; \u2022 unclear whether there was risk of other bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Other bias (checking for bias due to problems not covered by 1. to 5. above)",
+                "sec_num": "6."
+            },
+            {
+                "text": "We have made explicit judgements about whether studies are at high risk of bias, according to the criteria given in the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011) .With reference to 1. to 6. above, we assessed the likely magnitude and direction of the bias and whether we consider it is likely to impact on the findings.We had planned to explore the impact of the level of bias through undertaking sensitivity analyses.",
+                "cite_spans": [
+                    {
+                        "start": 178,
+                        "end": 192,
+                        "text": "(Higgins 2011)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Overall risk of bias",
+                "sec_num": null
+            },
+            {
+                "text": "For dichotomous data, we presented results as summary risk ratio with 95% confidence intervals.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dichotomous data",
+                "sec_num": null
+            },
+            {
+                "text": "For continuous data, we used the mean di erence if outcomes were measured in the same way between trials.We would use the standardised mean di erence to combine trials that measured the same outcome, but used di erent methods.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Continuous data",
+                "sec_num": null
+            },
+            {
+                "text": "We did not identify any cluster-randomised trials for inclusion in this review.In future, if we identify any such trials we plan to include them in our analysis along with individually-randomised trials using the methods previously outlined.Where multiple pregnancies were assessed the movements of only one twin were recorded and assessed for the study outcomes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Unit of analysis issues",
+                "sec_num": null
+            },
+            {
+                "text": "For included studies, levels of attrition were noted.In future updates, if more eligible studies are included, the impact of including studies with high levels of missing data in the overall assessment of treatment e ect will be explored by using sensitivity analysis.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dealing with missing data",
+                "sec_num": null
+            },
+            {
+                "text": "For all outcomes, analyses were carried out, as far as possible, on an intention-to-treat basis, i.e. we attempted to include all participants randomised to each group in the analyses.The denominator for each outcome in each trial was the number randomised minus any participants whose outcomes were known to be missing.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Dealing with missing data",
+                "sec_num": null
+            },
+            {
+                "text": "We planned to assess statistical heterogeneity in each metaanalysis using the Tau , I , and Chi statistics.We have regarded heterogeneity as substantial if I was greater than 30% and either Tau was greater than zero, or there was a low P value (less than 0.10) in the Chi test for heterogeneity.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "In future updates of this review, if there are 10 or more studies in the meta-analysis, we will investigate reporting biases (such as publication bias) using funnel plots.We will assess funnel plot asymmetry visually.If asymmetry is suggested by a visual assessment, we will perform exploratory analyses to investigate it.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of reporting biases",
+                "sec_num": null
+            },
+            {
+                "text": "We carried out statistical analysis using RevMan 5 (Review Manager 2020) .This review contains one included study, therefore metaanalysis was not possible.We planned to use fixed-e ect metaanalysis for combining data where it was reasonable to assume that studies were estimating the same underlying treatment e ect: i.e.where trials were examining the same intervention, and the trials' populations and methods were judged su iciently similar.If there was clinical heterogeneity su icient to expect that the underlying treatment e ects di ered between trials, or if substantial statistical heterogeneity was detected, we would have used random-e ects meta-analysis to produce an overall summary if an average treatment e ect across trials was considered clinically meaningful.The random-e ects summary would be treated as the average of the range of possible treatment e ects, and we have discussed the clinical implications of treatment e ects di ering between trials.If the average treatment e ect was not clinically meaningful we would not combine trials.",
+                "cite_spans": [
+                    {
+                        "start": 51,
+                        "end": 72,
+                        "text": "(Review Manager 2020)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data synthesis",
+                "sec_num": null
+            },
+            {
+                "text": "If we had identified substantial heterogeneity, we planned to investigate it using subgroup analyses and sensitivity analyses.We planned to consider whether an overall summary is meaningful, and if it so, use random-e ects analysis to produce it.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup analysis and investigation of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "We planned to carry out the following subgroup analyses but were not able to do so due to the small amount of data available from one trial:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup analysis and investigation of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 type of procedure performed;",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup analysis and investigation of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 gestational age at the time the procedure was performed;",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup analysis and investigation of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 singleton pregnancy versus multiple pregnancy;",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup analysis and investigation of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 di erent routes of administration -for example, fetal intramuscular injection versus fetal umbilical vein injection.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup analysis and investigation of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "The following outcome would have been used in subgroup analysis:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup analysis and investigation of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 degree of fetal immobilisation as defined by trial authors.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup analysis and investigation of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "We planned to assess subgroup di erences by interaction tests available within RevMan 5 (Review Manager 2020), reporting the results of subgroup analyses quoting the Chi statistic and P value, and the interaction test I value.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Subgroup analysis and investigation of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "Sensitivity analyses were not able to be performed due to the inclusion of a single trial.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sensitivity analysis",
+                "sec_num": null
+            },
+            {
+                "text": "In future updates, we will perform sensitivity analysis to explore the e ects of trial quality by omitting studies rated as 'high risk of bias' on overall assessment.We will restrict this to the primary outcome.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sensitivity analysis",
+                "sec_num": null
+            },
+            {
+                "text": "In particular, as quasi-randomised trials are eligible to be included, we plan to perform a sensitivity analysis on the basis of excluding such trials.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sensitivity analysis",
+                "sec_num": null
+            },
+            {
+                "text": "The certainty of the evidence was assessed using the GRADE approach, as outlined in the GRADE handbook.We assessed the certainty of the body of evidence relating to the following outcomes:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary of findings and assessment of the certainty of the evidence",
+                "sec_num": null
+            },
+            {
+                "text": "1. degree of fetal immobilisation as defined by trial authors; 2. technically successful procedure as defined by trial authors; 3. time taken to perform the planned procedure; 4. perinatal mortality; 5. maternal respiratory depression as defined by trial authors; 6. maternal sedation measured using sedation scores as defined by trial authors.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary of findings and assessment of the certainty of the evidence",
+                "sec_num": null
+            },
+            {
+                "text": "GRADEpro Guideline Development Tool was used to import data from RevMan 5 (Review Manager 2020) in order to create summary of findings tables.A summary of the intervention e ect and a measure of certainty for each of the above outcomes was produced using the GRADE approach.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary of findings and assessment of the certainty of the evidence",
+                "sec_num": null
+            },
+            {
+                "text": "We included one study with two trial reports (Van de Velde 2005) in the review.See Included studies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "R E S U L T S Description of studies",
+                "sec_num": null
+            },
+            {
+                "text": "See Figure 2 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 11,
+                        "end": 12,
+                        "text": "2",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Results of the search",
+                "sec_num": null
+            },
+            {
+                "text": "Our search retrieved at total of 174 records, from which 162 were excluded as they were not a trial or were not within the specified scope, see Figure 2 . We assessed 12 trial reports.We included one trial (three reports) and excluded six (eight reports).One trial is ongoing.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 151,
+                        "end": 152,
+                        "text": "2",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "We applied the Cochrane Pregnancy and Childbirth trustworthiness screening tool (CPC-TST) to the included study Van de Velde 2005.Specifically, upon assessment, there were no concerns regarding research governance (no retractions, prospective registration not required as published before 2005, and no requirement as yet to share protocol).Baseline characteristics and feasibility seemed appropriate, as did the results.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Screening eligible studies for scientific integrity/trustworthiness",
+                "sec_num": null
+            },
+            {
+                "text": "We included one study with three trial reports (Van de Velde 2005) in the review.See Included studies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Included studies",
+                "sec_num": null
+            },
+            {
+                "text": "The included study is a double-blind randomised controlled trial.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Design",
+                "sec_num": null
+            },
+            {
+                "text": "There were 54 women in the included study.Four women were excluded from the study, with the remaining 50 women administered either medication.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample sizes",
+                "sec_num": null
+            },
+            {
+                "text": "The included study was conducted in tertiary European hospitals within a high-risk maternal-fetal medicine unit.The included study did not report the trial dates.Funding sources were reported as follows: grants from European Commission (Euro Twin 2 Twin), and also in part by a 2002 Society of Anesthesia and Reanimation of Belgium (SARB) grant for experimental research.Declarations of interest of trial authors were not reported.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Setting",
+                "sec_num": null
+            },
+            {
+                "text": "All women in the included study were in their second trimester with multiple pregnancy.The demographic and clinical characteristics of women in Van de Velde 2005 were similar between groups.Most women included in this study were undergoing laser treatment for twin-twin syndrome.A smaller proportion of women were undergoing intervention for selective cord occlusion.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "The included study compared maternally administered intravenous remifentanil versus diazepam to achieve fetal immobilisation and maternal sedation.Maternal sedation, haemodynamics, side e ects as well as fetal haemodynamics and immobilisation were evaluated at several time points during the procedure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Interventions and comparisons",
+                "sec_num": null
+            },
+            {
+                "text": "Remifentanil and diazepam were assessed in regard to both fetal and maternal outcomes.When fetal outcomes were assessed, they were reported for only the mobile twin in cases of twintwin syndrome, and only movements of the normal fetus were recorded in pregnancies where selective feticide/cord occlusion was performed.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "This study assessed whether remifentanil was superior to diazepam to achieve maternal sedation without respiratory depression along with measurement of maternal pH, partial pressure of carbon dioxide (pCO2), and respiratory rate.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Maternal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Level of fetal immobilisation was assessed via a visual analogue score (VAS) as well as documenting the number of gross body and limb movements.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Length of operating time and surgical satisfaction was assessed to determine which medication was superior.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Procedural outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "A er examining the abstract or full text, we excluded six studies from this review.Four papers were excluded as they either compared the same drug with di erent doses, used medications within the same class, or did not administer any medication to either the mother or the fetus (ACTRN12617000098336; Han 2015; Mouw 1999; van Scheltema 2011).One study was excluded as their inclusion criteria for in-utero complications/procedures was too varied with only small numbers in each category (Fan 1994).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Excluded studies",
+                "sec_num": null
+            },
+            {
+                "text": "One study was excluded as it assessed fetal MRI rather than an in-utero procedure (EUCTR2009-011281-28-BE).For further detail see Excluded studies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Excluded studies",
+                "sec_num": null
+            },
+            {
+                "text": "Details of the risk of bias assessment for the included study are presented in Characteristics of included studies.Summary description of the assessments is presented in Figure 3 .",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 177,
+                        "end": 178,
+                        "text": "3",
+                        "ref_id": "FIGREF3"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Risk of bias in included studies",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Database of Systematic Reviews",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "We judged the included study to have low risk of bias for sequence generation and allocation concealment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Allocation",
+                "sec_num": null
+            },
+            {
+                "text": "We judged our included study Van de Velde 2005 to have low risk of bias for blinding of participants and personnel (performance bias) as well as for blinding of outcome assessment (detection bias).In this study both the woman, obstetrician, and anaesthetist were blinded to the sedative used, with an external/third assessor used to confirm results (the assessor was also blinded).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Blinding",
+                "sec_num": null
+            },
+            {
+                "text": "We judged Van de Velde 2005 to have a low risk of attrition bias as there were low rates of incomplete data reported.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Incomplete outcome data",
+                "sec_num": null
+            },
+            {
+                "text": "We judged Van de Velde 2005 to have a low risk of reporting bias.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selective reporting",
+                "sec_num": null
+            },
+            {
+                "text": "There were no other bias identified for Van de Velde 2005.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Other potential sources of bias",
+                "sec_num": null
+            },
+            {
+                "text": "See: Summary of findings 1 Summary of findings table -Remifentanil compared to diazepam for fetal immobilisation during fetal surgery and invasive procedures See Summary of findings 1 'Remifentanil compared to diazepam for fetal immobilisation during fetal surgery and invasive procedures.'",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "E ects of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "One trial Van de Velde 2005 with three reports, involving 54 women, was included in this review.This trial compared remifentanil to diazepam (i.e. one intervention versus another).We did not find any other studies to assess any of the other comparisons that had been prespecified when planning the review.Therefore, meta-analysis was not possible.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "E ects of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "Four women were excluded due to fetuses that were immobile at the beginning of the surgery.The remaining 50 women were randomised to either remifentanil or diazepam.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "E ects of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "Our planned prespecified comparisons included: maternal sedation versus no sedation, maternal analgesia/anaesthesia versus no analgesia/anaesthesia, fetal paralysis versus no fetal paralysis, combinations versus nothing, and one intervention versus another.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "E ects of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "The comparison utilised in this one included trial, fits under our prespecified comparison category of one intervention versus another.As diazepam is a sedative (benzodiazepine class) and remifentanil is an analgesic, the comparison is of maternal sedation versus maternal analgesia/anaesthesia.There were therefore no other comparisons that could be included/reported in our review.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "E ects of interventions",
+                "sec_num": null
+            },
+            {
+                "text": "Our primary outcome was degree of fetal immobilisation as defined by trial authors.The authors of the trial assessed fetal mobility in two ways -by taping fetal movement with ultrasound with subsequent evaluation by sonographer and providing a score, and also counting the gross body and limb movements: \"Fetal mobility was assessed, before, during, and a er surgery by taping 5minute ultrasound sequences of fetal movement every 20 minutes throughout surgery and 10, 20, 30 and 60 minutes a er the end of surgery.These sequences were evaluated by an experienced ultrasonographer.Two types of evaluation were performed: a VAS score for mobility (0 = immobile and 100 = baseline mobility) (which the authors also refer to as 'fetal immobilisation score') and the number of gross body movements and limb movements per 5-minute period (number of fetal movements).\"In this clinical situation a lower score for both parameters would be more favourable, as a less mobile fetus will facilitate a more successful procedure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Degree of fetal immobilisation as defined by trial authors",
+                "sec_num": null
+            },
+            {
+                "text": "When aligning the trials outcomes with our prespecified outcome, we chose to use the fetal mobility assessment 40-minute time point, as it was in the middle of the surgical time frame and also data extraction from the paper was feasible as clearly stated in writing (other data were only reported on graphs and could not be extracted).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Degree of fetal immobilisation as defined by trial authors",
+                "sec_num": null
+            },
+            {
+                "text": "The results suggested that remifentanil may result in less fetal movement (i.e. more fetal immobilisation), when compared with diazepam, as evaluated by the fetal immobilisation score (subjective surgical and objective ultrasound scores) (mean di erence (MD) -65.00, 95% confidence interval (CI) -69.38 to -60.62; 1 study, 50 women; low-certainty evidence; Analysis 1.1).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Degree of fetal immobilisation as defined by trial authors",
+                "sec_num": null
+            },
+            {
+                "text": "The number of fetal movements may be decreased from 18 \u00b1 3 to 2 \u00b1 1 at 40 minutes of surgery in the remifentanil group, with a much smaller e ect on fetal movement reduction in the diazepam group (MD -10.00, 95% CI -11.62 to -8.38; 1 study, 50 women; low-certainty evidence; Analysis 1.2).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Degree of fetal immobilisation as defined by trial authors",
+                "sec_num": null
+            },
+            {
+                "text": "Technically successful procedure as defined by trial authors",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Secondary outcomes -Procedure-related outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "In addition to the evaluation of fetal immobilisation by sonographers reviewing taped periods of the procedure on ultrasound, evaluation of fetal mobility and the procedure was also performed by the surgeon and assessed on a four-point scale: \"At the end of the intervention the surgeon assessed overall fetal immobility and operating conditions using a four-point scale, this subjective score represented an overall subjective impression and is further referred to as the surgical assessment/satisfaction score, 1 = excellent, 2 = good, 3 = moderate and 4 = inadequate immobilisation.\"",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Secondary outcomes -Procedure-related outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "We have chosen to use the reported outcome of 'surgical assessment/satisfaction score' and align with our prespecified outcome of technically successful procedure.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Secondary outcomes -Procedure-related outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "The results suggest that the surgical assessment/satisfaction score may be better in the remifentanil group.It was assessed by the surgeon as being good to excellent (score of 1 or 2) in 92% of women in the remifentanil group, whereas this was 32% in the diazepam group (risk ratio (RR) 2.88, 95% CI 1.60 to 5.15; 1 study, 50 women; low-certainty evidence; Analysis 1.3).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Secondary outcomes -Procedure-related outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "The included study did not report this outcome nor any data that we could utilise to report on it.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Clinically e ective procedure as defined by trial authors",
+                "sec_num": null
+            },
+            {
+                "text": "Van de Velde 2005 reported that the time to complete the surgery was significantly longer in the diazepam group, 80 (60 to 90) minutes versus 60 (54 to 71) minutes in the remifentanil group.The included data were only reported with medians/ranges and thus were not suitable for analysis, nor able to be included in further tables, and are reported narratively.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Time taken to perform the planned procedure",
+                "sec_num": null
+            },
+            {
+                "text": "For many of our prespecified outcomes, we were either unable to extract or utilise reported data from Van de Velde 2005 or the outcome was not reported at all by the study authors.For clarity, we have listed all our prespecified outcomes below and explained.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Secondary outcomes -Fetal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Library Trusted evidence. Informed decisions. Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Secondary outcomes -Fetal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Database of Systematic Reviews diazepam.This study reported our prespecified primary outcome but only evaluated several of our secondary outcomes, which limited further assessment.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Secondary outcomes -Fetal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "We assessed the included study at low risk of selection bias (appropriate random sequence generation and allocation concealment), performance bias (blinding of participants and personnel), detection bias (outcome assessors were blinded), attrition bias (incomplete outcome data minimal), and reporting bias.We downgraded (2) levels for very serious imprecision due to data only being available from a single small study of 50 women.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Quality of the evidence",
+                "sec_num": null
+            },
+            {
+                "text": "Our GRADE assessment for certainty of the evidence is that there is low certainty of the evidence (see Summary of findings 1) for all the findings reported.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Quality of the evidence",
+                "sec_num": null
+            },
+            {
+                "text": "We adhered to the Cochrane Pregnancy and Childbirth Group search strategies and review processes.Two review authors independently selected potential studies, assessed risk of bias, and extracted data to minimise potential biases.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Potential biases in the review process",
+                "sec_num": null
+            },
+            {
+                "text": "To our knowledge there are no other studies or reviews addressing the e ectiveness and harms of di erent types and routes of anaesthesia or analgesia for fetal immobilisation for in-utero procedures.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Agreements and disagreements with other studies or reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Low-certainty evidence suggested that remifentanil may be better at reducing fetal movements and surgeons were more satisfied with the procedure.However, maternal sedation and depression of breathing may be worse with remifentanil.However, these data were from a single small study, and this limits our ability to make definitive conclusions.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for practice",
+                "sec_num": null
+            },
+            {
+                "text": "Due to the low certainty of the evidence for our main outcomes, the e ects of pharmacological interventions for fetal immobilisation in the management of fetal surgery and invasive procedures are uncertain.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for practice",
+                "sec_num": null
+            },
+            {
+                "text": "There is a need for well-designed, multicentre, randomised controlled trials to evaluate the e ectiveness and safety of di erent types and routes of anaesthesia and analgesia to achieve fetal immobilisation for in-utero procedures.We suggest that future studies measure important outcomes listed in this review.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Implications for research",
+                "sec_num": null
+            },
+            {
+                "text": "We acknowledge the support of the Cochrane Pregnancy and Childbirth team in preparing our review.We thank Jodie Dodd who contributed as an author to the previous version of this review.We thank Luisa M Fernandez Maule inch, Cochrane Copy Edit Support, for copy editing this review.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A C K N O W L E D G E M E N T S",
+                "sec_num": null
+            },
+            {
+                "text": "As part of the pre-publication editorial process, this review has been commented on by four peers (an editor and three referees who are external to the editorial team) and the Group's statistical adviser.The authors are grateful to the following peer reviewers for their time and comments: Faris Mujezinovic, University Clinical Center Maribor, Maribor, Slovenia; Rory Windrim, University of Toronto, Canada; and also to the peer reviewer who wishes to remain anonymous.IV: intravenous.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A C K N O W L E D G E M E N T S",
+                "sec_num": null
+            },
+            {
+                "text": "Perioperative pharmacological interventions for fetal immobilisation during fetal surgery and invasive procedures (Review)Copyright \u00a9 2022 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Fetal bradycardia or significant heart rate changes during or immediately a er the procedure For both groups in Van de Velde 2005 there was no adverse impact on fetal heart rate.The authors reported specifically that \"no significant changes in fetal heart rate were noted in either group.No early or late decelerations or fetal bradycardia were reported.\"",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Our prespecified outcomes were.\u2022 Preterm birth at less than 28 completed weeks of gestation.\u2022 Preterm birth at less than 34 completed weeks of gestation.\u2022 Preterm birth at less than 37 completed weeks of gestation.\u2022 Preterm prelabour ruptured membranes (defined as less than 37 weeks' gestation).For all preterm birth outcomes and preterm prelabour ruptured membranes, there were no usable data available.The authors did however report that the gestational age at delivery was not significantly di erent between the groups.The reported gestational age at delivery for the remifentanil group was 34 weeks (range = 33 to 36 weeks) and for the diazepam group was 33 weeks (range = 29.5 to 35 weeks).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Preterm birth and preterm prelabour ruptured membranes",
+                "sec_num": null
+            },
+            {
+                "text": "The authors did not report on this outcome.Perinatal mortality defined as stillbirth (death prior to birth of a fetus of at least 20 weeks' gestation or at least 400 g) and neonatal death (death of a live born child up to 28 days a er delivery)The authors did not report this outcome, however did report neonatal survival as not significantly di erent for one subgroup of participants (those with TTTS diagnosis -twin-to-twin transfusion syndrome).Any death of a fetus a er the procedure and less than 20 weeks or less than 400 g (i.e.those deaths that do not meet the criteria for stillbirth)The authors did not report on this outcome.Death of a fetus more than 4 weeks a er the procedureThe authors did not report on any of these outcomes.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fetal growth restriction",
+                "sec_num": null
+            },
+            {
+                "text": "For many of our prespecified outcomes, we were either unable to extract or utilise reported data from Van de Velde 2005 or the outcome was not reported at all by the study authors.For clarity, we have listed all our prespecified outcomes below and explained.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Secondary outcomes -Maternal outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Van de Velde 2005 utilised maternal respiratory rate as a measure of respiratory depression.Respiratory depression (low respiratory rate) is an adverse/negative e ect and would be an undesirable outcome.The authors provided data on the mean di erence between two time points for both treatments.Maternal respiratory rate in the remifentanil group may decrease more during the surgical procedure, however respiratory rate may be more stable in the diazepam group (MD -6.00, 95% CI -8.29 to -3.71; 1 study, 50 women; low-certainty evidence; Analysis 1.4).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Maternal respiratory depression as defined by trial authors or measured using intraoperative maternal arterial oxygen saturation and maternal respiratory rate",
+                "sec_num": null
+            },
+            {
+                "text": "Levels of maternal sedation were reported using an 'observer assessment of alertness/sedation scale (OAA/S).' Maternal sedation to some extent is a desirable outcome, however too much sedation would be undesirable and associated with adverse e ects including low respiratory rate/respiratory depression as reported above.The targeted OAA/S score was 4, with a score less than 4 associated with profound sedation, and a score higher than 4 associated with insu icient sedation.Van de Velde 2005 reported that remifentanil administration may result in less maternal sedation.The results reported that it produced deep/profound sedation in one woman (OAA below 4) compared with the diazepam group, where 11 women (44%) were profoundly sedated (RR 0.09, 95% CI 0.01 to 0.65; 1 study, 50 women; low-certainty evidence; Analysis 1.5).Maternal blood loss (defined as mean maternal blood loss measured in mL, and occurrence of postpartum haemorrhage defined by blood loss 600 mL or greater than 1500 mL, with and without treatment)The included trial in this review did not assess this outcome.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Maternal sedation measured using sedation scores as defined by authors",
+                "sec_num": null
+            },
+            {
+                "text": "The included trial in this review did not assess this outcome.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Maternal pain scores as defined by trial authors",
+                "sec_num": null
+            },
+            {
+                "text": "The included trial in this review did not assess this outcome.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Maternal psychological well-being and anxiety as defined by trial author",
+                "sec_num": null
+            },
+            {
+                "text": "The evidence in this review is based on only one study with three trial reports involving 54 women, and evaluated intravenous remifentanil compared with diazepam to achieve fetal immobilisation for in-utero procedures.Therefore, we were not able to conduct any meta-analysis.Low-certainty evidence suggested that remifentanil may reduce fetal movement more than diazepam for two outcomes of fetal movement, one of fetal immobilisation at 40 minutes using a VAS score (where 0 = immobile and 100 = baseline mobility) and one of gross body and limb movements (score was absolute number of fetal movements), both assessed by a sonographer evaluating a taped ultrasound sequence.Surgeons may also report being more satisfied with the procedure when using remifentanil rather than diazepam (low-certainty evidence).However, maternal respiratory rate may decrease more during the surgical procedure with remifentanil compared with diazepam (low-certainty evidence).Maternal sedation may also be worse with remifentanil compared with diazepam (low-certainty evidence) measured using an observer assessment of alertness/sedation (where a score of < 4 equates to profound sedation and > 4 equates to insu icient sedation).Perinatal mortality and time taken to perform the procedure were not reported in the trial.IV: intravenous.Abbey Le Blanc and Rosalie M Grivell developed the idea for this review and completed the initial abstract for approval.The remainder of the protocol was dra ed and completed by Kate Andrewartha with assistance from Rosalie M Grivell.The full review was prepared by Kate Andrewartha with assistance from Rosalie M Grivell.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Summary of main results",
+                "sec_num": null
+            },
+            {
+                "text": "Kate Andrewartha: works as a health professional in a Women's and Children's Hospital, and reports no conflicts of interest.Rosalie M Grivell: reports no conflicts of interest.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D E C L A R A T I O N S O F I N T E R E S T",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 New Source of support, OtherThere are no sources of support to note",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "S O U R C E S O F S U P P O R T Internal sources",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 National Health and Medical Research Council (NHMRC), AustraliaEarly Career Fellowship for Rosalie M Grivell during the writing of this review.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "External sources",
+                "sec_num": null
+            },
+            {
+                "text": "There are some di erences between our published protocol (Grivell 2014) and the full review -these are outlined below.We changed our methods on subgroups slightly, and decided not to include the following subgroup: di erent drug doses for each specific drug used.We added a search of ClinicalTrials.govand the WHO International Clinical Trials Registry Platform (ICTRP).Jodie Dodd le the review team.A er initial editorial review of the full review, and advice from the editor, we changed the scope of the review.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D I F F E R E N C E S B E T W E E N P R O T O C O L A N D R E V I E W",
+                "sec_num": null
+            },
+            {
+                "text": "Medical Subject Headings (MeSH)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "I N D E X T E R M S",
+                "sec_num": null
+            },
+            {
+                "text": "Female; Humans; Infant, Newborn; Pregnancy",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "MeSH check words",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Randomised, placebo controlled clinical trial to evaluate remifentanil as maternal sedation and fetal immobilisation during diagnostic prenatal MRI. trialsearch.who.int/Trial2.aspx?TrialID=EUCTR",
+                "authors": [],
+                "year": 2009,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Influences of di erent doses of midazolam on mother and fetus in fetoscopic surgery for twin-to-twin transfusion syndrome",
+                "authors": [
+                    {
+                        "first": "Fan",
+                        "middle": [
+                            ";"
+                        ],
+                        "last": "Only} Fan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "Z"
+                        ],
+                        "last": "Susetio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Tsai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Mc ;",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Tian",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Xue",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Zhao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1994,
+                "venue": "Pharmacology",
+                "volume": "49",
+                "issue": "4",
+                "pages": "151--154",
+                "other_ids": {
+                    "PMID": [
+                        "26279077"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "{published data only}",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Mouw",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1999,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "E ects of pancuronium or atracurium on the anemic fetus during and directly a er intrauterine transfusion (IUT): a double blind randomized study",
+                "authors": [
+                    {
+                        "first": "Rjc",
+                        "middle": [],
+                        "last": "Mouw",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hermans",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Hcr",
+                        "middle": [],
+                        "last": "Brandenburg",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Hhh",
+                        "middle": [],
+                        "last": "Kanhai",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "The e ect of dexmedetomidine for maternal sedation and fetal immobilization during fetoscopic surgery",
+                "volume": "176",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "A randomized trial of prenatal versus postnatal repair of myelomeningocele",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Adzick",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Thom",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Spong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Brock",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Burrows",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Johnson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "New England Journal of Medicine",
+                "volume": "364",
+                "issue": "11",
+                "pages": "993--1004",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Fetuses, fentanyl, and the stress response: signals from the beginnings of pain?",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Anand",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Maze",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2001,
+                "venue": "Anesthesiology",
+                "volume": "95",
+                "issue": "",
+                "pages": "823--825",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Fetal surgery for cardiac lesions",
+                "authors": [
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Artz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Tulzer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Prenatal Diagnosis",
+                "volume": "31",
+                "issue": "",
+                "pages": "695--698",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Fetal anesthesia and pain management for intrauterine therapy",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Brusseau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Mizrahi-Arnaud",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Clinics in Perinatology",
+                "volume": "40",
+                "issue": "",
+                "pages": "429--442",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Data fabrication and other reasons for non-random sampling in 5087 randomised, controlled trial in anaesthetic and general medical journals",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Carlisle",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Anaesthesia",
+                "volume": "72",
+                "issue": "",
+                "pages": "944--952",
+                "other_ids": {
+                    "DOI": [
+                        "10.1111/anae.13938"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Laser therapy for twin-to-twin transfusion syndrome (TTTS)",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Chalouhi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Essaoui",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Stirnemann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Quibel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Deloison",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Salomon",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Prenatal Diagnosis",
+                "volume": "31",
+                "issue": "",
+                "pages": "637--646",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Randomized trial of fetal surgery for severe le diaphragmatic hernia",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Deprest",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Nicolaides",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Benachi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Gratacos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Ryan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Persico",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "New England Journal of Medicine",
+                "volume": "385",
+                "issue": "2",
+                "pages": "107--118",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "The prevalence of congenital anomalies in Europe",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Dolk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Loane",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Garne",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Advances in Experimental Medicine and Biology",
+                "volume": "686",
+                "issue": "",
+                "pages": "349--364",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Remifentanil for fetal immobilization and analgesia during the ex utero intrapartum treatment procedure under combined spinal-epidural anaesthesia",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Fink",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Allen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Habib",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "British Journal of Anaesthesia",
+                "volume": "106",
+                "issue": "6",
+                "pages": "851--855",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Fetal blood sampling and intrauterine transfusion",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Fox",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Saade",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Neoreviews",
+                "volume": "13",
+                "issue": "11",
+                "pages": "661--669",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "In utero intervention for severe congenital heart disease",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Gardiner 2019 Gardiner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Best Practice & Research Clinical Obstetrics and Gynaecology",
+                "volume": "58",
+                "issue": "",
+                "pages": "42--54",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Higgins",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Green",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "The Cochrane Collaboration",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "Fetal surgery for myelomeningocele: a systematic review and meta-analysis of outcomes in fetoscopic versus open repair",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Kabagambe",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Jensen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Vanover",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Farmer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Fetal Diagnosis and Therapy",
+                "volume": "43",
+                "issue": "",
+                "pages": "161--174",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Percutaneous vesicoamniotic shunting versus conservative management for fetal lower urinary tract obstruction (PLUTO): a randomised trial",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Morris",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Malin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Quinlan",
+                        "middle": [
+                            "-"
+                        ],
+                        "last": "Jones",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Middleton",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Hemming",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Burke",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Lancet",
+                "volume": "382",
+                "issue": "",
+                "pages": "1496--1506",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "Interventions for the treatment of twin-twin transfusion syndrome",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Roberts",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Neilson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kilby",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gates",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Cochrane Database of Systematic Reviews",
+                "volume": "",
+                "issue": "3",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1002/14651858.CD002073.pub2"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Fetal surgery for severe lower urinary tract obstruction",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Ruano",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Prenatal Diagnosis",
+                "volume": "31",
+                "issue": "",
+                "pages": "667--674",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Anesthesia for fetal surgery",
+                "authors": [
+                    {
+                        "first": "U",
+                        "middle": [],
+                        "last": "Schwarz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Galinkin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2003,
+                "venue": "Seminars in Pediatric Surgery",
+                "volume": "12",
+                "issue": "3",
+                "pages": "196--201",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Anaesthesia for fetal surgery",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Tran",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Seminars in Fetal & Neonatal Medicine",
+                "volume": "15",
+                "issue": "",
+                "pages": "40--45",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Fetal and maternal analgesia/ anesthesia for fetal procedures",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Van De Velde",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "De",
+                        "middle": [],
+                        "last": "Buck",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Fetal Diagnosis and Therapy",
+                "volume": "31",
+                "issue": "",
+                "pages": "201--209",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Prenatal interventions for fetal lung lesions",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Witlox",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Lopriore",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Oepkes",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Prenatal Diagnosis",
+                "volume": "31",
+                "issue": "",
+                "pages": "628--636",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Congenital lung lesions",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Zobel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Golorgorsky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Vu",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Seminars in Paediatric Surgery",
+                "volume": "28",
+                "issue": "4",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "................................................................................................................................................................................................... PLAIN LANGUAGE SUMMARY....................................................................................................................................................................... SUMMARY OF FINDINGS.............................................................................................................................................................................. BACKGROUND.............................................................................................................................................................................................. OBJECTIVES.................................................................................................................................................................................................. METHODS..................................................................................................................................................................................................... Figure 1.................................................................................................................................................................................................. RESULTS........................................................................................................................................................................................................ Figure 2.................................................................................................................................................................................................. Figure 3.................................................................................................................................................................................................. DISCUSSION.................................................................................................................................................................................................. AUTHORS' CONCLUSIONS........................................................................................................................................................................... ACKNOWLEDGEMENTS................................................................................................................................................................................ REFERENCES................................................................................................................................................................................................ CHARACTERISTICS OF STUDIES.................................................................................................................................................................. DATA AND ANALYSES.................................................................................................................................................................................... Analysis 1.1.Comparison 1: One intervention versus another (maternal sedation versus maternal analgesia/anaesthesia) , Outcome 1: Fetal immobilisation score at 40 minutes (Degree of fetal immobilisation as defined by trial authors)...................... Analysis 1.2.Comparison 1: One intervention versus another (maternal sedation versus maternal analgesia/anaesthesia) , Outcome 2: Fetal movements -gross body and limb (Degree of fetal immobilisation as defined by trial authors)........................ Analysis 1.3.Comparison 1: One intervention versus another (maternal sedation versus maternal analgesia/anaesthesia) , Outcome 3: Surgical assessment/satisfaction score = 1 or 2 (Technically successful procedure as defined by trial authors)........ Analysis 1.4.Comparison 1: One intervention versus another (maternal sedation versus maternal analgesia/anaesthesia) , Outcome 4: Maternal respiratory rate (Maternal respiratory depression as defined by trial authors or measured using intraoperative maternal arterial oxygen saturation and maternal respiratory rate)........................................................................ Analysis 1.5.Comparison 1: One intervention versus another (maternal sedation versus maternal analgesia/anaesthesia) , Outcome 5: Maternal OAA score (Observer assessment of alertness/sedation) < 4 (Maternal sedation measured using sedation scores as defined by authors).............................................................................................................................................................. APPENDICES................................................................................................................................................................................................. HISTORY........................................................................................................................................................................................................ CONTRIBUTIONS OF AUTHORS................................................................................................................................................................... DECLARATIONS OF INTEREST..................................................................................................................................................................... SOURCES OF SUPPORT............................................................................................................................................................................... DIFFERENCES BETWEEN PROTOCOL AND REVIEW.................................................................................................................................... INDEX TERMS...............................................................................................................................................................................................",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF1": {
+                "text": "Figure 1.",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF2": {
+                "text": "Figure 2. Study flow diagram.",
+                "fig_num": "2",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF3": {
+                "text": "Figure 3. Risk of bias summary: review authors' judgements about each risk of bias item for each included study.",
+                "fig_num": "3",
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF4": {
+                "text": "This project was supported by the National Institute for Health and Care Research (NIHR), via Cochrane infrastructure funding to Cochrane Pregnancy and Childbirth.The views and opinions expressed herein are those of the authors and do not necessarily reflect those of the Evidence Synthesis Programme, the NIHR, National Health Service (NHS), or the Department of Health and Social Care.Participants Women in second trimester of pregnancy (16 to 25 weeks) with multiple pregnancy scheduled for either fetoscopic laser coagulation or cord occlusion Interventions Remifentanil (continuous IV infusion) versus diazepam (IV) -Diazepam: initiated at 5 mg IV bolus followed by 5 mg IV 10 minutes later.Additional 2.5 mg increments given as required to maintain maternal sedation -Remifentanil: commenced at initial flow rate of 0.1 ug/kg/min and at 0 and 10 minutes a bolus of saline was given to mimic diazepam administration -Continuous infusion of saline was administered in the control group -25 women in each group -2 women excluded due to immobile fetus prior to procedure Outcomes MATERNAL Maternal sedation via observer alertness/sedation scale Visual analogue score for mobility (0 = immobile fetus and 100 = baseline mobility) \u2022 Number of gross body movements and limb movements per 5-minute period \u2022 Assessed before, during and after surgery --> taped sequences evaluated offline by an experienced sonographer PROCEDURAL Surgical assessment score -surgeon assessment of overall fetal immobility and operating conditions -4-point scale (1 = excellent, 2 = good, 3 = moderate, 4 = inadequate or no immobilisation)",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "FIGREF5": {
+                "text": "movements -gross body and limb (Degree of fetal immobilisation as defined by trial aurespiratory rate (Maternal respiratory depression as defined by trial authors or measured using intraoperative maternal arterial oxygen saturation and maternal respiratory rate) A VAS score for mobility was assessed by a sonographer evaluating a taped ultrasound sequence (where 0 = immobile and 100 = baseline mobility).Analysis 1.2.Comparison 1: One intervention versus another (maternal sedation versus maternal analgesia/anaesthesia) , Outcome 2: Fetal movements -gross body and limb (Degree of fetal immobilisation as defined by trial authors) Scored by a sonographer evaluating a taped ultrasound sequence (score was absolute number of fetal movements in the 5-minute period).measured on 4-point scale (1 = excellent, 2 = good, 3 = moderate, and 4 = inadequate.A score of 1 or 2 indicated success).Perioperative pharmacological interventions for fetal immobilisation during fetal surgery and invasive procedures (Review) Copyright \u00a9 2022 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.Studies | fetal surgery | Anesthesia Perioperative pharmacological interventions for fetal immobilisation during fetal surgery and invasive procedures (Review) Copyright \u00a9 2022 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "TABREF0": {
+                "text": "undergoing fetal surgery and invasive procedures at a European obstetric centre",
+                "html": null,
+                "num": null,
+                "content": "<table/>",
+                "type_str": "table"
+            },
+            "TABREF1": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td/><td/><td/><td/><td/><td/><td>moderate and 4 = inadequate immobilisa-</td></tr><tr><td/><td/><td/><td/><td/><td/><td>tion\" (Score of 1 or 2 is successful)</td></tr><tr><td>Maternal respiratory rate</td><td>The mean mater-</td><td>MD 6 lower</td><td>-</td><td>50</td><td>\u2295\u2295\u229d\u229d</td><td/></tr><tr><td>(Maternal respiratory de-</td><td>nal respiratory rate</td><td>(8.29 lower to</td><td/><td>(1 RCT)</td><td>Low a</td><td/></tr><tr><td>pression as defined by tri-</td><td>(Maternal respira-</td><td>3.71 lower)</td><td/><td/><td/><td/></tr><tr><td>al authors or measured</td><td>tory depression as</td><td/><td/><td/><td/><td/></tr><tr><td>using intraoperative ma-</td><td>defined by trial au-</td><td/><td/><td/><td/><td/></tr><tr><td>ternal arterial oxygen sat-</td><td>thors or measured</td><td/><td/><td/><td/><td/></tr><tr><td>uration and maternal res-</td><td>using intraopera-</td><td/><td/><td/><td/><td/></tr><tr><td>piratory rate)</td><td>tive maternal arte-</td><td/><td/><td/><td/><td/></tr><tr><td/><td>rial oxygen satura-</td><td/><td/><td/><td/><td/></tr><tr><td/><td>tion and maternal</td><td/><td/><td/><td/><td/></tr><tr><td/><td>respiratory rate)</td><td/><td/><td/><td/><td/></tr><tr><td/><td>was 18</td><td/><td/><td/><td/><td/></tr><tr><td>Maternal OAA score (ob-</td><td>440 per 1000</td><td>40 per 1000</td><td>RR 0.09</td><td>50</td><td>\u2295\u2295\u229d\u229d</td><td>Levels of maternal sedation were report-</td></tr><tr><td>server assessment of</td><td/><td>(4 to 286)</td><td>(0.01 to 0.65)</td><td>(1 RCT)</td><td>Low a</td><td>ed using an 'observer assessment of alert-</td></tr><tr><td>alertness/sedation) &lt; 4</td><td/><td/><td/><td/><td/><td>ness/sedation scale (OAA/S).' The targeted</td></tr><tr><td>Fetal immobilisation score at 40 minutes (Degree of fetal immobilisation as defined by trial authors) (Maternal sedation mea-sured using sedation scores as defined by au-thors)</td><td>The mean fetal im-mobilisation score at 40 minutes (De-gree of fetal immo-</td><td>MD 65 lower (69.38 lower to 60.62 lower)</td><td>-</td><td>50 (1 RCT)</td><td>\u2295\u2295\u229d\u229d Low a</td><td>OAA/S score was 4, with a score less than 4 For this evaluation of fetal movement, a associated with profound sedation, and a VAS score for mobility was assessed by score higher than 4 associated with insuf-a sonographer evaluating a taped ultra-sound sequence (0 = immobile and 100 = ficient sedation</td></tr><tr><td>Perinatal mortality</td><td>bilisation as de-fined by trial au-thors) was 80</td><td/><td>(0 studies)</td><td>-</td><td>Data not pro-vided to report this outcome</td><td>baseline mobility)</td></tr><tr><td>Fetal movements -gross body and limb (Degree of fetal immobilisation as defined by trial authors) Time taken to perform procedure</td><td>The mean fetal movements -gross body and limb (De-gree of fetal immo-</td><td>MD 10 lower (11.62 lower to 8.38 lower)</td><td>-(0 studies)</td><td>50 (1 RCT) -</td><td>\u2295\u2295\u229d\u229d Low a Data not pro-vided to report this outcome</td><td>For this evaluation of fetal movement/mo-bility, gross bodily and limb movements were scored by a sonographer evaluating a taped ultrasound sequence (score was</td></tr><tr><td>*The</td><td>bilisation as de-fined by trial au-</td><td/><td/><td/><td/><td>absolute number of fetal movements in the 5-minute period taped)</td></tr><tr><td/><td>thors) was 12</td><td/><td/><td/><td/><td/></tr><tr><td>Surgical assessment/sat-</td><td>320 per 1000</td><td>922 per 1000</td><td>RR 2.88</td><td>50</td><td>\u2295\u2295\u229d\u229d</td><td>Evaluation of the procedure overall was</td></tr><tr><td>isfaction score = 1 or 2</td><td/><td>(512 to 1000)</td><td>(1.60 to 5.15)</td><td>(1 RCT)</td><td>Low a</td><td>also performed by the surgeon and as-</td></tr><tr><td>(Technically successful</td><td/><td/><td/><td/><td/><td>sessed on a 4-point scale. \"At the end of</td></tr><tr><td>procedure as defined by</td><td/><td/><td/><td/><td/><td>the intervention the surgeon assessed</td></tr><tr><td>trial authors)</td><td/><td/><td/><td/><td/><td>overall fetal immobility and operating</td></tr><tr><td/><td/><td/><td/><td/><td/><td>conditions using a four point scale, this</td></tr><tr><td/><td/><td/><td/><td/><td/><td>subjective score represented an overall</td></tr><tr><td/><td/><td/><td/><td/><td/><td>subjective impression and is further re-</td></tr><tr><td/><td/><td/><td/><td/><td/><td>ferred to as the surgical assessment/sat-</td></tr><tr><td/><td/><td/><td/><td/><td/><td>isfaction score, 1 = excellent, 2 = good, 3 =</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF2": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>intervention (and</td></tr><tr><td>its 95% CI).</td></tr><tr><td>CI: confidence interval;</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF3": {
+                "text": "are very confident that the true effect lies close to that of the estimate of the effect.",
+                "html": null,
+                "num": null,
+                "content": "<table/>",
+                "type_str": "table"
+            },
+            "TABREF4": {
+                "text": "Copyright \u00a9 2022 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>Cochrane Library</td><td>Trusted evidence. Informed decisions. Better health.</td></tr></table>",
+                "type_str": "table"
+            }
+        }
+    }
+}

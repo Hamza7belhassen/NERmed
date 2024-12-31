@@ -1,0 +1,202 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\A-case-report-of-retroperitoneal-ectopic-pregnancy",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:28.340829Z"
+    },
+    "title": "A case report of retroperitoneal ectopic pregnancy with lymphatic migration after in vitro fertilization\u2013embryo transfer: an explanation to embryo distant migration",
+    "authors": [
+        {
+            "first": "Jing",
+            "middle": [],
+            "last": "Yuan",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Third Xiangya Hospital of Central South University",
+                "location": {
+                    "settlement": "Changsha",
+                    "region": "Hunan",
+                    "country": "People's Republic of China"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Hui",
+            "middle": [],
+            "last": "Xie",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Third Xiangya Hospital of Central South University",
+                "location": {
+                    "settlement": "Changsha",
+                    "region": "Hunan",
+                    "country": "People's Republic of China"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Muyu",
+            "middle": [],
+            "last": "Chen",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Third Xiangya Hospital of Central South University",
+                "location": {
+                    "settlement": "Changsha",
+                    "region": "Hunan",
+                    "country": "People's Republic of China"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Fei",
+            "middle": [],
+            "last": "Zeng",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Third Xiangya Hospital of Central South University",
+                "location": {
+                    "settlement": "Changsha",
+                    "region": "Hunan",
+                    "country": "People's Republic of China"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Songshu",
+            "middle": [],
+            "last": "Xiao",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Third Xiangya Hospital of Central South University",
+                "location": {
+                    "settlement": "Changsha",
+                    "region": "Hunan",
+                    "country": "People's Republic of China"
+                }
+            },
+            "email": "xiaosongshu@csu.edu.cn"
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objective: To present a rare case of retroperitoneal ectopic pregnancy with lymphatic migration after in vitro fertilization-embryo transfer (IVF-ET) and propose the possible explanation for embryonic migration.Design: Illustrative video presentation.Images, videos (educational videos), and title slides were used to introduce the case of a patient with retroperitoneal ectopic pregnancy with lymphatic migration after IVF-ET and provide a potential explanation for embryo distant migration in the patient.This work was approved by the institutional review board.Setting: University hospital.Patient(s): A 32-year-old woman (gravida 2, para 0) with a history of right salpingectomy was admitted to the hospital 40 days after IVF-ET because of ectopic pregnancy for 1 day; the patient had secondary infertility for 6 years.Gynecologic examination indicated anterior 40-day uterus with no tenderness.A preoperative B-mode ultrasound scan showed that the endometrium was 23 mm, and there was no acoustic image of the pregnant sac in the uterine cavity.Magnetic resonance imaging showed that 1 oval signal measuring approximately 30 \u00c2 28 \u00c2 35 mm was detected at the gap between the aorta anterior to the third lumbar vertebra and inferior vena cava.The inferior vena cava could be seen on the rear right of the gestational sac, and the abdominal aorta could be seen on the rear left.Intervention(s): Retroperitoneal ectopic pregnancy with lymphatic migration after IVF-ET was diagnosed using B-mode ultrasound, MRI, and pathology analysis and was removed laparoscopically.Main Outcome Measure(s): Mechanism analysis of distant ectopic migration in a patient receiving IVF-ET with a history of tubal surgery.Result(s): The patient was diagnosed using B-mode ultrasound and MRI and underwent laparoscopic surgery to diagnose and remove the retroperitoneal ectopic pregnancy tissue.Further, the pregnancy lesion was completely removed using an ultrasonic knife.The pathological examination showed that the pregnancy tissue was located inside an enlarged lymph node surrounded by lymphoid tissue, and lymphocyte infiltration was also seen in the endometrial tissue, suggesting that the implanted embryo migrated to the retroperitoneum through the lymphatic channels.The patient successfully conceived through IVF-ET 1 year after the operation, and a full-term neonate was delivered by cesarean section.",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\A-case-report-of-retroperitoneal-ectopic-pregnancy",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.05.034",
+        "keywords": [
+            "Infertility",
+            "IVF-ET",
+            "laparoscopy",
+            "lymphatic migration",
+            "retroperitoneal ectopic pregnancy"
+        ],
+        "abstract": [
+            {
+                "text": "Objective: To present a rare case of retroperitoneal ectopic pregnancy with lymphatic migration after in vitro fertilization-embryo transfer (IVF-ET) and propose the possible explanation for embryonic migration.Design: Illustrative video presentation.Images, videos (educational videos), and title slides were used to introduce the case of a patient with retroperitoneal ectopic pregnancy with lymphatic migration after IVF-ET and provide a potential explanation for embryo distant migration in the patient.This work was approved by the institutional review board.Setting: University hospital.Patient(s): A 32-year-old woman (gravida 2, para 0) with a history of right salpingectomy was admitted to the hospital 40 days after IVF-ET because of ectopic pregnancy for 1 day; the patient had secondary infertility for 6 years.Gynecologic examination indicated anterior 40-day uterus with no tenderness.A preoperative B-mode ultrasound scan showed that the endometrium was 23 mm, and there was no acoustic image of the pregnant sac in the uterine cavity.Magnetic resonance imaging showed that 1 oval signal measuring approximately 30 \u00c2 28 \u00c2 35 mm was detected at the gap between the aorta anterior to the third lumbar vertebra and inferior vena cava.The inferior vena cava could be seen on the rear right of the gestational sac, and the abdominal aorta could be seen on the rear left.Intervention(s): Retroperitoneal ectopic pregnancy with lymphatic migration after IVF-ET was diagnosed using B-mode ultrasound, MRI, and pathology analysis and was removed laparoscopically.Main Outcome Measure(s): Mechanism analysis of distant ectopic migration in a patient receiving IVF-ET with a history of tubal surgery.Result(s): The patient was diagnosed using B-mode ultrasound and MRI and underwent laparoscopic surgery to diagnose and remove the retroperitoneal ectopic pregnancy tissue.Further, the pregnancy lesion was completely removed using an ultrasonic knife.The pathological examination showed that the pregnancy tissue was located inside an enlarged lymph node surrounded by lymphoid tissue, and lymphocyte infiltration was also seen in the endometrial tissue, suggesting that the implanted embryo migrated to the retroperitoneum through the lymphatic channels.The patient successfully conceived through IVF-ET 1 year after the operation, and a full-term neonate was delivered by cesarean section.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Informe de un caso de un embarazo ect opico retroperitoneal con migraci on linf atica despu es de una transferencia tras fecundaci on in vitro: una explicaci on de la migraci on distal del embri on.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility and Sterility\u00ae",
+                "sec_num": null
+            },
+            {
+                "text": "Objetivo: Presentar un caso raro de embarazo ect opico retroperitoneal con migraci on linf atica despu es de una transferencia de fecundaci on in vitro (IVF-ET) y proponer posibles explicaciones para migraci on embrionaria.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility and Sterility\u00ae",
+                "sec_num": null
+            },
+            {
+                "text": "Dise\u00f1o: Presentaci on en video ilustrativo.Para introducir el caso de una paciente con embrazo ect opico retroperitoneal con migraci on linf atica despu es de una fecundaci on in vitro y ofrecer una potencial explicaci on de la migraci on distal se usaron im agenes, videos (videos educativos) y diapositivas tituladas.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility and Sterility\u00ae",
+                "sec_num": null
+            },
+            {
+                "text": "Entorno: Hospital universitario.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility and Sterility\u00ae",
+                "sec_num": null
+            },
+            {
+                "text": "Paciente(s): Una mujer de 32 a\u00f1os (gr avida 2, para 0) con historia de salpinguectom\u00eda derecha ingres o durante un d\u00eda al hospital tras 40 d\u00edas de una FIV-ET debido a un embarazo ect opico; la paciente ten\u00eda una esterilidad secundaria de 6 a\u00f1os.El examen ginecol ogico mostr o un utero anterior de 40 d\u00edas, no doloroso.Los ultrasonidos en modo B preoperatorios mostraron el endometrio de 23 mm sin imagen ac ustica de saco gestacional en la cavidad uterina.La resonancia magn etica mostr o una se\u00f1al oval de 30 x 28 x 35 mm en el espacio entre la aorta anterior a la tercera v ertebra lumbar y la vena cava inferior.La vena cava inferior se pod\u00eda ver posterior derecha al saco gestacional y la aorta abdominal posterior izquierda.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility and Sterility\u00ae",
+                "sec_num": null
+            },
+            {
+                "text": "Intervenci on(es): Se diagnostic o el embarazo ect opico retroperitoneal con migraci on linf atica despu es de una IVF-ET mediante ultrasonidos modo B, MRI y anatom\u00eda patol ogica, y se resec o mediante laparoscopia.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility and Sterility\u00ae",
+                "sec_num": null
+            },
+            {
+                "text": "Medida(s) de Resultado(s) principal(es): An alisis de los mecanismos de migraci on embrionaria ect opica distal en una paciente de IVF-ET con historia de cirug\u00eda tub arica.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility and Sterility\u00ae",
+                "sec_num": null
+            },
+            {
+                "text": "Resultado(s): La paciente se diagnostic o mediante ultrasonidos modo B y MRI y se someti o a una laparoscopia para diagnosticar y extirpar el tejido del embarazo ect opico.Adem as, la extirpaci on del tejido gestacional se hizo con escalpelo de alta frecuencia.La anatom\u00eda patol ogica mostr o que el tejido gestacional estaba localizado en el interior de un n odulo linf atico agrandado rodeado de tejido linfoide y hab\u00eda infiltraci on linfocitaria en el tejido endometrial, sugiriendo que el embri on implantado migr o al retroperitoneo a trav es de canales linf aticos.La paciente consigui o una gestaci on exitosa despu es de un a\u00f1o de la operaci on mediante IVF-ET y tuvo un reci en nacido a t ermino mediante ces area.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility and Sterility\u00ae",
+                "sec_num": null
+            },
+            {
+                "text": "Conclusi on: Este caso refuerza que en pacientes con historia de cirug\u00eda tub arica uni-o bilateral se debe estar atento y hacer su seguimiento de la posibilidad de un embarazo retroperitoneal despu es de IVF-ET.El examen patol ogico mostr o evidencia que la migraci on linf atica es un posible mecanismo de embarazo ect opico retroperitoneal o migraci on embrionaria despu es de una ubicaci on intrauterina.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Fertility and Sterility\u00ae",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Supported by grants from the Department of Science and Technology of Hunan Province (2020SK53607), the general project of the Health Commission of Hunan Province (202205012566), Hunan province postgraduate scientific research innovation project (CX20210380), the project of Hunan Province Natural Science Foundation (grant 2021JJ31030), postgraduate independent exploration and innovation project of Central South University (2021zzts1080), Hunan postgraduate teaching platform project -excellent postgraduate teaching team (2019-39), and Hunan philosophy and Social Science Foundation Project (19YBA349).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "funding",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {},
+        "ref_entries": {}
+    }
+}

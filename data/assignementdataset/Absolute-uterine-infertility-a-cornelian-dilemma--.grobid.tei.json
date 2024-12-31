@@ -1,0 +1,3600 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Absolute-uterine-infertility-a-cornelian-dilemma--",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:28.734694Z"
+    },
+    "title": "Absolute uterine infertility a cornelian dilemma: uterine transplantation or surrogacy?",
+    "authors": [
+        {
+            "first": "Mats",
+            "middle": [],
+            "last": "Br\u00e4nnstr\u00f6m",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Catherine",
+            "middle": [],
+            "last": "Racowsky",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Elliott",
+            "middle": [
+                "G"
+            ],
+            "last": "Richards",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Rebecca",
+            "middle": [],
+            "last": "Flyckt",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Robert",
+            "middle": [
+                "J"
+            ],
+            "last": "Stillman",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Jeanne",
+            "middle": [
+                "E"
+            ],
+            "last": "O\u2019brien",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Ginny",
+            "middle": [
+                "L"
+            ],
+            "last": "Ryan",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Dominique",
+            "middle": [],
+            "last": "De Ziegler",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "H\u00f4pital Foch-Universit e de Paris Ouest UVSQ",
+                "location": {
+                    "settlement": "Paris",
+                    "country": "France"
+                }
+            },
+            "email": "dom@deziegler.com"
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Absolute-uterine-infertility-a-cornelian-dilemma--",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2023.04.005",
+        "keywords": [],
+        "abstract": [],
+        "body_text": [
+            {
+                "text": "Absolute uterine factor infertility (AUFI), because of congenital/surgical uterine absence or any uterine abnormality (anatomic/functional) that obstructs pregnancy, was for many years regarded as the last frontier to conquer female infertility treatments.However, after extensive animalbased research, starting 25 years ago (1, 2) , the feasibility of uterus transplantation (UTx) as a treatment for AUFI was demonstrated in 2014 by the first live birth after UTx (3).To date, 70 UTx procedures resulting in 34 live births have been published (4, 5) , with a further 22 UTx procedures and 15 births reported in the unpublished domain (JM Ayoubi, personal communication, at the International Society of Uterus Transplantation [ISUTx] meeting, Paris, 2022).",
+                "cite_spans": [
+                    {
+                        "start": 325,
+                        "end": 328,
+                        "text": "(1,",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 329,
+                        "end": 331,
+                        "text": "2)",
+                        "ref_id": "BIBREF1"
+                    },
+                    {
+                        "start": 544,
+                        "end": 547,
+                        "text": "(4,",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 548,
+                        "end": 550,
+                        "text": "5)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Uterus Transplantation Levels the Playing Field as a Treatment for Female Infertility",
+                "sec_num": null
+            },
+            {
+                "text": "Uterus transplantation has provided women with AUFI the first true fertility treatment.With this procedure, unlike the use of gestational surrogacy, they can experience all aspects of natural motherhood, including not only the genetic tie but also the experience of pregnancy and childbirth.Moreover, although gestational surrogacy is an established option for women with AUFI to achieve genetic motherhood (and legal motherhood after adoption), this option is not available for most women in the world, because most countries or societies do not allow gestational surrogacy for ethical, legal, and/or religious reasons (6) .Furthermore, in many of those countries that do permit gestational surrogacy, the practice is unregulated and has associated risks of carrier exploitation.Of note, surveys among women with AUFI have shown that UTx would be preferred over gestational surrogacy (7, 8) .Clearly, to many women, childbearing is considered important to motherhood.",
+                "cite_spans": [
+                    {
+                        "start": 620,
+                        "end": 623,
+                        "text": "(6)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 885,
+                        "end": 888,
+                        "text": "(7,",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 889,
+                        "end": 891,
+                        "text": "8)",
+                        "ref_id": "BIBREF7"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Uterus Transplantation Levels the Playing Field as a Treatment for Female Infertility",
+                "sec_num": null
+            },
+            {
+                "text": "It is predicted that AUFI affects approximately 1:500 women of fertile age, with the most common causes being previous hysterectomy (cervical/uterine cancer, emergency peripartum procedure, and myoma); congenital absence; severe Asherman syndrome; and congenital uterine malformations, such as the unicornuate and didelphic uteri (9) .Today, modern infertility treatments, such as in vitro fertilization (IVF) and intracytoplasmic sperm injections are considered routine clinical procedures, and in many countries, they are included in the public health care systems.For reasons of equity, it would be reasonable for UTx to become a covered treatment after proven success with acceptable complication rates in a country's initial clinical trial(s).We emphasize that this would provide women with AUFI rights similar to infertility treatment as for those with other causes of infertility, such as tubal damage and endometriosis.",
+                "cite_spans": [
+                    {
+                        "start": 330,
+                        "end": 333,
+                        "text": "(9)",
+                        "ref_id": "BIBREF8"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Uterus Transplantation Levels the Playing Field as a Treatment for Female Infertility",
+                "sec_num": null
+            },
+            {
+                "text": "It should be acknowledged that UTx is a complex infertility treatment that entails major investigations and procedures before and after surgical interventions.Whether involving ''Just because we can does not mean we should''.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Complex Procedure but is Becoming More Common and More Standardized",
+                "sec_num": null
+            },
+            {
+                "text": "''This is.greatly complicated surgery .and it is not that we are terrible surgeons... even Dr.Takis, one of the absolute top transplant surgeons in the world, was caught by surprise..and says that this is possibly the most difficult transplantation he has ever done.''-Br\u20ac annstr\u20ac om (19) This quote is by our esteemed colleague on the ''Pro'' side, Dr Mats Br\u20ac annstr\u20ac om, the leader of the first (3) and most experienced UTx team in the world (12) , referring to the complexity of harvesting the volunteer donor's uterus.Dr Br\u20ac annstr\u20ac om expressing the unique difficulties and risks of UTx surgery, echoed vividly by experts worldwide who have attempted this feat (20, 21) , is a fitting entree to our ''Con'' discussion.",
+                "cite_spans": [
+                    {
+                        "start": 284,
+                        "end": 288,
+                        "text": "(19)",
+                        "ref_id": "BIBREF18"
+                    },
+                    {
+                        "start": 445,
+                        "end": 449,
+                        "text": "(12)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 667,
+                        "end": 671,
+                        "text": "(20,",
+                        "ref_id": "BIBREF19"
+                    },
+                    {
+                        "start": 672,
+                        "end": 675,
+                        "text": "21)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Complex Procedure but is Becoming More Common and More Standardized",
+                "sec_num": null
+            },
+            {
+                "text": "Primum non nocera.As we make our case against UTx, we rely heavily on quotes from published experts, (occasionally adding emphasis); therefore, we again quote Dr Br\u20ac annstr\u20ac om referring to uterine donor hysterectomies:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Complex Procedure but is Becoming More Common and More Standardized",
+                "sec_num": null
+            },
+            {
+                "text": "''The first live liver transplantation took 24 h.. Today they do it in 6-9 h...I predict that the removal of the UTx operation will be reduced to as short as 5 to 6 h as surgeons become more experienced, with a corresponding decrease in the risk.''-Br\u20ac annstr\u20ac om (19) .",
+                "cite_spans": [
+                    {
+                        "start": 264,
+                        "end": 268,
+                        "text": "(19)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Complex Procedure but is Becoming More Common and More Standardized",
+                "sec_num": null
+            },
+            {
+                "text": "We assume that Dr Br\u20ac annstr\u20ac om was conveying optimism and not dismay in his belief to get the hysterectomy to ''as short as to 5 to 6 hours'' from 8-12 hours currently.Even this shorter, albeit yet unrealized goal, may be achievable for very few teams even with ''absolute top transplant surgeons,'' as they each experience steep learning curves trying to ''decrease.the risk'' to the volunteer uterine donors.A US team leader, commenting on their first birth after 3 failed transplants, stated ''We had a very rough start... who paid for it, in a certain way, were the first 3 women...'' Testa (22) .",
+                "cite_spans": [
+                    {
+                        "start": 597,
+                        "end": 601,
+                        "text": "(22)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Complex Procedure but is Becoming More Common and More Standardized",
+                "sec_num": null
+            },
+            {
+                "text": "In the end, it must be acknowledged that the ''UTx does not newly offer women the opportunity to have a baby but rather to carry a pregnancy; this is an important distinction to understand,'' Lefkowitz et al. (23) .It is, in fact, an opportunity to participate in an extremely high-risk multistage endeavor.The newer promises of ''minimally invasive'' and robotic surgery are welcomed (24) but may have as much to do with cosmetics and surgeon fatigue than meaningful impact on the procedure's morbidity and potential mortality.",
+                "cite_spans": [
+                    {
+                        "start": 209,
+                        "end": 213,
+                        "text": "(23)",
+                        "ref_id": "BIBREF22"
+                    },
+                    {
+                        "start": 385,
+                        "end": 389,
+                        "text": "(24)",
+                        "ref_id": "BIBREF23"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Complex Procedure but is Becoming More Common and More Standardized",
+                "sec_num": null
+            },
+            {
+                "text": "Thus, we agree that ''It is mandatory to discuss the advisability of UTx apart from its feasibility.''Benagiano et al. (25) .",
+                "cite_spans": [
+                    {
+                        "start": 119,
+                        "end": 123,
+                        "text": "(25)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Complex Procedure but is Becoming More Common and More Standardized",
+                "sec_num": null
+            },
+            {
+                "text": "Moreover, we join in asking that ''Are the risks of massive surgery, especially on a living donor, justified for what is arguably a 'quality of life' transplant?''Catsanos et al. (26) .",
+                "cite_spans": [
+                    {
+                        "start": 179,
+                        "end": 183,
+                        "text": "(26)",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Complex Procedure but is Becoming More Common and More Standardized",
+                "sec_num": null
+            },
+            {
+                "text": "Uterus transplantation is the first treatment for absolute uterine factor infertility: proven high success rates and continuing scientific evaluation (continued) Gestational surrogacy is the treatment for absolute uterine infertility (continued) either a live or a deceased donor, the surgical procedures are preceded by multiple laboratory tests, imaging, and multidisciplinary investigations of recipients and donors for purposes of exclusion of cases with a low chance of success.The livedonor hysterectomy, to isolate the uterus with long vascular pedicles, is probably the most complex existing gynecological surgery, and it typically has a duration of 8-12 hours (4, 5) .Transplantation in the recipient is a fast procedure with a typical duration of 4-6 hours (4, 5) .Postoperative in-hospital care typically lasts 4-7 days for live donors and recipients.The recipients are then observed by regular outpatient visits for gynecological examination, including cervical biopsies to detect rejection, and with an assessment of laboratory parameters, including concentrations of immunosuppressants.",
+                "cite_spans": [
+                    {
+                        "start": 669,
+                        "end": 672,
+                        "text": "(4,",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 673,
+                        "end": 675,
+                        "text": "5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 767,
+                        "end": 770,
+                        "text": "(4,",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 771,
+                        "end": 773,
+                        "text": "5)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Complex Procedure but is Becoming More Common and More Standardized",
+                "sec_num": null
+            },
+            {
+                "text": "We also acknowledge that the surgical interventions and associated procedures required before, and for many years after UTx, can only be mastered by a very competent multidisciplinary team at a tertiary center with advanced gynecology, reproductive medicine, transplantation surgery, and obstetrics.However, such a multidisciplinary approach with institutional stability to maintain long-term care is not specific to UTx but is essential for any major surgical innovations, according to the Moore criteria (10) .Of note, the use of a gestational surrogate (GS) likewise requires a multidisciplinary team approach as well as the obvious requirement to find a woman willing, and medically cleared, to gestate another's child.It should be noted that there is a clear upward trend in the number of UTx cases performed worldwide, and with optimization of surgical techniques as well as standardization of screening for inclusion/exclusion of donors and recipients, it is likely that the technique will spread rapidly with the initiation of scientific and clinical feasibility studies of UTx in each specific setting/nation.",
+                "cite_spans": [
+                    {
+                        "start": 506,
+                        "end": 510,
+                        "text": "(10)",
+                        "ref_id": "BIBREF9"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Complex Procedure but is Becoming More Common and More Standardized",
+                "sec_num": null
+            },
+            {
+                "text": "Uterus transplantation, unlike all other types of organ transplantation, has a considerable lag phase of over a year from the transplant until procedural success can be determined.Thus, a UTx procedure can only be regarded as truly successful when the grafted uterus has carried a pregnancy with the delivery of a live birth.The time from UTx until the first live birth may take several years, as illustrated by the world's first deceased donor UTx procedure, which resulted in its first live birth 9 years later (11) .",
+                "cite_spans": [
+                    {
+                        "start": 513,
+                        "end": 517,
+                        "text": "(11)",
+                        "ref_id": "BIBREF10"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Successful Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "In UTx, the term surgical success is also used, which refers to a graft showing normal blood flow after transplantation and with regular menstruation, typically assessed around 3-4 months after surgery.A surgically successful UTx procedure will undergo the first embryo transfer (ET) from around 4-10 months after UTx, but naturally not all will achieve a live birth after multiple ET attempts.In the most updated comprehensive review article of 70 UTx cases (5) , the total surgical",
+                "cite_spans": [
+                    {
+                        "start": 459,
+                        "end": 462,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Successful Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "The normalization of deviance.The Harvard Business Review paper, ''How to Avoid Catastrophe,'' is applicable here (27) .The investigators reviewed how acting on several, foreseeable smaller problems when they occur can avert larger disasters later like the Challenger shuttle and BP oil spill, among others.They discuss how ''the normalization of deviance-the tendency over time to accept the development of anomalies, especially risky ones-takes hold'' and ''outcome bias-people observing successful outcomes focus on the results more than on the complex process or often the luck leading to the outcome.''Such, we believe, is the case with UTx.Over a short time, deviations of significant risks to volunteer donors (and recipients and offspring) have been normalized, and we have come to accept the outcome bias of these unacceptable risks.Consideration of UTx for cis-gender males and transgender females may add further complexity and risk (28) .In considering UTx research and nonexperimental treatment, it is worth revisiting the Swedish regulation that ''biological material intended for transplant may not be taken from a living person if the operation can pose a serious risk to the donor's life or health (29) .''",
+                "cite_spans": [
+                    {
+                        "start": 114,
+                        "end": 118,
+                        "text": "(27)",
+                        "ref_id": "BIBREF26"
+                    },
+                    {
+                        "start": 944,
+                        "end": 948,
+                        "text": "(28)",
+                        "ref_id": "BIBREF27"
+                    },
+                    {
+                        "start": 1215,
+                        "end": 1219,
+                        "text": "(29)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Successful Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "To avoid the risks to living donors, a handful of UTx worldwide have employed cadaver uteri.Dr Nuland's UK team will only use cadaver uteri stating: ''This is not a lifesaving transplant.It is not the same as a heart, lung, liver, or kidney transplant'' (30) .Unfortunately, the inability to screen the uterus, cervix, vagina for contraindications (e.g., leiomyoma, dysplasia, and infection) before surgery, other issues of compatibility, timing, and availability present serious limitations to this option.The limitations are illustrated in the first US cadaver UTx, where, hours after a triumphant after surgical transplant press conference, the immunosuppressed recipient almost succumbed to Candidal sepsis via contamination from the deceased donor's vaginal cuff (31) .The recipient couple later successfully used her mother as a GC.The limitations of pursuing cadaveric uteri have been deemed insurmountable by many proponents of transplantation, leading most centers to rely on living donors with its associated increased risks and complications (29) .",
+                "cite_spans": [
+                    {
+                        "start": 254,
+                        "end": 258,
+                        "text": "(30)",
+                        "ref_id": "BIBREF29"
+                    },
+                    {
+                        "start": 768,
+                        "end": 772,
+                        "text": "(31)",
+                        "ref_id": "BIBREF30"
+                    },
+                    {
+                        "start": 1053,
+                        "end": 1057,
+                        "text": "(29)",
+                        "ref_id": "BIBREF28"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Successful Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "We ask: when does seeking a lofty grail for perceived perfection among clinical options, e.g., ''a desire for not only my own child but my own pregnancy'' Catsanos et al. [26] ) become an enemy of the good?When must even the most prodigious of surgeons and well-meaning programs answer the call to nonmaleficence?New surgical grail.Setting aside the great exuberance of large multidisciplinary transplant teams across the globe, what are ''Pro'' transplant arguments and the counterarguments? 1. Pro: opportunity to carry one's own child.",
+                "cite_spans": [
+                    {
+                        "start": 171,
+                        "end": 175,
+                        "text": "[26]",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Successful Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Con: none -aiding those with Absolute Uterine Infertility (AIUF) to carry pregnancies of their own is a laudable goal.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Successful Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Uterus transplantation is the first treatment for absolute uterine factor infertility: proven high success rates and continuing scientific evaluation (continued)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Successful Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Gestational surrogacy is the treatment for absolute uterine infertility (continued) success of approximately 74% was reported, with success rates of 70% for live-donor UTx by laparotomy in both donor and recipient, 90% for live donor by minimal-invasive surgery (robotics/laparoscopy) in donor and laparotomy in recipients, and 58% for the deceased donor by laparotomy in donor and recipient.The high success rate for live-donor UTx by minimal-invasive surgery during donor hysterectomy is likely because the teams had previously acquired specific surgical skills with the use of conventional laparotomy methods.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Successful Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "The reproductive efficacy of surgically successful grafts having ETs is typically assessed by the clinical pregnancy rate per ET and live birth rate per ET.Because the uterine graft will only be carried for a finite time (typically up to 5-6 years), the cumulative live birth rate resulting from the total number of ETs performed per attempted UTx procedure and surgically successful UTx procedure should be reported after uterine removal.There is only one trial with completed results and therefore the possibility to calculate the true key performance indices of IVF after UTx.In that trial, with 9 live-donor UTx procedures by laparotomy in 2012-2013, the overall clinical pregnancy rate per ET was 32.6%, and the livebirth rate per ET was 19.6% (12) .Although one could argue that these rates are low, it is to be noted that most ETs involved cleavagestage embryos and that one patient had as many as 16 ETs but no live birth.The cumulative live birth rates in the trial were 67% of performed UTx surgeries and 86% of surgically successful UTx procedures (12) .",
+                "cite_spans": [
+                    {
+                        "start": 749,
+                        "end": 753,
+                        "text": "(12)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 1059,
+                        "end": 1063,
+                        "text": "(12)",
+                        "ref_id": "BIBREF11"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Successful Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Taken together, although these results are encouraging and highlight the value of UTx in the treatment of AUFI, it is likely that success will further increase.Several procedural modifications are currently being performed or are under development, including refinements of inclusion criteria for donors and recipients, the introduction of minimally invasive surgery for donor hysterectomy, advancements in both noninvasive rejection diagnosis and immunosuppression protocols, and, in select cases, the use of blastocyst transfer with or without preimplantation genetic testing for aneuploidy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx is a Successful Procedure",
+                "sec_num": null
+            },
+            {
+                "text": "Most centers worldwide now performing clinical UTx do so within registered clinical trials and most of the results are published as case reports, interim analyses reporting surgical and reproductive outcomes, or are collated in reviews (5) .However, we have reached a time when results of single cases or small case series of UTx are uninformative because the novelty and scientific information gained from those are now so low.Moreover, even if these types of reports find their way to publication, there will be a risk of bias toward the publication of only successful cases resulting in live births.Thus, the time is now passed for 2. Pro: UTx represents the opportunity to carry a child where GS is believed to be exploitative, and unethical, and is then banned by law or custom.",
+                "cite_spans": [
+                    {
+                        "start": 236,
+                        "end": 239,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx Procedures are Being Registered to Enable Reliable Data Collection",
+                "sec_num": null
+            },
+            {
+                "text": "Con: ''GS offers a far from unproblematic remedy.butthese are all contingent matters.concernsthat are open to change.therefore,there are limits to which the current negative presumptions and unaccommodating laws for GS can legitimately be invoked as a basis for other 'better' reproductive alternatives.onecould argue that the main objective ought to be to develop the law around GS rather than to develop reproductive alternatives'' (Catsanos et al. [26] ).A. Hastings report reasons: ''If one promoted benefit of UTx is reproductive autonomy, 'autonomy' without allowing a choice is not providing reproductive autonomy at all'' Horsburgh [32] .",
+                "cite_spans": [
+                    {
+                        "start": 451,
+                        "end": 455,
+                        "text": "[26]",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 640,
+                        "end": 644,
+                        "text": "[32]",
+                        "ref_id": "BIBREF31"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx Procedures are Being Registered to Enable Reliable Data Collection",
+                "sec_num": null
+            },
+            {
+                "text": "It is patronizing for first world ethicists to conclude that GSs are inherently exploited, an argument used in support of bans.Interviews with many GSs provide alternative perspectives (33, 34) .One GS stated ''It takes me out of the tanning factory 10 hours days for 6 days per week.I am good at it and I can be of help.And I now can afford to feed, clothe, and educate my children.... Who's exploiting who?''And does UTx not exploit the uterine donors?And if some consider GS exploitation, then a response is regulate it within their countries (35) , such as discussion in Iceland (36) and Sweden (37, 38) , rather than ban it and default to supporting UTx (26, 38) .",
+                "cite_spans": [
+                    {
+                        "start": 185,
+                        "end": 189,
+                        "text": "(33,",
+                        "ref_id": "BIBREF32"
+                    },
+                    {
+                        "start": 190,
+                        "end": 193,
+                        "text": "34)",
+                        "ref_id": "BIBREF33"
+                    },
+                    {
+                        "start": 546,
+                        "end": 550,
+                        "text": "(35)",
+                        "ref_id": "BIBREF34"
+                    },
+                    {
+                        "start": 583,
+                        "end": 587,
+                        "text": "(36)",
+                        "ref_id": "BIBREF35"
+                    },
+                    {
+                        "start": 599,
+                        "end": 603,
+                        "text": "(37,",
+                        "ref_id": "BIBREF36"
+                    },
+                    {
+                        "start": 604,
+                        "end": 607,
+                        "text": "38)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 659,
+                        "end": 663,
+                        "text": "(26,",
+                        "ref_id": "BIBREF25"
+                    },
+                    {
+                        "start": 664,
+                        "end": 667,
+                        "text": "38)",
+                        "ref_id": "BIBREF37"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx Procedures are Being Registered to Enable Reliable Data Collection",
+                "sec_num": null
+            },
+            {
+                "text": "3. Pro: GS represents a risk to the surrogate.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx Procedures are Being Registered to Enable Reliable Data Collection",
+                "sec_num": null
+            },
+            {
+                "text": "''Gestational Surrogacy raises major concerns about transferring the risk of pregnancy related morbidity and even mortality to another woman.''-Olausson et al. (39) .",
+                "cite_spans": [
+                    {
+                        "start": 160,
+                        "end": 164,
+                        "text": "(39)",
+                        "ref_id": "BIBREF38"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx Procedures are Being Registered to Enable Reliable Data Collection",
+                "sec_num": null
+            },
+            {
+                "text": "Con: we believe this argument from Dr. Br\u20ac annstr\u20ac om's team -and considering GS as an ''insult to human dignity'' (39)-are overstatements.The Nordic Maternal Mortality rates in all pregnancies (not just those well screened, successful gravidas who serve as GSs) (40) is hundreds of times lower than reported risks of the closest analogous surgery to a live donor's hysterectomy, the far shorter (approximately 2.5-3 hours) and less complex radical hysterectomy. (41, 42) Olausson's quote above (39) becomes a valid argument against UTx if one turns it on itself: It is UTx that ''raises major concerns about transferring the risks of morbidity and even mortality to another woman,'' (the uterine donor).",
+                "cite_spans": [
+                    {
+                        "start": 463,
+                        "end": 467,
+                        "text": "(41,",
+                        "ref_id": "BIBREF40"
+                    },
+                    {
+                        "start": 468,
+                        "end": 471,
+                        "text": "42)",
+                        "ref_id": "BIBREF41"
+                    },
+                    {
+                        "start": 495,
+                        "end": 499,
+                        "text": "(39)",
+                        "ref_id": "BIBREF38"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx Procedures are Being Registered to Enable Reliable Data Collection",
+                "sec_num": null
+            },
+            {
+                "text": "The actual risks to the donor are detailed by Forbes and Karp (43) who state that ''the claim by Johannesson 2022 (13) that the data demonstrate safety for the recipient, living donor and child Uterus transplantation is the first treatment for absolute uterine factor infertility: proven high success rates and continuing scientific evaluation (continued) Gestational surrogacy is the treatment for absolute uterine infertility (continued) reviews or systematic reviews to provide reliable metrics on UTx.",
+                "cite_spans": [
+                    {
+                        "start": 62,
+                        "end": 66,
+                        "text": "(43)",
+                        "ref_id": "BIBREF42"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx Procedures are Being Registered to Enable Reliable Data Collection",
+                "sec_num": null
+            },
+            {
+                "text": "The ISUTx was formed in 2017 as a society with a vision dedicated to scientific scrutiny and clinical innovation and advances in the field of UTx.One major mission of the ISUTx, which is now a section in the globally spanning society, the Transplantation Society, is to establish and maintain an international registry of UTx cases.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx Procedures are Being Registered to Enable Reliable Data Collection",
+                "sec_num": null
+            },
+            {
+                "text": "The first report of the ISUTx registry was recently published and includes data up until January 1, 2021, from all centers worldwide, except those of the United States (3 centers) and India (1 center).This report (4) was purely descriptive, providing valuable data on donors, recipients, surgery, immunosuppression, rejection, and live birth(s).With further expansion of data collected and with the regular publication of registry reports, the ISUTx is poised to provide current, reliable information, not only to teams performing or planning UTx but also to other stakeholders, such as patients, health politicians, and health insurance providers.Importantly, the prospective data entry and absence of identifiers linked to single UTx centers will minimize the risk of exclusion of cases with poor outcomes.The ISUTx is actively working toward achieving near-full coverage of all centers performing UTx, which will be instrumental in future developments of the registry and advancements in the field.With more cases entered, analyses will not only be descriptive but will be quantitative and allow investigators to involve multivariate and logistic regression analyses to identify variables that either positively or negatively impact UTx surgical and clinical success.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "UTx Procedures are Being Registered to Enable Reliable Data Collection",
+                "sec_num": null
+            },
+            {
+                "text": "With >45 children born from approximately 90 transplantations, the feasibility of UTx has been proven.The establishment of the ISUTx registry and prospective reporting for most cases worldwide will enable more robust analyses of reliable data and is expected to increase the awareness of UTx as a real alternative to gestational surrogacy.Together with increasing standardization of the procedure, we believe that access will increase and that UTx will become part of the armamentarium of reproductive specialists when counseling patients regarding their alternatives.As such, it will represent a realistic option for patients experiencing uterine infertility, and so will be consistent with survey results indicating that this is a woman's preferred option to gestational surrogacy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "is not accurate.''the rate of surgical complications was relatively high for living donors, including 23% with grade III Clavien-Dindo complications (e.g., most requiring surgical intervention) and 14% with ureteral injury'' during the 10-14 hour surgery; and the ''immunosuppression regimen is intense.''Those are serious complications in approximately 1 in 4 donor volunteers.''Issues of safety, ethics and policy for this nascent procedure should be of active interest and continuous assessment and refinement''-Forbes and Karp (43)-before practitioners, through the normalization of deviance, drift into acceptance of Clavien-Dindo grade III complications.Will only a donor's tragic death force a recognition of these deviances?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "Risk to donors.The risks to the live volunteer uterine donors outlined above (especially compared with that of a GS) challenge the most foundational principle of medical bioethics: ''Primum non nocera'': First do no harm.Not second.Not third, but first (39) .",
+                "cite_spans": [
+                    {
+                        "start": 253,
+                        "end": 257,
+                        "text": "(39)",
+                        "ref_id": "BIBREF38"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Concerns regarding risks (individual and aggregate)",
+                "sec_num": null
+            },
+            {
+                "text": "Risks to recipients.Although recipients are the beneficiaries of UTx, there are many interventions and risks to them in this multistep process: first, cycles of IVF/embryo biopsy to store an adequate number of euploid embryos for transfer; intense, continuous immunotherapy; major and prolonged transplant surgery; ET cycle(s); gestation with ongoing careful monitoring for graft rejection; psychological risks, such as guilt for graft failure, pregnancy loss, or prematurity; possible disappointment with the reality of a physical pregnancy without innervation; Cesarean delivery (more than once if seeking a second pregnancy), then, finally, hysterectomy of this, the world's first ephemeral transplant graft.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Concerns regarding risks (individual and aggregate)",
+                "sec_num": null
+            },
+            {
+                "text": "Risks to the child.The risks to offspring being carried in a transplanted uterus include exposure to intense immunosuppressive drugs throughout gestation.In many documented cases (13) , there was also need for greater bolus doses and different immunosuppressive regimens mid gestation to avoid the risk of, or actualization of, uterine rejection, vascular insufficiency, and/or morbidity or mortality because of intrauterine growth retardation and/or prematurity -especially compared with gestation in a screened gravida (38) .The exposure of the developing fetus to immunosuppressive medications throughout gestation may also have unforeseen health consequences, such as transgenerational epigenetic effects, (44) the consequences of which may not be known for decades.",
+                "cite_spans": [
+                    {
+                        "start": 179,
+                        "end": 183,
+                        "text": "(13)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 521,
+                        "end": 525,
+                        "text": "(38)",
+                        "ref_id": "BIBREF37"
+                    },
+                    {
+                        "start": 710,
+                        "end": 714,
+                        "text": "(44)",
+                        "ref_id": "BIBREF43"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Concerns regarding risks (individual and aggregate)",
+                "sec_num": null
+            },
+            {
+                "text": "Uterus transplantation is the first treatment for absolute uterine factor infertility: proven high success rates and continuing scientific evaluation (continued)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Concerns regarding risks (individual and aggregate)",
+                "sec_num": null
+            },
+            {
+                "text": "Gestational surrogacy is the treatment for absolute uterine infertility (continued) Access, autonomy, and affirmation are paramount in the case of uterus transplantation Elliott G. Richards, M.D., Ph.D.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Concerns regarding risks (individual and aggregate)",
+                "sec_num": null
+            },
+            {
+                "text": "Rebecca Flyckt, M.D.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Concerns regarding risks (individual and aggregate)",
+                "sec_num": null
+            },
+            {
+                "text": "With success now replicated by dozens of centers around the world, UTx represents a long-anticipated method for achieving gestational motherhood for women affected by uterine factor infertility (UFI) (13) .As elegantly discussed by Drs Br\u20ac annstr\u20ac om and Racowsky in their section of this Fertile Battle, the growing worldwide experience is reassuring regarding the safety, efficacy, and neonatal outcomes after UTx.However, supporting arguments for UTx vs. gestational carriers (GCs) should not focus strictly on procedural outcomes; as described previously (14) , the motivations for participating in UTx are diverse and center on access to family-building modalities, perceived autonomy, and control over reproductive decision-making, and gender affirmation.",
+                "cite_spans": [
+                    {
+                        "start": 200,
+                        "end": 204,
+                        "text": "(13)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 559,
+                        "end": 563,
+                        "text": "(14)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "The Justification for UTx Goes Beyond Procedural Outcomes",
+                "sec_num": null
+            },
+            {
+                "text": "Before delving into the ''Pro'' UTx side, it is worth mentioning that comparisons of UTx vs. GC are theoretical rather than practical in many parts of the world as GCs are illegal, banned, or inaccessible in many countries.For affected individuals living in these areas, the debate is better framed as UTx vs. acceptance of a life without biologic children.Unsurprisingly, Concerns regarding informed consent.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "''Much research shows that innovative procedures like UTx may compromise valid informed and voluntary consent .leading to concerns for meeting the appropriately stringent ethical requirements of informed consent'' -(Catsanos et al. [26] ).",
+                "cite_spans": [
+                    {
+                        "start": 232,
+                        "end": 236,
+                        "text": "[26]",
+                        "ref_id": "BIBREF25"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "Space constraints do not allow a robust exposition of important concerns about the informed consent process for uterine donors (e.g., often older relatives under pressure to participate) or for recipients (as there is risk to ''conflating research with therapy'') (21) , but the offspring/child must be more fully considered.The unborn cannot give consent or cannot choose by whom they are to be carried-GS vs. UTx-and the different degrees of risks to them from each option.It is the parent electing to place the child at greater risk by carriage after UTx so that they, the parent, can have the benefits of gestating their offspring.This choice by the parent(s) may be opposite to what the child would choose for themselves.",
+                "cite_spans": [
+                    {
+                        "start": 264,
+                        "end": 268,
+                        "text": "(21)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "Although contemporary ethicists provide parental latitude regarding the risks they chose to expose their unborn children, these certainly have limits, especially in non-life-saving treatment with substantive risks.If still, as Lefkowitz et al. (23) state almost quaintly today, ''the 'standard of care' for women with UFI who wish to have a baby is to offer adoption services and surrogacy options,''; who speaks for the child when parents choose beyond these standards?",
+                "cite_spans": [
+                    {
+                        "start": 244,
+                        "end": 248,
+                        "text": "(23)",
+                        "ref_id": "BIBREF22"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "Concerns regarding utilization of limited research dollars.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "''What can we afford to do considering the lack of resources for medical care and cures?''-Olausson et al. (39) .",
+                "cite_spans": [
+                    {
+                        "start": 107,
+                        "end": 111,
+                        "text": "(39)",
+                        "ref_id": "BIBREF38"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "''Currently, uterine transplants have extremely low chances of success: it is then hardly justifiable to massively invest in such possibility, blocking the limited financial resources toward procedures with higher success rates.''-Zaami et al. (45) .",
+                "cite_spans": [
+                    {
+                        "start": 244,
+                        "end": 248,
+                        "text": "(45)",
+                        "ref_id": "BIBREF44"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "To date, publications have centered on only the experienced, ''best-in-class'' multidisciplinary teams, some >70 members!(including reproductive endocrinology, embryology, gynecology surgeons, immunologists, transplant surgeons, vascular surgeons, ethicists, nursing, neonatology, Intensive Care Unit (ICU), Labor and Delivery (L&D), Maternal and Fetal Medicine (MFM), anesthesia, pathologists, transplant psychologists, and among others).The magnitude and scope of medical resources, time, and expenses are massive.(3) A formal Cost Effectiveness Analysis comparing UTx and GS demonstrates the cost disparity per live birth of nearly $5.82M for UTx versus $270,859 for GS (46) .Few of even these most experienced teams have performed more than a half dozen transplants each under",
+                "cite_spans": [
+                    {
+                        "start": 673,
+                        "end": 677,
+                        "text": "(46)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "Uterus transplantation is the first treatment for absolute uterine factor infertility: proven high success rates and continuing scientific evaluation (continued)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "Gestational surrogacy is the treatment for absolute uterine infertility (continued)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "the initial attempts at UTx occurred in Saudi Arabia, Turkey, and Sweden, countries with very restricted access to surrogacy.Even in the United States, surrogacy laws and accessibility vary widely by state.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "Looking at more permissive states and parts of the world, both costs and wait times for GC have increased in recent years, with estimated costs in the United States for GC ranging from $100,000-$200,000 (15) .Although the exact reason for rising expenses involved in GC cycles is unknown, it is likely related to increased agency charges, national health insurance trends that necessitate supplemental GC obstetric coverage, and carrier compensation.In contrast, the costs associated with UTx are predicted to decrease alongside surgical refinements and workflow efficiencies for procurement, transplant, and pregnancy.In some countries abroad, UTx itself is covered through government-sponsored insurance.Commercially-offered UTx in the United States is quoted at $150,000-$300,000 inclusive of medications, IVF, surgery, immunosuppression, pregnancy, delivery, and hysterectomy (L.Johannesson, personal communication, March 8, 2023) .Obstetric care is typically supported by insurance plans after UTx, in contrast with exclusions in insurance coverage for GC pregnancies in the United States.It should also be noted that a transplanted uterus (in most protocols) can be maintained to support up to 2 separate deliveries with incremental additional cost, whereas the high costs for a GC pregnancy typically recur with each consecutive pregnancy.These comparisons further underscore an equivalent if not a favorable cost profile per child associated with UTx vs. GC.",
+                "cite_spans": [
+                    {
+                        "start": 203,
+                        "end": 207,
+                        "text": "(15)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 920,
+                        "end": 934,
+                        "text": "March 8, 2023)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "Even if legality or cost were not a barrier to a GC, delays in matching intended parents with an appropriate GC present a significant hindrance.As most IVF medical directors know far too well, in the United States, the average wait time for a GC is currently at least one year, often extending the goal of childbirth out to 2 years from treatment initiation.Depending on whether UTx is planned with a living or deceased donor model, UTx donor-recipient matching can take weeks to months.Embryo transfer occurs as soon as 3-6 months after transplant (1) .Again, a comparison with GC is similar if not favored as a more expedient path to parenthood.",
+                "cite_spans": [
+                    {
+                        "start": 549,
+                        "end": 552,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "The question of access is even more relevant for non-cisgender women.Transgender individuals face an array of challenges in accessing desired health services and encounter unique biases and barriers that are financial, legal, and cultural in nature.Especially, GCs may not engage with transgender individuals and their families owing to a lack of understanding and education, a fear of legal or financial complexities, and/ or concerns about potential impact within their own families and personal lives.If and when UTx is introduced as a treatment modality for UFI in transgender women, it may bypass obstacles to GC access in the same way that UTx offers a potential solution to the access issues encountered by cis-women worldwide (16) .current funding and protection granted by small clinical trial protocols.And then what? (24, 47) In recent Fertility and Sterility Reflections, members of one US UTx team pronounced that after ''just over 30 infants born worldwide, UTx is no longer theoretical (and many argue no longer experimental given that it has been performed outside of clinical trials)'' [Chung et al. (48) ].Giving voice to this argument is, in our view, disquieting.While the idea that ''many argue'' UTx is no longer considered experimental because some have decided to perform it outside the bounds of research trials seems circular and premature.",
+                "cite_spans": [
+                    {
+                        "start": 734,
+                        "end": 738,
+                        "text": "(16)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 828,
+                        "end": 832,
+                        "text": "(24,",
+                        "ref_id": "BIBREF23"
+                    },
+                    {
+                        "start": 833,
+                        "end": 836,
+                        "text": "47)",
+                        "ref_id": "BIBREF46"
+                    },
+                    {
+                        "start": 1103,
+                        "end": 1121,
+                        "text": "[Chung et al. (48)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "We ask those aligned with the ''Pro'' side to tell us, given universal limited research resources, what other disease/disorder is denied research funding so that the massive research support for UTx may continue? (49) .",
+                "cite_spans": [
+                    {
+                        "start": 213,
+                        "end": 217,
+                        "text": "(49)",
+                        "ref_id": "BIBREF48"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Access: UTx Compares Favorably With GCs for Timeline, Cost, and Accessibility",
+                "sec_num": null
+            },
+            {
+                "text": "''To what extent should medicine delimit its potential in spite of societal desires?''-Benagiano et al. (25) .",
+                "cite_spans": [
+                    {
+                        "start": 104,
+                        "end": 108,
+                        "text": "(25)",
+                        "ref_id": "BIBREF24"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Concerns regarding justice.",
+                "sec_num": null
+            },
+            {
+                "text": "If justice concerns the fair and equitable distribution of health resources, how can the high ''costs and access to care/disparities...''-Forbes and Karp (42)-on the health care system for UTx be justified?And once research moves to the clinical application of UTx, who will have access?Who will not?Who can pay for the ''outrageously expensive'' (41) teams, set of procedures, anesthesia, and clinical care?(45) As ''...uterus transplantation opens up the possibility to treat the many young women with uterine factor infertility worldwide''-Br\u20ac annstr\u20ac om et al.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Concerns regarding justice.",
+                "sec_num": null
+            },
+            {
+                "text": "(3)-how can the many promises of this new intervention possibly be met?Will there become a market for uteri?(37) Or a donor chain (''my kidney to your son for your uterus'') (28)?More likely it might well result only in justice denied unrealized beliefs of availability, access, and affordability (46) .",
+                "cite_spans": [
+                    {
+                        "start": 297,
+                        "end": 301,
+                        "text": "(46)",
+                        "ref_id": "BIBREF45"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Concerns regarding justice.",
+                "sec_num": null
+            },
+            {
+                "text": "''Organ transplant remains an invasive procedure with significant risks related to the surgery itself, to rejection and to immunosuppression..thus each expansion of Transplantation Medicine'' (beyond life-saving transplants) challenges the ethical balance.''-Catsanos et al. (",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "''The ethical dilemma revolves around whether it is worth placing (three) lives at risk related to surgery and immunosuppression, amongst others, to enable a woman with AUFI to experience the presence of an organ enabling childbirth.''-Taneja et al. (21) Uterus transplantation is the first treatment for absolute uterine factor infertility: proven high success rates and continuing scientific evaluation (continued)",
+                "cite_spans": [
+                    {
+                        "start": 250,
+                        "end": 254,
+                        "text": "(21)",
+                        "ref_id": "BIBREF20"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "Gestational surrogacy is the treatment for absolute uterine infertility (continued)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "Autonomy: UTx is a Fertility Treatment That Prioritizes Reproductive Choice and Control",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "Our modern era of patient autonomy and shared decisionmaking supports being inclusive of the voices of our patients as we discuss reproductive options for women with UFI.As illustrated above, the logistical obstacles to GC in the United States are significant.However, even beyond practical concerns, many patients find GCs undesirable because of the limitations surrounding reproductive choice and control.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "Prospective recipients of UTx identify the ability to participate actively in the prenatal health and well-being of their child as a key benefit of UTx that is not present in alternate methods of family building.Conversely, they associate the use of GC with a sense of helplessness and worry, centering on risks to their unborn child who they have little control over (14) .A Cleveland Clinic UTx recipient who had a previous child through gestational surrogacy described the experience of using a GS as ''traumatic'' (14) .For some women with UFI, surrogacy and adoption are not perceived as a ''benign'' or ''safer'' alternative to UTx; rather, these methods pose substantial and tangible risks to their emotional well-being, child, and family in ways not present with UTx.Women with UFI acknowledge the risks of UTx and welcome a shift in risk from others to themselves for transplantation, pregnancy, and fetal well-being.The potential negative outcomes of surrogacy and adoption are perceived to be significant enough to counterbalance and even outweigh, the known risks associated with UTx.As stated by one UTx recipient in Dallas: ''I was never born with this option.So for it to even be on the table was like, wow, I have the choice.Do I want a uterus?Do I want to try this?I had a choice which I never had been given when I was first diagnosed...So that was healing in itself'' (L. Johannesson, personal communication) .",
+                "cite_spans": [
+                    {
+                        "start": 368,
+                        "end": 372,
+                        "text": "(14)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 518,
+                        "end": 522,
+                        "text": "(14)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 1391,
+                        "end": 1427,
+                        "text": "Johannesson, personal communication)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "Uterus transplantation has been and continues to be driven by the perspective and unique needs of the UFI community.An online survey of the Mayer-Rokitansky-K\u20ac uster-Hauser community, which included in-depth educational materials regarding the risks of the procedure, revealed that >73% of the respondents expressed a willingness to undergo UTx themselves, and >86% believed that it should be available as a choice for all women with UFI (17) .The investigators concluded that the Mayer-Rokitansky-K\u20ac uster-Hauser community strongly desires that UTx be offered widely as an option for family building.",
+                "cite_spans": [
+                    {
+                        "start": 438,
+                        "end": 442,
+                        "text": "(17)",
+                        "ref_id": "BIBREF16"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "Affirmation: UTx is a Gender-Affirming Treatment for Both Cis-and Trans-Women",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "Although not a life-saving procedure, UTx is conceptually more than simply life-enhancing and indeed holds the potential for recipients to be life affirming and life propagating.Interviews with uterus transplant candidates revealed that they also perceived UTx to be a gender-affirming procedure-a Moreover, it is Dr. Br\u20ac annstr\u20ac om's team that raises the fundamental question about their groundbreaking, yet troubling accomplishment: ''Of all that we do, what ought we to do?'' -Olausson et al. (39) .",
+                "cite_spans": [
+                    {
+                        "start": 496,
+                        "end": 500,
+                        "text": "(39)",
+                        "ref_id": "BIBREF38"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "Our view is that, while GS is an imperfect solution to this heartrending medical and social challenge, compared with UTx, especially with live uterine donors, it is a far less problematic option.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "First, do no harm; interrupt the normalization of deviance; and, as our title states: ''Just because we can does not mean we should.''Gestational surrogacy is an established and legitimate treatment for absolute uterine infertility in the United States Ginny L. Ryan, M.D., M.A.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "Gestational surrogacy is a form of family building made possible by IVF in which a GC agrees to have a genetically unrelated embryo or embryos transferred to their uterus for the purpose of carrying and delivering a pregnancy for an intended parent or parents.The embryo(s) are usually derived from intended parent gametes but may also be derived from donor oocytes and/or donor sperm.The GC may or may not be related to the intended parent(s) and is typically screened for parity and low risk of perinatal complications.Gestational surrogacy allows people without a uterus and those for whom pregnancy is contraindicated or attempts to conceive unsuccessful to build a family outside of adoption.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "Gestational surrogacy is a treatment increasingly used in the United States, jumping from 1%-2.5% of IVF cycles (30,927 cycles) between 1999 and 2013 (the most recent published numbers) (50) .According to the National Assisted Reproductive Technology Surveillance System data from 2020, gestational surrogacy is currently offered by 90% of the Centers for Disease Control and Prevention-reporting IVF centers in the United States (51) .It is also increasingly supported by state law (52).Although each state handles gestational surrogacy differently, and some have no relevant legislation in place, most courts are favorable at present.Furthermore, Colorado, New York, Oregon, Washington, and Wyoming have all passed laws in the last 4 years that codify some manner of support for gestational surrogacy, including Uterus transplantation is the first treatment for absolute uterine factor infertility: proven high success rates and continuing scientific evaluation (continued) Gestational surrogacy is the treatment for absolute uterine infertility (continued) procedure that supports an enhanced sense of identity as a woman (14) .",
+                "cite_spans": [
+                    {
+                        "start": 112,
+                        "end": 127,
+                        "text": "(30,927 cycles)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 186,
+                        "end": 190,
+                        "text": "(50)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 430,
+                        "end": 434,
+                        "text": "(51)",
+                        "ref_id": "BIBREF50"
+                    },
+                    {
+                        "start": 1125,
+                        "end": 1129,
+                        "text": "(14)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "Understanding the impact of UFI is paramount to understanding the motivations of women seeking UTx.Absolute UFI is a life-framing experience for those affected, impacting an individual's perception of acceptance by their familial and social networks, partners, and personal self-concept; in the words of one patient with UFI, it ''affected all aspects of my life [and] my family's life'' (14) .This includes challenges related to initiating and sustaining romantic partnerships, specifically in relation to the timing and nature of disclosing their diagnosis and the uncertainties surrounding the reception or rejection of such information by a new or existing partner.Another Cleveland Clinic patient stated: ''I learned to adapt as to who I am.I believed before that I was not a woman, not a complete woman because I was missing that part.''",
+                "cite_spans": [
+                    {
+                        "start": 388,
+                        "end": 392,
+                        "text": "(14)",
+                        "ref_id": "BIBREF13"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "The transgender community has long sought UTx as a gender-affirming treatment in addition to infertility care.The history of Lili Elbe, a Danish transgender woman who underwent some of the first known gender-affirming surgeries in the early 20th century-including UTx-highlights the desire of individuals to have reproductive organs that align with their gender identity.For many transgender individuals, the gender-affirming aspect of UTx may be particularly profound because patients may experience life-defining distress arising from an incongruence between their felt gender and their assigned sex; there is significant interest in UTx by the transgender community (18) .",
+                "cite_spans": [
+                    {
+                        "start": 669,
+                        "end": 673,
+                        "text": "(18)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "To date, all recipients of UTx have been cis-gender women.However, the experiences of cis-gender women with UFI demonstrates that there are shared experiences and desires between the cis-and transgender communities when it comes to the appeal of UTx: UTx is seen as a means of restoring a sense of normalcy to one's body in the setting of altered anatomy and function (14, 18) .As stated by one woman in the Baylor Dallas uterus transplant program: ''When you do not have a uterus you're learning at such a young age... that it is not an option to have a child.It feels like your womanhood was taken away from you.It made me question my role as a woman'' (L.Johannesson, personal communication).",
+                "cite_spans": [
+                    {
+                        "start": 368,
+                        "end": 372,
+                        "text": "(14,",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 373,
+                        "end": 376,
+                        "text": "18)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusions.",
+                "sec_num": null
+            },
+            {
+                "text": "Uterus transplantation is a viable option for women affected by UFI who desire gestational motherhood.Moreover, UTx compares favorably with GCs for timeline, cost, and accessibility and offers enhanced reproductive autonomy for patients with UFI.Furthermore, UTx efforts have been propelled forward by the unique needs, perspectives, and priorities of women with UFI and promotes shared decisionmaking, individualized treatment decisions, and reproductive choice.In addition, UTx is a gender-affirming treatment for but not limited to supporting the compensation of GCs and granting parental rights to the intended parents.There are several remaining states, including Indiana, Michigan, and Nebraska, in which surrogacy contracts are unenforceable or compensation is illegal, however.Owing to the dynamic nature of the law surrounding this treatment, it is a vital best practice that all parties in a gestational surrogacy arrangement have experienced independent legal representation.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "To assist in navigating legal and practical complexities, the Ethics and Practice Committees of the American Society for Reproductive Medicine provide clear guidance for IVF practices that provide gestational surrogacy treatment.This guidance includes how to incorporate minimal standards of practice from the US Centers for Disease Control and Prevention, the US Food and Drug Administration, and the American Association of Tissue Banks (53) .Guidance from the American Society for Reproductive Medicine also covers the psychological and medical selection and screening of GCs, screening for the intended parents, psychoeducational support for all parties, legal considerations, ET practices, and unique considerations when working with a family member as a GC (53) (54) (55) .Importantly, this guidance includes recently updated and focused guidance on consideration of the GC as an independent and autonomous individual and patient (54) .",
+                "cite_spans": [
+                    {
+                        "start": 439,
+                        "end": 443,
+                        "text": "(53)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 763,
+                        "end": 767,
+                        "text": "(53)",
+                        "ref_id": "BIBREF51"
+                    },
+                    {
+                        "start": 768,
+                        "end": 772,
+                        "text": "(54)",
+                        "ref_id": "BIBREF52"
+                    },
+                    {
+                        "start": 773,
+                        "end": 777,
+                        "text": "(55)",
+                        "ref_id": "BIBREF53"
+                    },
+                    {
+                        "start": 936,
+                        "end": 940,
+                        "text": "(54)",
+                        "ref_id": "BIBREF52"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "In 2019, the Committee on Ethics of the American College of Obstetricians and Gynecologists also reaffirmed a guidance document generally supportive of gestational surrogacy if practical, legal, and ethical guidelines are followed by obstetrician and gynecologists who take part (56) .The Committee agreed on the particular importance that a GC's autonomy and intrinsic value are respected and that their physical and emotional health, and legal rights, are considered independently.There has been much written about how financial compensation, and the level of compensation, may be either consistent or a strain on these considerations.Some ethicists, legislators, and other commentators have used the dichotomy of ''commercial'' vs. ''altruistic'' agreements to debate the propriety of this practice.Other experts have pointed to the importance of context-specific, virtual-ethical conditions over a commercial vs. altruistic dichotomy in deciding on the moral legitimacy of a particular gestational surrogacy agreement (57, 58) .Regardless of the lens applied, stakeholders in these treatment settings benefit from open discussion and professional guidance in the United States.",
+                "cite_spans": [
+                    {
+                        "start": 279,
+                        "end": 283,
+                        "text": "(56)",
+                        "ref_id": "BIBREF54"
+                    },
+                    {
+                        "start": 1022,
+                        "end": 1026,
+                        "text": "(57,",
+                        "ref_id": "BIBREF55"
+                    },
+                    {
+                        "start": 1027,
+                        "end": 1030,
+                        "text": "58)",
+                        "ref_id": "BIBREF56"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "Perhaps partly because of the acceptance and oversight of gestational surrogacy in the United States, US studies have suggested that most involved parties do very well medically and psychosocially.Pregnancy rates are typically better than rates resulting from other infertility treatments (50) .Obstetric complications are rare and less common than in other IVF pregnancies (although GCs may experience more risks in pregnancies with intended parents' embryos than in their other pregnancies) and birth defect rates seem similar to other IVF pregnancies (50, 59) .",
+                "cite_spans": [
+                    {
+                        "start": 289,
+                        "end": 293,
+                        "text": "(50)",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 554,
+                        "end": 558,
+                        "text": "(50,",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 559,
+                        "end": 562,
+                        "text": "59)",
+                        "ref_id": "BIBREF57"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "Uterus transplantation is the first treatment for absolute uterine factor infertility: proven high success rates and continuing scientific evaluation (continued) Gestational surrogacy is the treatment for absolute uterine infertility (continued) both cis-and transgender women, offering the potential to restore a sense of completeness to their bodies.The voices and desires of the UFI community should be central to debates and discussions surrounding their reproductive opportunities.It is our strong opinion that UTx should be available as an option for all women affected by UFI.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "Although relatively limited, studies conducted in the US and internationally suggest few issues with psychological wellbeing of GCs or intended parents after an initial transition, and no concerns for parent-child bonding (50, 58) .The experience is more likely to be ethically and legally fraught in transnational (also known as cross-border) relationships, where the cultural, legal, and economic context may result in challenges for both parties and risks to the autonomy and health of the GC (58, 60) .",
+                "cite_spans": [
+                    {
+                        "start": 222,
+                        "end": 226,
+                        "text": "(50,",
+                        "ref_id": "BIBREF49"
+                    },
+                    {
+                        "start": 227,
+                        "end": 230,
+                        "text": "58)",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 496,
+                        "end": 500,
+                        "text": "(58,",
+                        "ref_id": "BIBREF56"
+                    },
+                    {
+                        "start": 501,
+                        "end": 504,
+                        "text": "60)",
+                        "ref_id": "BIBREF58"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "Transnational gestational surrogacy arrangements have developed in large part owing to the lack of regulation and availability worldwide, with the United States one of the very few countries in which compensated gestational surrogacy is legally supported (in most states) at present (50) .Thanks to the resulting national conversations on and study of this treatment in the United States, utilization has increased, outcomes research has improved, and professional guidance has evolved.Experience, theory, and data support the fact that gestational surrogacy is a safe and effective treatment option in this national setting for absolute uterine infertility.As Horsey and Mahmoud (60) state, ''[S]surrogacy is here to stay as a legitimate form of family building and should be supported and legitimized by government and health care providers alike.''Uterus transplantation is the first treatment for absolute uterine factor infertility: proven high success rates and continuing scientific evaluation (continued) Gestational surrogacy is the treatment for absolute uterine infertility (continued)",
+                "cite_spans": [
+                    {
+                        "start": 283,
+                        "end": 287,
+                        "text": "(50)",
+                        "ref_id": "BIBREF49"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Conclusion",
+                "sec_num": null
+            },
+            {
+                "text": "VOL. 119 NO. 6 / JUNE 2023",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            },
+            {
+                "text": "Fertility and Sterility\u00ae",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Uterus transplantation: animal research and human possibilities",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Br\u20ac Annstr\u20ac Om",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Diaz-Garcia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Hanafy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Olausson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Tzakis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Fertil Steril",
+                "volume": "97",
+                "issue": "",
+                "pages": "1269--1276",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "The Swedish uterus transplantation project: the story behind the Swedish uterus transplantation project",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Br\u20ac Annstr\u20ac Om",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Acta Obstet Gynecol Scand",
+                "volume": "94",
+                "issue": "",
+                "pages": "675--679",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Livebirth after uterus transplantation",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Br\u20ac Annstr\u20ac Om",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Johannesson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Bokstr\u20ac Om",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Kvarnstr\u20ac Om",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "M\u20ac Olne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Dahm-K\u20ac",
+                        "middle": [],
+                        "last": "Ahler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Lancet",
+                "volume": "385",
+                "issue": "",
+                "pages": "607--616",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Registry of the International Society of Uterus Transplantation: first report",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Br\u20ac Annstr\u20ac Om",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Tullius",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Brucker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Dahm-K\u20ac",
+                        "middle": [],
+                        "last": "Ahler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Flyckt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Kisu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "Transplantation",
+                "volume": "107",
+                "issue": "",
+                "pages": "10--17",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Evolving clinical challenges in uterus transplantation",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Ayoubi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Carbonnel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Racowsky",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "De Ziegler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Gargiulo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Kvarnstr\u20ac Om N",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Reprod Biomed Online",
+                "volume": "45",
+                "issue": "",
+                "pages": "947--960",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Bioethical issues and legal frameworks of surrogacy: a global perspective about the right to health and dignity",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Frati",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "La",
+                        "middle": [],
+                        "last": "Russa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Santurro",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Fineschi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Di",
+                        "middle": [],
+                        "last": "Paolo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Scopetti",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Eur J Obstet Gynecol Reprod Biol",
+                "volume": "258",
+                "issue": "",
+                "pages": "1--8",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Uterine transplantation using living donation: a cross-sectional study assessing perceptions; acceptability, and suitability",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Jones",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Rajamanoharan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Williams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Vali",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Saso",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Mantrali",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Transplant Direct",
+                "volume": "7",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Survey of attitudes toward uterus transplantation among Japanese women of reproductive age: a cross-sectional study",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Kisu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Banno",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Soeda",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Kurihara",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Okushima",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Yamaguchi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "PLoS One",
+                "volume": "11",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Uterine factor infertility: a clinical review",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Hur",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Rehmer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Flyckt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Facone",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Clin Obstet Gynecol",
+                "volume": "62",
+                "issue": "",
+                "pages": "257--270",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Ethical problems special to surgery: surgical teaching, surgical innovation, and the surgeon in managed care",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Moore",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2000,
+                "venue": "Arch Surg",
+                "volume": "135",
+                "issue": "",
+                "pages": "14--16",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Birth of a healthy baby 9 years after a surgically successful deceased donor uterus transplant",
+                "authors": [
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Ozkan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "\u20ac",
+                        "middle": [],
+                        "last": "Ozkan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Dogan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "U"
+                        ],
+                        "last": "Bahceci",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Mendilcioglu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Boynukalin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Ann Surg",
+                "volume": "275",
+                "issue": "",
+                "pages": "825--832",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Reproductive, obstetric and long-term health outcome after uterus transplantation: results of the first clinical trial",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Br\u20ac Annstr\u20ac Om",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Dahm-K\u20ac",
+                        "middle": [],
+                        "last": "Ahler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Kvarnstr\u20ac Om",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Enskog",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Olofsson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "I"
+                        ],
+                        "last": "Olausson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Fertil Steril",
+                "volume": "118",
+                "issue": "",
+                "pages": "576--585",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "The first 5 years of uterus transplant in the US: a report from the United States uterus transplant consortium",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Johannesson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Richards",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Reddy",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Walter",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Olthoff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Quintini",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "JAMA Surg",
+                "volume": "157",
+                "issue": "",
+                "pages": "790--797",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "Framing the diagnosis and treatment of absolute uterine factor infertility: insights from in-depth interviews with uterus transplant trial participants",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Richards",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Agatisa",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Davis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Flyckt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Mabel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Falcone",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "AJOB Empir Bioeth",
+                "volume": "10",
+                "issue": "",
+                "pages": "23--35",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "How much surrogacy costs and how to pay for it",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Braverman",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "A ''first'' on the horizon: the expansion of uterus transplantation to transgender women",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Richards",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Ferrando",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Farrell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Flyckt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "Fertil Steril",
+                "volume": "119",
+                "issue": "",
+                "pages": "390--391",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Perspectives of 281 patients with Mayer-Rokitansky-K\u20ac uster-Hauser syndrome on uterine transplantation",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Fischer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Xun",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Lossie",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Fadavi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Darrach",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Yesantharao",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "Fertil Steril",
+                "volume": "115",
+                "issue": "",
+                "pages": "1074--1083",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Perceptions and motivations for uterus transplant in transgender women",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Jones",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Rajamanoharan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Vali",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Williams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Saso",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Thum",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "JAMA Netw Open",
+                "volume": "4",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "The uterus transplantation workshop",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Br\u20ac Annstr\u20ac Om",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "COGI 2014 the 20th world congress on controversies in obstetrics, gynecology and infertility",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "The Hospital Cl\u00ednic has carried out its second uterus transplant",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Alcaraz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Uterine transplant: a risk to life or a chance for life?",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Taneja",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Das",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Hussain",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Madadin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Lobo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Fatima",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Sci Eng Ethics",
+                "volume": "25",
+                "issue": "",
+                "pages": "635--642",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "Uterus transplantation",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Testa",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Proceedings of the Henry Ford health transplantation grand rounds",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "The Montreal criteria for the ethical feasibility of uterine transplantation",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Lefkowitz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Edwards",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Balayla",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "Transpl Int",
+                "volume": "25",
+                "issue": "",
+                "pages": "439--447",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Ethical and policy issues raised by uterus transplants",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "O'donovan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Williams",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Wilkinson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Br Med Bull",
+                "volume": "131",
+                "issue": "",
+                "pages": "19--28",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Medical and ethical considerations in uterus transplantation",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Benagiano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Landeweerd",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Brosens",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Int J Gynaecol Obstet",
+                "volume": "123",
+                "issue": "",
+                "pages": "173--177",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "The ethics of uterus transplantation",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Catsanos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [],
+                        "last": "Rogers",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Lotz",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "Bioethics",
+                "volume": "27",
+                "issue": "",
+                "pages": "65--73",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "How to avoid catastrophe",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Tinsley",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Dillon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Madsen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Harv Bus Rev",
+                "volume": "89",
+                "issue": "",
+                "pages": "90--97",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "What are good guidelines for evaluating uterus transplantation?",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Horvat",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Iltis",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "AMA J Ethics",
+                "volume": "21",
+                "issue": "",
+                "pages": "988--995",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Should deceased donation be morally preferred in uterine transplantation trials?",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Williams",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Bioethics",
+                "volume": "30",
+                "issue": "",
+                "pages": "415--424",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Uterine transplantation in the human setting",
+                "authors": [],
+                "year": 2022,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "Yeast infection led to removal of transplanted uterus",
+                "authors": [
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Grady",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "A Call for empirical research on uterine transplantation and reproductive autonomy",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Horsburgh",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Hastings Cent Rep",
+                "volume": "47",
+                "issue": "Suppl 3",
+                "pages": "46--49",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "Transnational surrogacy and international human rights law",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Stark",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "ILSA J Int Law",
+                "volume": "18",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "Revisiting ''The Handmaid's Tale'': feminist theory meets empirical research on surrogate mothers",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Coupienne",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Vun",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2010,
+                "venue": "Can J Fam Law",
+                "volume": "26",
+                "issue": "",
+                "pages": "13--93",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "Regulating commercial global surrogacy: the best interests of the child",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Rotabi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Mapp",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Cheney",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Fong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Mcroy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "J Hum Rights Soc Work",
+                "volume": "2",
+                "issue": "",
+                "pages": "64--73",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF35": {
+                "ref_id": "b35",
+                "title": "Legalizing altruistic surrogacy in response to evasive travel? An Icelandic proposal",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Kristinsson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Reprod Biomed Soc Online",
+                "volume": "3",
+                "issue": "",
+                "pages": "109--119",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF36": {
+                "ref_id": "b36",
+                "title": "Legislation on biotechnology in the Nordic countriesan overview",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Marjut",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF37": {
+                "ref_id": "b37",
+                "title": "Positioning uterus transplantation as a 'more ethical' alternative to surrogacy: exploring symmetries between uterus transplantation and surrogacy through analysis of a Swedish government white paper",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Guntram",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Williams",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2018,
+                "venue": "Bioethics",
+                "volume": "32",
+                "issue": "",
+                "pages": "509--518",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF38": {
+                "ref_id": "b38",
+                "title": "Ethics of uterus transplantation with live donors",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Olausson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Johannesson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Brattgard",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Diaz-Garcia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Lundmark",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Groth",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Fertil Steril",
+                "volume": "102",
+                "issue": "",
+                "pages": "40--43",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF39": {
+                "ref_id": "b39",
+                "title": "Maternal deaths in the Nordic countries",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Vangen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "B\u00f8dker",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Ellingsen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Saltvedt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Gissler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Geirsson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Acta Obstet Gynecol Scand",
+                "volume": "96",
+                "issue": "",
+                "pages": "1112--1119",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF40": {
+                "ref_id": "b40",
+                "title": "Early and late morbidity of radical hysterectomy with lymphadenectomy in early-stage cervical cancer: a prospective multicentric cohort of 232 patients",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Balaya",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Rossi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Ngo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Bats",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Mathevet",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Lecuru",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "J Clin Oncol",
+                "volume": "35",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF41": {
+                "ref_id": "b41",
+                "title": "Uterine infertility, the last frontier",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Pirtea",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "De Ziegler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Ayoubi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Fertil Steril",
+                "volume": "118",
+                "issue": "",
+                "pages": "463--464",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF42": {
+                "ref_id": "b42",
+                "title": "Uterine transplant-progress, but concerns remain",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Forbes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Karp",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "JAMA Surg",
+                "volume": "157",
+                "issue": "",
+                "pages": "797--798",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF43": {
+                "ref_id": "b43",
+                "title": "Effects of the environment on the genome and epigenetics",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Snyder",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "Genomics and personalized medicine",
+                "volume": "",
+                "issue": "",
+                "pages": "87--94",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF44": {
+                "ref_id": "b44",
+                "title": "Ethical and medicolegal remarks on uterus transplantation: may it solve uterine factor infertility?",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Zaami",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Marinelli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Di Luca",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Montanari",
+                        "middle": [],
+                        "last": "Vergallo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Eur Rev Med Pharmacol Sci",
+                "volume": "21",
+                "issue": "",
+                "pages": "5290--5296",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF45": {
+                "ref_id": "b45",
+                "title": "Absolute uterine-factor infertility -gestational carrier or uterine transplant? -A cost effectiveness analysis",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Combs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Yamasaki",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hunkler",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Roura-Monllor",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Hill",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Devine",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "ASRM Scientific Congress",
+                "volume": "",
+                "issue": "",
+                "pages": "14--18",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF46": {
+                "ref_id": "b46",
+                "title": "Public funding of uterine transplantation",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Balayla",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "J Med Ethics",
+                "volume": "42",
+                "issue": "",
+                "pages": "568--569",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF47": {
+                "ref_id": "b47",
+                "title": "Ascending toward a 30,000 foot view of uterus transplant",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Chung",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Richards",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Farrell",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Flyckt",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Fertil Steril",
+                "volume": "118",
+                "issue": "",
+                "pages": "586--587",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF48": {
+                "ref_id": "b48",
+                "title": "Practice Committee of the American Society for Reproductive Medicine. American Society for Reproductive Medicine position statement on uterus transplantation: a committee opinion",
+                "authors": [],
+                "year": 2018,
+                "venue": "Fertil Steril",
+                "volume": "110",
+                "issue": "",
+                "pages": "605--610",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF49": {
+                "ref_id": "b49",
+                "title": "Understanding gestational surrogacy in the United States: a primer for obstetricians and gynecologists",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Swanson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "K"
+                        ],
+                        "last": "Ayala",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Barnes",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Desai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Miller",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Yee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Am J Obstet Gynecol",
+                "volume": "222",
+                "issue": "",
+                "pages": "330--337",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF50": {
+                "ref_id": "b50",
+                "title": "Assisted reproductive technology (ART) data",
+                "authors": [],
+                "year": 2023,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF51": {
+                "ref_id": "b51",
+                "title": "Ethics Committee of the American Society for Reproductive Medicine. Using family members as gamete donors or gestational carriers",
+                "authors": [],
+                "year": 2017,
+                "venue": "Fertil Steril",
+                "volume": "107",
+                "issue": "",
+                "pages": "1136--1142",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF52": {
+                "ref_id": "b52",
+                "title": "Consideration of the gestational carrier: an Ethics Committee opinion",
+                "authors": [],
+                "year": null,
+                "venue": "Fertil Steril",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF53": {
+                "ref_id": "b53",
+                "title": "Practice Committee of the American Society for Reproductive Medicine. Recommendations for practices using gestational carriers: a committee opinion",
+                "authors": [],
+                "year": 2022,
+                "venue": "Fertil Steril",
+                "volume": "118",
+                "issue": "",
+                "pages": "65--74",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF54": {
+                "ref_id": "b54",
+                "title": "Family building through gestational surrogacy, committee opinion number 660",
+                "authors": [],
+                "year": 2016,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF55": {
+                "ref_id": "b55",
+                "title": "Surrogacy: beyond the commercial/altruistic distinction",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Lee",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "J Med Ethics",
+                "volume": "49",
+                "issue": "",
+                "pages": "196--199",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF56": {
+                "ref_id": "b56",
+                "title": "Experiences of surrogates and intended parents of surrogacy arrangements: a systematic review",
+                "authors": [
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Kneebone",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Beilby",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Hammarberg",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2022,
+                "venue": "Reprod Biomed Online",
+                "volume": "45",
+                "issue": "",
+                "pages": "815--830",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF57": {
+                "ref_id": "b57",
+                "title": "Obstetric morbilidy in gestational carrier pregnancies: a population-based study",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Swanson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Letourneau",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Kuppermann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Einerson",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "J Assist Reprod Genet",
+                "volume": "28",
+                "issue": "",
+                "pages": "177--183",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF58": {
+                "ref_id": "b58",
+                "title": "Surrogates' and intended parents' experiences of surrogacy arrangements: a systematic review",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Horsey",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Mahmoud",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2023,
+                "venue": "Reprod Biomed Online",
+                "volume": "46",
+                "issue": "",
+                "pages": "7--9",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

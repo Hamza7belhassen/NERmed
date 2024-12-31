@@ -1,0 +1,387 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\A-combination-of-two-novel-ligation-techniques-for",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:28.366482Z"
+    },
+    "title": "A combination of two novel ligation techniques for complicated laparoscopic intraligamental myomectomy",
+    "authors": [
+        {
+            "first": "Shengke",
+            "middle": [],
+            "last": "Wang",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Shengjing Hospital of China Medical University",
+                "location": {
+                    "settlement": "Shenyang",
+                    "country": "People's Republic of China"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Dongdong",
+            "middle": [],
+            "last": "Wang",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Shengjing Hospital of China Medical University",
+                "location": {
+                    "settlement": "Shenyang",
+                    "country": "People's Republic of China"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Fujie",
+            "middle": [],
+            "last": "Zhao",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Shengjing Hospital of China Medical University",
+                "location": {
+                    "settlement": "Shenyang",
+                    "country": "People's Republic of China"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objective: To perform laparoscopic myomectomy by combining two novel ligation techniques for a large lateral intraligamental myoma.Design: A step-by-step explanation of the surgical procedure using a video with narration.Setting: University hospital.Patient(s): A 39-year-old woman (gravida 1, para 0) presented with an asymptomatic pelvic mass.Sonographic imaging revealed a 10cm subserous myoma from the right lateral uterine isthmus wall.Laparoscopic exploration revealed a large myoma growing from the right lateral cervical isthmus wall toward the broad ligament.It was protruding into the pararectal space with duplicated ureters.Intervention(s): For such a large lateral intraligamental myoma, any conventional approach has the potential to cause massive bleeding and accidental injuries.We devised and implemented a preventative strategy for intraoperative bleeding by combining two novel ligation techniques used in laparoscopic myomectomy.We made an incision at the posterior leaf of the broad ligament and exposed the myometrium enveloping the fibroid and the base of the fibroid.Then we performed an incision 2 cm away from the right lower edge of the fibroid base, opening the myometrium and pseudocapsule.We applied two novel ligation techniques that ligate the pedicle on the left of the fibroid and the pseudocapsule on the right of the fibroid.Enucleation and loop tightening were implemented simultaneously.The entire pseudocapsule and most of the myometrium enveloping the fibroid were ligated in the loop knot.Only a small portion of the myometrium on the right side was outside the loop knot, which required electrocoagulation.Loop ligation was performed twice more for reinforcement in the same location.The peritoneum was then closed.Main Outcome Measure(s): Laparoscopic myomectomy was completed successfully for a large lateral intraligamental myoma using our novel technique.Result(s): The surgery lasted 110 min, and the volume of intraoperative blood loss was 150 mL.The patient had a normal postoperative course.\nCombining two novel ligation techniques in laparoscopic myomectomy is a safe and efficient surgical choice.This technique has obvious advantages in large, broad ligament myomas, reducing bleeding and avoiding unintentional injuries, even in duplicated ureters.Furthermore, this technique is not limited by the device and does not increase the cost of surgery.(",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\A-combination-of-two-novel-ligation-techniques-for",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.04.004",
+        "keywords": [
+            "Intraligamental myoma",
+            "laparoscopy",
+            "loop ligation technique",
+            "myomectomy"
+        ],
+        "abstract": [
+            {
+                "text": "Objective: To perform laparoscopic myomectomy by combining two novel ligation techniques for a large lateral intraligamental myoma.Design: A step-by-step explanation of the surgical procedure using a video with narration.Setting: University hospital.Patient(s): A 39-year-old woman (gravida 1, para 0) presented with an asymptomatic pelvic mass.Sonographic imaging revealed a 10cm subserous myoma from the right lateral uterine isthmus wall.Laparoscopic exploration revealed a large myoma growing from the right lateral cervical isthmus wall toward the broad ligament.It was protruding into the pararectal space with duplicated ureters.Intervention(s): For such a large lateral intraligamental myoma, any conventional approach has the potential to cause massive bleeding and accidental injuries.We devised and implemented a preventative strategy for intraoperative bleeding by combining two novel ligation techniques used in laparoscopic myomectomy.We made an incision at the posterior leaf of the broad ligament and exposed the myometrium enveloping the fibroid and the base of the fibroid.Then we performed an incision 2 cm away from the right lower edge of the fibroid base, opening the myometrium and pseudocapsule.We applied two novel ligation techniques that ligate the pedicle on the left of the fibroid and the pseudocapsule on the right of the fibroid.Enucleation and loop tightening were implemented simultaneously.The entire pseudocapsule and most of the myometrium enveloping the fibroid were ligated in the loop knot.Only a small portion of the myometrium on the right side was outside the loop knot, which required electrocoagulation.Loop ligation was performed twice more for reinforcement in the same location.The peritoneum was then closed.Main Outcome Measure(s): Laparoscopic myomectomy was completed successfully for a large lateral intraligamental myoma using our novel technique.Result(s): The surgery lasted 110 min, and the volume of intraoperative blood loss was 150 mL.The patient had a normal postoperative course.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "Combining two novel ligation techniques in laparoscopic myomectomy is a safe and efficient surgical choice.This technique has obvious advantages in large, broad ligament myomas, reducing bleeding and avoiding unintentional injuries, even in duplicated ureters.Furthermore, this technique is not limited by the device and does not increase the cost of surgery.(",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [],
+        "back_matter": [],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Intracervical fibroid removal: a myomectomy reasoned on biological bases",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Tinelli",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "BJOG",
+                "volume": "128",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "Intracervical intracapsular myomectomy using loop ligation: a proposed technique",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Q",
+                        "middle": [],
+                        "last": "Huang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Zhao",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2021,
+                "venue": "BJOG",
+                "volume": "128",
+                "issue": "",
+                "pages": "2151--2156",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Evaluation of loop ligation of larger myoma pseudocapsule combined with vasopressin on laparoscopic myomectomy",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Zhao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Jiao",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Guo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Hou",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Fertil Steril",
+                "volume": "95",
+                "issue": "",
+                "pages": "762--766",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Intraligamental myomectomy strategy using laparoscopy",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Huang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Sheu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Huang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Chang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "J Minim Invasive Gynecol",
+                "volume": "23",
+                "issue": "",
+                "pages": "954--961",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Laparoscopic myomectomy focusing on the myoma pseudocapsule: technical and outcome reports",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Tinelli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Hurst",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Hudelist",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Tsin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Stark",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Mettler",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Hum Reprod",
+                "volume": "27",
+                "issue": "",
+                "pages": "427--435",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Combinaci on de dos t ecnicas nuevas de ligadura para miomectom\u00eda intraligamentosa laparosc opica complicada",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Realizar miomectom\u00eda laparosc opica mediante la combinaci on de dos t ecnicas nuevas de ligadura en mioma grande lateral intraligamentoso",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Objetivo",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "Dise\u00f1o: Explicaci on paso a paso del procedimiento quir urgico mediante video con narraci on",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "ligamento ancho y expusimos el miometrio envolviendo el fibroide y la base del fibroide. Realizamos entonces una incisi on a 2cm del borde inferior derecho de la base del fibroide, abriendo el miometrio y la pseudoc apsula. Aplicamos dos nuevas t ecnicas de ligadura que ligan el ped\u00edculo a la izquierda del fibroma y la pseudoc apsula a la derecha del fibroma. La enucleaci on y el ajuste del nudo se realizaron de forma simult anea. La pseudoc apsula entera y la mayor\u00eda del miometrio circundante fueron ligados en el giro del nudo. Solo una peque\u00f1a porci on del miometrio en la pared derecha qued o fuera del lazo del nudo",
+                "authors": [],
+                "year": null,
+                "venue": "La miomectom\u00eda laparosc opica fue realizada con exito para un mioma intraligamentoso grande utilizando nuestra nueva t ecnica",
+                "volume": "39",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "La cirug\u00eda dur o 110min, y el volumen de p erdida de sangre intraoperatoria fue de 150ml",
+                "authors": [],
+                "year": null,
+                "venue": "La paciente tuvo un curso postoperatorio normal",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "La combinaci on de dos t ecnicas nuevas de ligadura en miomectom\u00eda laparosc opica es una elecci on quir urgica segura y eficaz. Esta t ecnica tiene ventajas obvias en miomas grandes en ligamento ancho, reduciendo el sangrado y evitando da\u00f1os no intencionados",
+                "authors": [],
+                "year": null,
+                "venue": "Conclusiones",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {}
+    }
+}

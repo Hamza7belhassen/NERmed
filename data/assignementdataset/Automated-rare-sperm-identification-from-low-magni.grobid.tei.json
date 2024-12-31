@@ -1,0 +1,1821 @@
+{
+    "paper_id": "xml_output_grobid_python_client\\Automated-rare-sperm-identification-from-low-magni",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-03-25T16:28:29.686534Z"
+    },
+    "title": "Automated rare sperm identification from low-magnification microscopy images of dissociated microsurgical testicular sperm extraction samples using deep learning",
+    "authors": [
+        {
+            "first": "Ryan",
+            "middle": [],
+            "last": "Lee",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of British Columbia",
+                "location": {
+                    "settlement": "Vancouver",
+                    "region": "British Columbia",
+                    "country": "Canada"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Luke",
+            "middle": [],
+            "last": "Witherspoon",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of British Columbia",
+                "location": {
+                    "settlement": "Vancouver",
+                    "region": "British Columbia",
+                    "country": "Canada"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Meghan",
+            "middle": [],
+            "last": "Robinson",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of British Columbia",
+                "location": {
+                    "settlement": "Vancouver",
+                    "region": "British Columbia",
+                    "country": "Canada"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Jeong",
+            "middle": [
+                "Hyun"
+            ],
+            "last": "Lee",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of British Columbia",
+                "location": {
+                    "settlement": "Vancouver",
+                    "region": "British Columbia",
+                    "country": "Canada"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Simon",
+            "middle": [
+                "P"
+            ],
+            "last": "Duffy",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of British Columbia",
+                "location": {
+                    "settlement": "Vancouver",
+                    "region": "British Columbia",
+                    "country": "Canada"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Ryan",
+            "middle": [],
+            "last": "Flannigan",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of British Columbia",
+                "location": {
+                    "settlement": "Vancouver",
+                    "region": "British Columbia",
+                    "country": "Canada"
+                }
+            },
+            "email": "ryan.flannigan@ubc.ca"
+        },
+        {
+            "first": "Hongshen",
+            "middle": [],
+            "last": "Ma",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "University of British Columbia",
+                "location": {
+                    "settlement": "Vancouver",
+                    "region": "British Columbia",
+                    "country": "Canada"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "Objective: To develop a machine learning algorithm to detect rare human sperm in semen and microsurgical testicular sperm extraction (microTESE) samples using bright-field (BF) microscopy for nonobstructive azoospermia patients.Design: Spermatozoa were collected from fertile men.Testis biopsies were collected from microTESE samples determined to be clinically negative for sperm.A convolutional neural network based on the U-Net architecture was trained using 35,761 BF image patches with fluorescent ground truth image pairs to segment sperm.The algorithm was validated using 7,663 image patches.The algorithm was tested using 7,663 image patches containing abundant sperm, as well as 7,985 image patches containing rare sperm.Setting: In vitro fertilization center and university laboratories.Patient(s): Normospermic and nonobstructive azoospermia patients.Intervention(s): None.Main Outcome Measure(s): Precision (positive predictive value [PPV]), recall (sensitivity), and F1-score of detected sperm locations.Result(s): For sperm-only samples, our algorithm achieved 91% PPV, 95.8% sensitivity, and 93.3% F1-score at \u00c210 magnification.For dissociated microTESE samples doped with an abundant quantity of sperm, our algorithm achieved 84.0%PPV, 72.7% sensitivity, and 77.9% F1-score.For dissociated microTESE samples doped with rare sperm, our algorithm achieved 84.4% PPV, 86.1% sensitivity, and 85.2% F1-score.Conclusion(s): Rare sperm can be detected in patients' testis biopsy samples for potential subsequent use in in vitro fertilizationintracytoplasmic sperm injection.A machine learning algorithm can use BF images at \u00c210 magnification to accurately detect sperm locations using automated imaging.",
+    "pdf_parse": {
+        "paper_id": "xml_output_grobid_python_client\\Automated-rare-sperm-identification-from-low-magni",
+        "_pdf_hash": "",
+        "doi": "10.1016/j.fertnstert.2022.03.011",
+        "keywords": [
+            "Infertility",
+            "sperm",
+            "microTESE",
+            "nonobstructive azoospermia",
+            "machine learning"
+        ],
+        "abstract": [
+            {
+                "text": "Objective: To develop a machine learning algorithm to detect rare human sperm in semen and microsurgical testicular sperm extraction (microTESE) samples using bright-field (BF) microscopy for nonobstructive azoospermia patients.Design: Spermatozoa were collected from fertile men.Testis biopsies were collected from microTESE samples determined to be clinically negative for sperm.A convolutional neural network based on the U-Net architecture was trained using 35,761 BF image patches with fluorescent ground truth image pairs to segment sperm.The algorithm was validated using 7,663 image patches.The algorithm was tested using 7,663 image patches containing abundant sperm, as well as 7,985 image patches containing rare sperm.Setting: In vitro fertilization center and university laboratories.Patient(s): Normospermic and nonobstructive azoospermia patients.Intervention(s): None.Main Outcome Measure(s): Precision (positive predictive value [PPV]), recall (sensitivity), and F1-score of detected sperm locations.Result(s): For sperm-only samples, our algorithm achieved 91% PPV, 95.8% sensitivity, and 93.3% F1-score at \u00c210 magnification.For dissociated microTESE samples doped with an abundant quantity of sperm, our algorithm achieved 84.0%PPV, 72.7% sensitivity, and 77.9% F1-score.For dissociated microTESE samples doped with rare sperm, our algorithm achieved 84.4% PPV, 86.1% sensitivity, and 85.2% F1-score.Conclusion(s): Rare sperm can be detected in patients' testis biopsy samples for potential subsequent use in in vitro fertilizationintracytoplasmic sperm injection.A machine learning algorithm can use BF images at \u00c210 magnification to accurately detect sperm locations using automated imaging.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "ver 30 million men worldwide are infertile (1) .Approximately 15% of infertile men suffer from azoospermia (1) , the most severe form of male infertility in which there is no detectable sperm in the ejaculate.In azoospermic men, 40% have nonobstructive azoospermia (NOA) that results from a defect in sperm production.To help these couples conceive via in vitro fertilization (IVF), sperm is extracted directly from the testis through a process known as microsurgical testicular sperm extraction (micro-TESE).Retrieved sperm is then injected into oocytes via intracytoplasmic sperm injection (ICSI) with the aim of achieving fertilization and pregnancy that ultimately results in a healthy live birth.For NOA patients, the success rate of micro-TESE is approximately 45%, which translates to a live birth rate of only 13%, leaving the majority of these couples with no options for fertility (2) .",
+                "cite_spans": [
+                    {
+                        "start": 43,
+                        "end": 46,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 107,
+                        "end": 110,
+                        "text": "(1)",
+                        "ref_id": "BIBREF0"
+                    },
+                    {
+                        "start": 891,
+                        "end": 894,
+                        "text": "(2)",
+                        "ref_id": "BIBREF1"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "O",
+                "sec_num": null
+            },
+            {
+                "text": "The primary reasons for microTESE failure include the lack of sperm production and the inability to find extremely rare sperm among the millions of testicular cells in the micro-TESE specimen.Biopsied tissues are mechanically and enzymatically digested into a single cell suspension.An andrologist then evaluates the suspension using microscopy to identify and isolate approximately 10 sperm from an estimated 10-50 million testicular cells-a 0.0001%-0.00002%event rate.Currently, andrologists must spend hours manually searching through tens of thousands of microscopy fields to identify and retrieve sperm cells for NOA patients.As a result, most IVF facilities are only able to search through a fraction of the available sample, and because of extremely low event rates, there is a significant risk of missing rare sperm (3) .Thus, the success rates of IVF for NOA patients are currently limited by human cognition and patience.",
+                "cite_spans": [
+                    {
+                        "start": 824,
+                        "end": 827,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "O",
+                "sec_num": null
+            },
+            {
+                "text": "There have been previous attempts to improve microTESE identification of sperm with fluorescent-activated cell sorting, which identified sperm in 3 of 7 negative microTESE samples, supporting the rationale for this study (3) .However, this approach requires fluorescence staining of the sperm in the mi-croTESE sample and incurs cellular shear stress during fluorescent-activated cell sorting, which may pose challenges for clinical use.Attempts have been made to automate sperm identification via microscopy using traditional image analysis, as well as machine learning.Traditional image analysis uses techniques, such as thresholding, edge detection, morphologic transformations, elliptical masks, and color spaces to segment sperm from other cells and debris (4) (5) (6) (7) (8) (9) .These approaches are typically not robust across different specimens.Some success has been found in reviewing microscopic video footage to identify sperm based on their motility (10, 11) .However, sperm in testis biopsies are typically less motile than sperm in semen.Recently, deep learning has been used to directly detect sperm in semen from microscopy images, identify DNA fragmentation, and select high-quality sperm for ICSI (12) (13) (14) (15) (16) (17) (18) .These studies demonstrate that deep learning could extract useful information from bright-field (BF) images of sperm.However, the sample must be imaged at high magnification (>\u00c240), which is incompatible with the need to search through all available biopsy tissue to detect rare sperm.",
+                "cite_spans": [
+                    {
+                        "start": 221,
+                        "end": 224,
+                        "text": "(3)",
+                        "ref_id": "BIBREF2"
+                    },
+                    {
+                        "start": 762,
+                        "end": 765,
+                        "text": "(4)",
+                        "ref_id": "BIBREF3"
+                    },
+                    {
+                        "start": 766,
+                        "end": 769,
+                        "text": "(5)",
+                        "ref_id": "BIBREF4"
+                    },
+                    {
+                        "start": 770,
+                        "end": 773,
+                        "text": "(6)",
+                        "ref_id": "BIBREF5"
+                    },
+                    {
+                        "start": 774,
+                        "end": 777,
+                        "text": "(7)",
+                        "ref_id": "BIBREF6"
+                    },
+                    {
+                        "start": 778,
+                        "end": 781,
+                        "text": "(8)",
+                        "ref_id": "BIBREF7"
+                    },
+                    {
+                        "start": 782,
+                        "end": 785,
+                        "text": "(9)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 965,
+                        "end": 969,
+                        "text": "(10,",
+                        "ref_id": "BIBREF9"
+                    },
+                    {
+                        "start": 970,
+                        "end": 973,
+                        "text": "11)",
+                        "ref_id": "BIBREF10"
+                    },
+                    {
+                        "start": 1218,
+                        "end": 1222,
+                        "text": "(12)",
+                        "ref_id": "BIBREF11"
+                    },
+                    {
+                        "start": 1223,
+                        "end": 1227,
+                        "text": "(13)",
+                        "ref_id": "BIBREF12"
+                    },
+                    {
+                        "start": 1228,
+                        "end": 1232,
+                        "text": "(14)",
+                        "ref_id": "BIBREF13"
+                    },
+                    {
+                        "start": 1233,
+                        "end": 1237,
+                        "text": "(15)",
+                        "ref_id": "BIBREF14"
+                    },
+                    {
+                        "start": 1238,
+                        "end": 1242,
+                        "text": "(16)",
+                        "ref_id": "BIBREF15"
+                    },
+                    {
+                        "start": 1243,
+                        "end": 1247,
+                        "text": "(17)",
+                        "ref_id": "BIBREF16"
+                    },
+                    {
+                        "start": 1248,
+                        "end": 1252,
+                        "text": "(18)",
+                        "ref_id": "BIBREF17"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "O",
+                "sec_num": null
+            },
+            {
+                "text": "To improve the success rate of IVF-ICSI for NOA patients, we developed an artificial intelligence algorithm to automate the identification of rare sperm from semen and testis biopsy samples.This capability dramatically increases the amount of testis biopsy tissue that could be examined comprehensively to increase the chance of finding viable sperm for ICSI.This capability would also free andrologists from an arduous task to make the overall ICSI process more efficient and successful, which ultimately, will help couples devastated by NOA to achieve their dream of starting a family.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "O",
+                "sec_num": null
+            },
+            {
+                "text": "This study accessed fertile control semen samples and micro-TESE samples from our departmental biobank which is approved by the University of British Columbia clinical research ethics board (H18-03543) and requires informed consent.MicroTESE samples were derived from patients diagnosed with NOA defined through 2 azoospermic semen analyses, elevated serum follicle-stimulating hormone levels, and small testes on examination.Specifically, negative microTESE samples were used in this study in which no sperm was found after approximately 2 hours of surgically searching the testicular tissue with an operating microscope at \u00c220 magnification.These research samples were retrieved at the end of the microTESE case after all clinical samples were acquired.Samples were dissociated into single cells by digestion in 4.5 mL 0.25% Trypsin-ethylenediaminetetraacetic acid (25200-056; GIBCO Laboratories, Gaithersburg, MD) with 4 kU of DNase I (11284932001; Roche, Basel, Switzerland) for 5 minutes at 37 C and triturated 3-5 times, for 3 cycles for a total of 15 minutes of digestion.The reaction was stopped by adding 450 mL fetal bovine serum (A4766801, GIBCO Laboratories), and the cells were filtered using 70 mm followed by 40 mm filters, centrifuged at 600 \u00c2 g for 15 minutes, and resuspended in imaging buffer.A total of 3 microTESE biopsies from different patients were processed (separately).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample Preparation",
+                "sec_num": null
+            },
+            {
+                "text": "Experiments in this study pertaining to machine learning methods to detect sperm were performed under the University of British Columbia clinical research ethics board (H19-00792).Within 30 minutes of a fresh semen donation, the sample was transferred to a 15 mL centrifuge tube and a needle was used to pop all the bubbles in the sample.The tube was then secured at an angle of 45 and 2 mL of the swim-up medium (made from 38 mL Dulbecco's modified Eagle's medium/F12 [11320-033, GIBCO], 100 mL Lactate [L4263; Sigma-Aldrich, St. Louis, MO], 10 mL of 50 mg/mL human serum albumin [A1653, Sigma-Aldrich], 0.5 mL HEPES buffer solution [15630-080, GIBCO], and 272 mL sodium pyruvate [S8636, Sigma-Aldrich]) was gently layered on top of the semen sample to perform the sperm swim-up, in which the motile sperm swim upwards past the boundary into the swim-up medium, leaving behind other cells, debris, and nonmotile sperm in the semen.For washes, all centrifugation was spun at 400 \u00c2 g for 5 minutes.After 20 minutes of the swim-up process, the top 70% of the uniform unclouded swim-up medium was extracted slowly using a large-bore pipette tip to avoid suction of the semen sample.To confirm a successful swim-up, 10 mL of the swim-up medium was viewed under a microscope on a glass slide to ensure that it only contains sperm cells with negligible debris or nonsperm cells.Sperm cells were washed and resuspended in 500 mL of phosphate-buffered saline and then 10 mL/mL formalin was added to fix the sperm.At 15 minutes after adding the formalin, the cells were washed and resuspended in 500 mL of 0.1% Triton X-100 for permeabilization.At 30 minutes after resuspension in Triton X-100, the sample was washed again and resuspended in 500 mL of phosphatebuffered saline.Sperm cells were stained with 1 mL/mL LIVE/DEAD Fixable Aqua Dead Cell Stain (L34957; Invitrogen, Waltham, MA) and left at room temperature (with the container wrapped in aluminum foil) for 30 minutes to allow the stain to fully permeate.An amine-reactive dye was necessary to prevent dye leakage into the testis cells using the dye's covalent bonds.After 2 more sperm cell washes in phosphatebuffered saline, sperm cells and microTESE cells were serially diluted and aliquoted at low density into Greiner Sensoplate 96-well glass-bottom multiwell plates (M4187-16EA, Sigma-Aldrich) such that there was minimal overlap between cells under the microscope after plate centrifugation.Before imaging, each well was layered with 15 mL of Ovoil oil (10029; Vitrolife, San Diego, CA), a total volume of the contents in each well is 120 mL after adding the Ovoil oil.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sample Preparation",
+                "sec_num": null
+            },
+            {
+                "text": "Microscopy imaging was performed using a Nikon (Tokyo, Japan) Ti-2E inverted fluorescence microscope.Microscope objectives included Nikon CFI Plain Fluor \u00c24, \u00c210, and \u00c220 objectives.Image acquisition was performed using a 14-bit Nikon DS-Qi2 CMOS camera.Images were acquired in BF with phase contrast, as well as in fluorescence in the mCherry channel (Nikon C-FLL LFOV, 562/40 nm excitation, 641/75 nm emission, and 593 dichroic mirror).Brightfield imaging was illuminated by the built-in Ti-2E LED.Epifluorescence excitation was performed using a 130 W mercury lamp (Nikon C-HGFI).Exposure, gain, and vertical offset were determined automatically using built-in Nikon Instruments Software (NIS) functions to avoid user bias.Cells were imaged in Greiner Sensoplate 96-well glassbottom multiwell plates (M4187-16EA, Sigma-Aldrich).Cell concentrations in the wells were diluted down to approximately 30,000-50,000 cells to lower overlap between cells.NIS Jobs was used to automatically capture 21 images on each of the 2 channels for each well.Bright-field microscopy and fluorescent imaging were done concurrently through automated imaging for each imaged location.The images were exported from NIS to standard 8-bit TIFF format.Of all imaged cells, sperm cells made up 3%-25% of the training set and less than 1% of the rare sperm testing set, varied for the training set for diversification of the training data set.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Microscopy",
+                "sec_num": null
+            },
+            {
+                "text": "TIFF files exported from Nikon NIS were preprocessed using a custom Python script using SciKit and OpenCV libraries.The script extracted and resized 2,424 \u00c2 2,424-pixel TIFF images to 2,304 \u00c2 2,304-pixel images.The resized images were each sliced into 81 256 \u00c2 256-pixel image patches.Image patches were filtered to remove well edges and out-offocus images.Bright-field images outside the well or on the well edges where the images are out of focus were removed from the data set.Subsequently, out-of-focus fluorescent labels were filtered out by removing all labels that had over a fifth of its total area labeled as sperm.Additionally, the BF patches were filtered for undesirable lighting conditions and well edges by ensuring that their average pixel intensity ranged between 70 and 230, or were removed otherwise.Bright-field images are converted to 3 channels to match the model input.This process is repeated for each stack of TIFF images.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data Preprocessing",
+                "sec_num": null
+            },
+            {
+                "text": "The convolutional neural network (CNN) based on the U-Net architecture was designed in Python using Tensorflow's Keras library.The network accepts a 3-channel input of size 256 \u00c2 256 pixels and outputs a single-channel output of size 256 \u00c2 256 pixels.All input data are normalized to between \u00c01 to 1, inclusive.All 2-dimensional (2D) convolutions have a kernel size of 3 \u00c2 3, the same padding, he_normal initialization, and exponential linear unit activation.The filter size begins at 16 and doubles after every second convolution until the end of the encoder segment after the tenth convolution with a filter size of 256.Each pair of 2D convolutions in the encoder is followed by a 2 \u00c2 2 max pooling operation.The decoder starts with a series of up-convolutions with a kernel size of 2 \u00c2 2 and 128 filter size, concatenation with the same shaped output from the encoder, and then pairs of convolutions with the same filter size, halving until the end of the encoder after every second 2D convolution.Between every pair of 2D convolutions, we tested an increasing dropout that increments from 0.1 until 0.5 and decrements back down to 0.1 after each pair of convolutions in intervals of 0.1, as well as a constant dropout of 0.5.The output 1 \u00c2 1 convolution with sigmoid activation outputs confidence values between 0 and 1.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Convolutional Neural Network Model",
+                "sec_num": null
+            },
+            {
+                "text": "The software was run on a single computer operating Windows 10 with an Intel i7-7700 running at 3.6 GHz.There was 32 GB of DDR4 RAM running at 2400 MHz.The graphics card was a 2 GB GT 730.The training was performed in Python 3.7 using the Keras 1.1.2library.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Training Environment",
+                "sec_num": null
+            },
+            {
+                "text": "The network was trained on 10 epochs with Adam optimization and a learning rate of 0.001 with a batch size of 8.The EarlyStopping and Checkpoint functions in Keras were used to save copies of the model before the tenth epoch to minimize overfitting.The weighted binary cross-entropy loss function was used to train the model, in which the log loss from false negatives is scaled up by the ratio of background pixels and sperm pixels over the entire training data set.Accuracy and dice loss were used to observe model performance during training.Using the ImageDataGenerator in Keras, data augmentation was applied to all training inputs, including rotations of 45 in either direction, zooming in or out between \u00c20.8 and \u00c21.2 magnification, vertical and horizontal image shifting of up to \u00c20.4 the width or height, brightness adjustments of \u00c20.8 to \u00c21.2, vertical and horizontal flips, and a reflecting fill when augmentations leave blank space.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Training",
+                "sec_num": null
+            },
+            {
+                "text": "The single-channel 256 \u00c2 256-pixel output from the model prediction was binarized using a threshold optimized on the validation set during testing.Using the distance_transfor-m_edt function in SciPy, the binary image was transformed into a map where all sperm pixels were the Euclidean pixel distance away from the background pixels.All the peaks within the Euclidean map were found with a minimum 6pixel separation distance between peaks using peak_local_max function in SciKit and each peak was uniquely labeled using the label function in SciPy before passing the labels and an inverted version of the Euclidean distance map into the watershed algorithm.For each unique label, the watershed algorithm determined the contour surrounding each label.Each sperm instance was visualized on the original BF image using a minimum enclosing circle and number around the predicted sperm head.Inference with described hardware requires approximately 3 seconds for all 81 256 \u00c2 256-pixel BF patches, combined for a full \u00c210 microscopy field search.Image patches were combined back together and rescaled to the original resolution, providing an accurate position in the full BF image, and correspondingly in the well using known coordinates from the microscopy software.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sperm Detection",
+                "sec_num": null
+            },
+            {
+                "text": "Our overall approach to automated rare sperm identification was to use a CNN to perform pixel-based classification of microscopy images from testis biopsies (Fig. 1 ).To train the CNN, purified sperm cells were first isolated from semen samples using a swim-up procedure.The purified sperm cells were then fixed to make them nonmotile and fluorescently stained using an amine-reactive dye.These sperm cells were doped into testis biopsy samples from NOA patients confirmed to have no sperm by a clinical andrologist.The doped samples were imaged using BF and fluorescence microscopy.The fluorescence images were processed to generate a ground truth of the locations of doped sperm cells to train the CNN to perform a pixel-based classification on the BF images.The output of the CNN was a probability map of potential sperm objects.Finally, the probability distribution was processed to identify and locate individual sperm cells.The performance of our CNN model can be evaluated by comparing detected sperm from BF images against ground truth labels obtained from",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 163,
+                        "end": 164,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Approach",
+                "sec_num": null
+            },
+            {
+                "text": "Overall approach for artificial intelligence-based rare sperm detection system.Sperm purified by swim-up is fixed, fluorescently stained, and doped into a testis biopsy, which is imaged to create a training set for deep learning.A U-Net convolutional neural network (CNN) is trained using brightfield images against ground truth obtained by processing the fluorescence images.The trained CNN performs pixel-based classification to obtain a probability distribution, which is analyzed to detect individual sperm.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "FIGURE 1",
+                "sec_num": null
+            },
+            {
+                "text": "Lee. Automated rare sperm identification.Fertil Steril 2022.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "FIGURE 1",
+                "sec_num": null
+            },
+            {
+                "text": "fluorescence images.Before applying this approach to sperm doped into testis biopsy samples, we initially used this image analysis pipeline to analyze purified sperm samples without background cells to determine the upper bound on performance and optimal imaging magnification.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "FIGURE 1",
+                "sec_num": null
+            },
+            {
+                "text": "Bright-field and fluorescence images of sperm and testis cells were acquired as 8-bit 2,424 \u00c2 2,424-pixel images from the microscope camera.We developed a Python program to resize and slice the images into 81 256\u00c2 256-pixel bitmap image patches to eliminate low-quality regions and reduce the memory requirements for the training environment.The patches were filtered and inspected to remove well edges, as well as areas with unusually high fluorescence, large clumps, or no sperm to produce a high-quality training set with minimal outliers.To create the ground truth, the fluorescence images were thresholded to produce a binary image (Fig. 2A and B ).The ground truth threshold was determined by analyzing fluorescence images of purified sperm samples to detect the sperm head.The data set then was split into a 70%, 15%, and 15% ratio with 35,761, 7,663, and 7,663 patches for training, validation, and testing data sets, respectively, by random selection.This data set split allowed sufficient diversity in the training images while isolating sufficient validation and testing images to produce a robust model evaluation.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 643,
+                        "end": 645,
+                        "text": "2A",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 650,
+                        "end": 651,
+                        "text": "B",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Image Preprocessing",
+                "sec_num": null
+            },
+            {
+                "text": "We designed a CNN based on the U-Net architecture to segment images into sperm and nonsperm pixels using the Keras library in Tensorflow.U-Net is a fully convolutional encoder-decoder network architecture with a proven ability to segment medical images and conduct transfer learning with minimal data (19) .This network uses an equal number of up-sampling and down-sampling layers that form a symmetric contracting and expanding path.Unlike patch-based CNNs, the network can use the full context of each image via skip connections that concatenate features from opposing convolution and deconvolution layers (Supplemental Fig. 1 , available online).Several differences can be highlighted between the original U-Net architecture and our design.Specifically, we used exponential linear unit activation instead of rectified linear unit activation to avoid the dying rectified linear unit problem, and dropout layers were used to regularize the model.Although U-Net did not use dropout layers, to regularize the network, we used 2 different styles of dropout that were trained and compared: a constant 50% dropout, as well as increasing dropouts in the encoder and decreasing dropouts in the decoder.The model input is a 3stacked grayscale 8-bit 256 \u00c2 256-pixel image, such that all 2 \u00c2 2 max pooling operations are applied to a layer with even height and width as suggested by U-Net, normalized about 0 between -1 and 1.We used padded 3 \u00c2 3 convolutions in place of unpadded 3 \u00c2 3 convolutions to maintain the input and output height and width, but kept the stride of 2. For weight initialization, instead of a regular normal distribution used by the U-Net, we used a truncated normal distribution to avoid rare outlier weights but kept the standard deviation of ffiffiffiffiffiffiffiffiffi 2=N p , in which N is the number of input units in the weight tensor.The energy function is computed pixel-wise using the two-class sigmoid function rather than the multiclass softmax function.The network uses a weighted binary cross-entropy loss function instead of an unweighted version, as well as the Adam optimizer with an initial learning rate of 0.01.This loss function increases the log loss of incorrectly segmenting sperm by the ratio of background to sperm pixels in the entire training data set.The output segmentation was binarized into a single-layered 8-bit 256 \u00c2 256-pixel image for postprocessing.",
+                "cite_spans": [
+                    {
+                        "start": 301,
+                        "end": 305,
+                        "text": "(19)",
+                        "ref_id": "BIBREF18"
+                    }
+                ],
+                "ref_spans": [
+                    {
+                        "start": 627,
+                        "end": 628,
+                        "text": "1",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Convolutional Neural Network Design",
+                "sec_num": null
+            },
+            {
+                "text": "To detect each sperm and acquire its location, we postprocessed the CNN probability map (Fig. 2C ) to perform instance segmentation.The CNN probability map initially was thresholded into a binary mask containing only high-confidence sperm pixels (Fig. 2D ).The binary mask was then transformed into a Euclidean distance map, such that all sperm pixels are a minimum Euclidean distance from the background labels (Fig. 2E ).The local peaks within the distance map were found and tagged with a unique label.The watershed algorithm was then applied to the combination of unique labels and the inverse Euclidean distance map was used to calculate the contours surrounding each unique peak by flooding the inverse peaks to determine the contour boundaries.Each sperm instance within an image patch could then be visualized with a circle and number using the unique contours that surround each peak found using the watershed algorithm (Fig. 2F ) to evaluate the model performance.Interestingly, although sperm tails were not labeled on the ground truth images, tails were labeled on the probability maps produced by the CNN (Fig. 2C ), which confirms that the presence of the tail is being used by the CNN to identify sperm cells.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 94,
+                        "end": 96,
+                        "text": "2C",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 252,
+                        "end": 254,
+                        "text": "2D",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 418,
+                        "end": 420,
+                        "text": "2E",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 935,
+                        "end": 937,
+                        "text": "2F",
+                        "ref_id": "FIGREF0"
+                    },
+                    {
+                        "start": 1124,
+                        "end": 1126,
+                        "text": "2C",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Sperm Detection",
+                "sec_num": null
+            },
+            {
+                "text": "We measured the performance of the model by comparing the predicted sperm locations with the ground truth.If the predicted sperm location was within the approximate radius of the sperm head (6 pixels for images taken using a \u00c210 objective), the predicted sperm was labeled as a true positive.Otherwise, the predicted sperm was labeled as a false positive.All missed ground truth sperm were labeled as false negatives and no predicted sperm was counted twice.By labeling and counting the number of true positives, false positives, and false negatives (Supplemental Fig. 2 ), we calculated the precision (positive predictive value [PPV]), recall (sensitivity), and F1-scores for each tested data set to evaluate the performance of the model.The parameters of the watershed algorithm, including the binarization threshold, the maximum distance threshold to be considered a ''nearby sperm,'' and the confidence threshold for binarization were optimized through empirical testing with a resolution of 1 pixel.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 569,
+                        "end": 570,
+                        "text": "2",
+                        "ref_id": "FIGREF0"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Model Performance Characterization",
+                "sec_num": null
+            },
+            {
+                "text": "Imaging magnification has a tremendous impact on the amount of tissue that can be analyzed because the time required for microscopy increases as the inverse square of the magnification.For example, a \u00c24 magnification objective can image 25 times the amount of biopsy tissue that a \u00c220 objective can image.To determine the optimal imaging resolution for large area scans, we evaluated sperm detection accuracy by training our CNN using microscopy images acquired at \u00c220, \u00c210, and \u00c24 magnification.To ensure that identical images were used for this test, the \u00c210 and \u00c24 images were down-sampled from \u00c220 images.At \u00c24 magnification, the sperm head is detected using approximately 8 pixels and is barely recognizable by human cognition (Fig. 3A ).At \u00c210 and \u00c220, the sperm head is detected using approximately 50 and approximately 200 pixels, respectively, and is easily recognizable by human cognition (Fig. 3B and C ).Training models at all 3 magnifications used a sample containing 68,041 sperm cells, and we observed that sperm detection metrics improved with magnification from \u00c24 (PPV, 77.8%; sensitivity, 69.7%; and F1 73.5%) to \u00c210 (PPV, 91%; sensitivity, 95.8%; and F1-score, 93.3%), and \u00c220 magnification (PPV, 97.6%; sensitivity, 94.2%; and F1-score, 95.9%; Fig. 3D ).For the purpose of rare sperm detection, it is desirable to maximize the throughput.However, we selected \u00c210 magnification for the subsequent study to ensure that sperm detection is sufficiently robust in the more complex microTESE samples.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 738,
+                        "end": 740,
+                        "text": "3A",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 905,
+                        "end": 907,
+                        "text": "3B",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 912,
+                        "end": 913,
+                        "text": "C",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1270,
+                        "end": 1272,
+                        "text": "3D",
+                        "ref_id": "FIGREF1"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Imaging Magnification",
+                "sec_num": null
+            },
+            {
+                "text": "We tested our approach for identifying sperm in testis biopsies imaged using the \u00c210 microscope objective.We trained a new CNN model by doping purified sperm cells into testis biopsies from NOA patients who have been clinically determined to be azoospermic.As before, the purified sperm was stained using an amine-reactive dye to create a ground truth (Supplemental Fig. 3 ).The testis biopsy sample was then imaged in BF (Fig. 4A ) and fluorescence.After preprocessing to eliminate low-quality images, the fluorescence images were binarized using an empirically tested threshold dependent on microscopy gain, exposure time, and physical microscope, to provide ground truth images for training the CNN model to detect sperm in the BF images (Fig. 4B ).The output of the CNN was a probability map of the likelihood of pixels containing sperm (Fig. 4C ).We then binarized the probability map and applied a watershed algorithm to obtain a Euclidean distance map (Fig. 4D and E ).Local maxima points were identified and provided with a unique label.As before, the sperm tails were detected in the probability map even though the training images had no sperm tails (Fig. 4C and F ).",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 371,
+                        "end": 372,
+                        "text": "3",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 428,
+                        "end": 430,
+                        "text": "4A",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 747,
+                        "end": 749,
+                        "text": "4B",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 847,
+                        "end": 849,
+                        "text": "4C",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 965,
+                        "end": 967,
+                        "text": "4D",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 972,
+                        "end": 973,
+                        "text": "E",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 1166,
+                        "end": 1168,
+                        "text": "4C",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 1173,
+                        "end": 1174,
+                        "text": "F",
+                        "ref_id": null
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Abundant Sperm Detection in Testis Biopsy",
+                "sec_num": null
+            },
+            {
+                "text": "To optimize sperm detection from the probability map (Fig. 4C ), we varied the binarization threshold and the resolution of the watershed algorithm's output contour radius with the goal of obtaining the greatest F1-score.The binarization threshold controls the required model prediction confidence reflected in its output probability maps for cells to possibly be sperm cells.The minimum contour radius directly controls the confidence area for a cell to be labeled as a sperm.Using detected sperm locations, we measured the model performance on the validation data set, which was then used to optimize the aforementioned binarizing threshold with a resolution of 0.01 and minimum contour radius with a resolution of 1 pixel.The combination of parameters that yielded the highest F1-score was selected to be the optimal model.We optimized F1-scores for 2 dropout styles: increasing/ decreasing dropouts and a constant 50% dropout.The former achieved 78.7% (Fig. 4G ) and the latter 74.8%.In summary, our CNN could successfully identify sperm in testis biopsy samples with an F1-score of 78.7%.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 59,
+                        "end": 61,
+                        "text": "4C",
+                        "ref_id": "FIGREF2"
+                    },
+                    {
+                        "start": 962,
+                        "end": 964,
+                        "text": "4G",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Abundant Sperm Detection in Testis Biopsy",
+                "sec_num": null
+            },
+            {
+                "text": "Additionally, to establish the consistency of our results, we validated our results using 5-fold cross-validation.The training set was split into 5 equally sized and randomly distributed groups of images.We trained the U-Net using 4 of the groups and tested it on the fifth group.All 5 groups were tested after repeating this process 4 times (PPV, 84.0%; sensitivity, 72.7%; and F1-score, 77.9%), which is similar to the performance from initial testing.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abundant Sperm Detection in Testis Biopsy",
+                "sec_num": null
+            },
+            {
+                "text": "To investigate the use case of identifying rare sperm in testis biopsies from NOA patients in which there could be only a few sperm cells among millions of testis cells, we simulated this clinical application using sperm doped artificially into testis biopsy samples that were inspected by andrologists to contain no sperm.We first purified donor sperm from semen samples using a swim-up assay.The purified sperm cells were fixed, permeabilized, and stained using an amine-reactive dye.The stained sperm were then doped in low numbers into disassociated testis biopsy cells in microwell plates.Each well had 10 to 200 sperm cells and approximately 30,000 to 50,000 cells from the testis biopsy (Supplemental Fig. 3 ).The model was trained previously by doping sperm into mi-croTESE samples at a higher density (3,000-6,000 sperm per well) and was not retrained before testing on the rare sperm data set.Our model was able to detect 2,969 sperm cells out of a total of 3,517 sperm in the 7,985 image patches imaged from 38 wells (PPV, 84.4%; sensitivity, 86.1%; and F1score, 85.2%; Fig. 4G ), which was an improvement over the identification of abundant sperm in testis biopsies.These results demonstrated that a low frequency of sperm does not negatively affect the sperm detection in the model.",
+                "cite_spans": [],
+                "ref_spans": [
+                    {
+                        "start": 713,
+                        "end": 714,
+                        "text": "3",
+                        "ref_id": "FIGREF1"
+                    },
+                    {
+                        "start": 1086,
+                        "end": 1088,
+                        "text": "4G",
+                        "ref_id": "FIGREF2"
+                    }
+                ],
+                "eq_spans": [],
+                "section": "Rare Sperm Detection in Testis Biopsy",
+                "sec_num": null
+            },
+            {
+                "text": "Identifying rare sperm from testis biopsies of NOA patients is an arduous task that is currently limited by human cognition and patience.Automating this task using computational image analysis provides an opportunity to dramatically increase the amount of tissue that can be assessed, thereby increasing the chance of finding rare sperm for ICSI.In this study, we developed a deep learning algorithm to detect and count sperm cells in BF images.Specifically, we developed a CNN based on the U-Net architecture to identify sperm through pixel classification of microscopy images of testis biopsies.We trained the CNN using fluorescently stained donor sperm that are doped into testis biopsy samples from NOA patients.This CNN produces a probability map of potential pixels belonging to sperm cells, which is then analyzed to determine the position of each detected sperm.The probability map can be rendered and overlaid on the image to confirm cell identity and assess performance.Overall, our CNN was able to detect rare sperm from BF images with a sensitivity of 86.1% and an F1-score of 85.2%.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "For microTESE samples from NOA patients, manual microscopic searching for sperm is currently performed by andrologists using a microscope at \u00c220 or \u00c240 magnification for up to 4-6 hours (20).This process could easily miss rare sperm because of the relative abundance of testis cells in the microTESE sample, as well as human error associated with inexperience and fatigue (21) .Sperm detection algorithms have been previously developed using traditional image analysis approaches, such as thresholding, edge detection, morphologic transformations, elliptical masks, and color spaces (4-9).However, these approaches typically require high magnification imaging that limits their throughput (22) .As a result, these methods are typically used to count sperm in semen samples, in which it is much easier to identify sperm from media and a few nonsperm cells.Our approach using a CNN to analyze microscopy images could detect rare sperm from cell images at \u00c210 magnification, which increases imaging throughput by factors of 4 and 16 over \u00c220 and \u00c240 imaging.After automated imaging, the sperm locations can then be preserved for subsequent retrieval for ICSI.",
+                "cite_spans": [
+                    {
+                        "start": 372,
+                        "end": 376,
+                        "text": "(21)",
+                        "ref_id": "BIBREF20"
+                    },
+                    {
+                        "start": 689,
+                        "end": 693,
+                        "text": "(22)",
+                        "ref_id": "BIBREF21"
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "DISCUSSION",
+                "sec_num": null
+            },
+            {
+                "text": "The to perform automated detection of rare sperm from BF microscopy images offers tremendous potential for increasing the success rate and reducing the time required for sperm retrieval from microTESE.Using automated imaging and a machine learning algorithm, we could robustly detect sperm locations from \u00c210 magnification of BF images.This capability can be readily integrated into clinical settings where standard microscopy imaging systems already exist to guide the identification and retrieval of rare sperm.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "CONCLUSION",
+                "sec_num": null
+            },
+            {
+                "text": "Fertility and Sterility\u00ae",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "Acknowledgments: Data from this study will be available from an appropriate database.DIALOG: You can discuss this article with its authors and other readers at https://www.fertstertdialog.com/posts/34431",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "acknowledgement",
+                "sec_num": null
+            },
+            {
+                "text": "Supported by grants from the New Frontiers in Research Fund (NFRFE-2018-01947), Natural Sciences and Engineering Research Council of Canada (RGPIN-2020-05412, RTI-2020-00530), and MITACS (J.H.L. IT13817).R.L. reports grant from New Frontiers Research Fund for the submitted work.L.W. has nothing to disclose.M.R. reports grant from New Frontiers Research Fund for the submitted work.J.H.L. reports grant from MITACS outside the submitted work.S.P.D. has nothing to disclose.R.F. reports grant from New Frontiers Research Fund for the submitted work; grants from Vancouver Coastal Health Research Institute, Canadian Institute of Health Research, American Society for Reproductive Medicine, Sexual Medicine Society of North America, Boston Scientific, Canadian Urologic Association Scholarship Foundation, Canadian Foundation for Innovation, and Michael Smith Foundation for Health Research; consulting fees from Boston Scientific and Coloplast; honoraria from Boston Scientific and Paladin Labs; travel support from Acerus; serves as Trainee Affairs Committee Lead -American Society of Andrology outside the submitted work.H.M. reports grant from New Frontiers Research Fund for the submitted work; grants from Natural Sciences and Engineering Research Council of Canada, MITACS outside the submitted work.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "funding",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF0": {
+                "ref_id": "b0",
+                "title": "Surgical sperm retrieval and MicroTESE",
+                "authors": [
+                    {
+                        "first": "I",
+                        "middle": [],
+                        "last": "Cullen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Muneer",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "193--202",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "How successful is TESE-ICSI in couples with non-obstructive azoospermia?",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Vloeberghs",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Verheyen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Haentjens",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Goossens",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Polyzos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Tournaye",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Hum Reprod",
+                "volume": "30",
+                "issue": "",
+                "pages": "1790--1796",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF2": {
+                "ref_id": "b2",
+                "title": "Pd68-01 pilot study results using fluorescence activated cell sorting of spermatozoa from testis tissue: a novel method for sperm isolation after TESE",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Mittal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Mielnik",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Bolyakov",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Schlegel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Paduch",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "J Urol",
+                "volume": "197",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "Sperm cells segmentation in micrographic images through Lambertian reflectance model",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Medina-Rodr\u00edguez",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Guzm An-Mas\u00edas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Alatrista-Salas",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Beltr An-Casta\u00f1 On",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Computer analysis of images and patterns",
+                "volume": "",
+                "issue": "",
+                "pages": "664--674",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF4": {
+                "ref_id": "b4",
+                "title": "Segmentation of sperms using the strategic Hough transform",
+                "authors": [
+                    {
+                        "first": "K",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Park",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Yi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Paick",
+                        "suffix": ""
+                    }
+                ],
+                "year": 1997,
+                "venue": "Ann Biomed Eng",
+                "volume": "25",
+                "issue": "",
+                "pages": "294--302",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Automatic sperms counting using adaptive local threshold and ellipse detection",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Hidayatullah",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Zuhdi",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "2014 International Conference on Information Technology Systems and Innovation (ICITSI)",
+                "volume": "",
+                "issue": "",
+                "pages": "56--61",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF6": {
+                "ref_id": "b6",
+                "title": "Goldstandard and improved framework for sperm head segmentation",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Chang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Saavedra",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Casta\u00f1eda",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Sarabia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Hitschfeld",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Comput Methods Programs Biomed",
+                "volume": "117",
+                "issue": "",
+                "pages": "225--237",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Sperm identification using elliptic model and tail detection",
+                "authors": [
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Nafisi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Moradi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Nasr-Esfahani",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2005,
+                "venue": "Trans Eng Comput Technol",
+                "volume": "6",
+                "issue": "",
+                "pages": "205--208",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Sperm detection in video frames of semen sample using morphology and effective ellipse detection method",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Mahdavi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Monadjemi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Vafae",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "J Med Signals Sens",
+                "volume": "1",
+                "issue": "",
+                "pages": "206--213",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF9": {
+                "ref_id": "b9",
+                "title": "Smartphone based sperm counting -an alternative way to the visual assessment technique in sperm concentration analysis",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Ilhan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Aydin",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2020,
+                "venue": "Multimed Tools Appl",
+                "volume": "79",
+                "issue": "",
+                "pages": "6409--6435",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Automatic human spermatozoa detection in microscopic video streams based on OpenCV",
+                "authors": [
+                    {
+                        "first": "Q",
+                        "middle": [],
+                        "last": "Li",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "X",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Zhang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Yin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "2012 5th International Conference on BioMedical Engineering and Informatics",
+                "volume": "",
+                "issue": "",
+                "pages": "224--227",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF11": {
+                "ref_id": "b11",
+                "title": "Convolutional Neural networks for segmentation and object detection of human semen",
+                "authors": [
+                    {
+                        "first": "M",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Nissen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "O",
+                        "middle": [],
+                        "last": "Krause",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [],
+                        "last": "Almstrup",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Kjaerulff",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Nielsen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Nielsen",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Image analysis",
+                "volume": "",
+                "issue": "",
+                "pages": "397--406",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "An efficient method for automatic morphological abnormality detection from human sperm images",
+                "authors": [
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Ghasemian",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Mirroshandel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Monji-Azad",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Azarnia",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [],
+                        "last": "Zahiri",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Comput Methods Programs Biomed",
+                "volume": "122",
+                "issue": "",
+                "pages": "409--420",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF13": {
+                "ref_id": "b13",
+                "title": "A computer aided tool for the assessment of human sperm morphology",
+                "authors": [
+                    {
+                        "first": "H",
+                        "middle": [],
+                        "last": "Carrillo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Villarreal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Sotaquira",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Goelkel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Gutierrez",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2007,
+                "venue": "IEEE 7th International Symposium on BioInformatics and BioEngineering",
+                "volume": "",
+                "issue": "",
+                "pages": "1152--1157",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Fully automatic identification and discrimination of sperm parts in microscopic images of stained human semen smear",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Bijar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Benavent",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Mikaeili",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Khayati",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "J Biomed Sci Eng",
+                "volume": "5",
+                "issue": "",
+                "pages": "384--395",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF15": {
+                "ref_id": "b15",
+                "title": "Computer-assisted sperm analysis (CASA): capabilities and potential developments",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Amann",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Waberski",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Theriogenology",
+                "volume": "81",
+                "issue": "3",
+                "pages": "5--17",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Deep learning-based selection of human sperm with high DNA integrity",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Mccallum",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Riordon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Kong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "You",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Sanner",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Commun Biol",
+                "volume": "2",
+                "issue": "",
+                "pages": "1--10",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF17": {
+                "ref_id": "b17",
+                "title": "Prediction of DNA Integrity from morphological parameters using a single-sperm DNA Fragmentation index assay",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Wang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Riordon",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Kong",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Xu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Nguyen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Zhong",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Adv Sci (Weinh)",
+                "volume": "6",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "U-Net: deep learning for cell counting, detection, and morphometry",
+                "authors": [
+                    {
+                        "first": "T",
+                        "middle": [],
+                        "last": "Falk",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Mai",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Bensch",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "\u00b8ic \u00b8ek \u20ac O, Abdulkadir",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [],
+                        "last": "Marrakchi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Nat Methods",
+                "volume": "16",
+                "issue": "",
+                "pages": "67--70",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF19": {
+                "ref_id": "b19",
+                "title": "A novel stepwise micro-TESE approach in non obstructive azoospermia",
+                "authors": [
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Franco",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "F",
+                        "middle": [],
+                        "last": "Scarselli",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Casciani",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "De",
+                        "middle": [],
+                        "last": "Nunzio",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Dente",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Leonardo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2016,
+                "venue": "BMC Urol",
+                "volume": "16",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Inherent difficulties of meta-analysis for surgical techniques in male infertility: an argument for standardizing reporting and outcomes",
+                "authors": [
+                    {
+                        "first": "R",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Anderson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Hotaling",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "Fertil Steril",
+                "volume": "104",
+                "issue": "",
+                "pages": "1127--1128",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF21": {
+                "ref_id": "b21",
+                "title": "A novel deep learning method for automatic assessment of human sperm images",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Javadi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Mirroshandel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2019,
+                "venue": "Comput Biol Med",
+                "volume": "109",
+                "issue": "",
+                "pages": "182--194",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Identificaci on automatizada de espermatozoides escasos a partir de im agenes con microscop\u00eda de bajo aumento de muestras de extracci on esperm atica microquir urgica utilizando el aprendizaje profundo",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF23": {
+                "ref_id": "b23",
+                "title": "Desarrollar un algoritmo de aprendizaje autom atico para detectar espermatozoides humanos escasos en muestras de semen y de extracci on microquir urgica de espermatozoides testiculares (microTESE) utilizando microscop\u00eda de campo brillante (CB) para pacientes con azoospermia no obstructiva",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Objetivo",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Se recolectaron biopsias de test\u00edculos de muestras microTESE que se determin o que eran cl\u00ednicamente negativas para espermatozoides. Se entren o una red neuronal convolucional basada en la arquitectura U-Net utilizando 35761",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Dise\u00f1o",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF25": {
+                "ref_id": "b25",
+                "title": "parches de imagen CB con pares de im agenes reales fluorescentes para segmentar el esperma. El algoritmo se valid o utilizando 7663",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "El algoritmo se prob o utilizando 7663 parches de im agenes que conten\u00edan abundante esperma, as\u00ed como 7985 parches de im agenes que conten\u00edan espermatozoides escasos",
+                "authors": [],
+                "year": null,
+                "venue": "Entorno: Centro de fecundaci on in vitro y laboratorios universitarios",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF27": {
+                "ref_id": "b27",
+                "title": "Principales medidas de resultado: Precisi on (valor predictivo positivo",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "recuperaci on (sensibilidad) y puntuaci on F1 de las ubicaciones de espermatozoides detectados. Resultado(s): Para muestras de esperma unicamente",
+                "authors": [],
+                "year": null,
+                "venue": "nuestro algoritmo logr o un VPP del 91 %, una sensibilidad del 95,8 % y una puntuaci on F",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": "Para muestras microTESE disociadas con una cantidad abundante de espermatozoides, nuestro algoritmo logr o un VPP del 84,0 %",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Aumentos",
+                        "suffix": ""
+                    }
+                ],
+                "year": null,
+                "venue": "una sensibilidad del",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 2",
+                "fig_num": "2",
+                "type_str": "figure"
+            },
+            "FIGREF1": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 3",
+                "fig_num": "3",
+                "type_str": "figure"
+            },
+            "FIGREF2": {
+                "uris": null,
+                "num": null,
+                "text": "FIGURE 4",
+                "fig_num": "4",
+                "type_str": "figure"
+            },
+            "FIGREF3": {
+                "uris": null,
+                "num": null,
+                "text": "Lee. Automated rare sperm identification.Fertil Steril 2022.",
+                "fig_num": null,
+                "type_str": "figure"
+            }
+        }
+    }
+}

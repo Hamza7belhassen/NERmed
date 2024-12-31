@@ -1,0 +1,1699 @@
+{
+    "paper_id": "xml_output_cochrane\\Angel-M-ller_et_al-2018-Cochrane_Database_of_Systematic_Reviews",
+    "header": {
+        "generated_with": "S2ORC 1.0.0",
+        "date_generated": "2024-04-05T17:20:05.070323Z"
+    },
+    "title": "Point of care rapid test for diagnosis of syphilis infection in men and nonpregnant women",
+    "authors": [
+        {
+            "first": "Edith",
+            "middle": [],
+            "last": "Angel-M\u00fcller",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Universidad Nacional de Colombia",
+                "location": {
+                    "settlement": "Bogota",
+                    "country": "Colombia"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Carlos",
+            "middle": [
+                "F"
+            ],
+            "last": "Grillo-Ardila",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Universidad Nacional de Colombia",
+                "location": {
+                    "settlement": "Bogota",
+                    "country": "Colombia"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Jairo",
+            "middle": [],
+            "last": "Amaya-Guio",
+            "suffix": "",
+            "affiliation": {},
+            "email": ""
+        },
+        {
+            "first": "Nicolas",
+            "middle": [
+                "A"
+            ],
+            "last": "Torres-Monta\u00f1ez",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Universidad Nacional de Colombia",
+                "location": {
+                    "settlement": "Bogota",
+                    "country": "Colombia"
+                }
+            },
+            "email": ""
+        },
+        {
+            "first": "Luisa",
+            "middle": [
+                "F"
+            ],
+            "last": "Vasquez-Velez",
+            "suffix": "",
+            "affiliation": {
+                "laboratory": "",
+                "institution": "Universidad Nacional de Colombia",
+                "location": {
+                    "settlement": "Bogota",
+                    "country": "Colombia"
+                }
+            },
+            "email": ""
+        }
+    ],
+    "year": "",
+    "venue": null,
+    "identifiers": {},
+    "abstract": "This is a protocol for a Cochrane Review (Diagnostic test accuracy).The objectives are as follows:\nTo determine the diagnostic accuracy of rapid tests at point of care (POC) for detecting syphilis infection in men and nonpregnant women of reproductive age, as verified with the combination of both reactive non-treponemal and treponemal test as the reference standard.\nPoint of care rapid test for diagnosis of syphilis infection in men and nonpregnant women (Protocol)",
+    "pdf_parse": {
+        "paper_id": "xml_output_cochrane\\Angel-M-ller_et_al-2018-Cochrane_Database_of_Systematic_Reviews",
+        "_pdf_hash": "",
+        "doi": "10.1002/14651858.cd013036",
+        "keywords": [],
+        "abstract": [
+            {
+                "text": "This is a protocol for a Cochrane Review (Diagnostic test accuracy).The objectives are as follows:",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "To determine the diagnostic accuracy of rapid tests at point of care (POC) for detecting syphilis infection in men and nonpregnant women of reproductive age, as verified with the combination of both reactive non-treponemal and treponemal test as the reference standard.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            },
+            {
+                "text": "Point of care rapid test for diagnosis of syphilis infection in men and nonpregnant women (Protocol)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Abstract",
+                "sec_num": null
+            }
+        ],
+        "body_text": [
+            {
+                "text": "Syphilis is a complex, curable sexually-transmitted infection caused by the Treponema pallidum bacterium that has a variable clinical course (CDC 2014) .It is a cause of acute illness and serious medical and psychological consequences in a small proportion of people infected with the bacteria.Syphillis is also the cause of long-term disability and death of thousands of men, women and infants (Saloojee 2004) .Syphilis is the most common disease during the years of peak sexual activity.In 2012, the estimated global prevalence was 0.5% (0.4% to 0.6%) in women aged 15 to 49 years and 0.48% (0.3% to 0.7%) in men (Newman 2015).These figures correspond to an estimated 6 million new cases of syphilis (4 to 8 million) each year worldwide.Prevalence and incidence estimates varied by region and sex.For syphilis in women, the infection with the most robust available data, the prevalence of infection decreased as average country income increased (Newman 2015).",
+                "cite_spans": [
+                    {
+                        "start": 141,
+                        "end": 151,
+                        "text": "(CDC 2014)",
+                        "ref_id": "BIBREF8"
+                    },
+                    {
+                        "start": 395,
+                        "end": 410,
+                        "text": "(Saloojee 2004)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Target condition being diagnosed",
+                "sec_num": null
+            },
+            {
+                "text": "Diagnosis of syphilis is based on a combination of clinical history, symptom presentation, and serologic test results.There are two types of diagnostic tests, treponemal and non-treponemal (PAHO 2015) .",
+                "cite_spans": [
+                    {
+                        "start": 189,
+                        "end": 200,
+                        "text": "(PAHO 2015)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Current diagnostic strategies",
+                "sec_num": null
+            },
+            {
+                "text": "The non-treponemal tests such as Venereal Disease Research Laboratory (VDRL) or rapid plasma reagin (RPR) measure the host's response to non-treponemal antigens such as cardiolipin and lecithin released from the damaged host cells, as well as lipoprotein-like material released from the treponema.These non-treponemal tests are generally considered to be sensitive in early syphilis, but their disadvantage being false-positive reactions due to cross-reactivity with autoimmune diseases, collagen diseases and infections such as pian and leprosy.They also have false-negative reactions due to its reduced sensitivity in primary syphilis and late latent syphilis, (sensitivity: primary syphilis 78% to 86%",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Current diagnostic strategies",
+                "sec_num": null
+            },
+            {
+                "text": "In resource-limited settings, access to screening is limited and the risk of patients lost to follow-up is high (Taylor 2017).So, syphilis rapid tests to be applied at point of care (POC), which detect antibodies to Treponema pallidum antigen or anticardiolipin antibodies, have become popular in those settings due to their advantages: the quickness in giving results, the possibility of giving treatment immediately, are performed with minimal technical training in non-laboratory settings, and detect the disease at the clinical setting (PAHO 2015; Peeling 2004 ).In addition, as the test results are obtained on the same day, expressed in a qualitative way (detected or not detected) and treatment can be provided",
+                "cite_spans": [
+                    {
+                        "start": 540,
+                        "end": 551,
+                        "text": "(PAHO 2015;",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 552,
+                        "end": 564,
+                        "text": "Peeling 2004",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Index test(s)",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Database of Systematic Reviews right away.The risk of over-treatment given by false positives is less dangerous than the secondary risk of not treating the infection, so every patient with positive result must be given treatment (Jafari 2013) .",
+                "cite_spans": [
+                    {
+                        "start": 238,
+                        "end": 251,
+                        "text": "(Jafari 2013)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "In order to define the ideal characteristics of a rapid and POC test for the detection of sexually transmitted infections, the WHO Sexually Transmitted Diseases Diagnostic Initiative (SDI) established the ASSURED criteria: the test has to be A ordable, Sensitive, Specific, User-friendly, Rapid and Robust, Equipment-free and Delivered to end users.The setting of these criteria has the potential to make an impact in averting congenital syphilis in primary healthcare settings (Mabey 2012; Peeling 2006; Peeling 2010).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "There are two types of POC test: non-treponemal and treponemal.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "There is a device which o ers the ability to provide the antibody detection of both tests.In a recent meta-analysis the sensitivity of treponemal POC tests varied from 74.26% to 90.04% and specificity from 94.15% to 99.58% (Jafari 2013 ).The combined test has a sensitivity of 98.4% when the standard is a non-treponemal test (RPR) greater than 1:8 dilutions.but it has been seen that sensitivity falls to 88% when the RPR is negative (Singh 2015).Nevertheless, these recent metaanalysis are founded in the background of stored samples, with serologic status previously known, which may introduce biases in the outcomes, resulting in high sensitivities and specificities.Our review will look for studies with fresh samples.",
+                "cite_spans": [
+                    {
+                        "start": 223,
+                        "end": 235,
+                        "text": "(Jafari 2013",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Series that compare syphilis POC tests with the combination of treponemal and non-treponemal tests, have shown a concordance with approximately 90.6%, with a specificity greater than 95% and a sensitivity between 60% to 100% depending on the test (Gaydos 2014) .The implementation of rapid testing must be accompanied by quality assurance systems and technical competence (Benzaken 2014) .",
+                "cite_spans": [
+                    {
+                        "start": 247,
+                        "end": 260,
+                        "text": "(Gaydos 2014)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 372,
+                        "end": 387,
+                        "text": "(Benzaken 2014)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "The improvement in access to appropriate diagnosis and treatment for infectious diseases can reduce the burden of disease (Taylor 2017).Although some infections can be managed syndromically without the need for diagnostic tests, this is not appropriate for asymptomatic infectious diseases in which a positive diagnostic test is needed before treatment can be given (Peeling 2010).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Clinical pathway",
+                "sec_num": null
+            },
+            {
+                "text": "In many situations, it is not possible to perform or to wait for the results of laboratory tests, because the delay represents opportunities lost for treatment, which can spread the infection of the STD, therefore diagnosis depends on the availability of POC The second clinical scenario where the POC test could be used is in the case of symptomatic patients.In this population, the syphilis infection can be suspected by unspecific signs of infection, such as hard chancre, inguinal adenopathies, exanthema or condylomata lata.For these patients, the prompt confirmation accompanied by the immediate treatment of the disease could relieve the infection and break the chain of transmission, decreasing the infection rates (Gaydos 2014) .",
+                "cite_spans": [
+                    {
+                        "start": 723,
+                        "end": 736,
+                        "text": "(Gaydos 2014)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Clinical pathway",
+                "sec_num": null
+            },
+            {
+                "text": "Considering the burden and economic costs associated with the condition, even in settings with low prevalence (Larson 2014) , it is highly desirable to undertake a critical appraisal of the available evidence of the diagnostic accuracy of the di erent syphilis rapid POC tests.There is therefore, a need for high-quality systematic reviews to improve the diagnosis of syphilis.This systematic review will facilitate the synthesis of the current evidence, and recognise the strengths and weaknesses, address the uncertainty of the current knowledge, and make it possible to assess the e ectiveness and safety of this intervention.",
+                "cite_spans": [
+                    {
+                        "start": 110,
+                        "end": 123,
+                        "text": "(Larson 2014)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Rationale",
+                "sec_num": null
+            },
+            {
+                "text": "Knowing the performance, advantages and limitations of the POC test, could facilitate the decision-making process at individual, organisational, and healthcare systems levels (Larson 2014) .The formulation of public health policy focused on early diagnostic and treatment of the infected patient, eliminating the treatment delays and cutting the infection spread, even in clinical settings can help to reduce the burden of syphilis (Singh 2015).",
+                "cite_spans": [
+                    {
+                        "start": 175,
+                        "end": 188,
+                        "text": "(Larson 2014)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Rationale",
+                "sec_num": null
+            },
+            {
+                "text": "To determine the diagnostic accuracy of rapid tests at point of care (POC) for detecting syphilis infection in men and nonpregnant women of reproductive age, as verified with the combination of both reactive non-treponemal and treponemal test as the reference standard.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "O B J E C T I V E S",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "To assess the accuracy of rapid POC testing according to type (non-treponemal and treponemal), infection stage (active versus inactive) and setting (low/middle-income vs high-income countries).In addition, we will to determine the diagnostic accuracy of POC test by brand without realize a formal comparison.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Secondary objectives",
+                "sec_num": null
+            },
+            {
+                "text": "Criteria for considering studies for this review",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "M E T H O D S",
+                "sec_num": null
+            },
+            {
+                "text": "We will include accuracy studies.Participants in included studies should have been enrolled under field conditions, prospectively and consecutively or through random sampling.Only studies reporting that all participants received the index test and the reference standard and presenting 2 \u00d7 2 data will be eligible for inclusion.We will exclude diagnostic case-control studies because this is not an appropriate design for diagnostic test studies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Types of studies",
+                "sec_num": null
+            },
+            {
+                "text": "We will include men and nonpregnant women at reproductive age, recruited at primary-or secondary-care facilities without previous diagnostic testing, who are attending an outpatient facility.We will not include pregnant women because there is another review with this population.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Participants",
+                "sec_num": null
+            },
+            {
+                "text": "Rapid tests at POC from whole blood, serum or plasma, regardless of the type of POC test (non-treponemal or treponemal) or technique (Immunochromatographic, agglutination or any other technology).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Index tests",
+                "sec_num": null
+            },
+            {
+                "text": "A combination of both reactive non-treponemal (positive at any titre) and treponemal test (positive result).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Reference standards",
+                "sec_num": null
+            },
+            {
+                "text": "We will develop a highly-sensitive, systematic search strategy to identify as many relevant accuracy or validity studies, irrespective of their language, and publication status (published, unpublished, in press, and in progress).We will use both electronic searching in bibliographic databases and handsearching, as described in the Cochrane Handbook for Systematic Reviews of Interventions (Higgins 2011) .",
+                "cite_spans": [
+                    {
+                        "start": 391,
+                        "end": 405,
+                        "text": "(Higgins 2011)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Search methods for identification of studies",
+                "sec_num": null
+            },
+            {
+                "text": "The results of all searches will be downloaded and managed using Endnote bibliographic so ware.Duplicate records of the same study will be deleted.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Search methods for identification of studies",
+                "sec_num": null
+            },
+            {
+                "text": "We contacted with the Information Specialist of the Cochrane Sexually Transmitted Infections (STI) Review Group in order to implement a comprehensive search strategy to capture as many relevant studies as possible in electronic databases.For this purpose, we will use a combination of exploded controlled vocabulary (MeSH, Emtree, DeCS) and free-text terms (considering spelling variants, plurals, synonyms, acronyms and abbreviations) for the index tests (point-of-care test, point of care, point of care testing, point of care devices, point of care diagnostic, point of care laboratory, POC, POCT, rapid test, rapid test device, self testing, self test, patient self testing) and the target condition (syphilis, Treponema pallidum), with field labels, truncation, proximity operators and boolean operators.The search strategies and their results can be found in Appendix 1 (Electronic search strategies).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Electronic searches",
+                "sec_num": null
+            },
+            {
+                "text": "Specifically, we will search the following electronic databases.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Electronic searches",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 MEDLINE, Ovid platform: inception to present.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Electronic searches",
+                "sec_num": null
+            },
+            {
+                "text": "We will attempted to identify additional relevant studies by using of the following methods.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Searching other resources",
+                "sec_num": null
+            },
+            {
+                "text": "Two review authors (NT-M, LV-V) will independently selecting the titles and abstracts of studies retrieved as a result of the search.Disagreements will be resolved through consensus or, if required, by consultation with a third review author (CFG-A).We will retrieve the full text of a study if we have doubts about whether the study should be included or excluded.Two authors (EA-M, JA-G) will review independently the full text of selected articles in order to defined their inclusion.Disagreements will be resolved through consensus or, if required, by consultation with a third review author (CFG-A).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Selection of studies",
+                "sec_num": null
+            },
+            {
+                "text": "We will design a data extraction form.For eligible studies, two review authors (EA-M, JA-G) will extract data independently using the form.Discrepancies will be resolved through consensus or, if required, by consultation with a third review author (CFG-A).The data extraction form will include the following information.We will collate and present this information in 'Characteristics of included studies' tables.We will add the data to Review Manager 5.3 (Revman 2014), and two review authors (CFG-A, JA-G) will independently assess the accuracy of the data.Di erences will be resolved through consensus or by evaluation by a third review author (EA-M).When information regarding any of the above is unclear, we will contact the authors of the original reports to request further details.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Data extraction and management",
+                "sec_num": null
+            },
+            {
+                "text": "We will assess the quality of included articles by using a modified version of the Quality Assessment of Diagnostic Accuracy Studies-2 (QUADAS-2) tool (Whiting 2011).Two review authors (JA-G,EA-M ) will independently perform the quality assessment using the four key domains to assess risk of bias and concerns regarding the applicability to the research question (patient selection, index test, reference standard, and flow-timing domains).We will score the papers as having a 'low', 'high' or 'unclear' risk of bias for each of four domains, and for the patient selection, index test and reference standard applicability.Studies classified at high or unclear risk of bias and/or high concern regarding applicability in at least one",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of methodological quality",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Cochrane Database of Systematic Reviews domain will be regarded as having low methodological design.In the case of disagreements, di erences will be resolved through consensus or by consultation with a third review author (CFG-A).The results will be presented in graphics according to each study an as a summary of all the studies.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "We will to assess the accuracy of all POC available test for detecting syphilis infection regardless their type: treponemal or non-treponemal.In this sense we plan to look at their accuracy grouped.On the other hand, because currently there are two common approaches to the diagnosis of syphilis using serological tests: the traditional algorithm (begins the screening with a nontreponemal test and confirms a positive result with a treponemal test) and the reverse algorithm (utilises a treponemal primary screening assay followed by a non-treponemal test if the primary treponemal assay is positive) we plan to report POC test accuracy using as gold standard both approaches grouped by type and sequence.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analysis and data synthesis",
+                "sec_num": null
+            },
+            {
+                "text": "We will summarise diagnostic test accuracy by creating a 2 \u00d7 2 table for each study based on information retrieved directly from the papers.Each table will contain false-positive, false-negative, truepositive, and true-negative rates.Two review authors (CFG-A, JA-G) will independently enter the data into Revman 2014.Discrepancies will be resolved by consensus or, if required, by consultation with a third review author (EA-M).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analysis and data synthesis",
+                "sec_num": null
+            },
+            {
+                "text": "In the first instance, we will analyse in a descriptive way all data retrieved from the included studies.For this purpose and given that results of the POC are reported qualitatively (positive or negative), we will present the results by plotting their sensitivity and specificity (and their 95% confidence intervals) both in forest plots and in a scatter plot in receiver operating characteristic (ROC) space.For the meta-analysis of diagnostic accuracy measures, we will use the bivariate model (Reitsma 2005) .For studies with a common threshold, this model takes into account withinstudy variation and between-study variation and focuses on estimating a summary operating point (i.e. a summary value for sensitivity and specificity).In addition, we will estimate the 95% confidence region and the 95% prediction region around the summary operating point.We will perform these analyses using the command xtmelogit in STATA, according to the licenses available.",
+                "cite_spans": [
+                    {
+                        "start": 497,
+                        "end": 511,
+                        "text": "(Reitsma 2005)",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analysis and data synthesis",
+                "sec_num": null
+            },
+            {
+                "text": "We will include a 'Summary of findings' table using the GRADE (Grades of Recommendation, Assessment, Development and Evaluation) approach to diagnostic test accuracy (Hsu 2011) , using the template provided in the Cochrane Handbook for Systematic Reviews of Diagnostic Test Accuracy (DTA) (Bossuyt 2013 ).We will present this summary table to provide a more accessible perspective of diagnostic information to healthcare providers and other end users.",
+                "cite_spans": [
+                    {
+                        "start": 166,
+                        "end": 176,
+                        "text": "(Hsu 2011)",
+                        "ref_id": null
+                    },
+                    {
+                        "start": 289,
+                        "end": 302,
+                        "text": "(Bossuyt 2013",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Statistical analysis and data synthesis",
+                "sec_num": null
+            },
+            {
+                "text": "We will explore heterogeneity initially by performing visual inspection of forest plots of sensitivities and specificities and visual examination of the prediction region.We will formally assess the source of heterogeneity by examining di erences in diagnostic accuracy between subgroups of studies.Again, we will use the bivariate method to analyse how the summary estimate of sensitivity and specificity varies according to study level covariates.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Investigations of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "For this purpose, we will create a factor variable with N categories and will generate an N-1 dummy that will be entered into the bivariate model to test the e ects of covariates on both sensitivity and specificity (Bossuyt 2013 ).",
+                "cite_spans": [
+                    {
+                        "start": 215,
+                        "end": 228,
+                        "text": "(Bossuyt 2013",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Investigations of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "We will define the sources of heterogeneity a priori and will include the following factors: POC type (non-treponemal and treponemal), infection stage (active versus inactive) and setting (low/middleincome vs high-income countries).In addition, we will to realize a subgroup analyses in order to determine the diagnostic accuracy of POC test by brand, without incurring a formal comparison.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Investigations of heterogeneity",
+                "sec_num": null
+            },
+            {
+                "text": "We will perform sensitivity analysis for aspects of the review that might a ect the results, such as risk of bias associated with the quality of included trials based on an overall 'Risk of bias' assessment (low versus unclear and high risk of bias) according to QUADAS-2 patient selection, index test, reference standard, and flow-timing domains.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Sensitivity analyses",
+                "sec_num": null
+            },
+            {
+                "text": "We will investigate publication bias if we find 10 or more studies for inclusion in this systematic review.We will investigate reporting bias by using the natural logarithm of the DOR (lnDOR) and plot it against its variance or SE.We will assess asymmetry visually, and if asymmetry is suggested by a visual assessment, we will perform exploratory analyses using Deeks' test to investigate the asymmetry and using diagnostic odds ratio (DOR) as a measure of test accuracy (van Enst 2014).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Assessment of reporting bias",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "No: The study did not implement a consecutive or a random sample method for patients enrolled.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Was a case-control design avoided?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Yes: The study avoid implementation of 2 separate selection processes to sample patients with the target condition and patients without the target condition.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Unclear: The method of selection processes is not reported or is unclear.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "No: The study did not avoid implementation of 2 separate selection processes to sample patients with the target condition and patients without the target condition.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Did the study avoid inappropriate exclusions?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Yes: The study included all outpatients (in primary or secondary care) without previous test results, regardless of their symptomatic status or baseline risk (low-and high-risk populations).",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Unclear: Prior test history of patients in the study was not reported.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "No: The study included only patients who had received a previous test or were symptomatic or were a high-risk population.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Judgment Were the index test results interpreted without knowledge of the results of the reference standard?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Yes: The index tests were interpreted in a blind manner without knowledge of the results of the reference standard, or the index test was always performed and interpreted before results of the reference standard were known.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Unclear: It is not reported whether the index test was conducted without knowledge of the results of the index test, or whether the index test was completed before the reference standard was known.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "No: The results of the reference standard were known to the reader of the index test.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Judgment: Could the conduct or interpretation of the index test have introduced bias?",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Risk of bias: LOW/HIGH/UNCLEAR B. Concerns regarding applicability Variations in test technology, execution, or interpretation may affect estimates of its diagnostic accuracy.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "Point of care rapid test for diagnosis of syphilis infection in men and nonpregnant women (Protocol)Copyright \u00a9 2018 The Cochrane Collaboration.Published by John Wiley & Sons, Ltd.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "",
+                "sec_num": null
+            }
+        ],
+        "back_matter": [
+            {
+                "text": "The authors thank the Cochrane Sexually Transmitted Infections Group for their support and feed back.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A C K N O W L E D G E M E N T S",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Liu LL, Lin LR, Tong ML, Zhang HL, Huang SJ, Chen YY, et ",
+                "cite_spans": [
+                    {
+                        "start": 45,
+                        "end": 56,
+                        "text": "Chen YY, et",
+                        "ref_id": null
+                    }
+                ],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Liu 2014",
+                "sec_num": null
+            },
+            {
+                "text": "Pan American Health Organization.Guidance on Syphilis Testing in Latin America and the Caribbean: Improving Uptake, Interpretation, and Quality of Testing in Di erent Clinical Settings.Washington, DC.Pan American Health Organization 2015.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "PAHO 2015",
+                "sec_num": null
+            },
+            {
+                "text": "Peeling RW, Ye H. Diagnostic tools for preventing and managing maternal and congenital syphilis: an overview.The included study describes appropriately the methods of patient selection.Was a consecutive or random sample of patients enrolled?Yes: The study reported a consecutive or a random sample of patients enrolled.Unclear: The method of sampling is not reported or is unclear.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Peeling 2004",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Judgment: Is there concern that the index test, its conduct, or its interpretation differs from the review question?Concern: LOW/HIGH/UNCLEAR (Continued)DOMAIN 3: REFERENCE STANDARD",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "The included study describes appropriately the reference standard and how it was conducted and interpreted.Is the reference standard likely to correctly classify the target condition?Yes: The reference standard was conducted and interpreted by trained operatives.Unclear: It is not clear whether those individuals who interpreted or conducted the reference standard were trained.No: The reference standard was not conducted or interpreted by trained operatives.Were the reference standard results interpreted without knowledge of the results of the index test?Yes: The index tests were interpreted in a blind manner without knowledge of the results of the index test, or the reference standard was always performed and interpreted before the index test results were known.Unclear: it is not reported whether the reference standard was conducted without knowledge of the results of the index test, or whether the reference standard was completed before the index test results were known.No: The results of the index test were known to the reader of the reference standard.Judgment: Could the reference standard, its conduct, or its interpretation have introduced bias?Risk of bias: LOW/HIGH/UNCLEAR",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A. Risk of bias",
+                "sec_num": null
+            },
+            {
+                "text": "The reference standard may be free of bias, but the target condition that it defines may differ from the target condition specified in the review question.Judgment: Is there concern that the target condition as defined by the reference standard does not match the review question?Concern: LOW/HIGH/UNCLEAR DOMAIN 4: FLOW AND TIMING",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "B. Concerns regarding applicability",
+                "sec_num": null
+            },
+            {
+                "text": "Was there an appropriate interval between index test and reference standard?Yes: The index test and reference standard were collected on the same patients at the same time.Unclear: It is unclear if the index test and the reference standard were collected on the same patients at the same time.No: The index test and the reference standard were not collected on the same patients at the same time.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "A. Risk of bias",
+                "sec_num": null
+            },
+            {
+                "text": "Trusted evidence.Informed decisions.Better health.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Library",
+                "sec_num": null
+            },
+            {
+                "text": "Did all patients receive the reference standard?Yes: The total of the study group received confirmation of the diagnosis by the reference standard.Unclear: In case insufficient information is available to make a judgment.No: The total of the study group did not receive confirmation of the diagnosis by the reference standard.Did patients receive the same reference standard irrespective of the index test results ?Yes: The total of the study group received the same reference standard irrespective of the index test results.Unclear: In case insufficient information is available to make a judgment.No: Participants received the reference standard according to the index test results.Were all patients included in the analysis?Yes: If it is clear what happened to all patients who entered the study, for example, if a flow diagram of study participants is reported to explain any withdrawals or exclusions, or if the numbers recruited match those in the analysis.Unclear: If it is unclear how many patients entered and hence whether there were any withdrawals.No: If it appears that some of the patients who entered the study did not complete the study, i.e. did not receive both the index test and the reference standard, and if these patients were not accounted for.Could the patient flow have introduced bias?Risk of bias: LOW/HIGH/UNCLEAR (Continued)",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "Cochrane Database of Systematic Reviews",
+                "sec_num": null
+            },
+            {
+                "text": "EA-M, NAT-M, JA-G and CFG-A wrote the first dra of the protocol and subsequent amendments.LV commented on and revised the first dra of the protocol, provided a clinical perspective.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "C O N T R I B U T I O N S O F A U T H O R S",
+                "sec_num": null
+            },
+            {
+                "text": "None known.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "D E C L A R A T I O N S O F I N T E R E S T",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 No sources of support supplied",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "S O U R C E S O F S U P P O R T Internal sources",
+                "sec_num": null
+            },
+            {
+                "text": "\u2022 Universidad Nacional de Colombia, Colombia.",
+                "cite_spans": [],
+                "ref_spans": [],
+                "eq_spans": [],
+                "section": "External sources",
+                "sec_num": null
+            }
+        ],
+        "bib_entries": {
+            "BIBREF1": {
+                "ref_id": "b1",
+                "title": "External quality assurance with dried tube specimens (DTS) for point-of-care syphilis and HIV tests: experience in an indigenous populations screening programme in the Brazilian Amazon",
+                "authors": [
+                    {
+                        "first": "A",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Benzaken",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Bazzo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Galban",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "I",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Pinto",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Nogueira",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Golfetto",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Sexually Transmitted Infections",
+                "volume": "90",
+                "issue": "1",
+                "pages": "14--18",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF3": {
+                "ref_id": "b3",
+                "title": "HIV and syphilis testing preferences among men who have sex with men in South China: a qualitative analysis to inform sexual health services",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Bien",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Muessig",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Lee",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Lo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Yang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "Yang",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2015,
+                "venue": "PLOS One",
+                "volume": "10",
+                "issue": "4",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF5": {
+                "ref_id": "b5",
+                "title": "Cochrane Handbook for Systematic Reviews of Diagnostic Test Accuracy",
+                "authors": [
+                    {
+                        "first": "P",
+                        "middle": [],
+                        "last": "Bossuyt",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Davenport",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Deeks",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Hyde",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [],
+                        "last": "Leeflang",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Scholten",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "1--31",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF7": {
+                "ref_id": "b7",
+                "title": "Multisite laboratory evaluation of a Dual Human Inmunodeficiency Virus (HIV)/Syphilis point-of-care rapid test for simultaneous detection of HIV and syphilis infection",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Bristow",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Adu-Sarkodie",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "O"
+                        ],
+                        "last": "Ondondo",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Bukusi",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Dagnra",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "K",
+                        "middle": [
+                            "Y"
+                        ],
+                        "last": "Oo",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2006,
+                "venue": "MMW Morbidity and Mortality Weekly Report",
+                "volume": "1",
+                "issue": "RR-11",
+                "pages": "1--94",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF8": {
+                "ref_id": "b8",
+                "title": "Syphilis testing algorithms using treponemal tests for initial screening: four laboratories. New York City, 2005-2006",
+                "authors": [
+                    {
+                        "first": "",
+                        "middle": [],
+                        "last": "Cdc",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Sexually transmitted disease surveillance 2012",
+                "volume": "57",
+                "issue": "",
+                "pages": "872--875",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF10": {
+                "ref_id": "b10",
+                "title": "Rapid syphilis testing uptake for female sex workers at sex venues in Southern China: implications for expanding syphilis screening",
+                "authors": [
+                    {
+                        "first": "X",
+                        "middle": [
+                            "S"
+                        ],
+                        "last": "Chen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Y",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Yin",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Shen",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "G"
+                        ],
+                        "last": "Liu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "Z",
+                        "middle": [
+                            "J"
+                        ],
+                        "last": "Zhu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "W",
+                        "middle": [
+                            "H"
+                        ],
+                        "last": "Wei",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2012,
+                "venue": "PLOS One",
+                "volume": "7",
+                "issue": "12",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF12": {
+                "ref_id": "b12",
+                "title": "An evaluation of the relative sensitivities of the venereal disease research laboratory test and the Treponema pallidum particle agglutination test among patients diagnosed with primary syphilis",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Creegan",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "H",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Bauer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "M",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Samuel",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Klausner",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Liska",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [],
+                        "last": "Bolan",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2017,
+                "venue": "Sexually Transmitted Diseases",
+                "volume": "34",
+                "issue": "12",
+                "pages": "1016--1018",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF14": {
+                "ref_id": "b14",
+                "title": "Point of care diagnostics for sexually transmitted infections: perspectives and advances",
+                "authors": [
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Gaydos",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hardick",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Expert Review of Anti-Infective Therapy",
+                "volume": "12",
+                "issue": "6",
+                "pages": "657--672",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF16": {
+                "ref_id": "b16",
+                "title": "Rapid diagnostic methods in sexually transmitted infections",
+                "authors": [
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Greer",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "G",
+                        "middle": [
+                            "D"
+                        ],
+                        "last": "Wendel",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2008,
+                "venue": "Infectious Disease Clinics of North America",
+                "volume": "22",
+                "issue": "4",
+                "pages": "601--617",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF18": {
+                "ref_id": "b18",
+                "title": "Introduction of rapid tests for large-scale syphilis screening among female,male, and transgender sex workers in Mumbai, India",
+                "authors": [
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Gupte",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Daly",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "V",
+                        "middle": [],
+                        "last": "Agarwal",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [
+                            "B"
+                        ],
+                        "last": "Gaikwad",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "B",
+                        "middle": [],
+                        "last": "George",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Sexually Transmitted Diseases",
+                "volume": "38",
+                "issue": "6",
+                "pages": "499--502",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF20": {
+                "ref_id": "b20",
+                "title": "Cochrane Handbook for Systematic Reviews of Interventions Versions 5.1.0",
+                "authors": [],
+                "year": 2011,
+                "venue": "The Cochrane Collaboration",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF22": {
+                "ref_id": "b22",
+                "title": "Application of GRADE: making evidence-based recommendations about diagnostic tests in clinical practice guidelines",
+                "authors": [
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Hsu",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [
+                            "L"
+                        ],
+                        "last": "Brozek",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Terracciano",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Kreis",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [],
+                        "last": "Compalati",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "A",
+                        "middle": [
+                            "T"
+                        ],
+                        "last": "Stein",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2011,
+                "venue": "Implementation Science",
+                "volume": "6",
+                "issue": "62",
+                "pages": "1--9",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF24": {
+                "ref_id": "b24",
+                "title": "Are Treponema pallidum specific rapid and point-of-care tests for syphilis accurate enough for screening in resource limited settings? Evidence from a meta-analysis",
+                "authors": [
+                    {
+                        "first": "Y",
+                        "middle": [],
+                        "last": "Jafari",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Peeling",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "S",
+                        "middle": [],
+                        "last": "Shivkumar",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "C",
+                        "middle": [],
+                        "last": "Claessens",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "L",
+                        "middle": [],
+                        "last": "Joseph",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "N",
+                        "middle": [
+                            "P"
+                        ],
+                        "last": "Pai",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2013,
+                "venue": "PLOS One",
+                "volume": "8",
+                "issue": "2",
+                "pages": "",
+                "other_ids": {
+                    "DOI": [
+                        "10.1371/journal.pone.0054695"
+                    ]
+                },
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF26": {
+                "ref_id": "b26",
+                "title": "State of the of the art syphilis diagnostics: rapid point-of-care tests",
+                "authors": [
+                    {
+                        "first": "N",
+                        "middle": [],
+                        "last": "Kay",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [
+                            "W"
+                        ],
+                        "last": "Peeling",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "C"
+                        ],
+                        "last": "Mabey",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "Expert Review of Anti-Infective Therapy",
+                "volume": "12",
+                "issue": "1",
+                "pages": "63--73",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF28": {
+                "ref_id": "b28",
+                "title": "Finding a needle in the haystack: the costs and cost-e ectiveness of syphilis diagnosis and treatment during pregnancy to prevent congenital syphilis in Kalomo District of Zambia",
+                "authors": [
+                    {
+                        "first": "B",
+                        "middle": [
+                            "A"
+                        ],
+                        "last": "Larson",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [],
+                        "last": "Lembela-Bwalya",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "R",
+                        "middle": [],
+                        "last": "Bonawitz",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "E",
+                        "middle": [
+                            "E"
+                        ],
+                        "last": "Hammond",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "D",
+                        "middle": [
+                            "M"
+                        ],
+                        "last": "Thea",
+                        "suffix": ""
+                    },
+                    {
+                        "first": "J",
+                        "middle": [],
+                        "last": "Herlihy",
+                        "suffix": ""
+                    }
+                ],
+                "year": 2014,
+                "venue": "PLOS One",
+                "volume": "9",
+                "issue": "12",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF29": {
+                "ref_id": "b29",
+                "title": ").tw. 10 (syphilis adj5 rapid adj5 test).tw. 11 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 or 10 12 exp Treponema pallidum/ 13 treponema$.tw. 14 (spirochaeta adj5 pallid$).tw. 15 pallidum.tw. 16 exp Syphilis/ 17 syphili$.tw. 18 lues.tw. 19 chancre",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF30": {
+                "ref_id": "b30",
+                "title": "syphilis rapid test'/exp #2. 'point of care testing'/exp #3. 'point of care':ab,ti #4. (bedside NEAR/5 test*):ab,ti #5",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF31": {
+                "ref_id": "b31",
+                "title": "NEAR/5 test*):ab",
+                "authors": [],
+                "year": null,
+                "venue": "ti #9",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF32": {
+                "ref_id": "b32",
+                "title": "NEAR/5 collect*):ab",
+                "authors": [],
+                "year": null,
+                "venue": "ti #10",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF33": {
+                "ref_id": "b33",
+                "title": "NEAR/5 swab*):ab,ti #11. 'rapid test'/exp #12. (syphilis NEAR/5 rapid NEAR/5 test):ab",
+                "authors": [],
+                "year": null,
+                "venue": "ti #13. #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 #14",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            },
+            "BIBREF34": {
+                "ref_id": "b34",
+                "title": "treponema pallidum'/exp Point of care rapid test for diagnosis of syphilis infection in men and nonpregnant women (Protocol) Copyright \u00a9 2018 The Cochrane Collaboration",
+                "authors": [],
+                "year": null,
+                "venue": "",
+                "volume": "",
+                "issue": "",
+                "pages": "",
+                "other_ids": {},
+                "num": null,
+                "urls": [],
+                "raw_text": "",
+                "links": null
+            }
+        },
+        "ref_entries": {
+            "FIGREF0": {
+                "text": "....................................................................................................................................................................................................... 1 ABSTRACT..................................................................................................................................................................................................... 1 BACKGROUND.............................................................................................................................................................................................. 2 OBJECTIVES.................................................................................................................................................................................................. 3 METHODS..................................................................................................................................................................................................... 4 ACKNOWLEDGEMENTS................................................................................................................................................................................ 6 REFERENCES................................................................................................................................................................................................ 7 APPENDICES................................................................................................................................................................................................. 8 CONTRIBUTIONS OF AUTHORS................................................................................................................................................................... 13 DECLARATIONS OF INTEREST..................................................................................................................................................................... 13 SOURCES OF SUPPORT............................................................................................................................................................................... 13",
+                "fig_num": null,
+                "num": null,
+                "uris": null,
+                "type_str": "figure"
+            },
+            "TABREF1": {
+                "text": "",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>immunoassay (EIA), chemiluminescence immunoassay (CIA) or</td></tr><tr><td>equivalent serologic methods have high sensitivity for all the stages</td></tr><tr><td>of disease other than very early primary syphilis (sensitivity 84% to</td></tr><tr><td>96%, specificity 98% in all stages). These tests detect human serum/</td></tr><tr><td>plasma antibodies to Treponema pallidum by means of an indirect</td></tr><tr><td>hemagglutination method. The results of these tests are given in</td></tr><tr><td>a dichotomy method, being \"positive\" or \"negative\" the possible</td></tr><tr><td>results (Naidu 2012).</td></tr><tr><td>Currently, there are two common approaches to the diagnosis</td></tr><tr><td>of syphilis using serological tests: the traditional algorithm and</td></tr><tr><td>the reverse algorithm. The CDC recommends the traditional</td></tr><tr><td>algorithm (CDC 2014). This algorithm begins the screening with</td></tr><tr><td>a non-treponemal test and confirms a positive result with a</td></tr><tr><td>treponemal test (CDC 2014; PAHO 2015; WHO 2003). However,</td></tr><tr><td>the treponemal-based tests remain positive for life and cannot</td></tr><tr><td>distinguish between recent, active infection and previously treated</td></tr><tr><td>or old, non-contagious infection (PAHO 2015). A reverse testing</td></tr><tr><td>algorithm utilises a treponemal primary screening assay followed</td></tr><tr><td>by a non-treponemal test if the primary treponemal assay is</td></tr><tr><td>positive. If the secondary, non-treponemal test is reactive, then</td></tr><tr><td>active syphilis is confirmed (CDC 2008). In the literature, it is</td></tr><tr><td>considered as active syphilis if a positive treponemal test and a non-</td></tr><tr><td>treponemal test is reactive with di erent thresholds, with a non-</td></tr><tr><td>treponemal test at any titre, more than two dilutions or more than</td></tr><tr><td>four dilutions (Kay 2014).</td></tr><tr><td>The presence of a hard chancre in genitals is suggestive of</td></tr><tr><td>syphilis, and its treatment is considered in the syndromic approach</td></tr><tr><td>of genital ulcers, because the treponemal test and the non-</td></tr><tr><td>treponemal test initially can both be negative. The reactive syphilis</td></tr><tr><td>test in combination with a typical clinical sign of syphilis such a</td></tr><tr><td>chancre, skin ulcer, or rash is highly suggestive of the disease (PAHO</td></tr><tr><td>2015). In the absence of symptoms, a combination of both reactive</td></tr><tr><td>non-treponemal and treponemal test indicates the possibility of</td></tr><tr><td>contagious syphilis infection, and</td></tr><tr><td>supports the need for treatment of the individual and any sex</td></tr><tr><td>partners (PAHO 2015).</td></tr><tr><td>The treponemal tests are expensive, laboratory-based, require a</td></tr><tr><td>continuous supply of electricity, reagents and trained sta , and</td></tr><tr><td>are rarely available outside of reference laboratories. (Peeling</td></tr><tr><td>2004) As a result in many countries, treatment is based on</td></tr><tr><td>non-treponemal tests results, which are cheaper and have more</td></tr><tr><td>availability, leading to over-</td></tr><tr><td>compared with dark-field confirmed cases</td></tr><tr><td>(Creegan 2007)), secondary syphilis 100%, latent syphilis 96%</td></tr><tr><td>to 98%, late syphilis 71% to 73%; specificity 98% in all stages,</td></tr><tr><td>compared with Treponema pallidum Haemagglutination (TPHA)</td></tr><tr><td>test (Naidu 2012), and the potential for false-negative results</td></tr><tr><td>due to prozone phenomenon (Liu 2014). The result of the</td></tr><tr><td>non-treponemal test is given in titres, with a result of 1:8</td></tr><tr><td>titres very suggestive of recent/active infection. The treponemal</td></tr><tr><td>tests such as fluorescent treponemal antibody absorbed (FTA-</td></tr><tr><td>ABS), Treponema pallidum particle agglutination (TP-PA), enzyme</td></tr></table>",
+                "type_str": "table"
+            },
+            "TABREF2": {
+                "text": "The treponemal tests have two variants: inmunochromatographic or agglutinant.The second type of POC, non-treponemic test, is useful because it indicates an",
+                "html": null,
+                "num": null,
+                "content": "<table/>",
+                "type_str": "table"
+            },
+            "TABREF3": {
+                "text": "(Chen 2012;Gupte 2011). tests for STI would provide the ability to o er immediate testing and treatment in a single encounter to mitigate further spread of the disease (Singh 2015).The POC test for syphilis can be implemented by clinicians, health services or auxiliary personnel in diverse places without laboratory support, under di erent scenarios regardless of healthcare systems levels, covering a broad patient spectrum, especially in high-risk populations.The clinical pathway for this diagnostic approach can be summarised into two clinical presentations.The first one is the presence of an asymptomatic patient in which the lack of an opportune diagnostic test will be reflected in an absence of an appropriate treatment increasing in consequence, the burden of the condition and serious and deleterious sequelae.Examples for this scenario could be a pregnant woman with syphilis(CDC 2006;Larson 2014), people in developing countries, peripheral health facilities, or remote rural populations that do not have access to laboratory services(Bien 2015; Peeling 2010), people in resourcelimited settings(Gaydos 2014), in high-risk populations (v.g.sexual workers and LGBTI population (lesbian, gay, bisexual, transgender and intersex) or drug users)(Gaydos 2014), or in syphilis-control programs for female, male and transgender sex workers(Chen 2012;Gupte 2011).",
+                "html": null,
+                "num": null,
+                "content": "<table/>",
+                "type_str": "table"
+            },
+            "TABREF4": {
+                "text": "\u2022 MEDLINE In-Process & Other Non-Indexed Citations, Ovid platform: inception to present.\u2022 MEDLINE Daily Update, Ovid platform: inception to present.\u2022 Embase.com:inception to present.\u2022 Cochrane Central Register of Controlled Trials, Ovid platform: inception to present.\u2022 LILACS, iAHx interface: inception to present.",
+                "html": null,
+                "num": null,
+                "content": "<table/>",
+                "type_str": "table"
+            },
+            "TABREF7": {
+                "text": ": Could the selection of patients have introduced bias?Risk of bias: LOW/HIGH/UNCLEAR B. Concerns regarding applicability The included study describes appropriately baseline information on participants: presentation at recruitment, prior testing, intended use of index test, and setting.",
+                "html": null,
+                "num": null,
+                "content": "<table><tr><td>(Continued)</td><td/></tr><tr><td>Judgment: Is there concern that</td><td>Concern: LOW/HIGH/UNCLEAR</td></tr><tr><td>the included patients do not</td><td/></tr><tr><td>match the review question in</td><td/></tr><tr><td>terms of severity of the target con-</td><td/></tr><tr><td>dition, demographic features,</td><td/></tr><tr><td>presence of differential diagno-</td><td/></tr><tr><td>sis or comorbidity, setting of the</td><td/></tr><tr><td>study, and previous testing proto-</td><td/></tr><tr><td>cols?</td><td/></tr><tr><td>DOMAIN 2: INDEX TEST</td><td/></tr><tr><td>A. Risk of bias</td><td>The included study describes appropriately the index test and how it was conducted and</td></tr><tr><td/><td>interpreted.</td></tr></table>",
+                "type_str": "table"
+            }
+        }
+    }
+}
